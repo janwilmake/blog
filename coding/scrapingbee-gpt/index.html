@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Building a ChatGPT plugin to browse the internet &#x1f41d;</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="building-a-chatgpt-plugin-to-browse-the-internet-">Building a ChatGPT plugin to browse the internet 🐝</h1>
+<p>Hi there. You must have landed on this page because you're interested in ChatGPT plugins and/or web scraping. Well, I've good news for you: I'm going to combine them! 😃 My name is <a href="https://twitter.com/wkarsens">Wijnand</a>, and one month ago I had the pleasure of joining ScrapingBee to create a internet-enabled AI plugin for them, powered by the ScrapingBee API.</p>
+<p>It's results are quite cool 😃.</p>
+<p>To see more about what you can do with this plugin, check out my <a href="scrapingbee-examples">examples</a>. Are you wondering how it works under the hood? Then keep reading, I'll show you...</p>
+<h2 id="ai-plugins-where-we-are-now">AI plugins: Where we are now</h2>
+<p>OpenAI released their <a href="https://openai.com/blog/chatgpt-plugins">plugins system for ChatGPT</a> back in March. In the beginning it was only available for developers, but now all ChatGPT plus users have access. In the future, once the plugin usability and quality is high enough, I won't be surprised if OpenAI opens up their store to the broader public.</p>
+<p>I strongly believe AI plugins are here to stay as they allow developers to enhance the capabilities of Large Language Models like ChatGPT in an easy way. Without plugins, ChatGPT is already quite useful, but it can only answer questions about data it is trained on. Not only do AI plugins give LLM's like ChatGPT the capability to access external real-time data sources, they also allow ChatGPT to take actions in the real world for its users.</p>
+<blockquote>
+<p>AI plugins give LLM's the potential to become a new user interface for humans to use computers</p>
+</blockquote>
+<p>At time of writing there are over 800 plugins available in the plugin store. There are likely many more under development. Besides this, I'm sure there are many other AI companies working on similar plugin systems. If you make a plugin now, you might be able to later integrate it with dozens of other big LLM providers.</p>
+<p>In this post, I'll show the process of making a plugin that allows ChatGPT to surf the web. The end result is the ScrapingBee GPT plugin that got released into the wild in the beginning of August.</p>
+<h2 id="scrapingbee-gpt">ScrapingBee GPT</h2>
+<p>Let's first get an idea of what a plugin does. AI plugins implement a form of an <a href="https://arxiv.org/abs/2205.00445">MRKL system</a> that allow a LLM to interact with functions. OpenAI later also came out with their <a href="https://openai.com/blog/function-calling-and-other-api-updates">function calling API</a> which implements it in a more barebones way. ChatGPT plugins can be made by following a simple specification. If implemented correctly, you can enable your plugin in ChatGPT, which allows the LLM to use MRKL to opt for sometimes calling your API's. This will provide the Large Language Model with access to external data and actions.</p>
+<p>Here is a simple schematic drawing of how the ScrapingBee plugin that I made works:</p>
+<p><img src="file:////Users/king/scrapingbee/notes/guides/scrapingbee-gpt/scrapingbee.drawio.png" alt=""></p>
+<p>The ScrapingBee plugin consists of two endpoints with clear descriptions: the url scraper allows the LLM to read website content, while the google searcher allows the LLM to search the internet when it doesn't have an URL yet.</p>
+<p><strong>URL Scraper</strong></p>
+<p>Besides simply scraping the URL and providing the HTML back, we also need to ensure the scraping API call is configured properly before sending it to ScrapingBee. Afterwards, we need to ensure that the result fits into the LLM token limit, which is currently maximum 16000 tokens for ChatGPT. For this, I basically removed the HTML tags that were irrelevant, as well as removing irrelevant properties on tags, among other things.</p>
+<p><img src="file:////Users/king/scrapingbee/notes/guides/scrapingbee-gpt/url-scraper.drawio.png" alt=""></p>
+<p><strong>Google Search</strong></p>
+<p>The Google Search endpoint is also using the internet, but this one is much more important to be done well as it is used a lot in the plugins logic. Therefore I've used the ScrapingBee Google Endpoint to scrape Google results in a structured way. Afterwards, I only needed to simplify the JSON into a short enough string so it fits in the LLM result.</p>
+<p><img src="file:////Users/king/scrapingbee/notes/guides/scrapingbee-gpt/google-search.drawio.png" alt=""></p>
+<h2 id="the-specification">The Specification</h2>
+<p>As you can also read in <a href="https://platform.openai.com/docs/plugins/introduction">OpenAI's excellent documentation</a>, to allow ChatGPT to use your API, you need to expose two additional endpoints: the <code>ai-plugin.json</code> file and your <code>openapi.json</code> spec.</p>
+<p>The AI plugin JSON tells ChatGPT some metadata that is needed to show the plugin nicely in their plugin store. It also helps the AI understand what it can use your plugin for. This is how my <code>ai-plugin.json</code> for ScrapingBee GPT looks:</p>
+<pre><code class="language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;auth&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span> <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;none&quot;</span> <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;api&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;openapi&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://plugin.scrapingbee.com/openapi.json&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;has_user_authentication&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-keyword">true</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;schema_version&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;v1&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;contact_email&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;contact@scrapingbee.com&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;description_for_human&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Scrape any website with any prompt. If no url is given, query will be googled first&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;description_for_model&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Scrape any website with any prompt. If no url is given, query will be googled first&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;legal_info_url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://www.scrapingbee.com/terms-and-conditions/&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;logo_url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://plugin.scrapingbee.com/logo.png&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;name_for_human&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;ScrapingBee&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;name_for_model&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;scrapingbee&quot;</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<p>The <a href="https://swagger.io/specification/">OpenAPI spec</a> creates a clear definition for the AI on how to use your plugin. This is how my <code>openapi.json</code> looks for ScrapingBee GPT:</p>
+<pre><code class="language-json"><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;openapi&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;3.1.0&quot;</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;info&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;title&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;ScrapingBee&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;version&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;v1&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;No description&quot;</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;servers&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span>
+    <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">&quot;url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;https://plugin.scrapingbee.com&quot;</span><span class="hljs-punctuation">,</span>
+      <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Production server&quot;</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;paths&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;/function/flexibleScraper&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">&quot;post&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        <span class="hljs-attr">&quot;summary&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Scrape any website with any prompt. If no url is given, query will be googled first&quot;</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">&quot;operationId&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;flexibleScraper&quot;</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">&quot;requestBody&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">&quot;required&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-keyword">true</span><span class="hljs-punctuation">,</span>
+          <span class="hljs-attr">&quot;content&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+            <span class="hljs-attr">&quot;application/json&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+              <span class="hljs-attr">&quot;schema&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;object&quot;</span><span class="hljs-punctuation">,</span>
+                <span class="hljs-attr">&quot;additionalProperties&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-keyword">false</span><span class="hljs-punctuation">,</span>
+                <span class="hljs-attr">&quot;properties&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                  <span class="hljs-attr">&quot;url&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                    <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;string&quot;</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Did the user specify a specific URL? If not, google will be used to find one&quot;</span>
+                  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                  <span class="hljs-attr">&quot;query&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                    <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;string&quot;</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;What does the user want&quot;</span>
+                  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+                  <span class="hljs-attr">&quot;queryType&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                    <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;string&quot;</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">&quot;enum&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-string">&quot;search&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-string">&quot;images&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-string">&quot;news&quot;</span><span class="hljs-punctuation">,</span> <span class="hljs-string">&quot;places&quot;</span><span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+                    <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Used if the user did not provide an URL&quot;</span>
+                  <span class="hljs-punctuation">}</span>
+                <span class="hljs-punctuation">}</span>
+              <span class="hljs-punctuation">}</span>
+            <span class="hljs-punctuation">}</span>
+          <span class="hljs-punctuation">}</span>
+        <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">&quot;responses&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">&quot;200&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+            <span class="hljs-attr">&quot;description&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;Standard response&quot;</span><span class="hljs-punctuation">,</span>
+            <span class="hljs-attr">&quot;content&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+              <span class="hljs-attr">&quot;application/json&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                <span class="hljs-attr">&quot;schema&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+                  <span class="hljs-attr">&quot;$ref&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;#/components/schemas/StandardResponse&quot;</span>
+                <span class="hljs-punctuation">}</span>
+              <span class="hljs-punctuation">}</span>
+            <span class="hljs-punctuation">}</span>
+          <span class="hljs-punctuation">}</span>
+        <span class="hljs-punctuation">}</span>
+      <span class="hljs-punctuation">}</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+  <span class="hljs-attr">&quot;components&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;schemas&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+      <span class="hljs-attr">&quot;StandardResponse&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+        <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;object&quot;</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">&quot;required&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">[</span><span class="hljs-string">&quot;isSuccessful&quot;</span><span class="hljs-punctuation">]</span><span class="hljs-punctuation">,</span>
+        <span class="hljs-attr">&quot;properties&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+          <span class="hljs-attr">&quot;isSuccessful&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+            <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;boolean&quot;</span>
+          <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+          <span class="hljs-attr">&quot;message&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+            <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;string&quot;</span>
+          <span class="hljs-punctuation">}</span><span class="hljs-punctuation">,</span>
+          <span class="hljs-attr">&quot;priceCredit&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+            <span class="hljs-attr">&quot;type&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;number&quot;</span>
+          <span class="hljs-punctuation">}</span>
+        <span class="hljs-punctuation">}</span>
+      <span class="hljs-punctuation">}</span>
+    <span class="hljs-punctuation">}</span>
+  <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>
+</code></pre>
+<h2 id="authentication-and-rate-limiting">Authentication and rate-limiting</h2>
+<p>Authentication for ChatGPT plug-ins can be done in a multitude of ways. The simplest way is the way that we have implemented above. As you can see there is no authentication at all.</p>
+<p>If you have a plug-in that doesn't cost a lot of money to execute you can probably open it up to the public without authentication. However, OpenAI suggest that you implement simple app-level authentication. Besides, it is also possible to implement user level authentication, through an api-token, or by creating a oAuth login.</p>
+<p>When developing a plug-in it is important to think about the monetisation. it is probably ieasiest to charge immediately for a plug-in but it might be harder for people to get on boarded. Therefore, just like with regular apps, it's probably a good idea to think about a freemium model where the plug-in is just a way to onboard users onto your platform at a later stage. Plug-ins are very easy to install so it's best to not make it too hard for the users immediately. Of course it's really depends on your use case and your target audience. If, for example, your users already know you, it might be fine to onboard them with an API key. If you aim to onboard new users through the OpenAI plugin store, it's probably best to keep the onboarding as quick and easy as possible.</p>
+<p>You can read more about AI plugin authentication <a href="https://platform.openai.com/docs/plugins/authentication">here</a></p>
+<p><strong>Rate limits</strong></p>
+<p>For ScrapingBee I chose to do no authentication at all. I later found that there is also a user ephemeral authentication header available when ChatGPT calls your API.</p>
+<p>I think it could be an interesting way to prevent overuse by users because we can use this header to implement a rate limit on the user-level, instead of on the app-level.</p>
+<p>Rate limiting on the app-level may limit users because there might be a couple users that use your plugin a lot.</p>
+<p>Ultimately a user-level rate-limit is probably best, if you offer the plug-in for free. The ephemeral header allows you to bypass user authentication completely so the onboarding experience is super easy.</p>
+<h2 id="regenerating-an-openapi-specification">(re)generating an OpenAPI specification</h2>
+<p>I've used <a href="https://github.com/vega/ts-json-schema-generator">ts-json-schema-generator</a> to generate the open API specification automatically based on my types of functions and type interfaces.</p>
+<p>I had to do quite some extra logic in order to get to an openapi spec, but this is the easiest way I found. I later also found other possibilities like <a href="https://github.com/bonukai/typescript-routes-to-openapi">this one</a>, which may also be a good choice. Along the same lines there are many other solutions available which may save you lots of valuable time in the long run.</p>
+<h2 id="review-process">Review process</h2>
+<p>The review process for open AI is relatively easy. <a href="https://platform.openai.com/docs/plugins/review">Their documentation</a> is very clear on what is allowed and what is not allowed. After submitting and I got a response within a day I had to fix a couple of typos and after that my plug-in got approved within 24 hours. I have never seen such a fast review process!</p>
+<h2 id="trying-it-out">Trying it out</h2>
+<h2 id="conclusion">Conclusion</h2>
+<p>In this blog post I have shown you how I made a plug-in that is able to access the Internet through natural language .I think the possibilities with web scraping in large language models are endless, and there are many more used cases that I can think of. What if, for example, you created a plug-in that allows you to do a company analysis for a list of companies? Or what if you did a plug-in that can analyse and compare different products? This could be quite useful and can all be built on top a plugin like ScrapingBee GPT.</p>
+<p>In a future post I plan to dive a bit deeper into different usecases of ScrapingBee GPT in the wild. Stay tuned!</p>
+
+        <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
+    </body>
+    </html>
