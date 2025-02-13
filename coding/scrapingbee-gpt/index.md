@@ -8,7 +8,7 @@ description: In this post I explain what ChatGPT plugins are, how I've made a Ch
 
 # Building a ChatGPT Plugin to Browse the Internet 🐝
 
-Hi there. You must have landed on this page because you're interested in ChatGPT plugins and/or web scraping. Well, I have good news for you: I'm going to combine them! 😃 My name is [Wijnand](https://twitter.com/wkarsens), and one month ago I had the pleasure of joining ScrapingBee to create an internet-enabled AI plugin for them, powered by the ScrapingBee API.
+Hi there. You must have landed on this page because you're interested in ChatGPT plugins and/or web scraping. Well, I have good news for you: I'm going to combine them! 😃 My name is [Jan](https://twitter.com/janwilmake), and one month ago I had the pleasure of joining ScrapingBee to create an internet-enabled AI plugin for them, powered by the ScrapingBee API.
 
 Its results are quite cool 😃.
 

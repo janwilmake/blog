@@ -1,6 +1,6 @@
 **Title: Embracing the AI Revolution: Insights from an AI Enthusiast**
 
-Hello everyone, Wijnand Karsens here. In today's blog, I want to share some insights from a recent GPT meeting I attended, focusing on the intersection of AI and business. Let's dive into the myriad ways AI is reshaping our world and how you can be a part of this exciting journey.
+Hello everyone, Jan here. In today's blog, I want to share some insights from a recent GPT meeting I attended, focusing on the intersection of AI and business. Let's dive into the myriad ways AI is reshaping our world and how you can be a part of this exciting journey.
 
 ### **Integrating AI into Business Sectors**
 
