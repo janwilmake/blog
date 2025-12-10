@@ -1,0 +1,11 @@
+{
+  "$schema": "https://unpkg.com/wrangler@latest/config-schema.json",
+  "name": "blog-worker",
+  "main": "worker.ts",
+  "compatibility_date": "2025-01-01",
+  "routes": [{ "custom_domain": true, "pattern": "blog.janwilmake.com" }],
+  "assets": {
+    "directory": "./",
+    "binding": "ASSETS"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "blog-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "marked": "^11.1.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20231218.0",
+    "gray-matter": "^4.0.3",
+    "wrangler": "^3.22.1"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "generated": "2025-12-10T14:22:56.840Z",
+  "entries": [
+    {
+      "slug": "2025/LLMTEXT-for-llmstxt",
+      "title": "Introducing LLMTEXT, an open source toolkit for the llms.txt standard",
+      "date": "2025-12-10T13:33:52.620Z",
+      "filepath": "2025/LLMTEXT-for-llmstxt.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/website/domain-control-panel",
+      "title": "Creating a domain control panel",
+      "date": "2025-12-09T19:07:31.563Z",
+      "filepath": "coding/website/domain-control-panel.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/website/multi-domain-locale-hack-nextjs",
+      "title": "Multi Domain Locale Hack Nextjs",
+      "date": "2025-12-09T19:07:31.563Z",
+      "filepath": "coding/website/multi-domain-locale-hack-nextjs.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/website/multi-domain-markdown-setup",
+      "title": "Multi Domain Markdown Setup",
+      "date": "2025-12-09T19:07:31.563Z",
+      "filepath": "coding/website/multi-domain-markdown-setup.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/voice/paid-calls",
+      "title": "ChatGPT on the phone via a premium-rate-number?",
+      "date": "2025-12-09T19:07:31.562Z",
+      "filepath": "coding/voice/paid-calls.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/voice/voice-ux",
+      "title": "Making voice UX possible",
+      "date": "2025-12-09T19:07:31.562Z",
+      "filepath": "coding/voice/voice-ux.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/tailwind-darkmode-issue",
+      "title": "Tailwind Darkmode Issues",
+      "date": "2025-12-09T19:07:31.561Z",
+      "filepath": "coding/tailwind-darkmode-issue.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/testAiPlugins",
+      "title": "E2E Testing ChatGPT AI plugins with using MRKL",
+      "date": "2025-12-09T19:07:31.561Z",
+      "filepath": "coding/testAiPlugins.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/the-single-server-dream",
+      "title": "Running everything from a single server isn't that easy",
+      "date": "2025-12-09T19:07:31.561Z",
+      "filepath": "coding/the-single-server-dream.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/scrapingbee-gpt/index",
+      "title": "Building a ChatGPT plugin to browse the internet",
+      "date": "2025-12-09T19:07:31.556Z",
+      "filepath": "coding/scrapingbee-gpt/index.md",
+      "description": "In this post I explain what ChatGPT plugins are, how I've made a ChatGPT plugin for ScrapingBee, and how you can use it."
+    },
+    {
+      "slug": "coding/bun-flame-fly/draft",
+      "title": "🔥🔥🔥 Flybun 🔥🔥🔥",
+      "date": "2025-12-09T19:07:31.539Z",
+      "filepath": "coding/bun-flame-fly/draft.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/bun-flame-fly/findings",
+      "title": "Findings",
+      "date": "2025-12-09T19:07:31.539Z",
+      "filepath": "coding/bun-flame-fly/findings.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/creating-a-resizer-in-pure-js",
+      "title": "Resize your layout with a draggable div in React",
+      "date": "2025-12-09T19:07:31.539Z",
+      "filepath": "coding/creating-a-resizer-in-pure-js.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/gpt-classification",
+      "title": "Classification tasks with ChatGPT",
+      "date": "2025-12-09T19:07:31.539Z",
+      "filepath": "coding/gpt-classification.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/readme",
+      "title": "Readme",
+      "date": "2025-12-09T19:07:31.539Z",
+      "filepath": "coding/readme.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/regex-cheatcodes",
+      "title": "Global Search/Replace with Regexes in VSCode",
+      "date": "2025-12-09T19:07:31.539Z",
+      "filepath": "coding/regex-cheatcodes.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/internetless-software-development",
+      "title": "Installing MacOS without an internet connection",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/internetless-software-development.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/outcomputed",
+      "title": "Outcomputed",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/outcomputed.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/programming-screenless",
+      "title": "Programming Screenless",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/programming-screenless.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/scalable-ideas",
+      "title": "Scalable Ideas",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/scalable-ideas.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/the-post-smartphone-era",
+      "title": "The post-smartphone era is coming.",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/the-post-smartphone-era.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/why-are-systems-not-working-together",
+      "title": "Why are systems always so hard to integrate with other systems?",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/why-are-systems-not-working-together.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/why-i-wont-join-your-startup",
+      "title": "Why I won't join your startup",
+      "date": "2025-12-09T19:07:31.538Z",
+      "filepath": "2024/why-i-wont-join-your-startup.md",
+      "description": ""
+    },
+    {
+      "slug": "2024/hardware-screenless",
+      "title": "Hardware Screenless",
+      "date": "2025-12-09T19:07:31.503Z",
+      "filepath": "2024/hardware-screenless.md",
+      "description": ""
+    },
+    {
+      "slug": "2023/communify",
+      "title": "Communify",
+      "date": "2025-12-09T19:07:31.502Z",
+      "filepath": "2023/communify.md",
+      "description": ""
+    },
+    {
+      "slug": "2023/controllable-immersion",
+      "title": "Controllable Immersion",
+      "date": "2025-12-09T19:07:31.502Z",
+      "filepath": "2023/controllable-immersion.md",
+      "description": ""
+    },
+    {
+      "slug": "2023/immerse-yourself-in-ai",
+      "title": "Immerse Yourself In Ai",
+      "date": "2025-12-09T19:07:31.502Z",
+      "filepath": "2023/immerse-yourself-in-ai.md",
+      "description": ""
+    },
+    {
+      "slug": "2023/social-computing",
+      "title": "\"Human-to-Human Content Generation: Embracing the Social Computing Age\"",
+      "date": "2025-12-09T19:07:31.502Z",
+      "filepath": "2023/social-computing.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/connected-repos",
+      "title": "Moving away from my 150k LOC Monorepo",
+      "date": "2024-04-01T00:00:00.000Z",
+      "filepath": "coding/connected-repos.md",
+      "description": ""
+    },
+    {
+      "slug": "2023/innovateability",
+      "title": "Increasing innovateability",
+      "date": "2023-08-01T00:00:00.000Z",
+      "filepath": "2023/innovateability.md",
+      "description": ""
+    },
+    {
+      "slug": "coding/voice/llm-voice-calls",
+      "title": "Implementing LLM Voice Calls",
+      "date": "2023-08-01T00:00:00.000Z",
+      "filepath": "coding/voice/llm-voice-calls.md",
+      "description": ""
+    }
+  ]
+}
