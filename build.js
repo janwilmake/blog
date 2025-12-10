@@ -13,9 +13,9 @@ function shouldIgnore(filepath) {
 }
 
 /**
- * Recursively find all .md files in a directory
+ * Recursively find all .md and .url files in a directory
  */
-function findMarkdownFiles(dir, fileList = []) {
+function findContentFiles(dir, fileList = []) {
   const files = fs.readdirSync(dir);
 
   files.forEach((file) => {
@@ -29,8 +29,8 @@ function findMarkdownFiles(dir, fileList = []) {
     const stat = fs.statSync(filePath);
 
     if (stat.isDirectory()) {
-      findMarkdownFiles(filePath, fileList);
-    } else if (path.extname(file) === ".md") {
+      findContentFiles(filePath, fileList);
+    } else if (path.extname(file) === ".md" || path.extname(file) === ".url") {
       fileList.push(filePath);
     }
   });
@@ -72,7 +72,7 @@ function parseDate(dateStr) {
  */
 function generateSlug(filepath) {
   const relativePath = path.relative(".", filepath);
-  return relativePath.replace(/\.md$/, "").replace(/\\/g, "/");
+  return relativePath.replace(/\.(md|url)$/, "").replace(/\\/g, "/");
 }
 
 /**
@@ -87,24 +87,54 @@ function extractTitle(content, filename) {
 
   // Fallback to filename
   return path
-    .basename(filename, ".md")
+    .basename(filename, path.extname(filename))
     .replace(/^\d{4}-\d{2}-\d{2}-/, "") // Remove date prefix
     .replace(/[-_]/g, " ")
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
 /**
- * Build manifest from markdown files
+ * Parse .url file to extract URL
+ */
+function parseUrlFile(content) {
+  const match = content.match(/URL=(.+)/);
+  return match ? match[1].trim() : null;
+}
+
+/**
+ * Build manifest from markdown and .url files
  */
 function buildManifest() {
-  const markdownFiles = findMarkdownFiles(".");
+  const contentFiles = findContentFiles(".");
   const entries = [];
 
-  console.log(`Found ${markdownFiles.length} markdown files`);
+  console.log(`Found ${contentFiles.length} content files`);
 
-  for (const filepath of markdownFiles) {
+  for (const filepath of contentFiles) {
     const content = fs.readFileSync(filepath, "utf-8");
-    const { data: frontmatter, content: markdown } = matter(content);
+    const ext = path.extname(filepath);
+
+    let frontmatter = {};
+    let markdown = content;
+    let externalUrl = null;
+    let contentType = "markdown";
+
+    if (ext === ".url") {
+      // Parse .url file
+      externalUrl = parseUrlFile(content);
+      contentType = "url";
+
+      if (!externalUrl) {
+        console.log(`  ✗ ${filepath} - Invalid .url file format`);
+        continue;
+      }
+    } else if (ext === ".md") {
+      // Parse markdown with frontmatter
+      const parsed = matter(content);
+      frontmatter = parsed.data;
+      markdown = parsed.content;
+      contentType = "markdown";
+    }
 
     // Determine date from frontmatter, filename, or file stats
     let date = null;
@@ -121,8 +151,6 @@ function buildManifest() {
     }
 
     if (!date) {
-      // const stats = fs.statSync(filepath);
-      // date = stats.birthtime;
       date = null;
     }
 
@@ -135,13 +163,22 @@ function buildManifest() {
       date: date?.toISOString() || null,
       filepath: filepath.replace(/\\/g, "/"),
       description: frontmatter.description || "",
+      contentType,
+      externalUrl: externalUrl || undefined,
     });
 
-    console.log(`  ✓ ${slug}`);
+    console.log(
+      `  ✓ ${slug} ${contentType === "url" ? `(${externalUrl})` : ""}`,
+    );
   }
 
   // Sort by date descending (newest first)
-  entries.sort((a, b) => new Date(b.date) - new Date(a.date));
+  entries.sort((a, b) => {
+    if (!a.date && !b.date) return 0;
+    if (!a.date) return 1;
+    if (!b.date) return -1;
+    return new Date(b.date) - new Date(a.date);
+  });
 
   const manifest = {
     generated: new Date().toISOString(),

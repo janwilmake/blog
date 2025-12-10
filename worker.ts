@@ -11,6 +11,8 @@ interface ManifestEntry {
   date: string | null;
   filepath: string;
   description: string;
+  contentType: "markdown" | "url";
+  externalUrl?: string;
 }
 
 const marked = new Marked();
@@ -118,9 +120,16 @@ function renderHomepage(entries: ManifestEntry[]): string {
           })
         : "Unknown";
 
+      const badge =
+        entry.contentType === "url"
+          ? '<span class="badge">External Link</span>'
+          : "";
+
       return `
       <article class="post-preview">
-        <h2><a href="/${entry.slug}">${escapeHtml(entry.title)}</a></h2>
+        <h2><a href="/${entry.slug}">${escapeHtml(
+        entry.title,
+      )}</a> ${badge}</h2>
         <div class="date">${date}</div>
         ${
           entry.description
@@ -162,6 +171,10 @@ function renderHomepage(entries: ManifestEntry[]): string {
     .post-preview h2 {
       margin: 0 0 0.5rem 0;
       font-size: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
     }
     .post-preview h2 a {
       color: #0066cc;
@@ -169,6 +182,14 @@ function renderHomepage(entries: ManifestEntry[]): string {
     }
     .post-preview h2 a:hover {
       text-decoration: underline;
+    }
+    .badge {
+      font-size: 0.7rem;
+      background: #0066cc;
+      color: white;
+      padding: 0.2rem 0.5rem;
+      border-radius: 3px;
+      font-weight: normal;
     }
     .date {
       color: #666;
@@ -198,7 +219,8 @@ function renderLlmsTxt(entries: ManifestEntry[]): string {
         ? new Date(entry.date).toISOString().split("T")[0]
         : "Unknown";
       const description = entry.description ? `: ${entry.description}` : "";
-      return `- [${entry.title}](/${entry.slug})${description} (${date})`;
+      const type = entry.contentType === "url" ? " [External]" : "";
+      return `- [${entry.title}](/${entry.slug})${description}${type} (${date})`;
     })
     .join("\n");
 
@@ -224,6 +246,37 @@ function escapeHtml(text: string): string {
     "'": "&#039;",
   };
   return text.replace(/[&<>"']/g, (m) => map[m]);
+}
+
+/**
+ * Parse .url file content to extract URL
+ */
+function parseUrlFile(content: string): string | null {
+  const match = content.match(/URL=(.+)/);
+  return match ? match[1].trim() : null;
+}
+
+/**
+ * Fetch content from external URL using jina.ai reader
+ */
+async function fetchExternalContent(url: string): Promise<string> {
+  try {
+    const jinaUrl = `https://r.jina.ai/${url}`;
+    const response = await fetch(jinaUrl, {
+      headers: {
+        Accept: "text/plain",
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch: ${response.status}`);
+    }
+
+    return await response.text();
+  } catch (error) {
+    console.error("Error fetching external content:", error);
+    throw error;
+  }
 }
 
 export default {
@@ -256,21 +309,60 @@ export default {
     }
 
     try {
-      // Fetch markdown file from assets
-      const assetUrl = new URL(`/${entry.filepath}`, request.url);
-      const assetResponse = await env.ASSETS.fetch(assetUrl);
+      let content = "";
+      let html = "";
 
-      if (!assetResponse.ok) {
-        return new Response("Not Found", { status: 404 });
+      if (entry.contentType === "url") {
+        // Fetch .url file from assets
+        const assetUrl = new URL(`/${entry.filepath}`, request.url);
+        const assetResponse = await env.ASSETS.fetch(assetUrl);
+
+        if (!assetResponse.ok) {
+          return new Response("Not Found", { status: 404 });
+        }
+
+        const urlFileContent = await assetResponse.text();
+        const externalUrl = parseUrlFile(urlFileContent);
+
+        if (!externalUrl) {
+          return new Response("Invalid .url file", { status: 500 });
+        }
+
+        // Fetch content from external URL
+        try {
+          content = await fetchExternalContent(externalUrl);
+          // Convert markdown to HTML
+          html = await marked.parse(content);
+        } catch (error) {
+          html = `
+            <div style="background: #fff3cd; border: 1px solid #ffc107; padding: 1rem; border-radius: 4px;">
+              <p><strong>External Content</strong></p>
+              <p>Unable to fetch content from: <a href="${escapeHtml(
+                externalUrl,
+              )}" target="_blank">${escapeHtml(externalUrl)}</a></p>
+              <p style="color: #666; font-size: 0.9em;">Error: ${escapeHtml(
+                String(error),
+              )}</p>
+            </div>
+          `;
+        }
+      } else {
+        // Fetch markdown file from assets
+        const assetUrl = new URL(`/${entry.filepath}`, request.url);
+        const assetResponse = await env.ASSETS.fetch(assetUrl);
+
+        if (!assetResponse.ok) {
+          return new Response("Not Found", { status: 404 });
+        }
+
+        const markdown = await assetResponse.text();
+
+        // Remove frontmatter if present
+        content = markdown.replace(/^---\n[\s\S]*?\n---\n/, "");
+
+        // Convert markdown to HTML
+        html = await marked.parse(content);
       }
-
-      const markdown = await assetResponse.text();
-
-      // Remove frontmatter if present
-      const content = markdown.replace(/^---\n[\s\S]*?\n---\n/, "");
-
-      // Convert markdown to HTML
-      const html = await marked.parse(content);
 
       // Render template
       const fullHtml = renderPostTemplate(entry.title, html, entry.date);
