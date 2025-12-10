@@ -8,7 +8,7 @@ interface Env {
 interface ManifestEntry {
   slug: string;
   title: string;
-  date: string;
+  date: string | null;
   filepath: string;
   description: string;
 }
@@ -110,11 +110,13 @@ function renderPostTemplate(
 function renderHomepage(entries: ManifestEntry[]): string {
   const postList = entries
     .map((entry) => {
-      const date = new Date(entry.date).toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "short",
-        day: "numeric",
-      });
+      const date = entry.date
+        ? new Date(entry.date).toLocaleDateString("en-US", {
+            year: "numeric",
+            month: "short",
+            day: "numeric",
+          })
+        : "Unknown";
 
       return `
       <article class="post-preview">
@@ -192,7 +194,9 @@ function renderHomepage(entries: ManifestEntry[]): string {
 function renderLlmsTxt(entries: ManifestEntry[]): string {
   const postList = entries
     .map((entry) => {
-      const date = new Date(entry.date).toISOString().split("T")[0];
+      const date = entry.date
+        ? new Date(entry.date).toISOString().split("T")[0]
+        : "Unknown";
       const description = entry.description ? `: ${entry.description}` : "";
       return `- [${entry.title}](/${entry.slug})${description} (${date})`;
     })

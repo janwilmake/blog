@@ -121,8 +121,9 @@ function buildManifest() {
     }
 
     if (!date) {
-      const stats = fs.statSync(filepath);
-      date = stats.birthtime;
+      // const stats = fs.statSync(filepath);
+      // date = stats.birthtime;
+      date = null;
     }
 
     const slug = generateSlug(filepath);
@@ -131,7 +132,7 @@ function buildManifest() {
     entries.push({
       slug,
       title,
-      date: date.toISOString(),
+      date: date?.toISOString() || null,
       filepath: filepath.replace(/\\/g, "/"),
       description: frontmatter.description || "",
     });
