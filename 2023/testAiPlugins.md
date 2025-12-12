@@ -1,5 +1,5 @@
 ---
-isPublic: true
+date: 2023-01
 ---
 
 # E2E Testing ChatGPT AI plugins with using MRKL

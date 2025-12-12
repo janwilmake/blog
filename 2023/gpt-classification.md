@@ -1,5 +1,5 @@
 ---
-isPublic: true
+date: 2023-01
 ---
 
 # Classification tasks with ChatGPT
@@ -14,7 +14,7 @@ const response = await openai.createChatCompletion({
     {
       role: "system",
       content: `You are a GPT Classifier Function. Reply with one of the following words to the users question: ${possibilities.join(
-        ", "
+        ", ",
       )}. NB: Reply just the answer, nothing else.`,
     },
     { role: "user", content: prompt },
@@ -40,8 +40,8 @@ All in all, you can now use it like this:
   gptClassify(
     "YOUR TOKEN",
     `Consider the name "${name}". What is the gender? Guess if unclear.`,
-    ["male", "female"]
-  ).then(console.log)
+    ["male", "female"],
+  ).then(console.log),
 );
 ```
 

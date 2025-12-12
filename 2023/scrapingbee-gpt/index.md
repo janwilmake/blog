@@ -2,7 +2,6 @@
 title: Building a ChatGPT plugin to browse the internet
 date: 2023-08-17
 draft: true
-author_id: pierre
 description: In this post I explain what ChatGPT plugins are, how I've made a ChatGPT plugin for ScrapingBee, and how you can use it.
 ---
 

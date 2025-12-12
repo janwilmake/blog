@@ -1,6 +1,6 @@
 ---
-isDraft: true
-isPublic: true
+draft: false
+date: 2023-01
 ---
 
 # Communify

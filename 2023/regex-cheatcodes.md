@@ -1,5 +1,5 @@
 ---
-isPublic: true
+date: 2023-01
 ---
 
 # Global Search/Replace with Regexes in VSCode
