@@ -1,3 +1,7 @@
+---
+date: 2024-01
+---
+
 Time and time again, I ask myself the question: "Can I completely remove myself from the dependency that is the internet?". An interesting value proposition, because yeah, it's a big dependency that has a lot of drawbacks. Can we rid ourselves of it? I imagine a device that goes back to basics. It has no internet, just a huge LLM.
 
 My motivation for a computer without internet without drawbacks is multifluous:

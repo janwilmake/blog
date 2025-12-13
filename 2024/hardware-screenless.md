@@ -1,3 +1,7 @@
+---
+date: 2024-01
+---
+
 For the last months I've been busy building a personal AI at [Screenless](https://screenless.org) and I am silently launching it and starting to test with early adopters. I'm inspired by my predecessors like [Humane](https://hu.ma.ne/) with the AI Pin and [Rabbit Tech](https://rabbit.tech) with their Rabbit R1. Also the [Tab](https://mytab.ai/) is great.
 
 What I keep seeing though is that all of them want to make new hardware, and I don't think it's really needed. Is this just dumb ambitiousness trying to make the next smartphone, not seeing that the hardware is already sufficient? Or maybe it's a way to market the product better? Good for visibility?

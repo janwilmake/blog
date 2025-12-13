@@ -1,270 +1,177 @@
 {
-  "generated": "2025-12-10T14:51:20.464Z",
+  "tags": [
+    "2023",
+    "2024",
+    "2025"
+  ],
   "entries": [
     {
-      "slug": "coding/connected-repos",
-      "title": "Moving away from my 150k LOC Monorepo",
-      "date": "2024-04-01T00:00:00.000Z",
-      "filepath": "coding/connected-repos.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/bun-flame-fly",
+      "date": 1701388800000,
+      "contentType": "markdown",
+      "title": "2023/bun-flame-fly",
+      "description": ""
     },
     {
-      "slug": "2023/innovateability",
-      "title": "Increasing innovateability",
-      "date": "2023-08-01T00:00:00.000Z",
-      "filepath": "2023/innovateability.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/voice/llm-voice-calls",
-      "title": "Implementing LLM Voice Calls",
-      "date": "2023-08-01T00:00:00.000Z",
-      "filepath": "coding/voice/llm-voice-calls.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
+      "draft": false,
       "slug": "2023/communify",
-      "title": "Communify",
-      "date": null,
-      "filepath": "2023/communify.md",
-      "description": "",
-      "contentType": "markdown"
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/communify",
+      "description": ""
     },
     {
+      "draft": false,
       "slug": "2023/controllable-immersion",
-      "title": "Controllable Immersion",
-      "date": null,
-      "filepath": "2023/controllable-immersion.md",
-      "description": "",
-      "contentType": "markdown"
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/controllable-immersion",
+      "description": ""
     },
     {
+      "draft": false,
+      "slug": "2023/creating-a-resizer-in-pure-js",
+      "date": 1691712000000,
+      "contentType": "markdown",
+      "title": "2023/creating-a-resizer-in-pure-js",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2023/gpt-classification",
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/gpt-classification",
+      "description": ""
+    },
+    {
+      "draft": false,
       "slug": "2023/immerse-yourself-in-ai",
-      "title": "Immerse Yourself In Ai",
-      "date": null,
-      "filepath": "2023/immerse-yourself-in-ai.md",
-      "description": "",
-      "contentType": "markdown"
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/immerse-yourself-in-ai",
+      "description": ""
     },
     {
-      "slug": "2023/social-computing",
-      "title": "\"Human-to-Human Content Generation: Embracing the Social Computing Age\"",
-      "date": null,
-      "filepath": "2023/social-computing.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/innovateability",
+      "date": 1690848000000,
+      "contentType": "markdown",
+      "title": "2023/innovateability",
+      "description": ""
     },
     {
-      "slug": "2024/hardware-screenless",
-      "title": "Hardware Screenless",
-      "date": null,
-      "filepath": "2024/hardware-screenless.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/regex-cheatcodes",
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/regex-cheatcodes",
+      "description": ""
     },
     {
-      "slug": "2024/internetless-software-development",
-      "title": "Installing MacOS without an internet connection",
-      "date": null,
-      "filepath": "2024/internetless-software-development.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2024/outcomputed",
-      "title": "Outcomputed",
-      "date": null,
-      "filepath": "2024/outcomputed.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2024/programming-screenless",
-      "title": "Programming Screenless",
-      "date": null,
-      "filepath": "2024/programming-screenless.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2024/scalable-ideas",
-      "title": "Scalable Ideas",
-      "date": null,
-      "filepath": "2024/scalable-ideas.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2024/the-post-smartphone-era",
-      "title": "The post-smartphone era is coming.",
-      "date": null,
-      "filepath": "2024/the-post-smartphone-era.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2024/why-are-systems-not-working-together",
-      "title": "Why are systems always so hard to integrate with other systems?",
-      "date": null,
-      "filepath": "2024/why-are-systems-not-working-together.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2024/why-i-wont-join-your-startup",
-      "title": "Why I won't join your startup",
-      "date": null,
-      "filepath": "2024/why-i-wont-join-your-startup.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2025/LLMTEXT-for-llmstxt",
-      "title": "Introducing LLMTEXT, an open source toolkit for the llms.txt standard",
-      "date": null,
-      "filepath": "2025/LLMTEXT-for-llmstxt.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "2025/making-a-continuous-audio-playlist-for-thgttg",
-      "title": "Making A Continuous Audio Playlist For Thgttg",
-      "date": null,
-      "filepath": "2025/making-a-continuous-audio-playlist-for-thgttg.url",
-      "description": "",
-      "contentType": "url",
-      "externalUrl": "https://thgttg.org/README.md"
-    },
-    {
-      "slug": "README",
-      "title": "Agent-Friendly blog",
-      "date": null,
-      "filepath": "README.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/bun-flame-fly/draft",
-      "title": "🔥🔥🔥 Flybun 🔥🔥🔥",
-      "date": null,
-      "filepath": "coding/bun-flame-fly/draft.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/bun-flame-fly/findings",
-      "title": "Findings",
-      "date": null,
-      "filepath": "coding/bun-flame-fly/findings.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/creating-a-resizer-in-pure-js",
-      "title": "Resize your layout with a draggable div in React",
-      "date": null,
-      "filepath": "coding/creating-a-resizer-in-pure-js.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/gpt-classification",
-      "title": "Classification tasks with ChatGPT",
-      "date": null,
-      "filepath": "coding/gpt-classification.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/readme",
-      "title": "Readme",
-      "date": null,
-      "filepath": "coding/readme.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/regex-cheatcodes",
-      "title": "Global Search/Replace with Regexes in VSCode",
-      "date": null,
-      "filepath": "coding/regex-cheatcodes.md",
-      "description": "",
-      "contentType": "markdown"
-    },
-    {
-      "slug": "coding/scrapingbee-gpt/index",
+      "draft": true,
+      "slug": "2023/scrapingbee-gpt/index",
+      "date": 1692230400000,
+      "contentType": "markdown",
       "title": "Building a ChatGPT plugin to browse the internet",
-      "date": null,
-      "filepath": "coding/scrapingbee-gpt/index.md",
-      "description": "In this post I explain what ChatGPT plugins are, how I've made a ChatGPT plugin for ScrapingBee, and how you can use it.",
-      "contentType": "markdown"
+      "description": "In this post I explain what ChatGPT plugins are, how I've made a ChatGPT plugin for ScrapingBee, and how you can use it."
     },
     {
-      "slug": "coding/tailwind-darkmode-issue",
-      "title": "Tailwind Darkmode Issues",
-      "date": null,
-      "filepath": "coding/tailwind-darkmode-issue.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/social-computing",
+      "date": 1699920000000,
+      "contentType": "markdown",
+      "title": "2023/social-computing",
+      "description": ""
     },
     {
-      "slug": "coding/testAiPlugins",
-      "title": "E2E Testing ChatGPT AI plugins with using MRKL",
-      "date": null,
-      "filepath": "coding/testAiPlugins.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/tailwind-darkmode-issue",
+      "date": 1691712000000,
+      "contentType": "markdown",
+      "title": "2023/tailwind-darkmode-issue",
+      "description": ""
     },
     {
-      "slug": "coding/the-single-server-dream",
-      "title": "Running everything from a single server isn't that easy",
-      "date": null,
-      "filepath": "coding/the-single-server-dream.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/testAiPlugins",
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/testAiPlugins",
+      "description": ""
     },
     {
-      "slug": "coding/voice/paid-calls",
-      "title": "ChatGPT on the phone via a premium-rate-number?",
-      "date": null,
-      "filepath": "coding/voice/paid-calls.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/the-single-server-dream",
+      "date": 1693958400000,
+      "contentType": "markdown",
+      "title": "2023/the-single-server-dream",
+      "description": ""
     },
     {
-      "slug": "coding/voice/voice-ux",
-      "title": "Making voice UX possible",
-      "date": null,
-      "filepath": "coding/voice/voice-ux.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/voice/llm-voice-calls",
+      "date": 1690848000000,
+      "contentType": "markdown",
+      "title": "2023/voice/llm-voice-calls",
+      "description": ""
     },
     {
-      "slug": "coding/website/domain-control-panel",
-      "title": "Creating a domain control panel",
-      "date": null,
-      "filepath": "coding/website/domain-control-panel.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/website/domain-control-panel",
+      "date": 1694131200000,
+      "contentType": "markdown",
+      "title": "2023/website/domain-control-panel",
+      "description": ""
     },
     {
-      "slug": "coding/website/multi-domain-locale-hack-nextjs",
-      "title": "Multi Domain Locale Hack Nextjs",
-      "date": null,
-      "filepath": "coding/website/multi-domain-locale-hack-nextjs.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2023/website/multi-domain-locale-hack-nextjs",
+      "date": 1672531200000,
+      "contentType": "markdown",
+      "title": "2023/website/multi-domain-locale-hack-nextjs",
+      "description": ""
     },
     {
-      "slug": "coding/website/multi-domain-markdown-setup",
-      "title": "Multi Domain Markdown Setup",
-      "date": null,
-      "filepath": "coding/website/multi-domain-markdown-setup.md",
-      "description": "",
-      "contentType": "markdown"
+      "draft": false,
+      "slug": "2024/connected-repos",
+      "date": 1711929600000,
+      "contentType": "markdown",
+      "title": "2024/connected-repos",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2024/hardware-screenless",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/hardware-screenless",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2024/internetless-software-development",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/internetless-software-development",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2024/outcomputed",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/outcomputed",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2025/LLMTEXT-for-llmstxt",
+      "date": 1761782400000,
+      "contentType": "markdown",
+      "title": "2025/LLMTEXT-for-llmstxt",
+      "description": ""
     }
   ]
 }

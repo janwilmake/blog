@@ -1,3 +1,7 @@
+---
+date: 2024-01
+---
+
 # Outcomputed
 
 Electricity is becoming increasingly cheap, compute follows this trend as well, plus we're becoming better at making faster and more efficient compute in a exponential way.

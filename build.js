@@ -1,192 +1,188 @@
 import fs from "fs";
 import path from "path";
-import matter from "gray-matter";
+import { fileURLToPath } from "url";
 
-const IGNORED_DIRS = [".git", ".wrangler", "node_modules"];
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-/**
- * Check if path should be ignored
- */
-function shouldIgnore(filepath) {
-  const parts = filepath.split(path.sep);
-  return parts.some((part) => IGNORED_DIRS.includes(part));
-}
+const IGNORE_DIRS = new Set([".git", ".wrangler", "node_modules"]);
 
-/**
- * Recursively find all .md and .url files in a directory
- */
-function findContentFiles(dir, fileList = []) {
-  const files = fs.readdirSync(dir);
+function parseFrontmatter(content) {
+  const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n/;
+  const match = content.match(frontmatterRegex);
 
-  files.forEach((file) => {
-    const filePath = path.join(dir, file);
+  if (!match) return { frontmatter: {}, content };
 
-    // Skip ignored directories
-    if (shouldIgnore(filePath)) {
-      return;
+  const frontmatterText = match[1];
+  const frontmatter = {};
+
+  frontmatterText.split("\n").forEach((line) => {
+    const colonIndex = line.indexOf(":");
+    if (colonIndex === -1) return;
+
+    const key = line.slice(0, colonIndex).trim();
+    let value = line.slice(colonIndex + 1).trim();
+
+    // Remove quotes if present
+    if (
+      (value.startsWith('"') && value.endsWith('"')) ||
+      (value.startsWith("'") && value.endsWith("'"))
+    ) {
+      value = value.slice(1, -1);
     }
 
-    const stat = fs.statSync(filePath);
+    // Parse boolean values
+    if (value === "true") value = true;
+    else if (value === "false") value = false;
 
-    if (stat.isDirectory()) {
-      findContentFiles(filePath, fileList);
-    } else if (path.extname(file) === ".md" || path.extname(file) === ".url") {
-      fileList.push(filePath);
-    }
+    frontmatter[key] = value;
   });
 
-  return fileList;
+  return {
+    frontmatter,
+    content: content.slice(match[0].length),
+  };
 }
 
-/**
- * Extract date from filename (YYYY-MM-DD format)
- */
-function extractDateFromFilename(filename) {
-  const match = filename.match(/(\d{4})-(\d{2})-(\d{2})/);
-  if (match) {
-    return `${match[1]}-${match[2]}-${match[3]}`;
-  }
-  return null;
-}
+function parseIniFile(content) {
+  const lines = content.split("\n");
+  const result = {};
 
-/**
- * Parse date string in YYYY-MM[-DD] format
- */
-function parseDate(dateStr) {
-  if (!dateStr) return null;
-  if (typeof dateStr !== "string") return null;
-  // Handle YYYY-MM-DD or YYYY-MM format
-  const match = dateStr.match(/^(\d{4})-(\d{2})(?:-(\d{2}))?$/);
-  if (match) {
-    const year = match[1];
-    const month = match[2];
-    const day = match[3] || "01";
-    return new Date(`${year}-${month}-${day}`);
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith(";") || trimmed.startsWith("#"))
+      continue;
+
+    const equalIndex = trimmed.indexOf("=");
+    if (equalIndex === -1) continue;
+
+    const key = trimmed.slice(0, equalIndex).trim();
+    const value = trimmed.slice(equalIndex + 1).trim();
+    result[key] = value;
   }
 
-  return null;
+  return result;
 }
 
-/**
- * Generate slug from filepath
- */
-function generateSlug(filepath) {
-  const relativePath = path.relative(".", filepath);
-  return relativePath.replace(/\.(md|url)$/, "").replace(/\\/g, "/");
-}
+async function fetchUrlFile(urlFilePath) {
+  const content = fs.readFileSync(urlFilePath, "utf-8");
+  const config = parseIniFile(content);
 
-/**
- * Extract title from markdown content or filename
- */
-function extractTitle(content, filename) {
-  // Try to find H1 in content
-  const h1Match = content.match(/^#\s+(.+)$/m);
-  if (h1Match) {
-    return h1Match[1].trim();
+  if (!config.url) {
+    throw new Error(`No URL found in ${urlFilePath}`);
   }
 
-  // Fallback to filename
-  return path
-    .basename(filename, path.extname(filename))
-    .replace(/^\d{4}-\d{2}-\d{2}-/, "") // Remove date prefix
-    .replace(/[-_]/g, " ")
-    .replace(/\b\w/g, (c) => c.toUpperCase());
+  console.log(`Fetching ${config.url}...`);
+  const response = await fetch(config.url);
+
+  if (!response.ok) {
+    throw new Error(`Failed to fetch ${config.url}: ${response.statusText}`);
+  }
+
+  return await response.text();
 }
 
-/**
- * Parse .url file to extract URL
- */
-function parseUrlFile(content) {
-  const match = content.match(/URL=(.+)/);
-  return match ? match[1].trim() : null;
+function parseDate(dateString) {
+  if (!dateString) return null;
+
+  const date = new Date(dateString);
+  return isNaN(date.getTime()) ? null : date.getTime();
 }
 
-/**
- * Build manifest from markdown and .url files
- */
-function buildManifest() {
-  const contentFiles = findContentFiles(".");
+async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
   const entries = [];
+  const items = fs.readdirSync(dir, { withFileTypes: true });
 
-  console.log(`Found ${contentFiles.length} content files`);
+  for (const item of items) {
+    const fullPath = path.join(dir, item.name);
+    const relativePath = path.relative(rootDir, fullPath);
 
-  for (const filepath of contentFiles) {
-    const content = fs.readFileSync(filepath, "utf-8");
-    const ext = path.extname(filepath);
+    if (item.isDirectory()) {
+      if (IGNORE_DIRS.has(item.name)) continue;
 
-    let frontmatter = {};
-    let markdown = content;
-    let externalUrl = null;
-    let contentType = "markdown";
+      // First level directories are tags
+      const tag = currentTag || item.name;
+      const subEntries = await findMarkdownFiles(fullPath, rootDir, tag);
+      entries.push(...subEntries);
+    } else if (item.isFile()) {
+      const ext = path.extname(item.name);
 
-    if (ext === ".url") {
-      // Parse .url file
-      externalUrl = parseUrlFile(content);
-      contentType = "url";
+      if (ext === ".md") {
+        const content = fs.readFileSync(fullPath, "utf-8");
+        const { frontmatter } = parseFrontmatter(content);
 
-      if (!externalUrl) {
-        console.log(`  ✗ ${filepath} - Invalid .url file format`);
-        continue;
+        // Date is required
+        if (!frontmatter.date) {
+          console.warn(`Skipping ${relativePath}: no date in frontmatter`);
+          continue;
+        }
+
+        const slug = relativePath.replace(/\.md$/, "").replace(/\\/g, "/");
+
+        entries.push({
+          draft: frontmatter.draft === true,
+          slug,
+          date: parseDate(frontmatter.date),
+          contentType: "markdown",
+          title: frontmatter.title || slug,
+          description: frontmatter.description || "",
+          tag: currentTag,
+        });
+      } else if (ext === ".url") {
+        try {
+          const markdown = await fetchUrlFile(fullPath);
+          const { frontmatter } = parseFrontmatter(markdown);
+
+          // Date is required
+          if (!frontmatter.date) {
+            console.warn(`Skipping ${relativePath}: no date in frontmatter`);
+            continue;
+          }
+
+          const iniContent = fs.readFileSync(fullPath, "utf-8");
+          const config = parseIniFile(iniContent);
+
+          const slug = relativePath.replace(/\.url$/, "").replace(/\\/g, "/");
+
+          entries.push({
+            draft: frontmatter.draft === true,
+            slug,
+            date: parseDate(frontmatter.date),
+            contentType: "url",
+            externalUrl: config.url,
+            title: frontmatter.title || slug,
+            description: frontmatter.description || "",
+            tag: currentTag,
+          });
+        } catch (error) {
+          console.error(`Error processing ${relativePath}:`, error.message);
+        }
       }
-    } else if (ext === ".md") {
-      // Parse markdown with frontmatter
-      const parsed = matter(content);
-      frontmatter = parsed.data;
-      markdown = parsed.content;
-      contentType = "markdown";
     }
-
-    // Determine date from frontmatter, filename, or file stats
-    let date = null;
-
-    if (frontmatter.date) {
-      date = parseDate(frontmatter.date);
-    }
-
-    if (!date) {
-      const filenameDate = extractDateFromFilename(path.basename(filepath));
-      if (filenameDate) {
-        date = parseDate(filenameDate);
-      }
-    }
-
-    if (!date) {
-      date = null;
-    }
-
-    const slug = generateSlug(filepath);
-    const title = frontmatter.title || extractTitle(markdown, filepath);
-
-    entries.push({
-      slug,
-      title,
-      date: date?.toISOString() || null,
-      filepath: filepath.replace(/\\/g, "/"),
-      description: frontmatter.description || "",
-      contentType,
-      externalUrl: externalUrl || undefined,
-    });
-
-    console.log(
-      `  ✓ ${slug} ${contentType === "url" ? `(${externalUrl})` : ""}`,
-    );
   }
 
-  // Sort by date descending (newest first)
-  entries.sort((a, b) => {
-    if (!a.date && !b.date) return 0;
-    if (!a.date) return 1;
-    if (!b.date) return -1;
-    return new Date(b.date) - new Date(a.date);
-  });
+  return entries;
+}
+
+async function build() {
+  console.log("Building manifest...");
+
+  const entries = await findMarkdownFiles(__dirname);
+  const tags = [...new Set(entries.map((e) => e.tag).filter(Boolean))];
 
   const manifest = {
-    generated: new Date().toISOString(),
-    entries,
+    tags,
+    entries: entries.map(({ tag, ...entry }) => entry),
   };
 
-  fs.writeFileSync("manifest.json", JSON.stringify(manifest, null, 2));
-  console.log(`\n✓ Generated manifest with ${entries.length} entries`);
+  fs.writeFileSync(
+    path.join(__dirname, "manifest.json"),
+    JSON.stringify(manifest, null, 2),
+  );
+
+  console.log(
+    `✓ Manifest created with ${entries.length} entries and ${tags.length} tags`,
+  );
 }
 
-buildManifest();
+build().catch(console.error);

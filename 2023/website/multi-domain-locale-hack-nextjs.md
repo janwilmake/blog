@@ -1,3 +1,9 @@
+---
+date: 2023-01
+---
+
+# Multi Domain Locale Hack NextJS
+
 A single project in next.js can usually not generate static pages for multiple domain names. If you search the internet, this is what you'll find: https://multi-domain-first.vercel.app
 
 This makes your website noticeably slower, so that's not nice.
