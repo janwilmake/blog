@@ -70,7 +70,7 @@
       "description": ""
     },
     {
-      "draft": true,
+      "draft": false,
       "slug": "2023/scrapingbee-gpt/index",
       "date": 1692230400000,
       "contentType": "markdown",
@@ -171,6 +171,15 @@
       "date": 1761782400000,
       "contentType": "markdown",
       "title": "2025/LLMTEXT-for-llmstxt",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2025/making-a-continuous-audio-playlist-for-thgttg",
+      "date": 1765152000000,
+      "contentType": "url",
+      "externalUrl": "https://thgttg.org/README.md",
+      "title": "2025/making-a-continuous-audio-playlist-for-thgttg",
       "description": ""
     }
   ]
