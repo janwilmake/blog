@@ -1,7 +1,7 @@
 ---
 title: Building a ChatGPT plugin to browse the internet
 date: 2023-08-17
-draft: true
+draft: false
 description: In this post I explain what ChatGPT plugins are, how I've made a ChatGPT plugin for ScrapingBee, and how you can use it.
 ---
 
@@ -31,7 +31,7 @@ Let's first get an idea of what a plugin does. AI plugins implement a form of a 
 
 Here is a simple schematic drawing of how the ScrapingBee plugin that I made works:
 
-{{<img src="scrapingbee.drawio.png" alt="how the plugin works" >}}
+<img src="scrapingbee.drawio.png" alt="how the plugin works" >
 
 The ScrapingBee plugin consists of two endpoints with clear descriptions: the url scraper allows the LLM to read website content, while the google searcher allows the LLM to search the internet when it doesn't have a URL yet.
 
@@ -39,13 +39,13 @@ The ScrapingBee plugin consists of two endpoints with clear descriptions: the ur
 
 Besides simply scraping the URL and providing the HTML back, we also need to ensure the scraping API call is configured properly before sending it to ScrapingBee. Afterwards, we need to ensure that the result fits into the LLM token limit, which is currently maximum 16000 tokens for ChatGPT. For this, I basically removed the HTML tags that were irrelevant, as well as removing irrelevant properties on tags, among other things.
 
-{{<img src="url-scraper.drawio.png" alt="url scraper overview" >}}
+<img src="url-scraper.drawio.png" alt="url scraper overview" >
 
 **Google Search**
 
 The Google Search endpoint is also using the internet, but this one is much more important to be done well as it is used a lot in the plugins logic. Therefore I've used the ScrapingBee Google Endpoint to scrape Google results in a structured way. Afterwards, I only needed to simplify the JSON into a short enough string so it fits in the LLM result.
 
-{{<img src="google-search.drawio.png" alt="google search overview" >}}
+<img src="google-search.drawio.png" alt="google search overview" >
 
 ## The Specification
 
@@ -192,7 +192,7 @@ ScrapingBee in ChatGPT allows you to use the internet, reducing the hallucinatio
 
 To try it out, I've started with a simple prompt, getting a swift result:
 
-{{<img src="openai-news.png" alt="news openai" >}}
+<img src="openai-news.png" alt="news openai" >
 
 Now let's put it to the test with a bit more difficult task and let's see what it can do:
 
@@ -202,9 +202,9 @@ Look up more information about scrapingbee. find their website about page. find 
 
 The results were beyond my expectations!
 
-{{<img src="scrapingbee.png" alt="scrapingbee info prompt" >}}
-{{<img src="kevin.png" alt="scrapingbee info prompt - continued" >}}
-{{<img src="pierre.png" alt="scrapingbee info prompt - final" >}}
+<img src="scrapingbee.png" alt="scrapingbee info prompt" >
+<img src="kevin.png" alt="scrapingbee info prompt - continued" >
+<img src="pierre.png" alt="scrapingbee info prompt - final" >
 
 This really shows the plugin is capable of doing complex scraping tasks. Now it's time to discover what else it can do.
 
