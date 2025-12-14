@@ -1,3 +1,7 @@
+---
+date: 2024-01
+---
+
 # The post-smartphone era is coming.
 
 For over a decade, we've used these silo'ed apps to get things done on smartphones. But new developments with generative AI are showing a new direction. Agents will be able to process more natural language input that is more high level, and will be able to dynamically complete actions. In the last 100 years we've come up with countless ways to interact with computers as best as we could: cli, keyboards, mouse, guis, touch screens... But now, for the first time, we will be able to create a more intuitive interface that is similar to the way we communicate with other entities of our own species: humans.

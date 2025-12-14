@@ -1,3 +1,7 @@
+---
+date: 2024-01
+---
+
 # Why are systems always so hard to integrate with other systems?
 
 At work my techlead recently furiously disregarded my idea to use an API for creating PDFs. "No! We would be breaking the contract with the user! Their personal data cannot leave our AWS instances". Now we are implementing a local solution to generate PDFs in the user browser. This requires us to do much more effort because we won't be able to use HTML, and the libraries we are using are super low-level. We are constraining ourselves a lot; And this is a common thing in the software world. We don't easily allow ourselves to build upon others software. It is often a better choice to do things yourself.

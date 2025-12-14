@@ -2,6 +2,11 @@
 date: 2024-01
 ---
 
+<!-- http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html
+
+If programming is 1/12th motion and 11/12ths thinking, then we shouldn't push people to be typing 11/12ths of the time. We should instead provide the materials, environment, and processes necessary to ensure that the thinking we do is of high quality.
+ -->
+
 Time and time again, I ask myself the question: "Can I completely remove myself from the dependency that is the internet?". An interesting value proposition, because yeah, it's a big dependency that has a lot of drawbacks. Can we rid ourselves of it? I imagine a device that goes back to basics. It has no internet, just a huge LLM.
 
 My motivation for a computer without internet without drawbacks is multifluous:

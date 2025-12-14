@@ -39,6 +39,14 @@
     },
     {
       "draft": false,
+      "slug": "2023/domain-control-panel",
+      "date": 1694131200000,
+      "contentType": "markdown",
+      "title": "2023/domain-control-panel",
+      "description": ""
+    },
+    {
+      "draft": false,
       "slug": "2023/gpt-classification",
       "date": 1672531200000,
       "contentType": "markdown",
@@ -59,6 +67,14 @@
       "date": 1690848000000,
       "contentType": "markdown",
       "title": "2023/innovateability",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2023/multi-domain-locale-hack-nextjs",
+      "date": 1693526400000,
+      "contentType": "markdown",
+      "title": "2023/multi-domain-locale-hack-nextjs",
       "description": ""
     },
     {
@@ -119,22 +135,6 @@
     },
     {
       "draft": false,
-      "slug": "2023/website/domain-control-panel",
-      "date": 1694131200000,
-      "contentType": "markdown",
-      "title": "2023/website/domain-control-panel",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "2023/website/multi-domain-locale-hack-nextjs",
-      "date": 1672531200000,
-      "contentType": "markdown",
-      "title": "2023/website/multi-domain-locale-hack-nextjs",
-      "description": ""
-    },
-    {
-      "draft": false,
       "slug": "2024/connected-repos",
       "date": 1711929600000,
       "contentType": "markdown",
@@ -167,10 +167,50 @@
     },
     {
       "draft": false,
+      "slug": "2024/scalable-ideas",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/scalable-ideas",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2024/the-post-smartphone-era",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/the-post-smartphone-era",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2024/why-are-systems-not-working-together",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/why-are-systems-not-working-together",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2024/why-i-wont-join-your-startup",
+      "date": 1704067200000,
+      "contentType": "markdown",
+      "title": "2024/why-i-wont-join-your-startup",
+      "description": ""
+    },
+    {
+      "draft": false,
       "slug": "2025/LLMTEXT-for-llmstxt",
       "date": 1761782400000,
       "contentType": "markdown",
       "title": "2025/LLMTEXT-for-llmstxt",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2025/ai-inference-dx-design",
+      "date": 1765584000000,
+      "contentType": "markdown",
+      "title": "2025/ai-inference-dx-design",
       "description": ""
     },
     {
