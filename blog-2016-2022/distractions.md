@@ -100,4 +100,4 @@ time-management will cover the speed: A guide to improving productivity for
 solo-entrepreneurs that are working on a new product. Subscribe to be notified.
 
 All the best,
-Wijnand
+Jan

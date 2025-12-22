@@ -6,7 +6,7 @@ modified_at: 2018-01-19
 # How I’m going to make 2018 my most impactful year yet — A clear vision, fear-setting, and a crystal clear plan.
 
 This article also appeared on Medium
-[https://medium.com/@wijnandkarsens/how-im-going-to-make-2018-my-most-impactful-year-yet-a-clear-vision-fear-setting-and-a-crystal-5a045466d4c2]
+[https://medium.com/@karsens/how-im-going-to-make-2018-my-most-impactful-year-yet-a-clear-vision-fear-setting-and-a-crystal-5a045466d4c2]
 . Go there to get it with useful links.
 
 Recently, I wrote a summary about my 2017. In short, it has been the most

@@ -71,5 +71,4 @@ the courts in that State or location.
 Terms last updated at: 10 February 2021
 
 Contact
-Wijnand Karsens
 friendtime@karsens.com

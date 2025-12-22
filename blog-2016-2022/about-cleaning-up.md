@@ -3,7 +3,7 @@ date: 2017-05-24
 modified_at: 2017-07-09
 ---
 
-# Wijnand, clean up your room!
+# Jan, clean up your room!
 
 When I was young my mother always asked me to clean up my room. I'ts quite funny
 that now I asked her to clean up her home.

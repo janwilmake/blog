@@ -5,7 +5,7 @@ modified_at: 2019-05-22
 
 # The Best Sustainable Travel Lifestyle: about time-effective organization
 
-Hi, I'm Wijnand and I'm working and studying on the move because I can and
+Hi, I'm Jan and I'm working and studying on the move because I can and
 because I love to go places. I have been on the move since September 2016, and
 will continue to do so for the coming years. My (very young, very new) company
 is called Travel Life Movement [https://travellifemovement.com/], and it aims to

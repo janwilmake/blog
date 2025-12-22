@@ -68,7 +68,7 @@ In my case, more specifically this means that I will...
     
     
 
-Why, Wijnand, Why?
+Why, Jan, Why?
 Because I believe that for the biggest success, you need all four.
 
 If you have learned a lot and built an amazing product, you won't get rich

@@ -11,7 +11,7 @@ this for myself as note-keeping; instead of losing track, I will keep all stuff
 ordered and neat in this article. I will provide links to interesting material
 so that you can learn it with me!
 
-> Hi, I'm Wijnand, and I am a nomadic entrepreneur that is studying and working on
+> Hi, I'm Jan, and I am a nomadic entrepreneur that is studying and working on
 the move. I have a startup called Travel Life Movement
 [https://travellifemovement.com/], and recently I went completely nuts about
 React and React native.
@@ -60,7 +60,7 @@ you still need to be convinced.
    .
 
 If you like to read.... Just see my recommendations on Medium!
-[https://medium.com/@wijnandkarsens/has-recommended]
+[https://medium.com/@karsens/has-recommended]
 
 I'm sure in a few years, react will standardize one codebase for web, Android,
 iOS, WP.... Everything. And that's why I'm all in on React right now!
@@ -101,7 +101,7 @@ JS Coach [https://js.coach/react-native?sort=popular] is a good way to explore
 popular RN stuff. Of course, Google also works, and you'll often end up at
 Github, but keep this one in mind, might be useful!
 
-My Medium Recommendations [https://medium.com/@wijnandkarsens] - I read tons of
+My Medium Recommendations [https://medium.com/@karsens] - I read tons of
 articles about Javascript, and they're often on Medium. That makes my
 recommendation list a useful resource. I follow lots of awesome JS devs. I think
 it's a great way to see the bigger picture of Javascript!
