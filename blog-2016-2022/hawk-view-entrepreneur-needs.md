@@ -1,7 +1,6 @@
 ---
-createdAt: 1493008354000
-updatedAt: 1558425364000
-publishedAt: 1492250400000
+date: 2017-04-24
+modified_at: 2019-05-21
 ---
 
 # The Hawk-view every starting solo entrepreneur needs

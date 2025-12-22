@@ -1,7 +1,6 @@
 ---
-createdAt: 1497454403000
-updatedAt: 1498462840000
-publishedAt: 1497455589000
+date: 2017-06-14
+modified_at: 2017-06-26
 ---
 
 # I feel like a Tesla without wheels

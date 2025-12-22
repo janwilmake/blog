@@ -1,7 +1,6 @@
 ---
-createdAt: 1645782877000
-updatedAt: 1645783420000
-publishedAt: 1645783368000
+date: 2022-02-25
+modified_at: 2022-02-25
 ---
 
 # Having a clean Mac setup with a super low memory and cpu footprint

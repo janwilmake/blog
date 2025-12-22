@@ -1,7 +1,6 @@
 ---
-createdAt: 1501855327000
-updatedAt: 1558425313000
-publishedAt: 1501855413000
+date: 2017-08-04
+modified_at: 2019-05-21
 ---
 
 # Counterproductive behaviors of solo-entrepreneurs

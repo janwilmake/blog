@@ -1,7 +1,6 @@
 ---
-createdAt: 1517746440000
-updatedAt: 1517747232000
-publishedAt: 1517746614000
+date: 2018-02-04
+modified_at: 2018-02-04
 ---
 
 # Handling time on your server, using different ORM's in node: Sequelize and mysql2. Beware!

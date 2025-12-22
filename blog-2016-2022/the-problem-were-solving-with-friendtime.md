@@ -1,7 +1,6 @@
 ---
-createdAt: 1572180864000
-updatedAt: 1574169680000
-publishedAt: 1572180945000
+date: 2019-10-27
+modified_at: 2019-11-19
 ---
 
 # The problem we're solving with FriendTime

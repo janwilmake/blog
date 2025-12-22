@@ -1,7 +1,6 @@
 ---
-createdAt: 1609702284000
-updatedAt: 1609703418000
-publishedAt: 1609703418000
+date: 2021-01-03
+modified_at: 2021-01-03
 ---
 
 # Expanding at the speed of light, and preserving it into eternity

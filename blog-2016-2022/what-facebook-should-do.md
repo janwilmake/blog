@@ -1,7 +1,6 @@
 ---
-createdAt: 1600423967000
-updatedAt: 1600426580000
-publishedAt: 1600424546000
+date: 2020-09-18
+modified_at: 2020-09-18
 ---
 
 # What I think Facebook should do

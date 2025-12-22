@@ -1,7 +1,6 @@
 ---
-createdAt: 1498812470000
-updatedAt: 1498817608000
-publishedAt: 1488362040000
+date: 2017-06-30
+modified_at: 2017-06-30
 ---
 
 # The best apps to study and work on the move

@@ -1,7 +1,6 @@
 ---
-createdAt: 1520407708000
-updatedAt: 1520408836000
-publishedAt: 1520408314000
+date: 2018-03-07
+modified_at: 2018-03-07
 ---
 
 # Collaborations in the coworking space often rely on coincidence

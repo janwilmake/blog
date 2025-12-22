@@ -1,7 +1,6 @@
 ---
-createdAt: 1498811733000
-updatedAt: 1498817481000
-publishedAt: 1497170100000
+date: 2017-06-30
+modified_at: 2017-06-30
 ---
 
 # The Best Co-Working and Flexworking spaces in Groningen 2017

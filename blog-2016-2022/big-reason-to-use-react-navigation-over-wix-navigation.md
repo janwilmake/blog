@@ -1,7 +1,6 @@
 ---
-createdAt: 1547116045000
-updatedAt: 1547116419000
-publishedAt: 1547116409000
+date: 2019-01-10
+modified_at: 2019-01-10
 ---
 
 # Big reason to use React navigation over Wix navigation

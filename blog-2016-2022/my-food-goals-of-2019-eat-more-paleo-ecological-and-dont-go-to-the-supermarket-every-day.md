@@ -1,7 +1,6 @@
 ---
-createdAt: 1551006950000
-updatedAt: 1554989743000
-publishedAt: 1551007876000
+date: 2019-02-24
+modified_at: 2019-04-11
 ---
 
 # My food goals of 2019: Eat more paleo, ecological and don't go to the supermarket every day

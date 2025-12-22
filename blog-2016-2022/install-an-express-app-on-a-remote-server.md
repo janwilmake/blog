@@ -1,7 +1,6 @@
 ---
-createdAt: 1571562211000
-updatedAt: 1571567403000
-publishedAt: 1571562303000
+date: 2019-10-20
+modified_at: 2019-10-20
 ---
 
 # Install An Express+MySQL App on a remote server

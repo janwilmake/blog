@@ -1,7 +1,6 @@
 ---
-createdAt: 1520921830000
-updatedAt: 1520925396000
-publishedAt: 1520925219000
+date: 2018-03-13
+modified_at: 2018-03-13
 ---
 
 # React Native App Structure: Fat-, pure-, wrapper- or screen-components?

@@ -1,7 +1,6 @@
 ---
-createdAt: 1520300422000
-updatedAt: 1520323320000
-publishedAt: 1520300788000
+date: 2018-03-06
+modified_at: 2018-03-06
 ---
 
 # Workflow query creation (React Apollo)

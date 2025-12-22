@@ -1,7 +1,6 @@
 ---
-createdAt: 1560878877000
-updatedAt: 1560878943000
-publishedAt: 1560878943000
+date: 2019-06-18
+modified_at: 2019-06-18
 ---
 
 # How to set up mailchimp

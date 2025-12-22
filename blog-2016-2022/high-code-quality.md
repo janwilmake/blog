@@ -1,7 +1,6 @@
 ---
-createdAt: 1520921884000
-updatedAt: 1520922076000
-publishedAt: 1520921989000
+date: 2018-03-13
+modified_at: 2018-03-13
 ---
 
 # My 7 key ways to keep my Code Quality Ultra High

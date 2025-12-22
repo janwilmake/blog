@@ -1,7 +1,6 @@
 ---
-createdAt: 1500313828000
-updatedAt: 1526821119000
-publishedAt: 1500314302000
+date: 2017-07-17
+modified_at: 2018-05-20
 ---
 
 # Cycling through your life part III: The μCycle

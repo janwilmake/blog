@@ -1,7 +1,6 @@
 ---
-createdAt: 1553019211000
-updatedAt: 1556266247000
-publishedAt: 1553019330000
+date: 2019-03-19
+modified_at: 2019-04-26
 ---
 
 # What is the best way to test new features in your React Native App?

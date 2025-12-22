@@ -1,7 +1,6 @@
 ---
-createdAt: 1572007477000
-updatedAt: 1572009204000
-publishedAt: 1572008426000
+date: 2019-10-25
+modified_at: 2019-10-25
 ---
 
 # How to scrape public information from LinkedIn, Facebook and Twitter using Javascript

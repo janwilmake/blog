@@ -1,7 +1,6 @@
 ---
-createdAt: 1612941044000
-updatedAt: 1613036348000
-publishedAt: 1612941216000
+date: 2021-02-10
+modified_at: 2021-02-11
 ---
 
 # FriendTime Terms of Use

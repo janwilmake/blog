@@ -1,7 +1,6 @@
 ---
-createdAt: 1500310301000
-updatedAt: 1526821106000
-publishedAt: 1500313791000
+date: 2017-07-17
+modified_at: 2018-05-20
 ---
 
 # Cycling through your life part II - DevOps vs. Marketing in software companies

@@ -1,7 +1,6 @@
 ---
-createdAt: 1549956369000
-updatedAt: 1556196957000
-publishedAt: 1556196900000
+date: 2019-02-12
+modified_at: 2019-04-25
 ---
 
 # Deep Dream Devs

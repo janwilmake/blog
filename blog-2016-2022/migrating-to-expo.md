@@ -1,7 +1,6 @@
 ---
-createdAt: 1551017325000
-updatedAt: 1552470935000
-publishedAt: 1551102821000
+date: 2019-02-24
+modified_at: 2019-03-13
 ---
 
 # Migrating to Expo to become more lean and stable

@@ -1,7 +1,6 @@
 ---
-createdAt: 1493385867000
-updatedAt: 1558521216000
-publishedAt: 1493386234000
+date: 2017-04-28
+modified_at: 2019-05-22
 ---
 
 # 16 Ways To Learn A New Language While Having Fun

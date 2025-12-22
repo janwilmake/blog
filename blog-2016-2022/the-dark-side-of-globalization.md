@@ -1,7 +1,6 @@
 ---
-createdAt: 1522670177000
-updatedAt: 1526836863000
-publishedAt: 1526836863000
+date: 2018-04-02
+modified_at: 2018-05-20
 ---
 
 # The dark side of globalization

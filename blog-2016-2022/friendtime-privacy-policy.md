@@ -1,7 +1,6 @@
 ---
-createdAt: 1612509426000
-updatedAt: 1612509447000
-publishedAt: 1612509447000
+date: 2021-02-05
+modified_at: 2021-02-05
 ---
 
 # FriendTime Privacy Policy

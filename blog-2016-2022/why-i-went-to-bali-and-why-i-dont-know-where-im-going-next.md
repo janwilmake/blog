@@ -1,7 +1,6 @@
 ---
-createdAt: 1518110369000
-updatedAt: 1520410813000
-publishedAt: 1520323895000
+date: 2018-02-08
+modified_at: 2018-03-07
 ---
 
 # Why I went to Bali and why I don’t know where I’m going next

@@ -1,7 +1,6 @@
 ---
-createdAt: 1520298673000
-updatedAt: 1528217099000
-publishedAt: 1520298901000
+date: 2018-03-06
+modified_at: 2018-06-05
 ---
 
 # Setting up a GraphQL Backend without GraphCool

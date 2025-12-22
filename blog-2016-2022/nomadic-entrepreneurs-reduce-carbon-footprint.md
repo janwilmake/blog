@@ -1,7 +1,6 @@
 ---
-createdAt: 1497173703000
-updatedAt: 1498308484000
-publishedAt: 1497176720000
+date: 2017-06-11
+modified_at: 2017-06-24
 ---
 
 # 4 ways nomadic entrepreneurs can reduce their Carbon Footprint

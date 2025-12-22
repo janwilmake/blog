@@ -1,7 +1,6 @@
 ---
-createdAt: 1505727968000
-updatedAt: 1526820999000
-publishedAt: 1505728278000
+date: 2017-09-18
+modified_at: 2018-05-20
 ---
 
 # Vietnam through my eyes

@@ -1,7 +1,6 @@
 ---
-createdAt: 1511118600000
-updatedAt: 1526821868000
-publishedAt: 1511119697000
+date: 2017-11-19
+modified_at: 2018-05-20
 ---
 
 # Routine

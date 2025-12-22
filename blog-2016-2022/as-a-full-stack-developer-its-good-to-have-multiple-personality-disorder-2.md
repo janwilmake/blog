@@ -1,7 +1,6 @@
 ---
-createdAt: 1519737728000
-updatedAt: 1526823242000
-publishedAt: 1519739618000
+date: 2018-02-27
+modified_at: 2018-05-20
 ---
 
 # The Multiple Personality Coder

@@ -1,7 +1,6 @@
 ---
-createdAt: 1497189504000
-updatedAt: 1520316937000
-publishedAt: 1498958803000
+date: 2017-06-11
+modified_at: 2018-03-06
 ---
 
 # How to diminish distractions while being nomadic

@@ -1,7 +1,6 @@
 ---
-createdAt: 1505218087000
-updatedAt: 1505221456000
-publishedAt: 1505219713000
+date: 2017-09-12
+modified_at: 2017-09-12
 ---
 
 # I don't know or I don't flow

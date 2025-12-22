@@ -1,7 +1,6 @@
 ---
-createdAt: 1520408955000
-updatedAt: 1520551269000
-publishedAt: 1520409240000
+date: 2018-03-07
+modified_at: 2018-03-09
 ---
 
 # Meet iProud: The productivity app for entrepreneurs!

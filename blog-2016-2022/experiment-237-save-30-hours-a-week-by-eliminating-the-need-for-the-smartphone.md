@@ -1,7 +1,6 @@
 ---
-createdAt: 1604826425000
-updatedAt: 1604827125000
-publishedAt: 1604827125000
+date: 2020-11-08
+modified_at: 2020-11-08
 ---
 
 # Experiment #237: Save 35 hours a week by eliminating the need for the smartphone

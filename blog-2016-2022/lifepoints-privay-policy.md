@@ -1,7 +1,6 @@
 ---
-createdAt: 1592740836000
-updatedAt: 1592741001000
-publishedAt: 1592741001000
+date: 2020-06-21
+modified_at: 2020-06-21
 ---
 
 # Lifepoints privacy policy

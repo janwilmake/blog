@@ -1,7 +1,6 @@
 ---
-createdAt: 1549538485000
-updatedAt: 1549538636000
-publishedAt: 1549538636000
+date: 2019-02-07
+modified_at: 2019-02-07
 ---
 
 # My 7 Levels of Freedom to minimise stress, doubt and regret and maximise possibility, happiness and growth

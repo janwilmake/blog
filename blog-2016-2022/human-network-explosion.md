@@ -1,7 +1,6 @@
 ---
-createdAt: 1558691597000
-updatedAt: 1558693000000
-publishedAt: 1558692372000
+date: 2019-05-24
+modified_at: 2019-05-24
 ---
 
 # The Human Network Explosion

@@ -1,7 +1,6 @@
 ---
-createdAt: 1510255510000
-updatedAt: 1526821731000
-publishedAt: 1510256394000
+date: 2017-11-09
+modified_at: 2018-05-20
 ---
 
 # Real artists Ship - A look back at 2017.

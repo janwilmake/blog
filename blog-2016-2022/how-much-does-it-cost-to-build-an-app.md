@@ -1,7 +1,6 @@
 ---
-createdAt: 1553108338000
-updatedAt: 1572010770000
-publishedAt: 1572010770000
+date: 2019-03-20
+modified_at: 2019-10-25
 ---
 
 # How much does it cost to build an app?

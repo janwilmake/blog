@@ -1,7 +1,6 @@
 ---
-createdAt: 1556196349000
-updatedAt: 1557262059000
-publishedAt: 1556198139000
+date: 2019-04-25
+modified_at: 2019-05-07
 ---
 
 # Daylight is good for me

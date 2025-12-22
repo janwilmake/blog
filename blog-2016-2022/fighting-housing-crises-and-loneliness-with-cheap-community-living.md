@@ -1,7 +1,6 @@
 ---
-createdAt: 1547826992000
-updatedAt: 1548789663000
-publishedAt: 1547827669000
+date: 2019-01-18
+modified_at: 2019-01-29
 ---
 
 # Fighting housing crises and loneliness with Cheap Community Living

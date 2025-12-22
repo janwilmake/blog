@@ -1,7 +1,6 @@
 ---
-createdAt: 1601311942000
-updatedAt: 1601312394000
-publishedAt: 1601312323000
+date: 2020-09-28
+modified_at: 2020-09-28
 ---
 
 # The Dev Lifecycle

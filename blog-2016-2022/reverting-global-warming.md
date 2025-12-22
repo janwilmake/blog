@@ -1,7 +1,6 @@
 ---
-createdAt: 1497180910000
-updatedAt: 1520317845000
-publishedAt: 1520317769000
+date: 2017-06-11
+modified_at: 2018-03-06
 ---
 
 # My solution to revert global warming is creating a status-symbol of your CO2 footprint: A simple MVP idea

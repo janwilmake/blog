@@ -1,7 +1,6 @@
 ---
-createdAt: 1499123351000
-updatedAt: 1499126124000
-publishedAt: 1499124317000
+date: 2017-07-04
+modified_at: 2017-07-04
 ---
 
 # What coding teached me about business (and vice versa)

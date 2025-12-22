@@ -1,7 +1,6 @@
 ---
-createdAt: 1556038251000
-updatedAt: 1556040167000
-publishedAt: 1556038879000
+date: 2019-04-23
+modified_at: 2019-04-23
 ---
 
 # Lean Life

@@ -1,7 +1,6 @@
 ---
-createdAt: 1497546975000
-updatedAt: 1497547012000
-publishedAt: 1493562540000
+date: 2017-06-15
+modified_at: 2017-06-15
 ---
 
 # WordPress versus Ghost - Read this if you're serious about writing

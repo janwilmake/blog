@@ -1,7 +1,6 @@
 ---
-createdAt: 1507580378000
-updatedAt: 1526821498000
-publishedAt: 1507581854000
+date: 2017-10-09
+modified_at: 2018-05-20
 ---
 
 # Why openness from day one is so damn important for solo entrepreneurs in software

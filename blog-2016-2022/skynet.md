@@ -1,7 +1,6 @@
 ---
-createdAt: 1495031779000
-updatedAt: 1526821580000
-publishedAt: 1520319039000
+date: 2017-05-17
+modified_at: 2018-05-20
 ---
 
 # Is Skynet already there? My prediction of the collapse of internet as we know it

@@ -1,7 +1,6 @@
 ---
-createdAt: 1500567044000
-updatedAt: 1500570075000
-publishedAt: 1500567536000
+date: 2017-07-20
+modified_at: 2017-07-20
 ---
 
 # Google makes us creative, but also more self-determined

@@ -1,7 +1,6 @@
 ---
-createdAt: 1522508716000
-updatedAt: 1552126515000
-publishedAt: 1522508954000
+date: 2018-03-31
+modified_at: 2019-03-09
 ---
 
 # Publishing your expo app to both app stores

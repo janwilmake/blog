@@ -1,7 +1,6 @@
 ---
-createdAt: 1549321965000
-updatedAt: 1549322964000
-publishedAt: 1549322794000
+date: 2019-02-05
+modified_at: 2019-02-05
 ---
 
 # Why I can't quit Facebook

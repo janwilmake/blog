@@ -1,7 +1,6 @@
 ---
-createdAt: 1548839685000
-updatedAt: 1548840508000
-publishedAt: 1548840339000
+date: 2019-01-30
+modified_at: 2019-01-30
 ---
 
 # About scaling horizontally without sharding: How many RPS are possible without sharding? Is this between-step worth it?

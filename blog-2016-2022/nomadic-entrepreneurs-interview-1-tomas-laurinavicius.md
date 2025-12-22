@@ -1,7 +1,6 @@
 ---
-createdAt: 1499109496000
-updatedAt: 1499109776000
-publishedAt: 1499109776000
+date: 2017-07-03
+modified_at: 2017-07-03
 ---
 
 # Nomadic Entrepreneurs Interview #1 - Tomas Laurinavicius

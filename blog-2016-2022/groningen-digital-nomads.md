@@ -1,7 +1,6 @@
 ---
-createdAt: 1498811824000
-updatedAt: 1498817530000
-publishedAt: 1496565420000
+date: 2017-06-30
+modified_at: 2017-06-30
 ---
 
 # 5 Reasons why Groningen is underrated as a place for Digital Nomads

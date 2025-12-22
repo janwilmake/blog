@@ -1,7 +1,6 @@
 ---
-createdAt: 1624899929000
-updatedAt: 1624899974000
-publishedAt: 1624899937000
+date: 2021-06-28
+modified_at: 2021-06-28
 ---
 
 # InstaClean Privacy Policy

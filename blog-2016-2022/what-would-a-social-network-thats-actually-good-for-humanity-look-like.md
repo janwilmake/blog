@@ -1,7 +1,6 @@
 ---
-createdAt: 1553021264000
-updatedAt: 1626340929000
-publishedAt: 1626339600000
+date: 2019-03-19
+modified_at: 2021-07-15
 ---
 
 # What would a social network that's actually good for humanity look like?

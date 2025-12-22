@@ -1,7 +1,6 @@
 ---
-createdAt: 1522660400000
-updatedAt: 1526819136000
-publishedAt: 1522660521000
+date: 2018-04-02
+modified_at: 2018-05-20
 ---
 
 # Wet code and inline styles

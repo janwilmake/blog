@@ -1,7 +1,6 @@
 ---
-createdAt: 1506592341000
-updatedAt: 1526821403000
-publishedAt: 1506593459000
+date: 2017-09-28
+modified_at: 2018-05-20
 ---
 
 # My energy levels in Eat Code Kite Repeat: Being in alignment with your environment

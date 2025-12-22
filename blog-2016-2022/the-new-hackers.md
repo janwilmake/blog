@@ -1,7 +1,6 @@
 ---
-createdAt: 1547194217000
-updatedAt: 1547195270000
-publishedAt: 1547195270000
+date: 2019-01-11
+modified_at: 2019-01-11
 ---
 
 # The new hackers will impersonate the ones you love

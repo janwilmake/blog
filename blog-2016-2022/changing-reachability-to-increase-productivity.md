@@ -1,7 +1,6 @@
 ---
-createdAt: 1547907603000
-updatedAt: 1548789651000
-publishedAt: 1547908084000
+date: 2019-01-19
+modified_at: 2019-01-29
 ---
 
 # Changing reachability to increase productivity

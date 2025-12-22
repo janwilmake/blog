@@ -1,7 +1,6 @@
 ---
-createdAt: 1494078530000
-updatedAt: 1526820918000
-publishedAt: 1498959099000
+date: 2017-05-06
+modified_at: 2018-05-20
 ---
 
 # Elephant-shit

@@ -1,7 +1,6 @@
 ---
-createdAt: 1493008249000
-updatedAt: 1558562249000
-publishedAt: 1492844400000
+date: 2017-04-24
+modified_at: 2019-05-22
 ---
 
 # How to solve attention pollution and cure your love/hate relationship with your smartphone

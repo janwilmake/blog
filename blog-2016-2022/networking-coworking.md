@@ -1,7 +1,6 @@
 ---
-createdAt: 1542152707000
-updatedAt: 1542304291000
-publishedAt: 1542152732000
+date: 2018-11-14
+modified_at: 2018-11-15
 ---
 
 # In search for the perfect Communication App for Co-Working spaces: Slack, Facebook groups, and beyond

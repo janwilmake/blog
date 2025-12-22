@@ -1,7 +1,6 @@
 ---
-createdAt: 1556605192000
-updatedAt: 1556605410000
-publishedAt: 1556605371000
+date: 2019-04-30
+modified_at: 2019-04-30
 ---
 
 # Screentime update, April 2019

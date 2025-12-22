@@ -1,7 +1,6 @@
 ---
-createdAt: 1514329796000
-updatedAt: 1546476240000
-publishedAt: 1514329816000
+date: 2017-12-27
+modified_at: 2019-01-03
 ---
 
 # Justified Dopamine

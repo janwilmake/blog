@@ -1,7 +1,6 @@
 ---
-createdAt: 1610638162000
-updatedAt: 1610638416000
-publishedAt: 1610638416000
+date: 2021-01-14
+modified_at: 2021-01-14
 ---
 
 # Didn't do shit

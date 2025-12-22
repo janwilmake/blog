@@ -1,7 +1,6 @@
 ---
-createdAt: 1553452843000
-updatedAt: 1572010668000
-publishedAt: 1572010668000
+date: 2019-03-24
+modified_at: 2019-10-25
 ---
 
 # My Coding Principles

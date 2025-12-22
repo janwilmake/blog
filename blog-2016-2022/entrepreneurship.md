@@ -1,7 +1,6 @@
 ---
-createdAt: 1496740609000
-updatedAt: 1496741213000
-publishedAt: 1496740631000
+date: 2017-06-06
+modified_at: 2017-06-06
 ---
 
 # True Entrepreneurship

@@ -1,7 +1,6 @@
 ---
-createdAt: 1572365386000
-updatedAt: 1573822977000
-publishedAt: 1573822920000
+date: 2019-10-29
+modified_at: 2019-11-15
 ---
 
 # The (dis)advantages of making your mobile app invite only

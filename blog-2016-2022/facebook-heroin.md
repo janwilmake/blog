@@ -1,7 +1,6 @@
 ---
-createdAt: 1508283380000
-updatedAt: 1558374557000
-publishedAt: 1508283560000
+date: 2017-10-18
+modified_at: 2019-05-20
 ---
 
 # Is Facebook as addictive as Heroin?

@@ -1,7 +1,6 @@
 ---
-createdAt: 1500314673000
-updatedAt: 1526821135000
-publishedAt: 1500315025000
+date: 2017-07-17
+modified_at: 2018-05-20
 ---
 
 # Cycling through your life part IV - The cycle of the future: towards grown consciousness

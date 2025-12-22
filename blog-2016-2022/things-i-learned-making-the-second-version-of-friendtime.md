@@ -1,7 +1,6 @@
 ---
-createdAt: 1626156625000
-updatedAt: 1626157975000
-publishedAt: 1626157975000
+date: 2021-07-13
+modified_at: 2021-07-13
 ---
 
 # Lessons learned building the second version of FriendTime

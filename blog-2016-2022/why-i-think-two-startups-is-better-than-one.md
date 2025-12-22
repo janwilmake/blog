@@ -1,7 +1,6 @@
 ---
-createdAt: 1553020677000
-updatedAt: 1553021167000
-publishedAt: 1553021004000
+date: 2019-03-19
+modified_at: 2019-03-19
 ---
 
 # Why I think working at two startups is better than one

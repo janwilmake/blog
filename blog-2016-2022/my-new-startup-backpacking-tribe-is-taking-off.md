@@ -1,7 +1,6 @@
 ---
-createdAt: 1604051839000
-updatedAt: 1604054118000
-publishedAt: 1604054046000
+date: 2020-10-30
+modified_at: 2020-10-30
 ---
 
 # My new startup - BackpackingTribe - is taking off!

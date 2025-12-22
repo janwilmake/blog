@@ -1,7 +1,6 @@
 ---
-createdAt: 1552233289000
-updatedAt: 1558374095000
-publishedAt: 1552233926000
+date: 2019-03-10
+modified_at: 2019-05-20
 ---
 
 # I just made an app in 26 hours

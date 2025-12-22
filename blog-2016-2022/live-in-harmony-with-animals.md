@@ -1,7 +1,6 @@
 ---
-createdAt: 1605708035000
-updatedAt: 1605708599000
-publishedAt: 1605708599000
+date: 2020-11-18
+modified_at: 2020-11-18
 ---
 
 # Living in harmony with animals

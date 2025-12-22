@@ -1,8 +1,6 @@
 ---
-createdAt: 1546456895000
-updatedAt: 1546476333000
-publishedAt: 1546457403000
----
+date: 2019-01-02
+modified_at: 2019-01-03---
 
 # The AI Boom is Near...
 

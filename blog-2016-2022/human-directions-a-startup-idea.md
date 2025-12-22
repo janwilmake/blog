@@ -1,7 +1,6 @@
 ---
-createdAt: 1551018529000
-updatedAt: 1552472985000
-publishedAt: 1551018586000
+date: 2019-02-24
+modified_at: 2019-03-13
 ---
 
 # Human Directions: A startup idea

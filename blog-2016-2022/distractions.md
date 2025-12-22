@@ -1,7 +1,6 @@
 ---
-createdAt: 1493012906000
-updatedAt: 1558521222000
-publishedAt: 1493013066000
+date: 2017-04-24
+modified_at: 2019-05-22
 ---
 
 # Cycling through your life: Communicate, Adapt & Get shit done

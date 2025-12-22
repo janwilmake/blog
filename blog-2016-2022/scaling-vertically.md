@@ -1,7 +1,6 @@
 ---
-createdAt: 1548750508000
-updatedAt: 1548856952000
-publishedAt: 1548788104000
+date: 2019-01-29
+modified_at: 2019-01-30
 ---
 
 # Scaling my Node JS GraphQL Server Vertically to 5k RPS on a single machine

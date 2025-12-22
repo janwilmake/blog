@@ -1,7 +1,6 @@
 ---
-createdAt: 1600173949000
-updatedAt: 1600611219000
-publishedAt: 1600174530000
+date: 2020-09-15
+modified_at: 2020-09-20
 ---
 
 # Know Thyself. But how?

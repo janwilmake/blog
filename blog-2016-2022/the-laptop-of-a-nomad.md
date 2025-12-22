@@ -1,7 +1,6 @@
 ---
-createdAt: 1504365698000
-updatedAt: 1526821267000
-publishedAt: 1504365742000
+date: 2017-09-02
+modified_at: 2018-05-20
 ---
 
 # Possessions for happiness?

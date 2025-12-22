@@ -1,7 +1,6 @@
 ---
-createdAt: 1520409416000
-updatedAt: 1520410382000
-publishedAt: 1520409929000
+date: 2018-03-07
+modified_at: 2018-03-07
 ---
 
 # The most complex app I ever made, made it to both app stores!

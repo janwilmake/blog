@@ -1,7 +1,6 @@
 ---
-createdAt: 1511163797000
-updatedAt: 1526822977000
-publishedAt: 1511163804000
+date: 2017-11-20
+modified_at: 2018-05-20
 ---
 
 # The basis: what comes after happiness?

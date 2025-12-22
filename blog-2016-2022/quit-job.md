@@ -1,7 +1,6 @@
 ---
-createdAt: 1612978541000
-updatedAt: 1612979216000
-publishedAt: 1612979216000
+date: 2021-02-10
+modified_at: 2021-02-10
 ---
 
 # Quitting my job, living cheap, working full time on my startup(s). Saving hundreds of euro's every month.

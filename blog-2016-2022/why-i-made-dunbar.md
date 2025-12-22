@@ -1,7 +1,6 @@
 ---
-createdAt: 1572181218000
-updatedAt: 1590858192000
-publishedAt: 1572181240000
+date: 2019-10-27
+modified_at: 2020-05-30
 ---
 
 # Why I made FriendTime

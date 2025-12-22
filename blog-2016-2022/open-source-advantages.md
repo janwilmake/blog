@@ -1,7 +1,6 @@
 ---
-createdAt: 1557898196000
-updatedAt: 1558521990000
-publishedAt: 1557899674000
+date: 2019-05-15
+modified_at: 2019-05-22
 ---
 
 # The advantages of open sourcing

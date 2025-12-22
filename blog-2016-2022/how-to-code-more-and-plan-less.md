@@ -1,7 +1,6 @@
 ---
-createdAt: 1556695456000
-updatedAt: 1556778088000
-publishedAt: 1556696170000
+date: 2019-05-01
+modified_at: 2019-05-02
 ---
 
 # The solution to the PO Fallacy - How to code more, and plan less

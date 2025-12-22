@@ -1,7 +1,6 @@
 ---
-createdAt: 1551017782000
-updatedAt: 1551018286000
-publishedAt: 1551018163000
+date: 2019-02-24
+modified_at: 2019-02-24
 ---
 
 # Processing feedback of your users in your app: HockeyApp, Intercom, WhatsApp?

@@ -1,7 +1,6 @@
 ---
-createdAt: 1502611917000
-updatedAt: 1558521204000
-publishedAt: 1502613434000
+date: 2017-08-13
+modified_at: 2019-05-22
 ---
 
 # Capitalism drives cyborgs to the top, if we like it or not

@@ -1,7 +1,6 @@
 ---
-createdAt: 1547222975000
-updatedAt: 1547223808000
-publishedAt: 1547223640000
+date: 2019-01-11
+modified_at: 2019-01-11
 ---
 
 # Perfections VS Speed in Data-driven React Native Apps

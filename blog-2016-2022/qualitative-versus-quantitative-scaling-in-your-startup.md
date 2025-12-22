@@ -1,7 +1,6 @@
 ---
-createdAt: 1553505021000
-updatedAt: 1555510821000
-publishedAt: 1553581733000
+date: 2019-03-25
+modified_at: 2019-04-17
 ---
 
 # Qualitative versus Quantitative Scaling in your startup

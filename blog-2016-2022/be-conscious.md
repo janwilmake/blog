@@ -1,7 +1,6 @@
 ---
-createdAt: 1510840601000
-updatedAt: 1526821781000
-publishedAt: 1510840701000
+date: 2017-11-16
+modified_at: 2018-05-20
 ---
 
 # Be conscious!

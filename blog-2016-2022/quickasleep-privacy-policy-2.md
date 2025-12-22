@@ -1,7 +1,6 @@
 ---
-createdAt: 1627823447000
-updatedAt: 1627823454000
-publishedAt: 1627823454000
+date: 2021-08-01
+modified_at: 2021-08-01
 ---
 
 # QuickAsleep Privacy Policy

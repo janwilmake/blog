@@ -1,7 +1,6 @@
 ---
-createdAt: 1493007527000
-updatedAt: 1493466488000
-publishedAt: 1480590000000
+date: 2017-04-24
+modified_at: 2017-04-29
 ---
 
 # Langtang Nepal

@@ -1,7 +1,6 @@
 ---
-createdAt: 1522060543000
-updatedAt: 1528221650000
-publishedAt: 1522060546000
+date: 2018-03-26
+modified_at: 2018-06-05
 ---
 
 # How to create a sustainable world?

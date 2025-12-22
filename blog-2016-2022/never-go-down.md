@@ -1,7 +1,6 @@
 ---
-createdAt: 1548788151000
-updatedAt: 1548790033000
-publishedAt: 1548788344000
+date: 2019-01-29
+modified_at: 2019-01-29
 ---
 
 # Never let your API go down with a flexible client

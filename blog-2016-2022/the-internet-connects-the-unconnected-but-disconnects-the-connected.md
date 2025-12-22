@@ -1,7 +1,6 @@
 ---
-createdAt: 1494071330000
-updatedAt: 1558374365000
-publishedAt: 1499390520000
+date: 2017-05-06
+modified_at: 2019-05-20
 ---
 
 # Internet connects the unconnected, but disconnects the connected

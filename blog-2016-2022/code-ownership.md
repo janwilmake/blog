@@ -1,7 +1,6 @@
 ---
-createdAt: 1546693359000
-updatedAt: 1546695644000
-publishedAt: 1546694188000
+date: 2019-01-05
+modified_at: 2019-01-05
 ---
 
 # Why code ownership is a must for agile development

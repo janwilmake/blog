@@ -1,7 +1,6 @@
 ---
-createdAt: 1556196340000
-updatedAt: 1556199310000
-publishedAt: 1556198283000
+date: 2019-04-25
+modified_at: 2019-04-25
 ---
 
 # The Hammock Experiment

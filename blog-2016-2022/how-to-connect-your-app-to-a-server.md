@@ -1,7 +1,6 @@
 ---
-createdAt: 1520320455000
-updatedAt: 1520324611000
-publishedAt: 1520321583000
+date: 2018-03-06
+modified_at: 2018-03-06
 ---
 
 # How to connect your app to a server?

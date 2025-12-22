@@ -1,7 +1,6 @@
 ---
-createdAt: 1520299560000
-updatedAt: 1520323380000
-publishedAt: 1520299744000
+date: 2018-03-06
+modified_at: 2018-03-06
 ---
 
 # Must have Tooling & Programs

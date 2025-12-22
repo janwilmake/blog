@@ -1,7 +1,6 @@
 ---
-createdAt: 1547216824000
-updatedAt: 1547223928000
-publishedAt: 1547217156000
+date: 2019-01-11
+modified_at: 2019-01-11
 ---
 
 # Today I open-sourced nearly 10% of my codebase

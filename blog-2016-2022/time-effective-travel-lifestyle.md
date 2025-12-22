@@ -1,7 +1,6 @@
 ---
-createdAt: 1499615362000
-updatedAt: 1558520256000
-publishedAt: 1499616548000
+date: 2017-07-09
+modified_at: 2019-05-22
 ---
 
 # The Best Sustainable Travel Lifestyle: about time-effective organization

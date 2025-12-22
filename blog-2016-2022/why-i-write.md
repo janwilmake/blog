@@ -1,7 +1,6 @@
 ---
-createdAt: 1497442008000
-updatedAt: 1497443482000
-publishedAt: 1497442638000
+date: 2017-06-14
+modified_at: 2017-06-14
 ---
 
 # 4 Reasons Writing Makes You A More Succesful Entrepreneur

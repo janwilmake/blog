@@ -1,7 +1,6 @@
 ---
-createdAt: 1497546817000
-updatedAt: 1497546928000
-publishedAt: 1495290780000
+date: 2017-06-15
+modified_at: 2017-06-15
 ---
 
 # Blazing Fast & Beautiful isn't it? Discover Digital Ocean and Ghost

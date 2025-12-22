@@ -1,7 +1,6 @@
 ---
-createdAt: 1499773596000
-updatedAt: 1558374354000
-publishedAt: 1499773716000
+date: 2017-07-11
+modified_at: 2019-05-20
 ---
 
 # Today I uninstalled WhatsApp to save 40 minutes a day

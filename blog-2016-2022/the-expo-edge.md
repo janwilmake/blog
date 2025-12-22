@@ -1,7 +1,6 @@
 ---
-createdAt: 1520300996000
-updatedAt: 1553514834000
-publishedAt: 1551060000000
+date: 2018-03-06
+modified_at: 2019-03-25
 ---
 
 # The Expo Edge - why you should choose Expo over bare React Native

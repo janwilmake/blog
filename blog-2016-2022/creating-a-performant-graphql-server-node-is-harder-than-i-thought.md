@@ -1,7 +1,6 @@
 ---
-createdAt: 1520299072000
-updatedAt: 1520323420000
-publishedAt: 1520299201000
+date: 2018-03-06
+modified_at: 2018-03-06
 ---
 
 # Creating a performant GraphQL Server - node is harder than I thought!

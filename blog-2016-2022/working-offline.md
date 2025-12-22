@@ -1,7 +1,6 @@
 ---
-createdAt: 1503238884000
-updatedAt: 1558520249000
-publishedAt: 1503239938000
+date: 2017-08-20
+modified_at: 2019-05-22
 ---
 
 # About working offline

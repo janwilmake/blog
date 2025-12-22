@@ -1,7 +1,6 @@
 ---
-createdAt: 1554716739000
-updatedAt: 1555510683000
-publishedAt: 1554718826000
+date: 2019-04-08
+modified_at: 2019-04-17
 ---
 
 # About Single Tasking and Screen/Window Setup on your Mac and Phones

@@ -1,7 +1,6 @@
 ---
-createdAt: 1520586053000
-updatedAt: 1520923631000
-publishedAt: 1520586859000
+date: 2018-03-09
+modified_at: 2018-03-13
 ---
 
 # The rise of the Solo Dev Startup — 7 Reasons why writing useful apps on your own becomes moore easy

@@ -1,7 +1,6 @@
 ---
-createdAt: 1622383510000
-updatedAt: 1623264529000
-publishedAt: 1622383534000
+date: 2021-05-30
+modified_at: 2021-06-09
 ---
 
 # Code From Anywhere Terms of Use

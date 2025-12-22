@@ -1,7 +1,6 @@
 ---
-createdAt: 1501931072000
-updatedAt: 1501935405000
-publishedAt: 1501932688000
+date: 2017-08-05
+modified_at: 2017-08-05
 ---
 
 # What is the perfect way to study and work on the move?

@@ -1,7 +1,6 @@
 ---
-createdAt: 1499115999000
-updatedAt: 1546892555000
-publishedAt: 1499115960000
+date: 2017-07-03
+modified_at: 2019-01-07
 ---
 
 # My view on React Native and why I think it's the future

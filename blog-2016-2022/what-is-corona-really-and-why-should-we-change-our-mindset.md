@@ -1,7 +1,6 @@
 ---
-createdAt: 1620666297000
-updatedAt: 1621445681000
-publishedAt: 1620666889000
+date: 2021-05-10
+modified_at: 2021-05-19
 ---
 
 # What is Corona, really, and why should we change our mindset?

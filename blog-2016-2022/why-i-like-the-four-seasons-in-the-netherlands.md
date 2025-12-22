@@ -1,7 +1,6 @@
 ---
-createdAt: 1621502318000
-updatedAt: 1621502791000
-publishedAt: 1621502791000
+date: 2021-05-20
+modified_at: 2021-05-20
 ---
 
 # Why I like the four seasons in the Netherlands

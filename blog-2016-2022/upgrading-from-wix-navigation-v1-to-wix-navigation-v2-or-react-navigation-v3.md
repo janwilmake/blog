@@ -1,7 +1,6 @@
 ---
-createdAt: 1550050478000
-updatedAt: 1552257851000
-publishedAt: 1550057898000
+date: 2019-02-13
+modified_at: 2019-03-10
 ---
 
 # Upgrading from Wix Navigation v1 to Wix Navigation v2, or React Navigation v3?

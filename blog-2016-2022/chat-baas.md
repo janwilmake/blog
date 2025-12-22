@@ -1,7 +1,6 @@
 ---
-createdAt: 1547165012000
-updatedAt: 1547223854000
-publishedAt: 1547165509000
+date: 2019-01-11
+modified_at: 2019-01-11
 ---
 
 # Chat-BaaS: Chat Backend as a Service

@@ -1,7 +1,6 @@
 ---
-createdAt: 1547655021000
-updatedAt: 1552257836000
-publishedAt: 1551022064000
+date: 2019-01-16
+modified_at: 2019-03-10
 ---
 
 # Seven mistakes I think my software company made building their React Native App

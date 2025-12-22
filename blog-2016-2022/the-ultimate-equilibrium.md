@@ -1,7 +1,6 @@
 ---
-createdAt: 1556643540000
-updatedAt: 1590857851000
-publishedAt: 1556644250000
+date: 2019-04-30
+modified_at: 2020-05-30
 ---
 
 # The theory of everything and the ultimate equilibrium

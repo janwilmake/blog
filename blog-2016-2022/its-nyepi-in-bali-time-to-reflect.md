@@ -1,7 +1,6 @@
 ---
-createdAt: 1521261871000
-updatedAt: 1526904421000
-publishedAt: 1521263017000
+date: 2018-03-17
+modified_at: 2018-05-21
 ---
 
 # It's Nyepi in Bali. Time to reflect

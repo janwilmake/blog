@@ -1,7 +1,6 @@
 ---
-createdAt: 1571330738000
-updatedAt: 1571332058000
-publishedAt: 1571330854000
+date: 2019-10-17
+modified_at: 2019-10-17
 ---
 
 # Application Loader gone in XCode 11? This is how you upload your app now

@@ -1,7 +1,6 @@
 ---
-createdAt: 1557871804000
-updatedAt: 1557871837000
-publishedAt: 1557871837000
+date: 2019-05-15
+modified_at: 2019-05-15
 ---
 
 # How to use CloudFlare with Ghost with automatic SSL

@@ -1,7 +1,6 @@
 ---
-createdAt: 1552034246000
-updatedAt: 1590858054000
-publishedAt: 1553020560000
+date: 2019-03-08
+modified_at: 2020-05-30
 ---
 
 # Redux Light and Universal endpoints

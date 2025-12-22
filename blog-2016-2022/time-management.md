@@ -1,7 +1,6 @@
 ---
-createdAt: 1497883467000
-updatedAt: 1498084926000
-publishedAt: 1497888932000
+date: 2017-06-19
+modified_at: 2017-06-22
 ---
 
 # Time management

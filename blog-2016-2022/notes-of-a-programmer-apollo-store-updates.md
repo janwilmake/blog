@@ -1,7 +1,6 @@
 ---
-createdAt: 1520299304000
-updatedAt: 1520313622000
-publishedAt: 1520299416000
+date: 2018-03-06
+modified_at: 2018-03-06
 ---
 
 # [Notes of a programmer]: Apollo store updates

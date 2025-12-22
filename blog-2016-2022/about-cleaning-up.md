@@ -1,7 +1,6 @@
 ---
-createdAt: 1495631461000
-updatedAt: 1499609450000
-publishedAt: 1498959046000
+date: 2017-05-24
+modified_at: 2017-07-09
 ---
 
 # Wijnand, clean up your room!

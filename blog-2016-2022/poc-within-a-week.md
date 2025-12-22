@@ -1,7 +1,6 @@
 ---
-createdAt: 1554121887000
-updatedAt: 1590857174000
-publishedAt: 1554122503000
+date: 2019-04-01
+modified_at: 2020-05-30
 ---
 
 # MVP within a week

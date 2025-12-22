@@ -1,7 +1,6 @@
 ---
-createdAt: 1493389708000
-updatedAt: 1500313126000
-publishedAt: 1493389680000
+date: 2017-04-28
+modified_at: 2017-07-17
 ---
 
 # The habit of Change

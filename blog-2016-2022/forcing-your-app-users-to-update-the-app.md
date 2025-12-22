@@ -1,7 +1,6 @@
 ---
-createdAt: 1551017563000
-updatedAt: 1553024341000
-publishedAt: 1551102807000
+date: 2019-02-24
+modified_at: 2019-03-19
 ---
 
 # Forcing your app users to update the app

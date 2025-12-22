@@ -1,7 +1,6 @@
 ---
-createdAt: 1521591784000
-updatedAt: 1526823322000
-publishedAt: 1521591852000
+date: 2018-03-21
+modified_at: 2018-05-20
 ---
 
 # The importance of rooms lies in hyperpolar immersion

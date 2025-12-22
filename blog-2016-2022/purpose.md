@@ -1,7 +1,6 @@
 ---
-createdAt: 1498958241000
-updatedAt: 1526820788000
-publishedAt: 1498958370000
+date: 2017-07-02
+modified_at: 2018-05-20
 ---
 
 # Purpose: Find your ikigai

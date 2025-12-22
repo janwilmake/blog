@@ -1,7 +1,6 @@
 ---
-createdAt: 1520299926000
-updatedAt: 1520388409000
-publishedAt: 1520300057000
+date: 2018-03-06
+modified_at: 2018-03-07
 ---
 
 # Shortcuts Cheatsheet

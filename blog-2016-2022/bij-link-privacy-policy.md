@@ -1,7 +1,6 @@
 ---
-createdAt: 1596287026000
-updatedAt: 1596287046000
-publishedAt: 1596287046000
+date: 2020-08-01
+modified_at: 2020-08-01
 ---
 
 # Bij Link Privacy Policy

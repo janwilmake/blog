@@ -1,7 +1,6 @@
 ---
-createdAt: 1548307441000
-updatedAt: 1548789636000
-publishedAt: 1548308344000
+date: 2019-01-24
+modified_at: 2019-01-29
 ---
 
 # Are VR Autonomous Segways the future, or was it just a dream?

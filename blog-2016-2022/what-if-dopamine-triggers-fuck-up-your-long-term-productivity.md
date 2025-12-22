@@ -1,7 +1,6 @@
 ---
-createdAt: 1513119154000
-updatedAt: 1546476195000
-publishedAt: 1513120033000
+date: 2017-12-12
+modified_at: 2019-01-03
 ---
 
 # What if dopamine triggers fuck up your long-term productivity?

@@ -1,7 +1,6 @@
 ---
-createdAt: 1526979608000
-updatedAt: 1526980224000
-publishedAt: 1526979933000
+date: 2018-05-22
+modified_at: 2018-05-22
 ---
 
 # Pivoting to a creation-centric metric of productivity

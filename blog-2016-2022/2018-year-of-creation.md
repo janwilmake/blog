@@ -1,7 +1,6 @@
 ---
-createdAt: 1516392978000
-updatedAt: 1516393467000
-publishedAt: 1516393077000
+date: 2018-01-19
+modified_at: 2018-01-19
 ---
 
 # How I’m going to make 2018 my most impactful year yet — A clear vision, fear-setting, and a crystal clear plan.

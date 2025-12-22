@@ -1,7 +1,6 @@
 ---
-createdAt: 1520303836000
-updatedAt: 1520323173000
-publishedAt: 1520307538000
+date: 2018-03-06
+modified_at: 2018-03-06
 ---
 
 # Should you go web or native?

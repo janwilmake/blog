@@ -1,7 +1,6 @@
 ---
-createdAt: 1622383553000
-updatedAt: 1623264472000
-publishedAt: 1622383603000
+date: 2021-05-30
+modified_at: 2021-06-09
 ---
 
 # CFA Privacy Policy

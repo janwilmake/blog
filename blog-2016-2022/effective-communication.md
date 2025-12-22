@@ -1,7 +1,6 @@
 ---
-createdAt: 1494068895000
-updatedAt: 1556197232000
-publishedAt: 1556197020000
+date: 2017-05-06
+modified_at: 2019-04-25
 ---
 
 # Effective Communication

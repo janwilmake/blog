@@ -1,7 +1,6 @@
 ---
-createdAt: 1497691458000
-updatedAt: 1497708141000
-publishedAt: 1497693376000
+date: 2017-06-17
+modified_at: 2017-06-17
 ---
 
 # Notification-zombies

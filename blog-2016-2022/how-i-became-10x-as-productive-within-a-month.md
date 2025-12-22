@@ -1,7 +1,6 @@
 ---
-createdAt: 1556782746000
-updatedAt: 1556800117000
-publishedAt: 1556783035000
+date: 2019-05-02
+modified_at: 2019-05-02
 ---
 
 # How I'm going to try to become 10x as productive within a month

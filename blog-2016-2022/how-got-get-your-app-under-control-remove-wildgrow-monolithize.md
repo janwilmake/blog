@@ -1,7 +1,6 @@
 ---
-createdAt: 1551017702000
-updatedAt: 1552037283000
-publishedAt: 1551102861000
+date: 2019-02-24
+modified_at: 2019-03-08
 ---
 
 # How got get your app under control? Remove wildgrow, KISS, monolithize

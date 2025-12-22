@@ -1,7 +1,6 @@
 ---
-createdAt: 1559944743000
-updatedAt: 1590858696000
-publishedAt: 1559945276000
+date: 2019-06-07
+modified_at: 2020-05-30
 ---
 
 # The SaaS Stages Funnel

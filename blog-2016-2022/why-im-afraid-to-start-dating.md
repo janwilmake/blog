@@ -1,7 +1,6 @@
 ---
-createdAt: 1591309143000
-updatedAt: 1591310710000
-publishedAt: 1591309982000
+date: 2020-06-05
+modified_at: 2020-06-05
 ---
 
 # Why I'm afraid to start dating

@@ -1,7 +1,6 @@
 ---
-createdAt: 1520303087000
-updatedAt: 1522508682000
-publishedAt: 1520312933000
+date: 2018-03-06
+modified_at: 2018-03-31
 ---
 
 # The MVP Challenge - From 0 to MVP in 100 days: Using Expo

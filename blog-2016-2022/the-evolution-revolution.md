@@ -1,7 +1,6 @@
 ---
-createdAt: 1609692226000
-updatedAt: 1609694001000
-publishedAt: 1609694001000
+date: 2021-01-03
+modified_at: 2021-01-03
 ---
 
 # The Evolution Revolution

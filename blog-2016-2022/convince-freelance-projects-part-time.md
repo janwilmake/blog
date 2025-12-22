@@ -1,7 +1,6 @@
 ---
-createdAt: 1553760809000
-updatedAt: 1555510743000
-publishedAt: 1553762736000
+date: 2019-03-28
+modified_at: 2019-04-17
 ---
 
 # How to convince your next freelance project that you can work parttime

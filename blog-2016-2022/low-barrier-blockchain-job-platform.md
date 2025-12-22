@@ -1,7 +1,6 @@
 ---
-createdAt: 1634271991000
-updatedAt: 1634276120000
-publishedAt: 1634276113000
+date: 2021-10-15
+modified_at: 2021-10-15
 ---
 
 # How developers could get paid using blockchain and smart contracts
