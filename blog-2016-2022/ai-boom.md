@@ -1,6 +1,7 @@
 ---
 date: 2019-01-02
-modified_at: 2019-01-03---
+modified_at: 2019-01-03
+---
 
 # The AI Boom is Near...
 
