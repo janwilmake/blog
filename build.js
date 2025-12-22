@@ -44,6 +44,38 @@ function parseFrontmatter(content) {
   };
 }
 
+function extractFirstHeader(content) {
+  const lines = content.split("\n");
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (trimmed.startsWith("#")) {
+      // Extract text after # symbols and trim
+      return trimmed.replace(/^#+\s*/, "").trim();
+    }
+  }
+  return null;
+}
+
+function getTitleFromFilename(filename) {
+  return path.basename(filename, path.extname(filename));
+}
+
+function determineTitle(frontmatter, content, filename) {
+  // 1. Check frontmatter
+  if (frontmatter.title) {
+    return frontmatter.title;
+  }
+
+  // 2. Check first markdown header
+  const headerTitle = extractFirstHeader(content);
+  if (headerTitle) {
+    return headerTitle;
+  }
+
+  // 3. Use filename
+  return getTitleFromFilename(filename);
+}
+
 function parseIniFile(content) {
   const lines = content.split("\n");
   const result = {};
@@ -109,7 +141,7 @@ async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
 
       if (ext === ".md") {
         const content = fs.readFileSync(fullPath, "utf-8");
-        const { frontmatter } = parseFrontmatter(content);
+        const { frontmatter, content: mainContent } = parseFrontmatter(content);
 
         // Date is required
         if (!frontmatter.date) {
@@ -118,20 +150,21 @@ async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
         }
 
         const slug = relativePath.replace(/\.md$/, "").replace(/\\/g, "/");
+        const title = determineTitle(frontmatter, mainContent, item.name);
 
         entries.push({
           draft: frontmatter.draft === true,
           slug,
           date: parseDate(frontmatter.date),
           contentType: "markdown",
-          title: frontmatter.title || slug,
+          title,
           description: frontmatter.description || "",
           tag: currentTag,
         });
       } else if (ext === ".url") {
         try {
           const markdown = await fetchUrlFile(fullPath);
-          const { frontmatter } = parseFrontmatter(markdown);
+          const { frontmatter, content: mainContent } = parseFrontmatter(markdown);
 
           // Date is required
           if (!frontmatter.date) {
@@ -143,6 +176,7 @@ async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
           const config = parseIniFile(iniContent);
 
           const slug = relativePath.replace(/\.url$/, "").replace(/\\/g, "/");
+          const title = determineTitle(frontmatter, mainContent, item.name);
 
           entries.push({
             draft: frontmatter.draft === true,
@@ -150,7 +184,7 @@ async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
             date: parseDate(frontmatter.date),
             contentType: "url",
             externalUrl: config.url,
-            title: frontmatter.title || slug,
+            title,
             description: frontmatter.description || "",
             tag: currentTag,
           });
