@@ -14,10 +14,13 @@ interface Entry {
   externalUrl?: string;
   title?: string;
   description?: string;
+  tags?: string[];
 }
 
 interface Manifest {
   tags: string[];
+  allTags: string[];
+  tagToEntries: Record<string, string[]>;
   entries: Entry[];
 }
 
@@ -39,14 +42,23 @@ function parseFrontmatter(content: string) {
     const key = line.slice(0, colonIndex).trim();
     let value = line.slice(colonIndex + 1).trim();
 
-    if (
+    // Parse arrays
+    if (value.startsWith("[") && value.endsWith("]")) {
+      value = value
+        .slice(1, -1)
+        .split(",")
+        .map((item) => item.trim())
+        .filter((item) => item.length > 0);
+    }
+    // Remove quotes if present
+    else if (
       (value.startsWith('"') && value.endsWith('"')) ||
       (value.startsWith("'") && value.endsWith("'"))
     ) {
       value = value.slice(1, -1);
     }
-
-    if (value === "true") value = true;
+    // Parse boolean values
+    else if (value === "true") value = true;
     else if (value === "false") value = false;
 
     frontmatter[key] = value;
@@ -100,6 +112,13 @@ function htmlTemplate(title: string, content: string): string {
     pre { background: #f4f4f4; padding: 1rem; overflow-x: auto; }
     code { background: #f4f4f4; padding: 0.2rem 0.4rem; border-radius: 3px; }
     pre code { background: none; padding: 0; }
+    img { max-width: 100%; height: auto; }
+    video { max-width: 100%; height: auto; }
+    iframe { max-width: 100%; }
+    article { max-width: 100%; overflow-x: hidden; }
+    .tags { margin-top: 1rem; }
+    .tag { display: inline-block; background: #e0e0e0; padding: 0.2rem 0.6rem; border-radius: 3px; margin-right: 0.5rem; margin-bottom: 0.5rem; font-size: 0.85rem; }
+    .tag:hover { background: #d0d0d0; }
   </style>
 </head>
 <body>
@@ -275,12 +294,24 @@ async function handleEntry(
     ? '<span class="draft-badge">DRAFT</span> '
     : "";
 
+  // Create tags display
+  const tags = frontmatter.tags || entry.tags || [];
+  const tagsHtml =
+    tags.length > 0
+      ? `
+    <div class="tags">
+      ${tags.map((tag: string) => `<a href="/tag/${encodeURIComponent(tag)}" class="tag">${tag}</a>`).join("")}
+    </div>
+  `
+      : "";
+
   const pageHtml = htmlTemplate(
     title,
     `
     <article>
       <h1>${draftBadge}${title}</h1>
       ${date ? `<div class="entry-date">${date}</div>` : ""}
+      ${tagsHtml}
       ${html}
     </article>
   `,
@@ -367,6 +398,68 @@ ${entriesList}
   });
 }
 
+async function handleTagPage(
+  tag: string,
+  request: Request,
+  env: Env,
+): Promise<Response> {
+  const admin = isAdmin(request, env);
+
+  // Get entry slugs for this tag
+  const entrySlugs = typedManifest.tagToEntries[tag];
+
+  if (!entrySlugs || entrySlugs.length === 0) {
+    return new Response("Tag not found", { status: 404 });
+  }
+
+  // Get full entry objects
+  const entries = typedManifest.entries
+    .filter((e) => entrySlugs.includes(e.slug))
+    .filter((e) => admin || !e.draft)
+    .filter((e) => e.date !== null)
+    .sort((a, b) => (b.date || 0) - (a.date || 0));
+
+  if (entries.length === 0) {
+    return new Response("No entries found for this tag", { status: 404 });
+  }
+
+  const entriesHtml = entries
+    .map((entry) => {
+      const date = entry.date
+        ? new Date(entry.date).toLocaleDateString()
+        : "No date";
+      const draftBadge = entry.draft
+        ? '<span class="draft-badge">DRAFT</span> '
+        : "";
+      return `
+      <div class="entry">
+        <h2><a href="/${entry.slug}">${draftBadge}${
+        entry.title || entry.slug
+      }</a></h2>
+        <div class="entry-date">${date}</div>
+        ${entry.description ? `<p>${entry.description}</p>` : ""}
+      </div>
+    `;
+    })
+    .join("");
+
+  const html = htmlTemplate(
+    `Jan Wilmake on ${tag}`,
+    `
+    <h1>Jan Wilmake on ${tag}</h1>
+    <p>All blog posts tagged with <strong>${tag}</strong></p>
+    ${entriesHtml}
+    <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc;">
+      <a href="/">← Back to all posts</a>
+    </div>
+  `,
+  );
+
+  return new Response(html, {
+    headers: { "Content-Type": "text/html" },
+  });
+}
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
@@ -390,6 +483,12 @@ export default {
 
     if (path === "/llms.txt") {
       return handleLlmsTxt(request, env);
+    }
+
+    // Handle tag pages
+    if (path.startsWith("/tag/")) {
+      const tag = decodeURIComponent(path.slice(5));
+      return handleTagPage(tag, request, env);
     }
 
     // Try to serve as blog entry

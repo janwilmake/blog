@@ -23,16 +23,23 @@ function parseFrontmatter(content) {
     const key = line.slice(0, colonIndex).trim();
     let value = line.slice(colonIndex + 1).trim();
 
+    // Parse arrays
+    if (value.startsWith("[") && value.endsWith("]")) {
+      value = value
+        .slice(1, -1)
+        .split(",")
+        .map((item) => item.trim())
+        .filter((item) => item.length > 0);
+    }
     // Remove quotes if present
-    if (
+    else if (
       (value.startsWith('"') && value.endsWith('"')) ||
       (value.startsWith("'") && value.endsWith("'"))
     ) {
       value = value.slice(1, -1);
     }
-
     // Parse boolean values
-    if (value === "true") value = true;
+    else if (value === "true") value = true;
     else if (value === "false") value = false;
 
     frontmatter[key] = value;
@@ -160,6 +167,7 @@ async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
           title,
           description: frontmatter.description || "",
           tag: currentTag,
+          tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
         });
       } else if (ext === ".url") {
         try {
@@ -187,6 +195,7 @@ async function findMarkdownFiles(dir, rootDir = dir, currentTag = null) {
             title,
             description: frontmatter.description || "",
             tag: currentTag,
+            tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
           });
         } catch (error) {
           console.error(`Error processing ${relativePath}:`, error.message);
@@ -202,10 +211,44 @@ async function build() {
   console.log("Building manifest...");
 
   const entries = await findMarkdownFiles(__dirname);
-  const tags = [...new Set(entries.map((e) => e.tag).filter(Boolean))];
+  const yearTags = [...new Set(entries.map((e) => e.tag).filter(Boolean))];
+
+  // Collect all tags from frontmatter
+  const allTagsSet = new Set();
+  entries.forEach((entry) => {
+    if (entry.tags && Array.isArray(entry.tags)) {
+      entry.tags.forEach((tag) => allTagsSet.add(tag));
+    }
+  });
+
+  const allTags = [...allTagsSet].sort();
+
+  // Create tagToEntries mapping
+  const tagToEntries = {};
+  entries.forEach((entry) => {
+    // Add year tag
+    if (entry.tag) {
+      if (!tagToEntries[entry.tag]) {
+        tagToEntries[entry.tag] = [];
+      }
+      tagToEntries[entry.tag].push(entry.slug);
+    }
+
+    // Add frontmatter tags
+    if (entry.tags && Array.isArray(entry.tags)) {
+      entry.tags.forEach((tag) => {
+        if (!tagToEntries[tag]) {
+          tagToEntries[tag] = [];
+        }
+        tagToEntries[tag].push(entry.slug);
+      });
+    }
+  });
 
   const manifest = {
-    tags,
+    tags: yearTags,
+    allTags,
+    tagToEntries,
     entries: entries.map(({ tag, ...entry }) => entry),
   };
 
@@ -215,7 +258,7 @@ async function build() {
   );
 
   console.log(
-    `✓ Manifest created with ${entries.length} entries and ${tags.length} tags`,
+    `✓ Manifest created with ${entries.length} entries, ${yearTags.length} year tags, and ${allTags.length} total tags`,
   );
 }
 
