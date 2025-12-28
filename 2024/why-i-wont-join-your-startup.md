@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [entrepreneurship, solo-entrepreneur, startup, business, philosophy]
 ---
 
 # Why I won't join your startup

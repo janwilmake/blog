@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [ai, voice-interface, screenless, minimalism, product-development]
 ---
 
 For the last months I've been busy building a personal AI at [Screenless](https://screenless.org) and I am silently launching it and starting to test with early adopters. I'm inspired by my predecessors like [Humane](https://hu.ma.ne/) with the AI Pin and [Rabbit Tech](https://rabbit.tech) with their Rabbit R1. Also the [Tab](https://mytab.ai/) is great.

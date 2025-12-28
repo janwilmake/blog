@@ -1,5 +1,6 @@
 ---
 date: 2023-09
+tags: [web-development, nodejs, programming, react-native]
 ---
 
 # Multi Domain Locale Hack NextJS

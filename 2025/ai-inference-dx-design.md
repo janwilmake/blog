@@ -1,6 +1,7 @@
 ---
 draft: true
 date: 2025-12-13
+tags: [ai, llm, dx, programming, tools]
 ---
 
 # Bringing all pieces together to be at the Frontier of AI inference design

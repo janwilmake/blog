@@ -1,5 +1,6 @@
 ---
 date: 2023-01
+tags: [philosophy, mindfulness, productivity, personal-development]
 ---
 
 # Controllable Immersion

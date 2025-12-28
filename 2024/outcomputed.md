@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [ai, future-of-work, productivity, philosophy]
 ---
 
 # Outcomputed

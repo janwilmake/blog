@@ -1,5 +1,6 @@
 ---
 date: 2023-01
+tags: [ai, gpt, programming, coding]
 ---
 
 # Classification tasks with ChatGPT

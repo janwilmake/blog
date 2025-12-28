@@ -1,5 +1,6 @@
 ---
 date: 2023-08-11
+tags: [programming, javascript, web-development, coding]
 ---
 
 # Resize your layout with a draggable div in React

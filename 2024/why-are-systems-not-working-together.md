@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [programming, ai, devops, philosophy, startup]
 ---
 
 # Why are systems always so hard to integrate with other systems?

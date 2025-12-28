@@ -1,5 +1,6 @@
 ---
 date: 2023-09-06
+tags: [devops, programming, web-development, nodejs]
 ---
 
 # Running everything from a single server isn't that easy

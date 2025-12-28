@@ -1,5 +1,6 @@
 ---
 date: 2023-08
+tags: [philosophy, entrepreneurship, business, open-source]
 ---
 
 # Increasing innovateability

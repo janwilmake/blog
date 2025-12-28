@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [ai, agents, programming, startup, automation]
 ---
 
 We're entering an age where we can start copying knowledge work. What I mean by that, is that we can find a useful thing to do once and do it on a global scale, potentially millions of times, to create value.
