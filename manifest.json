@@ -1,11 +1,1288 @@
 {
   "tags": [
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
     "2023",
     "2024",
-    "2025",
-    "blog-2016-2022"
+    "2025"
   ],
   "entries": [
+    {
+      "draft": false,
+      "slug": "2017/about-cleaning-up",
+      "date": 1495584000000,
+      "contentType": "markdown",
+      "title": "Jan, clean up your room!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/and-then-i-turned-to-javascript",
+      "date": 1497398400000,
+      "contentType": "markdown",
+      "title": "I feel like a Tesla without wheels",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/be-conscious",
+      "date": 1510790400000,
+      "contentType": "markdown",
+      "title": "Be conscious!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+      "date": 1506556800000,
+      "contentType": "markdown",
+      "title": "My energy levels in Eat Code Kite Repeat: Being in alignment with your environment",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
+      "date": 1502582400000,
+      "contentType": "markdown",
+      "title": "Capitalism drives cyborgs to the top, if we like it or not",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+      "date": 1501804800000,
+      "contentType": "markdown",
+      "title": "Counterproductive behaviors of solo-entrepreneurs",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+      "date": 1500249600000,
+      "contentType": "markdown",
+      "title": "Cycling through your life part IV - The cycle of the future: towards grown consciousness",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/devops-marketing",
+      "date": 1500249600000,
+      "contentType": "markdown",
+      "title": "Cycling through your life part II - DevOps vs. Marketing in software companies",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/digital-ocean-and-ghost-fast-cms",
+      "date": 1497484800000,
+      "contentType": "markdown",
+      "title": "Blazing Fast & Beautiful isn't it? Discover Digital Ocean and Ghost",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/distractions",
+      "date": 1492992000000,
+      "contentType": "markdown",
+      "title": "Cycling through your life: Communicate, Adapt & Get shit done",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/drop-whatsapp-save-40-minutes",
+      "date": 1499731200000,
+      "contentType": "markdown",
+      "title": "Today I uninstalled WhatsApp to save 40 minutes a day",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
+      "date": 1505779200000,
+      "contentType": "markdown",
+      "title": "EAT CODE KITE REPEAT at the NOMAD INCUBATOR in KITESURF HEAVEN: TARIFA ESPAÑA",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/effective-communication",
+      "date": 1494028800000,
+      "contentType": "markdown",
+      "title": "Effective Communication",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/entrepreneurship",
+      "date": 1496707200000,
+      "contentType": "markdown",
+      "title": "True Entrepreneurship",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/facebook-heroin",
+      "date": 1508284800000,
+      "contentType": "markdown",
+      "title": "Is Facebook as addictive as Heroin?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/groningen-digital-nomads",
+      "date": 1498780800000,
+      "contentType": "markdown",
+      "title": "5 Reasons why Groningen is underrated as a place for Digital Nomads",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/habit-of-change",
+      "date": 1493337600000,
+      "contentType": "markdown",
+      "title": "The habit of Change",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/hawk-view-entrepreneur-needs",
+      "date": 1492992000000,
+      "contentType": "markdown",
+      "title": "The Hawk-view every starting solo entrepreneur needs",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/how-to-diminish-distractions",
+      "date": 1497139200000,
+      "contentType": "markdown",
+      "title": "How to diminish distractions while being nomadic",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/i-dont-know",
+      "date": 1505174400000,
+      "contentType": "markdown",
+      "title": "I don't know or I don't flow",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/internet-makes-us-creative",
+      "date": 1500508800000,
+      "contentType": "markdown",
+      "title": "Google makes us creative, but also more self-determined",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/invisible-elephant-shit",
+      "date": 1494028800000,
+      "contentType": "markdown",
+      "title": "Elephant-shit",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/justified-dopamine",
+      "date": 1514332800000,
+      "contentType": "markdown",
+      "title": "Justified Dopamine",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/langtang-nepal",
+      "date": 1492992000000,
+      "contentType": "markdown",
+      "title": "Langtang Nepal",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/learn-language-having-fun",
+      "date": 1493337600000,
+      "contentType": "markdown",
+      "title": "16 Ways To Learn A New Language While Having Fun",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
+      "date": 1499040000000,
+      "contentType": "markdown",
+      "title": "Nomadic Entrepreneurs Interview #1 - Tomas Laurinavicius",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+      "date": 1497139200000,
+      "contentType": "markdown",
+      "title": "4 ways nomadic entrepreneurs can reduce their Carbon Footprint",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/notification-zombies",
+      "date": 1497657600000,
+      "contentType": "markdown",
+      "title": "Notification-zombies",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/perfect-travel",
+      "date": 1501891200000,
+      "contentType": "markdown",
+      "title": "What is the perfect way to study and work on the move?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/purpose",
+      "date": 1498953600000,
+      "contentType": "markdown",
+      "title": "Purpose: Find your ikigai",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/react-native-is-the-future",
+      "date": 1499040000000,
+      "contentType": "markdown",
+      "title": "My view on React Native and why I think it's the future",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/real-artists-ship",
+      "date": 1510185600000,
+      "contentType": "markdown",
+      "title": "Real artists Ship - A look back at 2017.",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/reverting-global-warming",
+      "date": 1497139200000,
+      "contentType": "markdown",
+      "title": "My solution to revert global warming is creating a status-symbol of your CO2 footprint: A simple MVP idea",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/routine",
+      "date": 1511049600000,
+      "contentType": "markdown",
+      "title": "Routine",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/skynet",
+      "date": 1494979200000,
+      "contentType": "markdown",
+      "title": "Is Skynet already there? My prediction of the collapse of internet as we know it",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/smartphone-attention-pollution",
+      "date": 1492992000000,
+      "contentType": "markdown",
+      "title": "How to solve attention pollution and cure your love/hate relationship with your smartphone",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/some-apps-i-like",
+      "date": 1498780800000,
+      "contentType": "markdown",
+      "title": "The best apps to study and work on the move",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/the-basis-what-comes-after-happiness",
+      "date": 1511136000000,
+      "contentType": "markdown",
+      "title": "The basis: what comes after happiness?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+      "date": 1498780800000,
+      "contentType": "markdown",
+      "title": "The Best Co-Working and Flexworking spaces in Groningen 2017",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
+      "date": 1494028800000,
+      "contentType": "markdown",
+      "title": "Internet connects the unconnected, but disconnects the connected",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/the-laptop-of-a-nomad",
+      "date": 1504310400000,
+      "contentType": "markdown",
+      "title": "Possessions for happiness?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/the-mcycle",
+      "date": 1500249600000,
+      "contentType": "markdown",
+      "title": "Cycling through your life part III: The μCycle",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/time-effective-travel-lifestyle",
+      "date": 1499558400000,
+      "contentType": "markdown",
+      "title": "The Best Sustainable Travel Lifestyle: about time-effective organization",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/time-management",
+      "date": 1497830400000,
+      "contentType": "markdown",
+      "title": "Time management",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/vietnam-ha-giang-cat-ba-mui-ne",
+      "date": 1505692800000,
+      "contentType": "markdown",
+      "title": "Vietnam through my eyes",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/what-coding-teaches-me-about-business",
+      "date": 1499126400000,
+      "contentType": "markdown",
+      "title": "What coding teached me about business (and vice versa)",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
+      "date": 1513036800000,
+      "contentType": "markdown",
+      "title": "What if dopamine triggers fuck up your long-term productivity?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/why-i-write",
+      "date": 1497398400000,
+      "contentType": "markdown",
+      "title": "4 Reasons Writing Makes You A More Succesful Entrepreneur",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+      "date": 1507507200000,
+      "contentType": "markdown",
+      "title": "Why openness from day one is so damn important for solo entrepreneurs in software",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/wordpress-versus-ghost",
+      "date": 1497484800000,
+      "contentType": "markdown",
+      "title": "WordPress versus Ghost - Read this if you're serious about writing",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2017/working-offline",
+      "date": 1503187200000,
+      "contentType": "markdown",
+      "title": "About working offline",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/2018-year-of-creation",
+      "date": 1516320000000,
+      "contentType": "markdown",
+      "title": "How I’m going to make 2018 my most impactful year yet — A clear vision, fear-setting, and a crystal clear plan.",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
+      "date": 1519689600000,
+      "contentType": "markdown",
+      "title": "The Multiple Personality Coder",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/collaborations-in-the-coworking-space",
+      "date": 1520380800000,
+      "contentType": "markdown",
+      "title": "Collaborations in the coworking space often rely on coincidence",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "Creating a performant GraphQL Server - node is harder than I thought!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/expo-standalone-publishing",
+      "date": 1522454400000,
+      "contentType": "markdown",
+      "title": "Publishing your expo app to both app stores",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
+      "date": 1517702400000,
+      "contentType": "markdown",
+      "title": "Handling time on your server, using different ORM's in node: Sequelize and mysql2. Beware!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/high-code-quality",
+      "date": 1520899200000,
+      "contentType": "markdown",
+      "title": "My 7 key ways to keep my Code Quality Ultra High",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/how-to-connect-your-app-to-a-server",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "How to connect your app to a server?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/how-to-create-a-sustainable-world",
+      "date": 1522022400000,
+      "contentType": "markdown",
+      "title": "How to create a sustainable world?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/iproud",
+      "date": 1520380800000,
+      "contentType": "markdown",
+      "title": "Meet iProud: The productivity app for entrepreneurs!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/its-nyepi-in-bali-time-to-reflect",
+      "date": 1521244800000,
+      "contentType": "markdown",
+      "title": "It's Nyepi in Bali. Time to reflect",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "Must have Tooling & Programs",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/networking-coworking",
+      "date": 1542153600000,
+      "contentType": "markdown",
+      "title": "In search for the perfect Communication App for Co-Working spaces: Slack, Facebook groups, and beyond",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/notes-of-a-programmer-apollo-store-updates",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "[Notes of a programmer]: Apollo store updates",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/pivot-creation-centric-metric-productivity",
+      "date": 1526947200000,
+      "contentType": "markdown",
+      "title": "Pivoting to a creation-centric metric of productivity",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
+      "date": 1520899200000,
+      "contentType": "markdown",
+      "title": "React Native App Structure: Fat-, pure-, wrapper- or screen-components?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/setting-up-a-graphql-backend-without-graphcool",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "Setting up a GraphQL Backend without GraphCool",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/shortcuts-cheatsheet",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "Shortcuts Cheatsheet",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/should-you-go-web-or-native",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "Should you go web or native?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/solo-dev-startup",
+      "date": 1520553600000,
+      "contentType": "markdown",
+      "title": "The rise of the Solo Dev Startup — 7 Reasons why writing useful apps on your own becomes moore easy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/the-dark-side-of-globalization",
+      "date": 1522627200000,
+      "contentType": "markdown",
+      "title": "The dark side of globalization",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/the-expo-edge",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "The Expo Edge - why you should choose Expo over bare React Native",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
+      "date": 1521590400000,
+      "contentType": "markdown",
+      "title": "The importance of rooms lies in hyperpolar immersion",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+      "date": 1520380800000,
+      "contentType": "markdown",
+      "title": "The most complex app I ever made, made it to both app stores!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/the-mvp-challenge",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "The MVP Challenge - From 0 to MVP in 100 days: Using Expo",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/wet-code-and-inline-styles",
+      "date": 1522627200000,
+      "contentType": "markdown",
+      "title": "Wet code and inline styles",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+      "date": 1518048000000,
+      "contentType": "markdown",
+      "title": "Why I went to Bali and why I don’t know where I’m going next",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2018/workflow-query-creation-react-apollo",
+      "date": 1520294400000,
+      "contentType": "markdown",
+      "title": "Workflow query creation (React Apollo)",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/about-single-tasking-and-window-setup",
+      "date": 1554681600000,
+      "contentType": "markdown",
+      "title": "About Single Tasking and Screen/Window Setup on your Mac and Phones",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/ai-boom",
+      "date": 1546387200000,
+      "contentType": "markdown",
+      "title": "The AI Boom is Near...",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/application-loader-replacement-xcode-11",
+      "date": 1571270400000,
+      "contentType": "markdown",
+      "title": "Application Loader gone in XCode 11? This is how you upload your app now",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/big-reason-to-use-react-navigation-over-wix-navigation",
+      "date": 1547078400000,
+      "contentType": "markdown",
+      "title": "Big reason to use React navigation over Wix navigation",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/changing-reachability-to-increase-productivity",
+      "date": 1547856000000,
+      "contentType": "markdown",
+      "title": "Changing reachability to increase productivity",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/chat-baas",
+      "date": 1547164800000,
+      "contentType": "markdown",
+      "title": "Chat-BaaS: Chat Backend as a Service",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/code-ownership",
+      "date": 1546646400000,
+      "contentType": "markdown",
+      "title": "Why code ownership is a must for agile development",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/convince-freelance-projects-part-time",
+      "date": 1553731200000,
+      "contentType": "markdown",
+      "title": "How to convince your next freelance project that you can work parttime",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/daylight-experiment",
+      "date": 1556150400000,
+      "contentType": "markdown",
+      "title": "Daylight is good for me",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/deep-dream-devs",
+      "date": 1549929600000,
+      "contentType": "markdown",
+      "title": "Deep Dream Devs",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
+      "date": 1547769600000,
+      "contentType": "markdown",
+      "title": "Fighting housing crises and loneliness with Cheap Community Living",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/forcing-your-app-users-to-update-the-app",
+      "date": 1550966400000,
+      "contentType": "markdown",
+      "title": "Forcing your app users to update the app",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/ghost-cloudflare-ssl",
+      "date": 1557878400000,
+      "contentType": "markdown",
+      "title": "How to use CloudFlare with Ghost with automatic SSL",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/hammock-experiment",
+      "date": 1556150400000,
+      "contentType": "markdown",
+      "title": "The Hammock Experiment",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/hashtag-to-anything",
+      "date": 1558396800000,
+      "contentType": "markdown",
+      "title": "#to{anything}",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/how-got-get-your-app-under-control-remove-wildgrow-monolithize",
+      "date": 1550966400000,
+      "contentType": "markdown",
+      "title": "How got get your app under control? Remove wildgrow, KISS, monolithize",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/how-i-became-10x-as-productive-within-a-month",
+      "date": 1556755200000,
+      "contentType": "markdown",
+      "title": "How I'm going to try to become 10x as productive within a month",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/how-many-rps-are-possible-without-sharding",
+      "date": 1548806400000,
+      "contentType": "markdown",
+      "title": "About scaling horizontally without sharding: How many RPS are possible without sharding? Is this between-step worth it?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/how-much-does-it-cost-to-build-an-app",
+      "date": 1553040000000,
+      "contentType": "markdown",
+      "title": "How much does it cost to build an app?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/how-to-code-more-and-plan-less",
+      "date": 1556668800000,
+      "contentType": "markdown",
+      "title": "The solution to the PO Fallacy - How to code more, and plan less",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
+      "date": 1571961600000,
+      "contentType": "markdown",
+      "title": "How to scrape public information from LinkedIn, Facebook and Twitter using Javascript",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/human-directions-a-startup-idea",
+      "date": 1550966400000,
+      "contentType": "markdown",
+      "title": "Human Directions: A startup idea",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/human-network-explosion",
+      "date": 1558656000000,
+      "contentType": "markdown",
+      "title": "The Human Network Explosion",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/i-just-made-an-app-in-26-hours",
+      "date": 1552176000000,
+      "contentType": "markdown",
+      "title": "I just made an app in 26 hours",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/i-saw-the-future-in-detail",
+      "date": 1548288000000,
+      "contentType": "markdown",
+      "title": "Are VR Autonomous Segways the future, or was it just a dream?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/install-an-express-app-on-a-remote-server",
+      "date": 1571529600000,
+      "contentType": "markdown",
+      "title": "Install An Express+MySQL App on a remote server",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/lean-life",
+      "date": 1555977600000,
+      "contentType": "markdown",
+      "title": "Lean Life",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/migrating-to-expo",
+      "date": 1550966400000,
+      "contentType": "markdown",
+      "title": "Migrating to Expo to become more lean and stable",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
+      "date": 1549497600000,
+      "contentType": "markdown",
+      "title": "My 7 Levels of Freedom to minimise stress, doubt and regret and maximise possibility, happiness and growth",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/my-coding-principles",
+      "date": 1553385600000,
+      "contentType": "markdown",
+      "title": "My Coding Principles",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
+      "date": 1550966400000,
+      "contentType": "markdown",
+      "title": "My food goals of 2019: Eat more paleo, ecological and don't go to the supermarket every day",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/never-go-down",
+      "date": 1548720000000,
+      "contentType": "markdown",
+      "title": "Never let your API go down with a flexible client",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/open-source-advantages",
+      "date": 1557878400000,
+      "contentType": "markdown",
+      "title": "The advantages of open sourcing",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/perfections-vs-speed",
+      "date": 1547164800000,
+      "contentType": "markdown",
+      "title": "Perfections VS Speed in Data-driven React Native Apps",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/poc-within-a-week",
+      "date": 1554076800000,
+      "contentType": "markdown",
+      "title": "MVP within a week",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
+      "date": 1550966400000,
+      "contentType": "markdown",
+      "title": "Processing feedback of your users in your app: HockeyApp, Intercom, WhatsApp?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/qualitative-versus-quantitative-scaling-in-your-startup",
+      "date": 1553472000000,
+      "contentType": "markdown",
+      "title": "Qualitative versus Quantitative Scaling in your startup",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/redux-light",
+      "date": 1552003200000,
+      "contentType": "markdown",
+      "title": "Redux Light and Universal endpoints",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/scaling-vertically",
+      "date": 1548720000000,
+      "contentType": "markdown",
+      "title": "Scaling my Node JS GraphQL Server Vertically to 5k RPS on a single machine",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/scaling",
+      "date": 1547164800000,
+      "contentType": "markdown",
+      "title": "Scaling Horizontally to one million RPS",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/screentime-update-april-2019",
+      "date": 1556582400000,
+      "contentType": "markdown",
+      "title": "Screentime update, April 2019",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/seven-mistakes-react-native-app",
+      "date": 1547596800000,
+      "contentType": "markdown",
+      "title": "Seven mistakes I think my software company made building their React Native App",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/the-dis-advantages-of-making-your-app-invite-only",
+      "date": 1572307200000,
+      "contentType": "markdown",
+      "title": "The (dis)advantages of making your mobile app invite only",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/the-new-hackers",
+      "date": 1547164800000,
+      "contentType": "markdown",
+      "title": "The new hackers will impersonate the ones you love",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/the-problem-were-solving-with-friendtime",
+      "date": 1572134400000,
+      "contentType": "markdown",
+      "title": "The problem we're solving with FriendTime",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/the-saas-stages-funnel",
+      "date": 1559865600000,
+      "contentType": "markdown",
+      "title": "The SaaS Stages Funnel",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/the-ultimate-equilibrium",
+      "date": 1556582400000,
+      "contentType": "markdown",
+      "title": "The theory of everything and the ultimate equilibrium",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/today-i-open-sourced-nearly-20-of-my-codebase",
+      "date": 1547164800000,
+      "contentType": "markdown",
+      "title": "Today I open-sourced nearly 10% of my codebase",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/untitled-2",
+      "date": 1560816000000,
+      "contentType": "markdown",
+      "title": "How to set up mailchimp",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/upgrading-from-wix-navigation-v1-to-wix-navigation-v2-or-react-navigation-v3",
+      "date": 1550016000000,
+      "contentType": "markdown",
+      "title": "Upgrading from Wix Navigation v1 to Wix Navigation v2, or React Navigation v3?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+      "date": 1552953600000,
+      "contentType": "markdown",
+      "title": "What is the best way to test new features in your React Native App?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+      "date": 1552953600000,
+      "contentType": "markdown",
+      "title": "What would a social network that's actually good for humanity look like?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/why-i-cant-quit-facebook",
+      "date": 1549324800000,
+      "contentType": "markdown",
+      "title": "Why I can't quit Facebook",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/why-i-made-dunbar",
+      "date": 1572134400000,
+      "contentType": "markdown",
+      "title": "Why I made FriendTime",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2019/why-i-think-two-startups-is-better-than-one",
+      "date": 1552953600000,
+      "contentType": "markdown",
+      "title": "Why I think working at two startups is better than one",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/bij-link-privacy-policy",
+      "date": 1596240000000,
+      "contentType": "markdown",
+      "title": "Bij Link Privacy Policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/dev-lifecycle",
+      "date": 1601251200000,
+      "contentType": "markdown",
+      "title": "The Dev Lifecycle",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+      "date": 1604793600000,
+      "contentType": "markdown",
+      "title": "Experiment #237: Save 35 hours a week by eliminating the need for the smartphone",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/know-thyself-but-how",
+      "date": 1600128000000,
+      "contentType": "markdown",
+      "title": "Know Thyself. But how?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/lifepoints-privay-policy",
+      "date": 1592697600000,
+      "contentType": "markdown",
+      "title": "Lifepoints privacy policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/live-in-harmony-with-animals",
+      "date": 1605657600000,
+      "contentType": "markdown",
+      "title": "Living in harmony with animals",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/my-new-startup-backpacking-tribe-is-taking-off",
+      "date": 1604016000000,
+      "contentType": "markdown",
+      "title": "My new startup - BackpackingTribe - is taking off!",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/what-facebook-should-do",
+      "date": 1600387200000,
+      "contentType": "markdown",
+      "title": "What I think Facebook should do",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2020/why-im-afraid-to-start-dating",
+      "date": 1591315200000,
+      "contentType": "markdown",
+      "title": "Why I'm afraid to start dating",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/cfa-privacy-policy",
+      "date": 1622332800000,
+      "contentType": "markdown",
+      "title": "CFA Privacy Policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/cfa-terms-of-use",
+      "date": 1622332800000,
+      "contentType": "markdown",
+      "title": "Code From Anywhere Terms of Use",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/didnt-do-shit",
+      "date": 1610582400000,
+      "contentType": "markdown",
+      "title": "Didn't do shit",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/expanding-at-the-speed-of-light",
+      "date": 1609632000000,
+      "contentType": "markdown",
+      "title": "Expanding at the speed of light, and preserving it into eternity",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/friendtime-privacy-policy",
+      "date": 1612483200000,
+      "contentType": "markdown",
+      "title": "FriendTime Privacy Policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/friendtime-terms-of-use",
+      "date": 1612915200000,
+      "contentType": "markdown",
+      "title": "FriendTime Terms of Use",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/instaclean-privacy-policy",
+      "date": 1624838400000,
+      "contentType": "markdown",
+      "title": "InstaClean Privacy Policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/low-barrier-blockchain-job-platform",
+      "date": 1634256000000,
+      "contentType": "markdown",
+      "title": "How developers could get paid using blockchain and smart contracts",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/quickasleep-privacy-policy-2",
+      "date": 1627776000000,
+      "contentType": "markdown",
+      "title": "QuickAsleep Privacy Policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/quickasleep-privacy-policy",
+      "date": 1627776000000,
+      "contentType": "markdown",
+      "title": "QuickAsleep Privacy Policy",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/quit-job",
+      "date": 1612915200000,
+      "contentType": "markdown",
+      "title": "Quitting my job, living cheap, working full time on my startup(s). Saving hundreds of euro's every month.",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/the-evolution-revolution",
+      "date": 1609632000000,
+      "contentType": "markdown",
+      "title": "The Evolution Revolution",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/things-i-learned-making-the-second-version-of-friendtime",
+      "date": 1626134400000,
+      "contentType": "markdown",
+      "title": "Lessons learned building the second version of FriendTime",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
+      "date": 1620604800000,
+      "contentType": "markdown",
+      "title": "What is Corona, really, and why should we change our mindset?",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2021/why-i-like-the-four-seasons-in-the-netherlands",
+      "date": 1621468800000,
+      "contentType": "markdown",
+      "title": "Why I like the four seasons in the Netherlands",
+      "description": ""
+    },
+    {
+      "draft": false,
+      "slug": "2022/having-a-clean-mac-setup",
+      "date": 1645747200000,
+      "contentType": "markdown",
+      "title": "Having a clean Mac setup with a super low memory and cpu footprint",
+      "description": ""
+    },
     {
       "draft": false,
       "slug": "2023/bun-flame-fly",
@@ -221,1278 +1498,6 @@
       "contentType": "url",
       "externalUrl": "https://thgttg.org/README.md",
       "title": "Cloudflare Worker Audio Playlist System",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/2018-year-of-creation",
-      "date": 1516320000000,
-      "contentType": "markdown",
-      "title": "How I’m going to make 2018 my most impactful year yet — A clear vision, fear-setting, and a crystal clear plan.",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/about-cleaning-up",
-      "date": 1495584000000,
-      "contentType": "markdown",
-      "title": "Wijnand, clean up your room!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/about-single-tasking-and-window-setup",
-      "date": 1554681600000,
-      "contentType": "markdown",
-      "title": "About Single Tasking and Screen/Window Setup on your Mac and Phones",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/ai-boom",
-      "date": 1546387200000,
-      "contentType": "markdown",
-      "title": "The AI Boom is Near...",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/and-then-i-turned-to-javascript",
-      "date": 1497398400000,
-      "contentType": "markdown",
-      "title": "I feel like a Tesla without wheels",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/application-loader-replacement-xcode-11",
-      "date": 1571270400000,
-      "contentType": "markdown",
-      "title": "Application Loader gone in XCode 11? This is how you upload your app now",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
-      "date": 1519689600000,
-      "contentType": "markdown",
-      "title": "The Multiple Personality Coder",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/be-conscious",
-      "date": 1510790400000,
-      "contentType": "markdown",
-      "title": "Be conscious!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
-      "date": 1506556800000,
-      "contentType": "markdown",
-      "title": "My energy levels in Eat Code Kite Repeat: Being in alignment with your environment",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/big-reason-to-use-react-navigation-over-wix-navigation",
-      "date": 1547078400000,
-      "contentType": "markdown",
-      "title": "Big reason to use React navigation over Wix navigation",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/bij-link-privacy-policy",
-      "date": 1596240000000,
-      "contentType": "markdown",
-      "title": "Bij Link Privacy Policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
-      "date": 1502582400000,
-      "contentType": "markdown",
-      "title": "Capitalism drives cyborgs to the top, if we like it or not",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/cfa-privacy-policy",
-      "date": 1622332800000,
-      "contentType": "markdown",
-      "title": "CFA Privacy Policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/cfa-terms-of-use",
-      "date": 1622332800000,
-      "contentType": "markdown",
-      "title": "Code From Anywhere Terms of Use",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/changing-reachability-to-increase-productivity",
-      "date": 1547856000000,
-      "contentType": "markdown",
-      "title": "Changing reachability to increase productivity",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/chat-baas",
-      "date": 1547164800000,
-      "contentType": "markdown",
-      "title": "Chat-BaaS: Chat Backend as a Service",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/code-ownership",
-      "date": 1546646400000,
-      "contentType": "markdown",
-      "title": "Why code ownership is a must for agile development",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/collaborations-in-the-coworking-space",
-      "date": 1520380800000,
-      "contentType": "markdown",
-      "title": "Collaborations in the coworking space often rely on coincidence",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/convince-freelance-projects-part-time",
-      "date": 1553731200000,
-      "contentType": "markdown",
-      "title": "How to convince your next freelance project that you can work parttime",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/counterproductive-behaviors-of-solo-entrepreneurs",
-      "date": 1501804800000,
-      "contentType": "markdown",
-      "title": "Counterproductive behaviors of solo-entrepreneurs",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "Creating a performant GraphQL Server - node is harder than I thought!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
-      "date": 1500249600000,
-      "contentType": "markdown",
-      "title": "Cycling through your life part IV - The cycle of the future: towards grown consciousness",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/daylight-experiment",
-      "date": 1556150400000,
-      "contentType": "markdown",
-      "title": "Daylight is good for me",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/deep-dream-devs",
-      "date": 1549929600000,
-      "contentType": "markdown",
-      "title": "Deep Dream Devs",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/dev-lifecycle",
-      "date": 1601251200000,
-      "contentType": "markdown",
-      "title": "The Dev Lifecycle",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/devops-marketing",
-      "date": 1500249600000,
-      "contentType": "markdown",
-      "title": "Cycling through your life part II - DevOps vs. Marketing in software companies",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/didnt-do-shit",
-      "date": 1610582400000,
-      "contentType": "markdown",
-      "title": "Didn't do shit",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/digital-ocean-and-ghost-fast-cms",
-      "date": 1497484800000,
-      "contentType": "markdown",
-      "title": "Blazing Fast & Beautiful isn't it? Discover Digital Ocean and Ghost",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/distractions",
-      "date": 1492992000000,
-      "contentType": "markdown",
-      "title": "Cycling through your life: Communicate, Adapt & Get shit done",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/drop-whatsapp-save-40-minutes",
-      "date": 1499731200000,
-      "contentType": "markdown",
-      "title": "Today I uninstalled WhatsApp to save 40 minutes a day",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
-      "date": 1505779200000,
-      "contentType": "markdown",
-      "title": "EAT CODE KITE REPEAT at the NOMAD INCUBATOR in KITESURF HEAVEN: TARIFA ESPAÑA",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/effective-communication",
-      "date": 1494028800000,
-      "contentType": "markdown",
-      "title": "Effective Communication",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/entrepreneurship",
-      "date": 1496707200000,
-      "contentType": "markdown",
-      "title": "True Entrepreneurship",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/expanding-at-the-speed-of-light",
-      "date": 1609632000000,
-      "contentType": "markdown",
-      "title": "Expanding at the speed of light, and preserving it into eternity",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
-      "date": 1604793600000,
-      "contentType": "markdown",
-      "title": "Experiment #237: Save 35 hours a week by eliminating the need for the smartphone",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/expo-standalone-publishing",
-      "date": 1522454400000,
-      "contentType": "markdown",
-      "title": "Publishing your expo app to both app stores",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/facebook-heroin",
-      "date": 1508284800000,
-      "contentType": "markdown",
-      "title": "Is Facebook as addictive as Heroin?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/fighting-housing-crises-and-loneliness-with-cheap-community-living",
-      "date": 1547769600000,
-      "contentType": "markdown",
-      "title": "Fighting housing crises and loneliness with Cheap Community Living",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/forcing-your-app-users-to-update-the-app",
-      "date": 1550966400000,
-      "contentType": "markdown",
-      "title": "Forcing your app users to update the app",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/friendtime-privacy-policy",
-      "date": 1612483200000,
-      "contentType": "markdown",
-      "title": "FriendTime Privacy Policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/friendtime-terms-of-use",
-      "date": 1612915200000,
-      "contentType": "markdown",
-      "title": "FriendTime Terms of Use",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/ghost-cloudflare-ssl",
-      "date": 1557878400000,
-      "contentType": "markdown",
-      "title": "How to use CloudFlare with Ghost with automatic SSL",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/groningen-digital-nomads",
-      "date": 1498780800000,
-      "contentType": "markdown",
-      "title": "5 Reasons why Groningen is underrated as a place for Digital Nomads",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/habit-of-change",
-      "date": 1493337600000,
-      "contentType": "markdown",
-      "title": "The habit of Change",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/hammock-experiment",
-      "date": 1556150400000,
-      "contentType": "markdown",
-      "title": "The Hammock Experiment",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
-      "date": 1517702400000,
-      "contentType": "markdown",
-      "title": "Handling time on your server, using different ORM's in node: Sequelize and mysql2. Beware!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/hashtag-to-anything",
-      "date": 1558396800000,
-      "contentType": "markdown",
-      "title": "#to{anything}",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/having-a-clean-mac-setup",
-      "date": 1645747200000,
-      "contentType": "markdown",
-      "title": "Having a clean Mac setup with a super low memory and cpu footprint",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/hawk-view-entrepreneur-needs",
-      "date": 1492992000000,
-      "contentType": "markdown",
-      "title": "The Hawk-view every starting solo entrepreneur needs",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/high-code-quality",
-      "date": 1520899200000,
-      "contentType": "markdown",
-      "title": "My 7 key ways to keep my Code Quality Ultra High",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-got-get-your-app-under-control-remove-wildgrow-monolithize",
-      "date": 1550966400000,
-      "contentType": "markdown",
-      "title": "How got get your app under control? Remove wildgrow, KISS, monolithize",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-i-became-10x-as-productive-within-a-month",
-      "date": 1556755200000,
-      "contentType": "markdown",
-      "title": "How I'm going to try to become 10x as productive within a month",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-many-rps-are-possible-without-sharding",
-      "date": 1548806400000,
-      "contentType": "markdown",
-      "title": "About scaling horizontally without sharding: How many RPS are possible without sharding? Is this between-step worth it?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-much-does-it-cost-to-build-an-app",
-      "date": 1553040000000,
-      "contentType": "markdown",
-      "title": "How much does it cost to build an app?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-to-code-more-and-plan-less",
-      "date": 1556668800000,
-      "contentType": "markdown",
-      "title": "The solution to the PO Fallacy - How to code more, and plan less",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-to-connect-your-app-to-a-server",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "How to connect your app to a server?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-to-create-a-sustainable-world",
-      "date": 1522022400000,
-      "contentType": "markdown",
-      "title": "How to create a sustainable world?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-to-diminish-distractions",
-      "date": 1497139200000,
-      "contentType": "markdown",
-      "title": "How to diminish distractions while being nomadic",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/how-to-scrape-public-information-linkedin-facebook-twitter",
-      "date": 1571961600000,
-      "contentType": "markdown",
-      "title": "How to scrape public information from LinkedIn, Facebook and Twitter using Javascript",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/human-directions-a-startup-idea",
-      "date": 1550966400000,
-      "contentType": "markdown",
-      "title": "Human Directions: A startup idea",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/human-network-explosion",
-      "date": 1558656000000,
-      "contentType": "markdown",
-      "title": "The Human Network Explosion",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/i-dont-know",
-      "date": 1505174400000,
-      "contentType": "markdown",
-      "title": "I don't know or I don't flow",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/i-just-made-an-app-in-26-hours",
-      "date": 1552176000000,
-      "contentType": "markdown",
-      "title": "I just made an app in 26 hours",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/i-saw-the-future-in-detail",
-      "date": 1548288000000,
-      "contentType": "markdown",
-      "title": "Are VR Autonomous Segways the future, or was it just a dream?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/instaclean-privacy-policy",
-      "date": 1624838400000,
-      "contentType": "markdown",
-      "title": "InstaClean Privacy Policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/install-an-express-app-on-a-remote-server",
-      "date": 1571529600000,
-      "contentType": "markdown",
-      "title": "Install An Express+MySQL App on a remote server",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/internet-makes-us-creative",
-      "date": 1500508800000,
-      "contentType": "markdown",
-      "title": "Google makes us creative, but also more self-determined",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/invisible-elephant-shit",
-      "date": 1494028800000,
-      "contentType": "markdown",
-      "title": "Elephant-shit",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/iproud",
-      "date": 1520380800000,
-      "contentType": "markdown",
-      "title": "Meet iProud: The productivity app for entrepreneurs!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/its-nyepi-in-bali-time-to-reflect",
-      "date": 1521244800000,
-      "contentType": "markdown",
-      "title": "It's Nyepi in Bali. Time to reflect",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/justified-dopamine",
-      "date": 1514332800000,
-      "contentType": "markdown",
-      "title": "Justified Dopamine",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/know-thyself-but-how",
-      "date": 1600128000000,
-      "contentType": "markdown",
-      "title": "Know Thyself. But how?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/langtang-nepal",
-      "date": 1492992000000,
-      "contentType": "markdown",
-      "title": "Langtang Nepal",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/lean-life",
-      "date": 1555977600000,
-      "contentType": "markdown",
-      "title": "Lean Life",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/learn-language-having-fun",
-      "date": 1493337600000,
-      "contentType": "markdown",
-      "title": "16 Ways To Learn A New Language While Having Fun",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/lifepoints-privay-policy",
-      "date": 1592697600000,
-      "contentType": "markdown",
-      "title": "Lifepoints privacy policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/live-in-harmony-with-animals",
-      "date": 1605657600000,
-      "contentType": "markdown",
-      "title": "Living in harmony with animals",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/low-barrier-blockchain-job-platform",
-      "date": 1634256000000,
-      "contentType": "markdown",
-      "title": "How developers could get paid using blockchain and smart contracts",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/migrating-to-expo",
-      "date": 1550966400000,
-      "contentType": "markdown",
-      "title": "Migrating to Expo to become more lean and stable",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "Must have Tooling & Programs",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
-      "date": 1549497600000,
-      "contentType": "markdown",
-      "title": "My 7 Levels of Freedom to minimise stress, doubt and regret and maximise possibility, happiness and growth",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/my-coding-principles",
-      "date": 1553385600000,
-      "contentType": "markdown",
-      "title": "My Coding Principles",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
-      "date": 1550966400000,
-      "contentType": "markdown",
-      "title": "My food goals of 2019: Eat more paleo, ecological and don't go to the supermarket every day",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/my-new-startup-backpacking-tribe-is-taking-off",
-      "date": 1604016000000,
-      "contentType": "markdown",
-      "title": "My new startup - BackpackingTribe - is taking off!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/networking-coworking",
-      "date": 1542153600000,
-      "contentType": "markdown",
-      "title": "In search for the perfect Communication App for Co-Working spaces: Slack, Facebook groups, and beyond",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/never-go-down",
-      "date": 1548720000000,
-      "contentType": "markdown",
-      "title": "Never let your API go down with a flexible client",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
-      "date": 1499040000000,
-      "contentType": "markdown",
-      "title": "Nomadic Entrepreneurs Interview #1 - Tomas Laurinavicius",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/nomadic-entrepreneurs-reduce-carbon-footprint",
-      "date": 1497139200000,
-      "contentType": "markdown",
-      "title": "4 ways nomadic entrepreneurs can reduce their Carbon Footprint",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/notes-of-a-programmer-apollo-store-updates",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "[Notes of a programmer]: Apollo store updates",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/notification-zombies",
-      "date": 1497657600000,
-      "contentType": "markdown",
-      "title": "Notification-zombies",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/open-source-advantages",
-      "date": 1557878400000,
-      "contentType": "markdown",
-      "title": "The advantages of open sourcing",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/perfect-travel",
-      "date": 1501891200000,
-      "contentType": "markdown",
-      "title": "What is the perfect way to study and work on the move?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/perfections-vs-speed",
-      "date": 1547164800000,
-      "contentType": "markdown",
-      "title": "Perfections VS Speed in Data-driven React Native Apps",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/pivot-creation-centric-metric-productivity",
-      "date": 1526947200000,
-      "contentType": "markdown",
-      "title": "Pivoting to a creation-centric metric of productivity",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/poc-within-a-week",
-      "date": 1554076800000,
-      "contentType": "markdown",
-      "title": "MVP within a week",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
-      "date": 1550966400000,
-      "contentType": "markdown",
-      "title": "Processing feedback of your users in your app: HockeyApp, Intercom, WhatsApp?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/purpose",
-      "date": 1498953600000,
-      "contentType": "markdown",
-      "title": "Purpose: Find your ikigai",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/qualitative-versus-quantitative-scaling-in-your-startup",
-      "date": 1553472000000,
-      "contentType": "markdown",
-      "title": "Qualitative versus Quantitative Scaling in your startup",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/quickasleep-privacy-policy-2",
-      "date": 1627776000000,
-      "contentType": "markdown",
-      "title": "QuickAsleep Privacy Policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/quickasleep-privacy-policy",
-      "date": 1627776000000,
-      "contentType": "markdown",
-      "title": "QuickAsleep Privacy Policy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/quit-job",
-      "date": 1612915200000,
-      "contentType": "markdown",
-      "title": "Quitting my job, living cheap, working full time on my startup(s). Saving hundreds of euro's every month.",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/react-native-app-structure-fat-pure-wrapper-screen-components",
-      "date": 1520899200000,
-      "contentType": "markdown",
-      "title": "React Native App Structure: Fat-, pure-, wrapper- or screen-components?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/react-native-is-the-future",
-      "date": 1499040000000,
-      "contentType": "markdown",
-      "title": "My view on React Native and why I think it's the future",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/real-artists-ship",
-      "date": 1510185600000,
-      "contentType": "markdown",
-      "title": "Real artists Ship - A look back at 2017.",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/redux-light",
-      "date": 1552003200000,
-      "contentType": "markdown",
-      "title": "Redux Light and Universal endpoints",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/reverting-global-warming",
-      "date": 1497139200000,
-      "contentType": "markdown",
-      "title": "My solution to revert global warming is creating a status-symbol of your CO2 footprint: A simple MVP idea",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/routine",
-      "date": 1511049600000,
-      "contentType": "markdown",
-      "title": "Routine",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/scaling-vertically",
-      "date": 1548720000000,
-      "contentType": "markdown",
-      "title": "Scaling my Node JS GraphQL Server Vertically to 5k RPS on a single machine",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/scaling",
-      "date": 1547164800000,
-      "contentType": "markdown",
-      "title": "Scaling Horizontally to one million RPS",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/screentime-update-april-2019",
-      "date": 1556582400000,
-      "contentType": "markdown",
-      "title": "Screentime update, April 2019",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/setting-up-a-graphql-backend-without-graphcool",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "Setting up a GraphQL Backend without GraphCool",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/seven-mistakes-react-native-app",
-      "date": 1547596800000,
-      "contentType": "markdown",
-      "title": "Seven mistakes I think my software company made building their React Native App",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/shortcuts-cheatsheet",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "Shortcuts Cheatsheet",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/should-you-go-web-or-native",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "Should you go web or native?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/skynet",
-      "date": 1494979200000,
-      "contentType": "markdown",
-      "title": "Is Skynet already there? My prediction of the collapse of internet as we know it",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/smartphone-attention-pollution",
-      "date": 1492992000000,
-      "contentType": "markdown",
-      "title": "How to solve attention pollution and cure your love/hate relationship with your smartphone",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/solo-dev-startup",
-      "date": 1520553600000,
-      "contentType": "markdown",
-      "title": "The rise of the Solo Dev Startup — 7 Reasons why writing useful apps on your own becomes moore easy",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/some-apps-i-like",
-      "date": 1498780800000,
-      "contentType": "markdown",
-      "title": "The best apps to study and work on the move",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-basis-what-comes-after-happiness",
-      "date": 1511136000000,
-      "contentType": "markdown",
-      "title": "The basis: what comes after happiness?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
-      "date": 1498780800000,
-      "contentType": "markdown",
-      "title": "The Best Co-Working and Flexworking spaces in Groningen 2017",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-dark-side-of-globalization",
-      "date": 1522627200000,
-      "contentType": "markdown",
-      "title": "The dark side of globalization",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-dis-advantages-of-making-your-app-invite-only",
-      "date": 1572307200000,
-      "contentType": "markdown",
-      "title": "The (dis)advantages of making your mobile app invite only",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-evolution-revolution",
-      "date": 1609632000000,
-      "contentType": "markdown",
-      "title": "The Evolution Revolution",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-expo-edge",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "The Expo Edge - why you should choose Expo over bare React Native",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
-      "date": 1521590400000,
-      "contentType": "markdown",
-      "title": "The importance of rooms lies in hyperpolar immersion",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-internet-connects-the-unconnected-but-disconnects-the-connected",
-      "date": 1494028800000,
-      "contentType": "markdown",
-      "title": "Internet connects the unconnected, but disconnects the connected",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-laptop-of-a-nomad",
-      "date": 1504310400000,
-      "contentType": "markdown",
-      "title": "Possessions for happiness?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-mcycle",
-      "date": 1500249600000,
-      "contentType": "markdown",
-      "title": "Cycling through your life part III: The μCycle",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
-      "date": 1520380800000,
-      "contentType": "markdown",
-      "title": "The most complex app I ever made, made it to both app stores!",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-mvp-challenge",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "The MVP Challenge - From 0 to MVP in 100 days: Using Expo",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-new-hackers",
-      "date": 1547164800000,
-      "contentType": "markdown",
-      "title": "The new hackers will impersonate the ones you love",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-problem-were-solving-with-friendtime",
-      "date": 1572134400000,
-      "contentType": "markdown",
-      "title": "The problem we're solving with FriendTime",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-saas-stages-funnel",
-      "date": 1559865600000,
-      "contentType": "markdown",
-      "title": "The SaaS Stages Funnel",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/the-ultimate-equilibrium",
-      "date": 1556582400000,
-      "contentType": "markdown",
-      "title": "The theory of everything and the ultimate equilibrium",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/things-i-learned-making-the-second-version-of-friendtime",
-      "date": 1626134400000,
-      "contentType": "markdown",
-      "title": "Lessons learned building the second version of FriendTime",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/time-effective-travel-lifestyle",
-      "date": 1499558400000,
-      "contentType": "markdown",
-      "title": "The Best Sustainable Travel Lifestyle: about time-effective organization",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/time-management",
-      "date": 1497830400000,
-      "contentType": "markdown",
-      "title": "Time management",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/today-i-open-sourced-nearly-20-of-my-codebase",
-      "date": 1547164800000,
-      "contentType": "markdown",
-      "title": "Today I open-sourced nearly 10% of my codebase",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/untitled-2",
-      "date": 1560816000000,
-      "contentType": "markdown",
-      "title": "How to set up mailchimp",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/upgrading-from-wix-navigation-v1-to-wix-navigation-v2-or-react-navigation-v3",
-      "date": 1550016000000,
-      "contentType": "markdown",
-      "title": "Upgrading from Wix Navigation v1 to Wix Navigation v2, or React Navigation v3?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/vietnam-ha-giang-cat-ba-mui-ne",
-      "date": 1505692800000,
-      "contentType": "markdown",
-      "title": "Vietnam through my eyes",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/wet-code-and-inline-styles",
-      "date": 1522627200000,
-      "contentType": "markdown",
-      "title": "Wet code and inline styles",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/what-coding-teaches-me-about-business",
-      "date": 1499126400000,
-      "contentType": "markdown",
-      "title": "What coding teached me about business (and vice versa)",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/what-facebook-should-do",
-      "date": 1600387200000,
-      "contentType": "markdown",
-      "title": "What I think Facebook should do",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
-      "date": 1513036800000,
-      "contentType": "markdown",
-      "title": "What if dopamine triggers fuck up your long-term productivity?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/what-is-corona-really-and-why-should-we-change-our-mindset",
-      "date": 1620604800000,
-      "contentType": "markdown",
-      "title": "What is Corona, really, and why should we change our mindset?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
-      "date": 1552953600000,
-      "contentType": "markdown",
-      "title": "What is the best way to test new features in your React Native App?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
-      "date": 1552953600000,
-      "contentType": "markdown",
-      "title": "What would a social network that's actually good for humanity look like?",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-i-cant-quit-facebook",
-      "date": 1549324800000,
-      "contentType": "markdown",
-      "title": "Why I can't quit Facebook",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-i-like-the-four-seasons-in-the-netherlands",
-      "date": 1621468800000,
-      "contentType": "markdown",
-      "title": "Why I like the four seasons in the Netherlands",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-i-made-dunbar",
-      "date": 1572134400000,
-      "contentType": "markdown",
-      "title": "Why I made FriendTime",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-i-think-two-startups-is-better-than-one",
-      "date": 1552953600000,
-      "contentType": "markdown",
-      "title": "Why I think working at two startups is better than one",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
-      "date": 1518048000000,
-      "contentType": "markdown",
-      "title": "Why I went to Bali and why I don’t know where I’m going next",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-i-write",
-      "date": 1497398400000,
-      "contentType": "markdown",
-      "title": "4 Reasons Writing Makes You A More Succesful Entrepreneur",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-im-afraid-to-start-dating",
-      "date": 1591315200000,
-      "contentType": "markdown",
-      "title": "Why I'm afraid to start dating",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-      "date": 1507507200000,
-      "contentType": "markdown",
-      "title": "Why openness from day one is so damn important for solo entrepreneurs in software",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/wordpress-versus-ghost",
-      "date": 1497484800000,
-      "contentType": "markdown",
-      "title": "WordPress versus Ghost - Read this if you're serious about writing",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/workflow-query-creation-react-apollo",
-      "date": 1520294400000,
-      "contentType": "markdown",
-      "title": "Workflow query creation (React Apollo)",
-      "description": ""
-    },
-    {
-      "draft": false,
-      "slug": "blog-2016-2022/working-offline",
-      "date": 1503187200000,
-      "contentType": "markdown",
-      "title": "About working offline",
       "description": ""
     }
   ]

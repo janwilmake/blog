@@ -1,5 +1,6 @@
 ---
 date: 2023-11-14
+tags: [ai, social-media, future-of-work, personal-development]
 ---
 
 # "Human-to-Human Content Generation: Embracing the Social Computing Age"

@@ -1,5 +1,6 @@
 ---
 date: 2023-08-11
+tags: [programming, web-development, coding]
 ---
 
 # Tailwind Darkmode Issues

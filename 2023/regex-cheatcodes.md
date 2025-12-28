@@ -1,5 +1,6 @@
 ---
 date: 2023-01
+tags: [programming, tools, coding]
 ---
 
 # Global Search/Replace with Regexes in VSCode

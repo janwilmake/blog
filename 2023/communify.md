@@ -1,6 +1,7 @@
 ---
 draft: false
 date: 2023-01
+tags: [mindfulness, philosophy, happiness, personal-development]
 ---
 
 # Communify

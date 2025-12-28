@@ -1,6 +1,7 @@
 ---
 date: 2023-12
 draft: false
+tags: [devops, programming, nodejs, web-development]
 ---
 
 # Fly + Bun for browser automation. An unfinished attempt

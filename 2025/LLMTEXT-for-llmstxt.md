@@ -1,5 +1,6 @@
 ---
 date: 2025-10-30
+tags: [ai, llm, agents, open-source, web-development, tools]
 ---
 
 Introducing a new set of tools for llms.txt that help you create and check llms.txt, or transform llms.txt files into MCP servers

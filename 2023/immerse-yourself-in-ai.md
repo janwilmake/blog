@@ -1,5 +1,6 @@
 ---
 date: 2023-01
+tags: [ai, gpt, business, startup, productivity]
 ---
 
 **Title: Embracing the AI Revolution: Insights from an AI Enthusiast**

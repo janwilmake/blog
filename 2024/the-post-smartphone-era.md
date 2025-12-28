@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [ai, agents, voice-interface, future-of-work, open-source]
 ---
 
 # The post-smartphone era is coming.

@@ -1,5 +1,6 @@
 ---
 date: 2024-01
+tags: [productivity, focus, deep-work, minimalism, programming, ai]
 ---
 
 <!-- http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html

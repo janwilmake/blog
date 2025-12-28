@@ -1,5 +1,6 @@
 ---
 date: 2024-04
+tags: [programming, open-source, nodejs, devops, tools]
 ---
 
 # Moving away from my 150k LOC Monorepo

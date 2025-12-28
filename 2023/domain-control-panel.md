@@ -1,5 +1,6 @@
 ---
 date: 2023-09-08
+tags: [programming, devops, tools, web-development]
 ---
 
 # Creating a domain control panel
