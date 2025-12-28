@@ -119,12 +119,16 @@ function acceptsMarkdown(acceptHeader: string): boolean {
   return markdownQ > htmlQ || hasWildcard;
 }
 
-function htmlTemplate(title: string, content: string, description?: string): string {
+function htmlTemplate(title: string, content: string, description?: string, hostname?: string): string {
   const metaTags = description
     ? `
   <meta name="description" content="${description}">
   <meta property="og:description" content="${description}">
   <meta name="twitter:description" content="${description}">`
+    : '';
+
+  const chatButton = hostname
+    ? `<a href="https://installthismcp.com/blog-janwilmake-com?url=https://mcp.llmtext.com/${hostname}/mcp" class="chat-button" target="_blank" rel="noopener noreferrer">Chat with This Blog</a>`
     : '';
 
   return `<!DOCTYPE html>
@@ -147,7 +151,9 @@ function htmlTemplate(title: string, content: string, description?: string): str
     }
     a { color: #0066cc; text-decoration: none; }
     a:hover { text-decoration: underline; }
-    .header { border-bottom: 2px solid #333; margin-bottom: 2rem; padding-bottom: 1rem; }
+    .header { border-bottom: 2px solid #333; margin-bottom: 2rem; padding-bottom: 1rem; display: flex; justify-content: space-between; align-items: center; }
+    .chat-button { background: #0066cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; font-size: 0.9rem; }
+    .chat-button:hover { background: #0052a3; text-decoration: none; }
     .entry { margin-bottom: 2rem; }
     .entry-date { color: #666; font-size: 0.9rem; }
     .draft-badge { background: #ff6b6b; color: white; padding: 0.2rem 0.5rem; border-radius: 3px; font-size: 0.8rem; }
@@ -166,6 +172,7 @@ function htmlTemplate(title: string, content: string, description?: string): str
 <body>
   <div class="header">
     <h1><a href="/">Blog</a></h1>
+    ${chatButton}
   </div>
   ${content}
 </body>
@@ -194,6 +201,7 @@ async function handleLogin(request: Request, env: Env): Promise<Response> {
     return new Response("Invalid password", { status: 401 });
   }
 
+  const url = new URL(request.url);
   const html = htmlTemplate(
     "Login",
     `
@@ -202,6 +210,8 @@ async function handleLogin(request: Request, env: Env): Promise<Response> {
       <button type="submit">Login</button>
     </form>
   `,
+    undefined,
+    url.hostname,
   );
 
   return new Response(html, {
@@ -281,6 +291,8 @@ async function handleHome(request: Request, env: Env): Promise<Response> {
     ${tagsHtml}
     ${entriesHtml}
   `,
+    undefined,
+    url.hostname,
   );
 
   return new Response(html, {
@@ -375,6 +387,7 @@ async function handleEntry(
   `
       : "";
 
+  const url = new URL(request.url);
   const pageHtml = htmlTemplate(
     title,
     `
@@ -386,6 +399,7 @@ async function handleEntry(
     </article>
   `,
     description,
+    url.hostname,
   );
 
   return new Response(pageHtml, {
@@ -514,6 +528,7 @@ async function handleTagPage(
     })
     .join("");
 
+  const url = new URL(request.url);
   const html = htmlTemplate(
     `Jan Wilmake on ${tag}`,
     `
@@ -524,6 +539,8 @@ async function handleTagPage(
       <a href="/">← Back to all posts</a>
     </div>
   `,
+    undefined,
+    url.hostname,
   );
 
   return new Response(html, {
