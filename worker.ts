@@ -165,8 +165,11 @@ function htmlTemplate(title: string, content: string, env: Env, description?: st
       max-width: 800px;
       margin: 0 auto;
       padding: 2rem;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Consolas', 'Courier New', monospace;
       line-height: 1.6;
+      background: #ffffff;
+      color: #000000;
+      transition: background-color 0.3s, color 0.3s;
     }
     a { color: #0066cc; text-decoration: none; }
     a:hover { text-decoration: underline; }
@@ -188,6 +191,20 @@ function htmlTemplate(title: string, content: string, env: Env, description?: st
     .tags { margin-top: 1rem; }
     .tag { display: inline-block; background: #e0e0e0; padding: 0.2rem 0.6rem; border-radius: 3px; margin-right: 0.5rem; margin-bottom: 0.5rem; font-size: 0.85rem; }
     .tag:hover { background: #d0d0d0; }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #1a1a1a;
+        color: #e0e0e0;
+      }
+      a { color: #4da6ff; }
+      .header { border-bottom: 2px solid #ccc; }
+      .entry-date { color: #999; }
+      pre { background: #2a2a2a; }
+      code { background: #2a2a2a; }
+      .tag { background: #333; color: #e0e0e0; }
+      .tag:hover { background: #444; }
+    }
   </style>
 </head>
 <body>

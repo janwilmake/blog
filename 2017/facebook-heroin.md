@@ -112,12 +112,10 @@ smartphone](/2017/smartphone-attention-pollution/)
 
 [Counterproductive behaviors of solo-entrepreneurs](/2017/counterproductive-behaviors-of-solo-entrepreneurs/)
 
-The Guardian: Our minds can be hijacked': the tech insiders who fear a
-smartphone dystopia
-https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+[The Guardian: Our minds can be hijacked': the tech insiders who fear a
+smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
 
-TechCrunch: The next revolution will be reclaiming your digital identity
-https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss
+[TechCrunch: The next revolution will be reclaiming your digital identity](https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss)
 
 impage 1 source\*
 https://vulcanpost.com/12106/smartphone-addiction-becoming-real-problem-singapore/

@@ -234,12 +234,7 @@
     "2021": [
       "2021/didnt-do-shit",
       "2021/expanding-at-the-speed-of-light",
-      "2021/friendtime-privacy-policy",
-      "2021/friendtime-terms-of-use",
-      "2021/instaclean-privacy-policy",
       "2021/low-barrier-blockchain-job-platform",
-      "2021/quickasleep-privacy-policy-2",
-      "2021/quickasleep-privacy-policy",
       "2021/quit-job",
       "2021/the-evolution-revolution",
       "2021/things-i-learned-making-the-second-version-of-friendtime",
@@ -807,12 +802,7 @@
       "2019/open-source-advantages",
       "2019/qualitative-versus-quantitative-scaling-in-your-startup",
       "2019/the-saas-stages-funnel",
-      "2021/friendtime-privacy-policy",
-      "2021/friendtime-terms-of-use",
-      "2021/instaclean-privacy-policy",
       "2021/low-barrier-blockchain-job-platform",
-      "2021/quickasleep-privacy-policy-2",
-      "2021/quickasleep-privacy-policy",
       "2023/immerse-yourself-in-ai",
       "2023/innovateability",
       "2024/why-i-wont-join-your-startup"
@@ -1133,11 +1123,6 @@
       "2019/the-dis-advantages-of-making-your-app-invite-only",
       "2019/the-problem-were-solving-with-friendtime",
       "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
-      "2021/friendtime-privacy-policy",
-      "2021/friendtime-terms-of-use",
-      "2021/instaclean-privacy-policy",
-      "2021/quickasleep-privacy-policy-2",
-      "2021/quickasleep-privacy-policy",
       "2021/things-i-learned-making-the-second-version-of-friendtime",
       "2024/hardware-screenless"
     ],
@@ -3219,42 +3204,6 @@
     },
     {
       "draft": false,
-      "slug": "2021/friendtime-privacy-policy",
-      "date": 1612483200000,
-      "contentType": "markdown",
-      "title": "FriendTime Privacy Policy",
-      "description": "",
-      "tags": [
-        "business",
-        "product-development"
-      ]
-    },
-    {
-      "draft": false,
-      "slug": "2021/friendtime-terms-of-use",
-      "date": 1612915200000,
-      "contentType": "markdown",
-      "title": "FriendTime Terms of Use",
-      "description": "",
-      "tags": [
-        "business",
-        "product-development"
-      ]
-    },
-    {
-      "draft": false,
-      "slug": "2021/instaclean-privacy-policy",
-      "date": 1624838400000,
-      "contentType": "markdown",
-      "title": "InstaClean Privacy Policy",
-      "description": "",
-      "tags": [
-        "business",
-        "product-development"
-      ]
-    },
-    {
-      "draft": false,
       "slug": "2021/low-barrier-blockchain-job-platform",
       "date": 1634256000000,
       "contentType": "markdown",
@@ -3264,30 +3213,6 @@
         "startup",
         "entrepreneurship",
         "business"
-      ]
-    },
-    {
-      "draft": false,
-      "slug": "2021/quickasleep-privacy-policy-2",
-      "date": 1627776000000,
-      "contentType": "markdown",
-      "title": "QuickAsleep Privacy Policy",
-      "description": "",
-      "tags": [
-        "business",
-        "product-development"
-      ]
-    },
-    {
-      "draft": false,
-      "slug": "2021/quickasleep-privacy-policy",
-      "date": 1627776000000,
-      "contentType": "markdown",
-      "title": "QuickAsleep Privacy Policy",
-      "description": "",
-      "tags": [
-        "business",
-        "product-development"
       ]
     },
     {
