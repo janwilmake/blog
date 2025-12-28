@@ -42,12 +42,10 @@ paradigms:
  * GitHub for planning (issues) and version control. Don't use GitLab to reduce
    maintenance. It's worth the price
  * JS Only: Use React, React Native and Node JS. The developer now just has to
-   learn one language! This also encourages feature-ownership
-   https://karsens.com/code-ownership/
+   learn one language! This also encourages [feature-ownership](/2019/code-ownership)
  * Keep DB Simple: As database, use SQLite until you require more power (which
    is very late, much later than most developers think)
- * Vertical Scaling: Vertical scaling to the max
-   https://karsens.com/scaling-vertically/. Much simpler DevOps, can be done
+ * Vertical Scaling: [Vertical scaling to the max](/2019/scaling-vertically). Much simpler DevOps, can be done
    until quite big apps generate huge amounts of revenue.
  * Move to a single codebase: Easier setup. Don't split your issues between
    repo's.
@@ -57,22 +55,20 @@ paradigms:
  * Microservices are often considered, but for most startups, it's overkill
  * Start using docker and kubernetes once you really need it. Your setup changes
    too quickly in the beginning, and it will just increase maintenance cost.
- * Use Expo as much as possible https://karsens.com/perfections-vs-speed/
- * Think well about your code quality https://karsens.com/high-code-quality/
+ * [Use Expo as much as possible](/2019/perfections-vs-speed)
+ * [Think well about your code quality](/2018/high-code-quality)
 
 Migrate to Expo
 I see a lot of startups working on big apps in either native Android, native iOS
 (or both), or in bare React Native. Expo has matured in the past few years, and
 for most apps, it will work, making some small concessions. There is a big edge
-using expo as a startup: I call it the Expo Edge
-https://karsens.com/the-expo-edge/. At a few companies I've worked, I think
+using expo as a startup: I call it [the Expo Edge](/2018/the-expo-edge). At a few companies I've worked, I think
 that a full rewrite of your app may not be a bad idea at all
 https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22
 . For bigger apps, it can be daunting and scary and it's often discouraged, but
 especiallly for early stage startups that need to pivot a few times, it can be
 good to rewrite if you have learned more about your tech-stack, and the features
-you really need. If it's possible, I recommend migrating to Expo
-https://karsens.com/migrating-to-expo/. Expo takes away much of the hassle of
+you really need. If it's possible, I recommend [migrating to Expo](/2019/migrating-to-expo). Expo takes away much of the hassle of
 app development (Deployment, OTA, Unstable code) and makes it possible for you
 to focus on what matters: The features of your app.
 

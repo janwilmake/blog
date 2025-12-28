@@ -44,27 +44,27 @@ Let's prioritize:
 
 Very important:
 
- 1. programming for DigitalSelf
- 2. programming for Communify
- 3. learning to program PWA
- 4. learning to program React Native
- 5. learning to program Node JS
- 6. architecture choice
- 7. server configuration
- 8. presentation making
+1.  programming for DigitalSelf
+2.  programming for Communify
+3.  learning to program PWA
+4.  learning to program React Native
+5.  learning to program Node JS
+6.  architecture choice
+7.  server configuration
+8.  presentation making
 
 Less important (but still important):
 
- 1.  learning about entrepreneurship
- 2.  strategizing, planning work
- 3.  strategizing, planning life
- 4.  socialize/communicate
- 5.  network
- 6.  learn German
- 7.  learn Portuguese
- 8.  video editing
- 9.  writing for Karsens.com
- 10. writing for TravelLifeMovement.com
+1.  learning about entrepreneurship
+2.  strategizing, planning work
+3.  strategizing, planning life
+4.  socialize/communicate
+5.  network
+6.  learn German
+7.  learn Portuguese
+8.  video editing
+9.  writing for my blog
+10. writing for TravelLifeMovement.com
 
 The software Freedom https://freedom.refersion.com/c/2d1dfd lets us block
 certain websites for certain times of the day and certain days of the week.
@@ -76,14 +76,14 @@ Prototype day:
 
 This is my perfect day the coming months:
 
- * 8:00 Wake up, go running
- * 9:00 Shower, travel
- * 10:00-13:00 Work
- * 13:00-14:00 Lunch/network
- * 14:00-19:00 Work
- * 19:00-22:00 Groceries, cooking, eating, drinking
- * 22:00-1:00 Study or party (flip a coin)
- * 1:00-8:00 Sleep
+- 8:00 Wake up, go running
+- 9:00 Shower, travel
+- 10:00-13:00 Work
+- 13:00-14:00 Lunch/network
+- 14:00-19:00 Work
+- 19:00-22:00 Groceries, cooking, eating, drinking
+- 22:00-1:00 Study or party (flip a coin)
+- 1:00-8:00 Sleep
 
 BRUTO TIME
 
@@ -100,7 +100,7 @@ NETTO TIME
 9.3 hours per week less important stuff
 
 Because I will be more social in hostels on Fridays and Saturdays, it will be
-harder to concentrate on the hard and important things Saturday and Sunday. 
+harder to concentrate on the hard and important things Saturday and Sunday.
 Let's do less important things on the weekends! Make sure to touch all 10 topics
 a little. Hold a checklist for every weekend.
 

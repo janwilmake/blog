@@ -6,17 +6,10 @@ tags: [facebook, social-media, smartphone, distractions, technology-critique]
 
 # Is Facebook as addictive as Heroin?
 
-I https://karsens.com/smartphone-attention-pollution/ have
-https://karsens.com/notification-zombies/ written
-https://karsens.com/time-management/ about
-https://karsens.com/invisible-elephant-shit/ this
-https://karsens.com/the-internet-connects-the-unconnected-but-disconnects-the-connected/ 
- topic https://karsens.com/drop-whatsapp-save-40-minutes/ before
-https://karsens.com/counterproductive-behaviors-of-solo-entrepreneurs/, but 
-these
-https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia 
- articles
-https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss 
+[I](/2017/smartphone-attention-pollution) [have](/2017/notification-zombies/) [written](/time-management/) [about](/2017/invisible-elephant-shit/) [this](/2017/the-internet-connects-the-unconnected-but-disconnects-the-connected/)
+[topic](/2017/drop-whatsapp-save-40-minutes/) [before](/2017/counterproductive-behaviors-of-solo-entrepreneurs/), but
+[these](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
+[articles](https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss)
 (well targeted by Twitter https://twitter.com and Facebook
 http://facebook.com) have sparked my attention again.
 
@@ -65,8 +58,6 @@ very short attention span and aren't able to suppress the urges to look at their
 phone while having a conversation or doing something important. It just feels
 like the right thing to do, but is it?
 
-
-
 It may be a very strong claim but I'm gonna say it anyway (if I haven't lost
 your attention already, and gone to the next thing in your scroll-morphine
 slot-machine, you must agree with me. You must see it in a few individuals
@@ -104,27 +95,22 @@ What do you think guys? Is internet becoming too addictive? If this is a global
 trend, at what point will it become a global thread, or health issue, to say the
 least?
 
-
-
 Sources:
 
-How to solve attention pollution and cure your love/hate relationship with your
-smartphone https://karsens.com/smartphone-attention-pollution/
+[How to solve attention pollution and cure your love/hate relationship with your
+smartphone](/2017/smartphone-attention-pollution/)
 
-Notification-zombies https://karsens.com/notification-zombies/
+[Notification-zombies](/2017/notification-zombies/)
 
-Time management https://karsens.com/time-management/
+[Time management](/2017/time-management/)
 
-Elephant shit https://karsens.com/invisible-elephant-shit/
+[Elephant shit](/2017/invisible-elephant-shit/)
 
-Internet connects the unconnected, but disconnects the connected
-https://karsens.com/the-internet-connects-the-unconnected-but-disconnects-the-connected/
+[Internet connects the unconnected, but disconnects the connected](/2017/the-internet-connects-the-unconnected-but-disconnects-the-connected/)
 
-Today I uninstalled WhatsApp to save 40 minutes a day
-https://karsens.com/drop-whatsapp-save-40-minutes/
+[Today I uninstalled WhatsApp to save 40 minutes a day](/2017/drop-whatsapp-save-40-minutes/)
 
-Counterproductive behaviors of solo-entrepreneurs
-https://karsens.com/counterproductive-behaviors-of-solo-entrepreneurs/,
+[Counterproductive behaviors of solo-entrepreneurs](/2017/counterproductive-behaviors-of-solo-entrepreneurs/)
 
 The Guardian: Our minds can be hijacked': the tech insiders who fear a
 smartphone dystopia
@@ -133,7 +119,7 @@ https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-
 TechCrunch: The next revolution will be reclaiming your digital identity
 https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss
 
-impage 1 source*
+impage 1 source\*
 https://vulcanpost.com/12106/smartphone-addiction-becoming-real-problem-singapore/
 
-image 2 source* https://doctortrex.wordpress.com/
+image 2 source\* https://doctortrex.wordpress.com/

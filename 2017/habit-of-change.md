@@ -27,39 +27,31 @@ river somewhere else once in a while to be more rounded and flexible in the
 unpredictable future.
 
 Why?
- * Habits can be very useful. A habit or routine create structure in your life
-   which, if the habit is chosen correctly, improves the outcome.
- * Change can be very useful too. The world around you changes so you have to
-   change with it. That's why you can't have the same habits forever.
- * Habit of change would be perfect. Until, of course, you find the optimal
-   routine of growth. But this routine is never perfect because the world
-   changes.
+
+- Habits can be very useful. A habit or routine create structure in your life
+  which, if the habit is chosen correctly, improves the outcome.
+- Change can be very useful too. The world around you changes so you have to
+  change with it. That's why you can't have the same habits forever.
+- Habit of change would be perfect. Until, of course, you find the optimal
+  routine of growth. But this routine is never perfect because the world
+  changes.
 
 How?
- * Think a little bit like Elon Musk to create the world you want to live in. I
-   love this article
-   https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html
-   . To summarize: always keep in mind and update your dream, and always
-   understand the changing reality by learning. From that, create a strategy to
-   achieve your dreams.
-   
-   
-   
- * To change your habits, create a habit of meta-thinking & identifying bad
-   habits. To improve yourself, you have to be conscious! I really enjoyed this
-   book: Breaking The Habit of Being Yourself: How to Lose Your Mind and Create
-   a New One
-   https://www.amazon.com/gp/product/1401938094/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401938094&linkCode=as2&tag=travellifemov-20&linkId=186b65ff89b20e486519e0ad5c65812a
-   
-   
- * Also, having a habit of improving & setting high goals is important to grow. 
-   Some people call it the 10X mindset
-   https://medium.com/the-mission/the-10x-mindset-operating-at-an-exponentially-higher-level-can-make-a-big-difference-in-your-life-13216c0f7754
-   
-   
- * Habit of discovery and escaping your comfort zone. Create a bigger
-   perspective. I call it the Hawk View
-   https://karsens.com/hawk-view-entrepreneur-needs/.
-   
-   
- * Together this results in 'The habit of Change'
+
+- Think a little bit like Elon Musk to create the world you want to live in. I
+  love this article
+  https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html
+  . To summarize: always keep in mind and update your dream, and always
+  understand the changing reality by learning. From that, create a strategy to
+  achieve your dreams.
+- To change your habits, create a habit of meta-thinking & identifying bad
+  habits. To improve yourself, you have to be conscious! I really enjoyed this
+  book: Breaking The Habit of Being Yourself: How to Lose Your Mind and Create
+  a New One
+  https://www.amazon.com/gp/product/1401938094/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401938094&linkCode=as2&tag=travellifemov-20&linkId=186b65ff89b20e486519e0ad5c65812a
+- Also, having a habit of improving & setting high goals is important to grow.
+  Some people call it the 10X mindset
+  https://medium.com/the-mission/the-10x-mindset-operating-at-an-exponentially-higher-level-can-make-a-big-difference-in-your-life-13216c0f7754
+- Habit of discovery and escaping your comfort zone. Create a bigger
+  perspective. I call it the [Hawk View](/2017/hawk-view-entrepreneur-needs/)
+- Together this results in 'The habit of Change'

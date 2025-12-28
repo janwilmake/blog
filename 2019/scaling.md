@@ -110,8 +110,8 @@ assumptions, which my design of the app can guarantee:
  1. It doesn't get bigger than one loadbalancer can handle (around 1M rps)
  2. A single community never has to be sharded
 
-This whole architecture is, I think, very interesting and would also work for my 
-Chat-BaaS idea https://karsens.com/chat-baas/.
+This whole architecture is, I think, very interesting and would also work for my
+[Chat-BaaS idea](/2019/chat-baas).
 
 From 1M to 100M RPS.
 100 M RPS, 4.000 M users, and ±40 M communities, ±20.000 servers.. That's the

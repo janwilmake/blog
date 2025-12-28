@@ -6,8 +6,7 @@ tags: [react-native, startup, business, mvp, product-development]
 
 # How much does it cost to build an app?
 
-It depends... Some apps can be created quickly. I created this one
-https://karsens.com/i-just-made-an-app-in-26-hours/ in just 26 hours. However,
+It depends... Some apps can be created quickly. [I created this one](/2019/i-just-made-an-app-in-26-hours) in just 26 hours. However,
 some apps cost millions. It can be anything in between.
 
 As a startup, you may want to keep it cheap and efficient. To keep it as cheap

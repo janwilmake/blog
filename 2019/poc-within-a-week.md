@@ -7,8 +7,7 @@ tags: [startup, shipping, productivity]
 # MVP within a week
 
 My expertise is creating a proof of concept of any app idea in within a week.
-I've done this multiple times, see an example here
-https://karsens.com/i-just-made-an-app-in-26-hours/.
+I've done this multiple times, see [an example here](/2019/i-just-made-an-app-in-26-hours).
 
 What will you get?
 

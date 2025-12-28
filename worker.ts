@@ -4,6 +4,9 @@ import manifest from "./manifest.json";
 interface Env {
   ASSETS: Fetcher;
   ADMIN_PASSWORD?: string;
+  NAME?: string;
+  GITHUB?: string;
+  X?: string;
 }
 
 interface Entry {
@@ -124,7 +127,9 @@ function acceptsMarkdown(acceptHeader: string): boolean {
   return false;
 }
 
-function htmlTemplate(title: string, content: string, description?: string, hostname?: string): string {
+function htmlTemplate(title: string, content: string, env: Env, description?: string, hostname?: string): string {
+  const blogName = env.NAME || 'Blog';
+
   const metaTags = description
     ? `
   <meta name="description" content="${description}">
@@ -135,6 +140,15 @@ function htmlTemplate(title: string, content: string, description?: string, host
   const chatButton = hostname
     ? `<a href="https://installthismcp.com/blog-janwilmake-com?url=https://mcp.llmtext.com/${hostname}/mcp" class="chat-button" target="_blank" rel="noopener noreferrer">Chat with This Blog</a>`
     : '';
+
+  const socialLinks = [];
+  if (env.GITHUB) {
+    socialLinks.push(`<a href="${env.GITHUB}" target="_blank" rel="noopener noreferrer" style="margin-left: 1rem;">GitHub</a>`);
+  }
+  if (env.X) {
+    socialLinks.push(`<a href="${env.X}" target="_blank" rel="noopener noreferrer" style="margin-left: 1rem;">X</a>`);
+  }
+  const socialLinksHtml = socialLinks.length > 0 ? `<div class="social-links">${socialLinks.join('')}</div>` : '';
 
   return `<!DOCTYPE html>
 <html lang="en">
@@ -156,7 +170,9 @@ function htmlTemplate(title: string, content: string, description?: string, host
     }
     a { color: #0066cc; text-decoration: none; }
     a:hover { text-decoration: underline; }
-    .header { border-bottom: 2px solid #333; margin-bottom: 2rem; padding-bottom: 1rem; display: flex; justify-content: space-between; align-items: center; }
+    .header { border-bottom: 2px solid #333; margin-bottom: 2rem; padding-bottom: 1rem; }
+    .header-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
+    .social-links { font-size: 0.9rem; }
     .chat-button { background: #0066cc; color: white; padding: 0.5rem 1rem; border-radius: 5px; font-size: 0.9rem; }
     .chat-button:hover { background: #0052a3; text-decoration: none; }
     .entry { margin-bottom: 2rem; }
@@ -176,8 +192,11 @@ function htmlTemplate(title: string, content: string, description?: string, host
 </head>
 <body>
   <div class="header">
-    <h1><a href="/">Blog</a></h1>
-    ${chatButton}
+    <div class="header-top">
+      <h1><a href="/">${blogName}</a></h1>
+      ${chatButton}
+    </div>
+    ${socialLinksHtml}
   </div>
   ${content}
 </body>
@@ -215,6 +234,7 @@ async function handleLogin(request: Request, env: Env): Promise<Response> {
       <button type="submit">Login</button>
     </form>
   `,
+    env,
     undefined,
     url.hostname,
   );
@@ -287,7 +307,7 @@ async function handleHome(request: Request, env: Env): Promise<Response> {
     : "";
 
   const html = htmlTemplate(
-    "Blog",
+    env.NAME || "Blog",
     `
     ${adminLinks}
     <div style="margin-bottom: 2rem;">
@@ -296,6 +316,7 @@ async function handleHome(request: Request, env: Env): Promise<Response> {
     ${tagsHtml}
     ${entriesHtml}
   `,
+    env,
     undefined,
     url.hostname,
   );
@@ -403,6 +424,7 @@ async function handleEntry(
       ${tagsHtml}
     </article>
   `,
+    env,
     description,
     url.hostname,
   );
@@ -443,9 +465,9 @@ async function handleRssFeed(request: Request, env: Env): Promise<Response> {
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Blog</title>
+    <title>${env.NAME || 'Blog'}</title>
     <link>${baseUrl}</link>
-    <description>My Blog</description>
+    <description>${env.NAME || 'My Blog'}</description>
     ${items}
   </channel>
 </rss>`;
@@ -474,7 +496,7 @@ async function handleLlmsTxt(request: Request, env: Env): Promise<Response> {
     })
     .join("\n");
 
-  const llmsTxt = `# Blog
+  const llmsTxt = `# ${env.NAME || 'Blog'}
 
 > A collection of blog posts
 
@@ -535,15 +557,16 @@ async function handleTagPage(
 
   const url = new URL(request.url);
   const html = htmlTemplate(
-    `Jan Wilmake on ${tag}`,
+    `${tag} - ${env.NAME || 'Blog'}`,
     `
-    <h1>Jan Wilmake on ${tag}</h1>
+    <h1>${tag}</h1>
     <p>All blog posts tagged with <strong>${tag}</strong></p>
     ${entriesHtml}
     <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc;">
       <a href="/">← Back to all posts</a>
     </div>
   `,
+    env,
     undefined,
     url.hostname,
   );

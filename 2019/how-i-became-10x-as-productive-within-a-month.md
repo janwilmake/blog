@@ -17,8 +17,7 @@ A few simple new rules are going to make me much more productive.
  5. At home, give phone to my housemate (call him or ask him to unlock). Ask him
     max 10-60 minutes a day and maybe not at all.
  6. Use test phones (old iPhone and old Android phone) for developing.
- 7. Codebase first development
-    https://karsens.com/how-to-code-more-and-plan-less/
+ 7. [Codebase first development](/2019/how-to-code-more-and-plan-less)
 
 
 

@@ -11,8 +11,7 @@ starting out, you will probably have a hard time making a decision.
 
 This is what happened to me. For months and months, I just learned a lot about
 everything. And in the end, I choose for React native over the Progressive web
-apps. (Also see this article RN is the future
-https://karsens.com/react-native-is-the-future/)
+apps. (Also see this article [RN is the future](/2017/react-native-is-the-future))
 
 Last Friday on the Dojo Barbeque, Niels Bossman from Makkelijk Afvallen
 http://makkelijkafvallen.eu asked me a very good question. 'Should I make an

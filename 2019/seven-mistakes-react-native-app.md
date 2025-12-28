@@ -36,15 +36,13 @@ Here are some things that make the app overly complex:
  * Perfectionizing UI creating much bigger codebase with many details, not
    sticking to basic react native.
  * Not using Expo, not even ExpoKit. Because of this, you have to rely on
-   unstable open source code or create your own. More about this here
-   https://karsens.com/perfections-vs-speed/
+   unstable open source code or create your own. [More about this here](/2019/perfections-vs-speed)
  * Having a default, a @2x and a @3x for all image resources. This costs time to
    make while it doesn't boost performance noticably, since all those images are
    saved locally and very small in size already anyway.
  * Doing many many redesigns. Redesigns don’t make users use the app if the app
    doesn’t fit users needs.
- * Using Wix Navigation instead of React Navigation. More info about this here
-   https://karsens.com/big-reason-to-use-react-navigation-over-wix-navigation/
+ * Using Wix Navigation instead of React Navigation. [More info about this here](/2019/big-reason-to-use-react-navigation-over-wix-navigation)
  * Creating layers over layers over layers with components. Using too much
    inheritance and passing props through, instead of composing flexible
    components
@@ -147,8 +145,8 @@ this.
 
 7) Feature Ownership
 Not giving developers full feature ownership because there is a strong
-UI-UX/Frontend/Backend/Testing separation can negatively impact efficiency. Read
-more here https://karsens.com/code-ownership/. Of course it's not always
+UI-UX/Frontend/Backend/Testing separation can negatively impact efficiency. [Read
+more here](/2019/code-ownership). Of course it's not always
 possible to let developers have full feature ownership because then you'd need
 full-stack developers, but at least there should be a possibility for this,
 because it can be way more efficient.

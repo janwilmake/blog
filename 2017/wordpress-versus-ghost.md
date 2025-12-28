@@ -48,9 +48,7 @@ I believe that they are true. Here it is:
    technological perspective Ghost beats WP in every possible way: speed,
    security, and ease of use. WordPress is PHP based, which imho is decaying. On
    the other hand, Ghost is built on top of NodeJS, which is relatively new, and
-   built for the future. In [this](
-   http://karsens.com/blazing-fast-beautiful-website/" target="_blank) article I
-   delve further into the wonderful world of Javascript
+   built for the future
    
    
  * Are you a digital moron or a digital entrepreneur? Ghost takes a little more

@@ -49,9 +49,9 @@ Well, not physically, but mentally.
 
 The internet is more powerful than most people think
 The internet isn't limited to disconnecting the connected and connecting the
-disconnected. As I wrote in these two posts, it also scatters attention and
-focus https://karsens.com/smartphone-attention-pollution/, makes us 
-notification-zombies https://karsens.com/notification-zombies/ and does many
+disconnected. As I wrote in these two posts, it also [scatters attention and
+focus](/2017/smartphone-attention-pollution), makes us
+[notification-zombies](/2017/notification-zombies) and does many
 more things. The mediums we use for communication decide how we think and how we
 behave. Read more about it in this fascinating book: The Shallows: What the
 Internet Is Doing to Our Brains

@@ -6,8 +6,7 @@ tags: [smartphone, notifications, distractions, productivity, social-media, face
 
 # Notification-zombies
 
-This is a follow-up on my previous article
-http://karsens.com/smartphone-attention-pollution/ about the love-hate
+This is a follow-up on [my previous article](/2017/smartphone-attention-pollution) about the love-hate
 relationship you have with your smartphone and the internet
 attention-deficit-disorder your smartphone causes.
 

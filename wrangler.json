@@ -8,5 +8,10 @@
     "directory": "./",
     "binding": "ASSETS"
   },
+  "vars": {
+    "NAME": "Jan Wilmake's Blog",
+    "GITHUB": "https://github.com/janwilmake/blog",
+    "X": "https://x.com/janwilmake"
+  },
   "routes": [{ "custom_domain": true, "pattern": "blog.janwilmake.com" }]
 }

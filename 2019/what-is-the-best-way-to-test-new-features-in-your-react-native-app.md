@@ -18,8 +18,7 @@ drawbacks, so here they are.
     almost effortless.
     
     
- 1. Using Wireless Live Reload Use Pure Expo (migrate if needed)
-    https://karsens.com/migrating-to-expo/ and let BETA testers test the app
+ 1. Using Wireless Live Reload Use Pure Expo ([migrate if needed](/2019/migrating-to-expo)) and let BETA testers test the app
     by running the packager and scanning the QR Code. This can work with as many
     devices as you want, as long as they're connected to the same WiFi network.
     
@@ -33,8 +32,7 @@ drawbacks, so here they are.
     features gradually.
     
     
- 3. Setup A Beta Channel within Expo If you have pure Expo
-    https://karsens.com/the-expo-edge/ it's very easy to setup a beta channel
+ 3. Setup A Beta Channel within Expo If you have [pure Expo](/2018/the-expo-edge) it's very easy to setup a beta channel
     https://docs.expo.io/versions/latest/distribution/release-channels/. You
     don't have to build, deploy and release the app every time you add something
     native (because you can't). You don't even have to do it once. You can just
