@@ -15,7 +15,7 @@ to these platforms, I don't connect with my close friends, I just sparsify my
 attention to many loose connections, and this only makes maintaining the closer
 relationships harder.
 
-Thanks to Robin Dunbar [https://en.wikipedia.org/wiki/Robin_Dunbar], it's known
+Thanks to Robin Dunbar https://en.wikipedia.org/wiki/Robin_Dunbar, it's known
 that 150 is a magic number of the limit of relationships an average person can
 maintain. I really think there should exist a tool to easily see and maintain
 the relationships that you care about, and be able to reach this magic number.
@@ -31,7 +31,7 @@ iPhone phone app I already use now.
 
 So after an hour, I had a list of functionalities and screens the app needed to
 have (See this GitHub Issue
-[https://github.com/EAT-CODE-KITE-REPEAT/Dunbar/issues/1]). Then I started
+https://github.com/EAT-CODE-KITE-REPEAT/Dunbar/issues/1). Then I started
 coding, and I kept adding more specifics about the implementation in the issue
 on the fly. In total it took me 6 morning- or evening-sessions of, in total, 26
 hours. Of these 26 hours, 20 hours was coding. 4 hours was planning out features
@@ -39,7 +39,7 @@ hours. Of these 26 hours, 20 hours was coding. 4 hours was planning out features
 and 2 hours was bringing it to the stores of Android and iOS.
 
 The first iteration (Iteration 0 - the Proof of Concept) code will remain open
-source in this repo [https://github.com/EAT-CODE-KITE-REPEAT/Dunbar/]. The app
+source in this repo https://github.com/EAT-CODE-KITE-REPEAT/Dunbar/. The app
 is already usable, but further iterations will improve it greatly.
 
 Validate
@@ -71,7 +71,7 @@ There are many reasons for it, but I think these are the biggest ones:
     
     
  3. At most projects I've worked on there was complicated linkage with native
-    code and no building automation from Expo [https://expo.io]. This easily
+    code and no building automation from Expo https://expo.io. This easily
     takes about 30% of all coding time. Using Expo and staying in the realm of
     their possibilities they offer, removes all native Android and iOS stuff,
     making it 1.3x as fast.
@@ -92,7 +92,7 @@ There are many reasons for it, but I think these are the biggest ones:
     
  6. I was able to rely on some libraries I wrote in the past and open sourced,
     one of which is React Native Data Forms
-    [https://github.com/EAT-CODE-KITE-REPEAT/react-native-data-forms]. This
+    https://github.com/EAT-CODE-KITE-REPEAT/react-native-data-forms. This
     library creates a form in ±100 lines instead of a few thousand lines.
     Because of this, I probably needed to use 50% less code. (improvement with
     factor 1.5)

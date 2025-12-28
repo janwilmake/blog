@@ -77,25 +77,25 @@ To incentivize companies to fix their llms.txt and to provide only the best qual
 
 ### ### Document Size
 
-To get the most out of llms.txt, documents should be token-efficient. For example, <https://developers.cloudflare.com/llms.txt>[https://developers.cloudflare.com/llms.txt]($https://developers.cloudflare.com/llms.txt) is 36,000 tokens for just the table of contents, creating a very large minimum amount of tokens.
+To get the most out of llms.txt, documents should be token-efficient. For example, <https://developers.cloudflare.com/llms.txt>https://developers.cloudflare.com/llms.txt($https://developers.cloudflare.com/llms.txt) is 36,000 tokens for just the table of contents, creating a very large minimum amount of tokens.
 
-Another example is <https://docs.cursor.com/llms.txt>[https://docs.cursor.com/llms.txt]($https://docs.cursor.com/llms.txt), which serves links to several languages. This isn't succinct and creates unnecessary overhead to an LLM that knows most languages.
+Another example is <https://docs.cursor.com/llms.txt>https://docs.cursor.com/llms.txt($https://docs.cursor.com/llms.txt), which serves links to several languages. This isn't succinct and creates unnecessary overhead to an LLM that knows most languages.
 
 To make token usage efficient when wading through context, it's best if the llms.txt itself is not bigger than the pages being linked to. If it is, it becomes a significant addition to the context window every time you want to retrieve a piece of information.
 
-Another example is <https://supabase.com/llms.txt>[https://supabase.com/llms.txt]($https://supabase.com/llms.txt), where the first document linked contains approximately 800,000 tokens, which is far too large for most LLMs to process. As a first rule, we recommend keeping both llms.txt and all linked documents under 10,000 tokens.
+Another example is <https://supabase.com/llms.txt>https://supabase.com/llms.txt($https://supabase.com/llms.txt), where the first document linked contains approximately 800,000 tokens, which is far too large for most LLMs to process. As a first rule, we recommend keeping both llms.txt and all linked documents under 10,000 tokens.
 
 ### ### Incorrect content-type
 
 The llms.txt itself, as well as the links it refers to, must lead to a text/markdown or text/plain response. This is the most common mistake in llms.txt files today.
 
-For example, <https://www.bitcoin.com/llms.txt>[https://www.bitcoin.com/llms.txt]($https://www.bitcoin.com/llms.txt) and <https://docs.docker.com/llms.txt>[https://docs.docker.com/llms.txt]($https://docs.docker.com/llms.txt) both return HTML for every document linked to, and while listed in some registries, <https://elevenlabs.io/llms.txt>[https://elevenlabs.io/llms.txt]($https://elevenlabs.io/llms.txt) responds with an HTML document.
+For example, <https://www.bitcoin.com/llms.txt>https://www.bitcoin.com/llms.txt($https://www.bitcoin.com/llms.txt) and <https://docs.docker.com/llms.txt>https://docs.docker.com/llms.txt($https://docs.docker.com/llms.txt) both return HTML for every document linked to, and while listed in some registries, <https://elevenlabs.io/llms.txt>https://elevenlabs.io/llms.txt($https://elevenlabs.io/llms.txt) responds with an HTML document.
 
-In many cases, the content-type is text/plain or text/markdown, yet it can't be parsed according to [the spec](https://llmstxt.org/)[the spec]($https://llmstxt.org/). For example, <https://cursor.com/llms.txt>[https://cursor.com/llms.txt]($https://cursor.com/llms.txt) just lists raw URLs without markdown link format, <https://console.groq.com/llms.txt>[https://console.groq.com/llms.txt]($https://console.groq.com/llms.txt) does not present its links in an h2 markdown section (##), and <https://lmstudio.ai/llms.txt>[https://lmstudio.ai/llms.txt]($https://lmstudio.ai/llms.txt) returns all documents directly, concatenated.
+In many cases, the content-type is text/plain or text/markdown, yet it can't be parsed according to [the spec](https://llmstxt.org/)[the spec]($https://llmstxt.org/). For example, <https://cursor.com/llms.txt>https://cursor.com/llms.txt($https://cursor.com/llms.txt) just lists raw URLs without markdown link format, <https://console.groq.com/llms.txt>https://console.groq.com/llms.txt($https://console.groq.com/llms.txt) does not present its links in an h2 markdown section (##), and <https://lmstudio.ai/llms.txt>https://lmstudio.ai/llms.txt($https://lmstudio.ai/llms.txt) returns all documents directly, concatenated.
 
 ### ### Not served at the root
 
-Many companies ended up not serving their llms.txt at the root. For example, <https://www.mintlify.com/docs/llms.txt>[https://www.mintlify.com/docs/llms.txt]($https://www.mintlify.com/docs/llms.txt) and <https://nextjs.org/docs/llms.txt>[https://nextjs.org/docs/llms.txt]($https://nextjs.org/docs/llms.txt) are not hosted at the root, making it hard to find programmatically.
+Many companies ended up not serving their llms.txt at the root. For example, <https://www.mintlify.com/docs/llms.txt>https://www.mintlify.com/docs/llms.txt($https://www.mintlify.com/docs/llms.txt) and <https://nextjs.org/docs/llms.txt>https://nextjs.org/docs/llms.txt($https://nextjs.org/docs/llms.txt) are not hosted at the root, making it hard to find programmatically.
 
 ## Create tool
 

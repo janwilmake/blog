@@ -11,7 +11,7 @@ few years ago, Expo didn't exist or wasn't matured yet. However, now Expo is the
 prefered choice when creating a new React Native project in most cases. The tool
 is super stable and has many possibilities. Therefore, it can be a very good
 idea to migrate to expo. In another article from about a year ago, I delve into 
-the expo edge [https://karsens.com/the-expo-edge/]. This article will assume you
+the expo edge https://karsens.com/the-expo-edge/. This article will assume you
 made the decision to migrate to expo, and shows you the steps to make in order
 to achieve this.
 

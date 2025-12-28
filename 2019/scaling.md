@@ -7,18 +7,18 @@ tags: [programming, startup, devops]
 # Scaling Horizontally to one million RPS
 
 This Forbes Article
-[https://www.forbes.com/sites/reuvencohen/2013/11/26/google-shows-how-to-scale-apps-from-zero-to-one-million-requests-per-second-for-10/#7de604137ad9] 
+https://www.forbes.com/sites/reuvencohen/2013/11/26/google-shows-how-to-scale-apps-from-zero-to-one-million-requests-per-second-for-10/#7de604137ad9 
 and its Original Post
-[https://cloudplatform.googleblog.com/2013/11/compute-engine-load-balancing-hits-1-million-requests-per-second.html] 
+https://cloudplatform.googleblog.com/2013/11/compute-engine-load-balancing-hits-1-million-requests-per-second.html 
 describe how a guy managed to hit 1Million RPS for a while with one load
 balancer and 10$. This post also contains a gist to reproduce the experiments,
 which is pretty cool. This Facebook blog
-[https://www.facebook.com/notes/facebook-engineering/scaling-facebook-to-500-million-users-and-beyond/409881258919/] 
+https://www.facebook.com/notes/facebook-engineering/scaling-facebook-to-500-million-users-and-beyond/409881258919/ 
 shows how they scaled up to 500 million users in 2010. In this article
-[http://highscalability.com/blog/2010/11/4/facebook-at-13-million-queries-per-second-recommends-minimiz.html]
+http://highscalability.com/blog/2010/11/4/facebook-at-13-million-queries-per-second-recommends-minimiz.html
 , which is also from 2010, Facebook gives an insight about their statistics and
 scaling strategies. Stories like these excite me to think about future scaling
-of Communify [https://communify.cc/]. With 500 Million users, Facebook had 13M
+of Communify https://communify.cc/. With 500 Million users, Facebook had 13M
 requests per second. Now, with 4 billion users, they probably handle ±100M
 requests per second. I wonder how proper scaling could end up there.
 
@@ -31,7 +31,7 @@ the query to the right server, based on the request.
 If this wasn't the case, it would be easy, like described in my previous
 article
 about geo-scaling
-[https://medium.com/leckr-react-native-graphql-apollo-tutorials/the-benefits-and-drawbacks-of-decentralised-geo-scaling-thinking-of-2019-and-beyond-infinite-9faa5ad465c8]
+https://medium.com/leckr-react-native-graphql-apollo-tutorials/the-benefits-and-drawbacks-of-decentralised-geo-scaling-thinking-of-2019-and-beyond-infinite-9faa5ad465c8
 . But now that we have global communities too, we have a few tricks to do. This
 is what I came up with:
 
@@ -111,7 +111,7 @@ assumptions, which my design of the app can guarantee:
  2. A single community never has to be sharded
 
 This whole architecture is, I think, very interesting and would also work for my 
-Chat-BaaS idea [https://karsens.com/chat-baas/].
+Chat-BaaS idea https://karsens.com/chat-baas/.
 
 From 1M to 100M RPS.
 100 M RPS, 4.000 M users, and ±40 M communities, ±20.000 servers.. That's the

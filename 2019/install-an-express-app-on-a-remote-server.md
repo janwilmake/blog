@@ -8,26 +8,26 @@ tags: [programming, nodejs, devops]
 
 This is the way I do it, not all steps are necessary.
 
- 1. Create a Linode [https://linode.com]  Or DigitalOcean Droplet. They are both
+ 1. Create a Linode https://linode.com  Or DigitalOcean Droplet. They are both
     good.
  2. Initial server setup
-    [https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04]
+    https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04
 
 2. Install NGinx
-[https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04]
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
 
 3. Install Node
-[https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04]
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04
 
 4. Install MySQL
-[https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04]
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
 
 5. Create database:
 
 > mysql
 > CREATE DATABASE name;
 6. If you want emoji's in your database too, set database to support full
-Unicode using this guide [https://mathiasbynens.be/notes/mysql-utf8mb4].
+Unicode using this guide https://mathiasbynens.be/notes/mysql-utf8mb4.
 
 7. Link the domain to CloudFlare's name servers "dana.ns.cloudflare.com" and
 "paul.ns.cloudflare.com". 

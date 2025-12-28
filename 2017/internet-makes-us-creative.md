@@ -8,7 +8,7 @@ tags: [internet, philosophy, technology-critique, personal-development]
 
 Today I was listening to Drum & Bass when I thought: 'What if this would be
 classical? That would be epic!' So I searched for 'Drum & Bass classical', and 
-voila [https://www.youtube.com/watch?v=qb-LkBkFb_Y]! Somebody made it 7 years
+voila https://www.youtube.com/watch?v=qb-LkBkFb_Y! Somebody made it 7 years
 ago. There are much more situations like this. There is a pattern that uncommon
 thoughts we put on the internet can be found by others. Normally, this kind of
 thoughts would end because it doesn't exist.

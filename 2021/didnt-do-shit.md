@@ -78,7 +78,7 @@ a.s.a.p.
 
  * Automatic API that links hours worked today (WakaTime) to amount of coffee
    you can dispense from your coffee machine
- * Freedom.to [http://Freedom.to] API connected to WakaTime that allows for
+ * Freedom.to http://Freedom.to API connected to WakaTime that allows for
    small breaks and complete freedom after the goal has been reached
  * The amount of fastfood available (chips, cola) is linear to the amount of
    days the goal has been reached last week. This can be done by automatically

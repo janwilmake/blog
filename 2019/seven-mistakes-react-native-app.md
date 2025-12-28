@@ -26,7 +26,7 @@ become a whale in a bathtub. You wanna be a fish in the ocean. Stay small and
 flexible, stay agile.
 
 As is oftenly stated, premature optimization is the root of all evil
-[https://stackify.com/premature-optimization-evil/]
+https://stackify.com/premature-optimization-evil/
 
 Here are some things that make the app overly complex:
 
@@ -37,19 +37,19 @@ Here are some things that make the app overly complex:
    sticking to basic react native.
  * Not using Expo, not even ExpoKit. Because of this, you have to rely on
    unstable open source code or create your own. More about this here
-   [https://karsens.com/perfections-vs-speed/]
+   https://karsens.com/perfections-vs-speed/
  * Having a default, a @2x and a @3x for all image resources. This costs time to
    make while it doesn't boost performance noticably, since all those images are
    saved locally and very small in size already anyway.
  * Doing many many redesigns. Redesigns don’t make users use the app if the app
    doesn’t fit users needs.
  * Using Wix Navigation instead of React Navigation. More info about this here
-   [https://karsens.com/big-reason-to-use-react-navigation-over-wix-navigation/]
+   https://karsens.com/big-reason-to-use-react-navigation-over-wix-navigation/
  * Creating layers over layers over layers with components. Using too much
    inheritance and passing props through, instead of composing flexible
    components
  * Not using a library like react-native-data-forms
-   [https://github.com/EAT-CODE-KITE-REPEAT/react-native-data-forms] to create
+   https://github.com/EAT-CODE-KITE-REPEAT/react-native-data-forms to create
    forms (not separating impelementation details and semantics from components
    and data flow)
  * Having very complex backend setup, 64 servers. All can be done with just one
@@ -73,10 +73,10 @@ Here are some things that make the app overly complex:
  * We don't use any library to have a higher order definition of our model and
    queries on the front and back-end. A good tool for this, which can save much
    development time, would be PostGraphile
-   [https://github.com/graphile/postgraphile]. We can even create our own if
+   https://github.com/graphile/postgraphile. We can even create our own if
    this doesn't work with our own stack. This could still save a lot of time in
    the future. I'm also working on my own library for this: GraphQLDefine
-   [https://github.com/EAT-CODE-KITE-REPEAT/graphql-define]
+   https://github.com/EAT-CODE-KITE-REPEAT/graphql-define
 
 2) A Messy Codebase (2x)
  * Having much old bad code in the codebase and leaving it there, not taking the
@@ -148,7 +148,7 @@ this.
 7) Feature Ownership
 Not giving developers full feature ownership because there is a strong
 UI-UX/Frontend/Backend/Testing separation can negatively impact efficiency. Read
-more here [https://karsens.com/code-ownership/]. Of course it's not always
+more here https://karsens.com/code-ownership/. Of course it's not always
 possible to let developers have full feature ownership because then you'd need
 full-stack developers, but at least there should be a possibility for this,
 because it can be way more efficient.

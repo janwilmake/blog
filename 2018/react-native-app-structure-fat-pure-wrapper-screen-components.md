@@ -29,7 +29,7 @@ So since today, I divided my client-side react-native code into a few different
 folders: fat, pure, screens, universal, wrappers, and old.
 
 P.S. this post
-[https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0] 
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0 
 inspired me to do it, and is also good reading material.
 
 Fat components
@@ -41,7 +41,7 @@ data. Otherwise, you have to open the component to check whether it does.
 Pure components:
 Whut? "People say that a component is pure if it is guaranteed to return the
 same result given the same props and state." - Dan Abramov
-[https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0]
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
 
 Motivation: It's good to know if a component doesn't contain any GraphQL Data
 (yet). Pure components don't. However, sometimes (more often than not) they need

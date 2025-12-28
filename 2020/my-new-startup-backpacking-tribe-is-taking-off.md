@@ -6,8 +6,8 @@ tags: [startup, entrepreneurship, digital-nomad, travel]
 
 # My new startup - BackpackingTribe - is taking off!
 
-I started BackpackingTribe [https://backpackingtribe.com/] about a week ago, and
-it's taking off! BackpackingTribe [https://backpackingtribe.com/] is a platform
+I started BackpackingTribe https://backpackingtribe.com/ about a week ago, and
+it's taking off! BackpackingTribe https://backpackingtribe.com/ is a platform
 where backpackers can join a group, a.k.a. tribe, to travel from hostel to
 hostel together. This way, you don't get the superficial stuff anymore when
 traveling and going to new hostels every 3 days; instead, you are able to form
@@ -28,7 +28,7 @@ temporary problem.
 
 In the end, I emailed quite some people, of which 14 will join the group trip
 to
-Portugal [https://backpackingtribe.com/portugal-november-2020/]. A great start!
+Portugal https://backpackingtribe.com/portugal-november-2020/. A great start!
 This trip will take place for 3 weeks from the 15th of November until the 5th of
 December. 
 

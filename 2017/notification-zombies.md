@@ -7,16 +7,16 @@ tags: [smartphone, notifications, distractions, productivity, social-media, face
 # Notification-zombies
 
 This is a follow-up on my previous article
-[http://karsens.com/smartphone-attention-pollution/] about the love-hate
+http://karsens.com/smartphone-attention-pollution/ about the love-hate
 relationship you have with your smartphone and the internet
 attention-deficit-disorder your smartphone causes.
 
 If you're satisfied with the amount of time you spend on your phone, then click 
-here [https://facebook.com] to go back where you came from: Your endless
+here https://facebook.com to go back where you came from: Your endless
 timeline of distraction.
 
 As Mark Manson is stating in his recent article
-[https://markmanson.net/attention], our attention will be sold in the future. We
+https://markmanson.net/attention, our attention will be sold in the future. We
 are living in a society that is driven by attention a lot. Think about it. We
 get distracted all the time, and most of the time, it's because companies make
 money out of it. Aren't you clicking on Facebook when a notification tells you
@@ -47,15 +47,15 @@ on that SnapChat you got, you forget about your work for a while and that feels
 good. The moment you see that a friend liked your Instagram picture, you feel
 good for a while, but it totally scatters your attention span. According to 
 this
-article [http://time.com/4147614/smartphone-usage-us-2015/] US citizens are
+article http://time.com/4147614/smartphone-usage-us-2015/ US citizens are
 looking on their phones 46 times per day on average. Assuming that you're awake
 16 hours a day, that's once every 21 minutes. And a big amount of the times you
 go to your phone it's because you're distracted from what you were actually
 doing.
 
 On average users spent 28 minutes a day
-[http://expandedramblings.com/index.php/whatsapp-statistics/2/] on WhatsApp, and 
-50 minutes a day [https://techcrunch.com/2016/04/27/facediction/] to go to
+http://expandedramblings.com/index.php/whatsapp-statistics/2/ on WhatsApp, and 
+50 minutes a day https://techcrunch.com/2016/04/27/facediction/ to go to
 Facebook, Instagram and Messenger.
 
 That's horrible.
@@ -67,15 +67,15 @@ A few months ago, I was on my phone about 6 hours a day, and the biggest part of
 that time I was on social media. I wanted to be on my phone less so I tried some
 things. After many measures that didn't really work (I went back to about 3
 hours a day, but that wasn't good enough), installing Freedom
-[https://freedom.refersion.com/c/2d1dfd] fortunately made me less of a
+https://freedom.refersion.com/c/2d1dfd fortunately made me less of a
 notification-zombie. Now I'm on my phone just 1 hour a day, and it frees my
 mind. I can't believe it.
 
 Just try this a while and I bet it will free your mind: Turn off all of your
 notifications. You can do this in the settings, but Freedom
-[https://freedom.refersion.com/c/2d1dfd] gives you many more options. After a
+https://freedom.refersion.com/c/2d1dfd gives you many more options. After a
 while, you will start thinking for yourself again. You'll open Facebook
 eventually, when you allow yourself, and when you really think you need it... If
 that time ever comes.
 
-Click here to try freedom [https://freedom.refersion.com/c/2d1dfd]
+Click here to try freedom https://freedom.refersion.com/c/2d1dfd

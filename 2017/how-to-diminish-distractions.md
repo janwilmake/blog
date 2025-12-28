@@ -11,7 +11,7 @@ can:
 
  * Don't get distracted by your phone or computer. Write down important
    thoughts, but focus and concentrate on just one thing for as long as you can
-   to stay sharp. Use Freedom.to [http://freedom.to/] to make it impossible to
+   to stay sharp. Use Freedom.to http://freedom.to/ to make it impossible to
    get distracted.
    
    
@@ -25,7 +25,7 @@ can:
    
    
  * Grow your willpower by achieving self-set challenges and being open about it.
-   A good way to do this is GoFuckingDoIt.com [https://gofuckingdoit.com/]
+   A good way to do this is GoFuckingDoIt.com https://gofuckingdoit.com/
    
    
  * Cycle through your life Read more [/distractions]
@@ -38,4 +38,4 @@ statistics from 2008-2010 about internet and smartphone usage.
 
 This is a good article on the fact that it takes a long time to recover from a
 distraction and how distractions impact work. click
-[https://www.ics.uci.edu/~gmark/chi08-mark.pdf]
+https://www.ics.uci.edu/~gmark/chi08-mark.pdf

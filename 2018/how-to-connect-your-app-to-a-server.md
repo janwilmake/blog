@@ -41,9 +41,9 @@ connect.
 
 Error Handling:
  1. Show that you’re offline if you’re offline according to NetInfo
-    [https://facebook.github.io/react-native/docs/netinfo.html]. You can also
+    https://facebook.github.io/react-native/docs/netinfo.html. You can also
     use something like the ConnectivityRenderer from react-native-offline
-    [https://github.com/rauliyohmc/react-native-offline] but I ended up using
+    https://github.com/rauliyohmc/react-native-offline but I ended up using
     none of them. ConnectivityRenderer seemd to have a false positive on some
     slow edgy cellular networks.
     

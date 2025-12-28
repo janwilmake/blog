@@ -18,14 +18,14 @@ download button  that leads to the app store, and not requiring new users to
 enter a code after downloading the app. 
 
 When I was in doubt on whether or not to keep the invite only option for my app
-[https://friendtime.co], I found four advantages, but more disadvantages. 
+https://friendtime.co, I found four advantages, but more disadvantages. 
 
 Firstly, if you make it invite-only, you collect emails of users. These emails
 can later be used (unless they opt-out) to send any valuable information to
 them, for example tips/tricks or big updates. 
 
 Secondly, people can start talking about your app in real life or on social
-media, because they want an invite. The app SuperHuman [https://superhuman.com] 
+media, because they want an invite. The app SuperHuman https://superhuman.com 
 lets you post a tweet to ask for an invite if you just filled in your email,
 because users that already have the app can send instant invites.
 

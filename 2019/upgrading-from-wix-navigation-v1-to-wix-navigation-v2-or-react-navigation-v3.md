@@ -54,20 +54,20 @@ Problems with WN1:
 What does WN2 Solve?
  * Navigating multiple times (source?)
  * Android Back Button Behavior (see this
-   [https://github.com/wix/react-native-navigation/blob/master/docs/docs/screen-api.md]
+   https://github.com/wix/react-native-navigation/blob/master/docs/docs/screen-api.md
    , v2 has popTo)
 
 What does RN3 Solve?
  * Navigating multiple times (see this
-   [https://reactnavigation.org/blog/2018/05/07/react-navigation-2.0.html#navigateroutename-in-stacknavigator-is-less-pushy] 
+   https://reactnavigation.org/blog/2018/05/07/react-navigation-2.0.html#navigateroutename-in-stacknavigator-is-less-pushy 
    )
  * Wrapping once-mounted components around multiple screens
  * Android Back Button Behavior
  * Header back button possibilities (RN3 is way more flexible
-   [https://reactnavigation.org/docs/en/header-buttons.html#docsNav] in header
+   https://reactnavigation.org/docs/en/header-buttons.html#docsNav in header
    capabilities)
 
-All in all, read this [https://reactnavigation.org/docs/en/pitch.html] for
+All in all, read this https://reactnavigation.org/docs/en/pitch.html for
 advantages and disadvantages of RN3.
 
 What are the function calls we do now for navigation?
@@ -81,9 +81,9 @@ What are the function calls we do now for navigation?
 
 How much work is it to refactor to WN2?
 As can be seen in the Wix documentation
-[https://wix.github.io/react-native-navigation/#/docs/top-level-api-migration] 
+https://wix.github.io/react-native-navigation/#/docs/top-level-api-migration 
 it's not a lot of work to migrate from v1 to v2. This guide
-[https://medium.com/wix-engineering/react-native-navigation-v2-is-here-5b7c87f002a] 
+https://medium.com/wix-engineering/react-native-navigation-v2-is-here-5b7c87f002a 
 could also be useful.
 
 How much work is it to refactor to RN3?

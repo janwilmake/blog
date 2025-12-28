@@ -33,8 +33,8 @@ SETTINGS
 MUSIC
 
  * Find and listen to music of the culture of the language.
- * With lyrics in that language: Use Spotify [http://spotify.com] and Musicmatch
-   [https://about.musixmatch.com/] on your phone to get translations of lyrics
+ * With lyrics in that language: Use Spotify http://spotify.com and Musicmatch
+   https://about.musixmatch.com/ on your phone to get translations of lyrics
    too.
 
 I made a playlist of Portuguese Spotify Music with subtitled Lyrics, and it
@@ -44,13 +44,13 @@ Who wants to put together a German playlist with me? I like hip-hop and house.
 Give me a shout!
 
  * Youtube can also have subtitles sometimes.
-   [https://www.youtube.com/feed/trending], but make sure they're not automatic
+   https://www.youtube.com/feed/trending, but make sure they're not automatic
    subs. Once you changed your YouTube language in Settings, your trending feed
    will contain many foreign video's!
    
    
  * If you're better, listening to radio stations of the language of interest
-   works well: try TuneIn [http://tunein.com].
+   works well: try TuneIn http://tunein.com.
    
    
 
@@ -58,7 +58,7 @@ Give me a shout!
 
  * If you ever read books, it would be great to try a book in the language of
    choice once. I personally rarely read books anymore: I listen to them on 
-   Audible [http://audible.com/]. I used Audible.de [http://audible.de] to find
+   Audible http://audible.com/. I used Audible.de http://audible.de to find
    German books and downloaded them in the app on my phone. It's better to read
    something of the language of interest if the thing you are reading is
    actually interesting to you too! Why ever read school language books again?
@@ -66,7 +66,7 @@ Give me a shout!
 MOVIES
 
  * Watch movies and series from the language of choice, or watch voice-overed
-   movies on Netflix [http://netflix.com/] or download them. Use subtitles until
+   movies on Netflix http://netflix.com/ or download them. Use subtitles until
    you're good enough without.
 
 
@@ -88,7 +88,7 @@ FRIENDS
    are lots of backpackers of any country, and they all have Facebook groups. In
    any bigger city, there will be Facebook groups of communities from any bigger
    country. Like in Groningen, I entered a Facebook group called Brasileiros em
-   Groningen [https://www.facebook.com/groups/313605798681079/] and I made a
+   Groningen https://www.facebook.com/groups/313605798681079/ and I made a
    post to get to know some Brazilians in my own town!
    
    
@@ -96,13 +96,13 @@ FRIENDS
    can practice and so that you hear them speak it a lot as well.
    
    
- * Install Tandem [http://tandem.net], make a nice profile, and chat to people
+ * Install Tandem http://tandem.net, make a nice profile, and chat to people
    from that language. Add them on WhatsApp later, and have whole conversations
    and (video)calls. Tandem is amazing. It's an app like Tinder, but it doesn't
    match for hookups, but if you want to learn each other's language.
    
    
- * Install BeeFluent [http://www.beefluentapp.com/] on Chrome to FB chat in the
+ * Install BeeFluent http://www.beefluentapp.com/ on Chrome to FB chat in the
    language of interest
    
    
@@ -115,7 +115,7 @@ NEWS:
    
    
  * Install Kypsis
-   [https://chrome.google.com/webstore/detail/kypsis-language-immersion/ddkbjollcgaccneogdbnjadkcbocgcof] 
+   https://chrome.google.com/webstore/detail/kypsis-language-immersion/ddkbjollcgaccneogdbnjadkcbocgcof 
    (or similar) on Chrome to randomly translate 30% of all words in Chrome.
    
    
@@ -131,7 +131,7 @@ IMMERSE
 
  * Adopt physical social behaviors
  * Learn cognates for example, in Portuguese
-   [http://www.learn-portuguese-now.com/cognates.html]
+   http://www.learn-portuguese-now.com/cognates.html
 
 Entendeu, amigo?
 Using these tips myself I became fairly good in English and German, and I'm on
@@ -148,12 +148,12 @@ digitally first.
 I strongly believe the way we learn a language in schools is outdated and
 incredibly inefficient (compared to my method). I hope that the government will
 understand this and will soon change to more immersive methods. Achieving this
-is one of my company [http://travellifemovement.com/]'s goals.
+is one of my company http://travellifemovement.com/'s goals.
 
 Let me know what you think about this article. It's brand new and I just started
 writing. If you like it, don't forget to share it with your friends. There are
 buttons right below.
 
 I can't wait to go to Brazil (probably next year
-[http://travellifemovement.com/movement]) and to start using Portuguese
+http://travellifemovement.com/movement) and to start using Portuguese
 everywhere!

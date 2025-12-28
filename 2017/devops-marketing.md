@@ -19,7 +19,7 @@ my thoughts. Read on...
  * Instead of wasting money on marketing, think of smart ways of implementing
    marketing in your product. [I really enjoyed this book: Growth Hacker
    Marketing: A Primer on the Future of PR, Marketing, and Advertising
-   [https://www.amazon.com/gp/product/1591847389/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847389&linkCode=as2&tag=travellifemov-20&linkId=64b4ddbc6b5cb26d893f7a3a2185e3dd]
+   https://www.amazon.com/gp/product/1591847389/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591847389&linkCode=as2&tag=travellifemov-20&linkId=64b4ddbc6b5cb26d893f7a3a2185e3dd
 
 The Dev Ops paradigm is all you need to build a great product, and if you don't
 understand your market well enough, which most companies don't, you better make

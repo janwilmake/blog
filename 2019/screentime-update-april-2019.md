@@ -10,7 +10,7 @@ In the beginning of this year, I've been online a lot. My average of january
 2019 was a whopping 9 hours a day of screentime. All things I did required me to
 be on my phone and laptop all the time. I didn't sleep well and felt stressed a
 lot. But then I read the book Digital Minimalism
-[http://www.calnewport.com/books/digital-minimalism/]. It helped me a lot. Three
+http://www.calnewport.com/books/digital-minimalism/. It helped me a lot. Three
 months later, it's time for a small comparison.
 
 I use freedom.to to block distractions, and screentime to track the categories I

@@ -17,12 +17,12 @@ Before the industrial revolution in the 19th century, the worldwide
 concentration CO² was about 280ppm. The last 800.000 year the CO² fluctuated
 between 180 ppm (ice ages) and 280 ppm (warm periods).
 
-Carbon Footprint [https://www.wikiwand.com/en/Carbon_footprint]
+Carbon Footprint https://www.wikiwand.com/en/Carbon_footprint
 
-Ways to Remove CO² [https://www.wikiwand.com/en/Carbon_dioxide_removal]
+Ways to Remove CO² https://www.wikiwand.com/en/Carbon_dioxide_removal
 
 BECCS is the solution
-[https://www.wikiwand.com/en/Bio-energy_with_carbon_capture_and_storage]
+https://www.wikiwand.com/en/Bio-energy_with_carbon_capture_and_storage
 
 > How much should you invest in BECCS technologies per day in order to have a
 footprint of zero?
@@ -41,9 +41,9 @@ do it. Otherwise it's not enough.
 > Viral habit adoption can change the world.
 
 
-Potential [https://www.eenews.net/assets/2011/08/04/document_cw_01.pdf]
+Potential https://www.eenews.net/assets/2011/08/04/document_cw_01.pdf
 
-Costs [https://link.springer.com/article/10.1007%2Fs10584-005-3484-7]
+Costs https://link.springer.com/article/10.1007%2Fs10584-005-3484-7
 
 Healthy footprint app
 An app that costs like X% of your income of anybody that participates and it
@@ -105,7 +105,7 @@ change that!
 
 Other interesting techniques
 Micro organism gets CO² from the air
-[http://news.uga.edu/releases/article/uga-discovery-may-allow-scientists-to-make-fuel-from-co2-in-the-atmosp/]
+http://news.uga.edu/releases/article/uga-discovery-may-allow-scientists-to-make-fuel-from-co2-in-the-atmosp/
 
 Idea: Genetically optimize organisms to do more effective photosynthesis per
 euro or per square meter. These organisms (plants, trees or bacteria in water
@@ -113,4 +113,4 @@ even) will exponentially reproduce themselves. These organisms die out once the
 CO² levels decrease far enough again.
 
 Iron is very important for photosynthesis
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4989028/]. Check it out!
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4989028/. Check it out!

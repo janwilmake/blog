@@ -38,7 +38,7 @@ Why?
 How?
  * Think a little bit like Elon Musk to create the world you want to live in. I
    love this article
-   [https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html]
+   https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html
    . To summarize: always keep in mind and update your dream, and always
    understand the changing reality by learning. From that, create a strategy to
    achieve your dreams.
@@ -49,17 +49,17 @@ How?
    habits. To improve yourself, you have to be conscious! I really enjoyed this
    book: Breaking The Habit of Being Yourself: How to Lose Your Mind and Create
    a New One
-   [https://www.amazon.com/gp/product/1401938094/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401938094&linkCode=as2&tag=travellifemov-20&linkId=186b65ff89b20e486519e0ad5c65812a]
+   https://www.amazon.com/gp/product/1401938094/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1401938094&linkCode=as2&tag=travellifemov-20&linkId=186b65ff89b20e486519e0ad5c65812a
    
    
  * Also, having a habit of improving & setting high goals is important to grow. 
    Some people call it the 10X mindset
-   [https://medium.com/the-mission/the-10x-mindset-operating-at-an-exponentially-higher-level-can-make-a-big-difference-in-your-life-13216c0f7754]
+   https://medium.com/the-mission/the-10x-mindset-operating-at-an-exponentially-higher-level-can-make-a-big-difference-in-your-life-13216c0f7754
    
    
  * Habit of discovery and escaping your comfort zone. Create a bigger
    perspective. I call it the Hawk View
-   [https://karsens.com/hawk-view-entrepreneur-needs/].
+   https://karsens.com/hawk-view-entrepreneur-needs/.
    
    
  * Together this results in 'The habit of Change'

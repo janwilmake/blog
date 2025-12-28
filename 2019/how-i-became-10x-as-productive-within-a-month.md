@@ -18,7 +18,7 @@ A few simple new rules are going to make me much more productive.
     max 10-60 minutes a day and maybe not at all.
  6. Use test phones (old iPhone and old Android phone) for developing.
  7. Codebase first development
-    [https://karsens.com/how-to-code-more-and-plan-less/]
+    https://karsens.com/how-to-code-more-and-plan-less/
 
 
 

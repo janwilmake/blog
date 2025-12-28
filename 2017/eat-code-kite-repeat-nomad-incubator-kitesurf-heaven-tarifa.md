@@ -17,7 +17,7 @@ The first few days I went exploring all facets of the village: the nightlife,
 the beaches, the mountains nearby... There is a lot to do here!
 
 Also, I researched what type of board to buy, bought a mountainbike, and
-researched the kitesurf conditions [https://explorawatersports.com/tarifa-wind/]
+researched the kitesurf conditions https://explorawatersports.com/tarifa-wind/
 .
 
 From next week I will have an apartment from which I will be able to quickly go
@@ -25,7 +25,7 @@ to the kite spot (especially for poniente-days) and focus on work.
 
 From next week, I will try to get into a regular rhythm: I call it the EAT CODE
 KITE REPEAT Rhythm. I also made a Facebook group for people that like to adopt
-this lifestyle: Click here [https://www.facebook.com/groups/743789522496000].
+this lifestyle: Click here https://www.facebook.com/groups/743789522496000.
 
 My lifestyle looks roughly like the following:
 

@@ -22,7 +22,7 @@ them.
 
  * Firstly, I deleted and blocked all communication apps from my laptop. No
    slack, skype, e-mail or facebook on my PC anymore. (To block, I use freedom
-   [https://freedom.to] )
+   https://freedom.to )
  * Secondly, I made sure that all those channels were available on my phone.
  * Then, I put my phone somewhere far away when I start working, so I'm
    conscious of it when I go and check my phone.

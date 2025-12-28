@@ -7,7 +7,7 @@ tags: [digital-nomad, entrepreneurship, travel, minimalism]
 # 4 ways nomadic entrepreneurs can reduce their Carbon Footprint
 
 There are two ways to decrease your carbon footprint
-[https://en.wikipedia.org/wiki/Carbon_footprint]: using energy created without
+https://en.wikipedia.org/wiki/Carbon_footprint: using energy created without
 carbon emission, or using less energy in the first place. There are also two
 ways to use energy: directly and indirectly.
 
@@ -20,7 +20,7 @@ which you can (or already are) decreasing your Carbon Footprint.
 
 Dude, what is a carbon footprint!?
 Your carbon footprint is basically how much CO² is created because of your
-actions. According to MyClimate [https://www.myclimate.org], an average EU
+actions. According to MyClimate https://www.myclimate.org, an average EU
 citizen uses an average of 9.1 tons of CO² per year. To halt climate change,
 this has to be 2 tons.
 

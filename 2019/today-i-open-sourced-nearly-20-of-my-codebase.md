@@ -10,15 +10,15 @@ I tried to be more open source the past few weeks. My main codebase is still
 private, but I've open sourced a few things:
 
  * React Native Super Image
-   [https://github.com/EAT-CODE-KITE-REPEAT/react-native-super-image]
+   https://github.com/EAT-CODE-KITE-REPEAT/react-native-super-image
  * React Native Super Actionsheet
-   [https://github.com/EAT-CODE-KITE-REPEAT/react-native-super-actionsheet] - A
+   https://github.com/EAT-CODE-KITE-REPEAT/react-native-super-actionsheet - A
    small wrapper around rn actionsheet
- * Communify Open [https://github.com/EAT-CODE-KITE-REPEAT/communify-open] - A
+ * Communify Open https://github.com/EAT-CODE-KITE-REPEAT/communify-open - A
    place for ideas, plans, marketingstrategies, features and bug reports for
    Communify
  * React Native Data Forms
-   [https://github.com/EAT-CODE-KITE-REPEAT/react-native-data-forms] - by far
+   https://github.com/EAT-CODE-KITE-REPEAT/react-native-data-forms - by far
    the biggest open source library I have now - it's 3300+ lines of code! Create
    beautiful forms that submit data to redux, a graphql mutation, or an api in
    many different input types

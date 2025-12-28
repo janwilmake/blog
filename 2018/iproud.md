@@ -7,7 +7,7 @@ tags: [react-native, productivity, apps, entrepreneurship, mvp, shipping]
 # Meet iProud: The productivity app for entrepreneurs!
 
 In November 2017 I created the first version of this app: iProud. See the
-website for more info [https://iproud.co]
+website for more info https://iproud.co
 
 iProud is the ultimate To-Do app for entrepreneurs. Make & share to-do lists,
 get shit done, and meet & connect with other entrepreneurs!

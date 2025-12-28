@@ -28,23 +28,23 @@ solutions to make apps quicker: PhoneGap, Xamarin, Appcelerator, Cordova. In my
 humble opinion, this is showing great progress compared to where we were, but
 they are not truly native and didn’t reach the quality standards the current-day
 app-user expects from a great app. But since 2015 there is a new kid on the
-block: React Native [http://facebook.github.io/react-native/] was open-sourced
+block: React Native http://facebook.github.io/react-native/ was open-sourced
 by Facebook. In the past couple of years this kid has been growing up, and now
 it’s really something; Apart from Facebook itself, other big companies like Wix,
 Artsy, Uber, AirBNB, Walmart have been adopting the technology with great
 success.
 
-2 —Apollo [https://apollographql.com] for GraphQL makes handling data in your
+2 —Apollo https://apollographql.com for GraphQL makes handling data in your
 app easy as pie.
 Apollo (and GraphQL itself) is a true revolution in data handling inside of your
 app. Before GraphQL it was extremely hard and a lot of work to create complex
 app experiences like pagination, subscriptions (live data updates) and
 persistent caching. Now, it’s all integrated into this one tool, Apollo. A few
 weeks back, Apollo 2.0 has been released (read this blog
-[https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7]), which made a
+https://dev-blog.apollodata.com/apollo-client-2-0-5c8d0affcec7), which made a
 lot more possible. Now, we can all be masters of data.
 
-3 — Using tools like Expo [https://expo.io] automates a lot of overhead.
+3 — Using tools like Expo https://expo.io automates a lot of overhead.
 The process of going to the app stores for both Android and iOS has always been
 a long process, and it still is. But at least with tools like Expo, these
 processes are becoming more and easier.
@@ -53,7 +53,7 @@ processes are becoming more and easier.
 Sites like Medium and books for entrepreneurs provide very insightful
 information on how to be an entrepreneur and not give up.
 Communities on Slack are helping each other out and giving each other advice
-24/7. Also, communities like Dev.to [http://dev.to] are really making you more
+24/7. Also, communities like Dev.to http://dev.to are really making you more
 connected than ever as an entrepreneurial developer.
 
 5 — Open sourcing libraries is becoming the norm.
@@ -62,7 +62,7 @@ React Native I’ve seen amazing courses, tutorials and GitHub repositories, all
 for free. Being a developer doesn’t always mean that you have to write
 everything yourself. If you know how to use Ctrl+C and Ctrl+V, you’re halfway
 already. Sometimes you just have to put the right things together, and you’re
-done. Follow me on GitHub [https://github.com/karsens] to see what I’ve star'ed.
+done. Follow me on GitHub https://github.com/karsens to see what I’ve star'ed.
 Also, this is a great list of resources.
 
 6 — Moore’s law + Better DevOps automation is making it ever cheaper and easier
@@ -90,5 +90,5 @@ by
 Facebook in 2012, while just having 13 employees, after existing just 15
 months,
 for a staggering $1 billion USD
-[https://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/]
+https://techcrunch.com/2012/04/09/facebook-to-acquire-instagram-for-1-billion/
 . This is something to strive for.

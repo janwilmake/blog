@@ -12,10 +12,10 @@ starting out, you will probably have a hard time making a decision.
 This is what happened to me. For months and months, I just learned a lot about
 everything. And in the end, I choose for React native over the Progressive web
 apps. (Also see this article RN is the future
-[https://karsens.com/react-native-is-the-future/])
+https://karsens.com/react-native-is-the-future/)
 
 Last Friday on the Dojo Barbeque, Niels Bossman from Makkelijk Afvallen
-[http://makkelijkafvallen.eu] asked me a very good question. 'Should I make an
+http://makkelijkafvallen.eu asked me a very good question. 'Should I make an
 app or should I stay on the web?'
 
 This is a very hard question to answer but I answered with some insights that I
@@ -91,7 +91,7 @@ Progressive Web Apps?
 Progressive web apps are certainly a very interesting new technology and if you
 already decided to go for the web, I would certainly recommend to implement it
 in a way that it works as a PWA. For this, I'd recommend Lighthouse
-[https://developers.google.com/web/tools/lighthouse/].
+https://developers.google.com/web/tools/lighthouse/.
 
 PWA's sound like the future! It's a platform for mobile & desktop, Windows, Mac
 OS, Android & iOS.
@@ -100,12 +100,12 @@ Nonetheless, I choose for React Native. And here are the main considerations
 that made me make this decision.
 
 1 We use apps, not browsers According to this 2017 report
-[https://www.comscore.com/Insights/Presentations-and-Whitepapers/2017/Mobiles-Hierarchy-of-Needs]
+https://www.comscore.com/Insights/Presentations-and-Whitepapers/2017/Mobiles-Hierarchy-of-Needs
 , Mobile users spend 87% of their mobile time inside apps. Not in the browser!
 2. The market is moving more mobile. We all love our phones. Some of us hate
 them as well, but the time the world spends on their phones is still growing 
 according to this study
-[https://www.comscore.com/Insights/Blog/Mobile-Matures-as-the-Cross-Platform-Era-Emerges]
+https://www.comscore.com/Insights/Blog/Mobile-Matures-as-the-Cross-Platform-Era-Emerges
 3. You can't find progressive web apps in the stores. Google is planning to make
 PWA's findable in the Google Play Store, but it's not the case yet, and who
 knows how long it will take? Apple, on the other hand, is completely blocking
@@ -124,7 +124,7 @@ As much as I hate Facebook for its immoral way of doing business and retaining
 users on their platform, the things they open source are great.
 
 In 2015, they open sourced React Native
-[http://facebook.github.io/react-native/] and this completely changed the game
+http://facebook.github.io/react-native/ and this completely changed the game
 for the app world. Now, in 2018, many big apps use React Native! It's a great
 technology, and I decided to go for it because it binds very closely to actual
 native hardware capabilities of both Android and iOS. Also, there is a huge open

@@ -19,7 +19,7 @@ drawbacks, so here they are.
     
     
  1. Using Wireless Live Reload Use Pure Expo (migrate if needed)
-    [https://karsens.com/migrating-to-expo/] and let BETA testers test the app
+    https://karsens.com/migrating-to-expo/ and let BETA testers test the app
     by running the packager and scanning the QR Code. This can work with as many
     devices as you want, as long as they're connected to the same WiFi network.
     
@@ -34,8 +34,8 @@ drawbacks, so here they are.
     
     
  3. Setup A Beta Channel within Expo If you have pure Expo
-    [https://karsens.com/the-expo-edge/] it's very easy to setup a beta channel
-    [https://docs.expo.io/versions/latest/distribution/release-channels/]. You
+    https://karsens.com/the-expo-edge/ it's very easy to setup a beta channel
+    https://docs.expo.io/versions/latest/distribution/release-channels/. You
     don't have to build, deploy and release the app every time you add something
     native (because you can't). You don't even have to do it once. You can just
     let users log into your Expo account and check out the app from within expo
@@ -59,7 +59,7 @@ drawbacks, so here they are.
     
     
  6. A/B Testing with Firebase With Remote Config
-    [https://firebase.google.com/docs/ab-testing/abtest-config] you can A/B test
+    https://firebase.google.com/docs/ab-testing/abtest-config you can A/B test
     features over (a part of) your userbase, in production. This may be the best
     option for larger companies. It has one huge benefit, compared to all the
     above ways of testing new features: You can test psychological advantages of

@@ -18,7 +18,7 @@ build real things.
 
 In May I started exploring Javascript and tried a lot of open source projects. I
 read a lot about it and in June I decided to really learn it
-[https://karsens.com/and-then-i-turned-to-javascript/] because it seemed to be
+https://karsens.com/and-then-i-turned-to-javascript/ because it seemed to be
 the best way to do things at the time. So I started reading and following
 courses.
 

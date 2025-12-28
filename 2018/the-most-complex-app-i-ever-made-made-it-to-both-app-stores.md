@@ -6,7 +6,7 @@ tags: [react-native, programming, shipping, app product-development]
 
 # The most complex app I ever made, made it to both app stores!
 
-Last week I 'finished' MasterCrimeZ [https://mastercrimez.nl]. Wel... It's not
+Last week I 'finished' MasterCrimeZ https://mastercrimez.nl. Wel... It's not
 finished yet, because this is never gonna be finished. It's a with many options,
 but there's always room for more!
 
@@ -20,5 +20,5 @@ they were almost all online at the same time (which were about 10 people).
 In the end, after 4 months of programming, I called the app 'finished' and
 released it to the iOS Appstore and the Google Play store. It got through it!
 
-After this app I started with Communify [https://communify.cc]. It needs a lot
+After this app I started with Communify https://communify.cc. It needs a lot
 of work still, but it's gonna be epic.

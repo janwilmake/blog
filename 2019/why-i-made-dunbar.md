@@ -8,7 +8,7 @@ tags: [social-media, apps, entrepreneurship, startup, react-native, personal-dev
 
 When I was eleven years old, I learned how to make websites. When I was twelve I
 created a mafia game (For a similar example, see Omerta
-[https://barafranca.com/]). Creating this game, and playing other games myself,
+https://barafranca.com/). Creating this game, and playing other games myself,
 took most of my free time. I was hooked. Addicted. Hard to separate from my
 computer. It was an amazing experience to create and maintain a mafia game for a
 couple hundred daily active users for over ten years, but it was also very
@@ -27,7 +27,7 @@ make an app that bring people together. Away from their screens. Because this
 had made ME so much happier too.
 
 For about six months, I burned through all my money while working full time on
-my first attempt: Communify [https://communify.cc]. In hindsight, many things
+my first attempt: Communify https://communify.cc. In hindsight, many things
 went wrong. It was over developed, complex and had no good business model. What
 was even worse, is that it took away some of the business of the clients I was
 hoping to sell it to: the Coworking Space. The Coworkers loved the idea, but the
@@ -39,13 +39,13 @@ move to Amsterdam, learn more about startups, and try again. I love the vibe in
 the startup scene. I learned a lot really quickly. Even had two startup jobs at
 the same time. Read almost a dozen of books about startups. Also, I've read 
 Deep
-Work [http://www.calnewport.com/books/deep-work/], Digital Minimalism
-[http://www.calnewport.com/books/digital-minimalism/] and became very much
-inspired by Humane Tech [https://humanetech.com/]. Also, I read a lot about
+Work http://www.calnewport.com/books/deep-work/, Digital Minimalism
+http://www.calnewport.com/books/digital-minimalism/ and became very much
+inspired by Humane Tech https://humanetech.com/. Also, I read a lot about
 relationships (Robin Dunbar
-[https://www.amazon.com/Many-Friends-Does-Person-Need/dp/0674057163], Catherine
-Price [https://phonebreakup.com/], Susan Pinker
-[https://www.susanpinker.com/the-village-effect/], and more). These books have
+https://www.amazon.com/Many-Friends-Does-Person-Need/dp/0674057163, Catherine
+Price https://phonebreakup.com/, Susan Pinker
+https://www.susanpinker.com/the-village-effect/, and more). These books have
 all inspired me so much, I came up with the next attempt...
 
 This time I came up with FriendTime. A completely different approach for the

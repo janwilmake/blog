@@ -32,5 +32,5 @@ I'm going to use MongoDB, NodeJS and React Native in order to create the biggest
 apps.
 
 How? By using these principles
-[https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e]
+https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e
 . I will apply everything I've learned directly on what I need to build. Simple!

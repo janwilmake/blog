@@ -6,7 +6,7 @@ tags: [programming, startup, business]
 
 # Chat-BaaS: Chat Backend as a Service
 
-Chats are very universal. With Communify [https://communify.cc], I'm solving a
+Chats are very universal. With Communify https://communify.cc, I'm solving a
 problem that many software companies have solved, are solving, and will solve. I
 am solving it for React-Native + Node JS + GraphQL + MySQL, on Linux. A very
 nice combination.

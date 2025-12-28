@@ -58,14 +58,14 @@ using Linode (or any other cloud hosting platform).
  * Deploy an image —> Ubuntu 18.04 LTS
  * Boot
  * Initial server setup
-   [https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04]
+   https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04
  * Set up SSH Key
-   [https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804]
+   https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804
  * set up Nginx
-   [https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04]
+   https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
  * set up git, node (and npm), yarn, and pm2
  * set up mysql
-   [https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04]
+   https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
  * create mysql database with proper name
  * git pull
  * yarn, yarn dev and check if the app runs correctly

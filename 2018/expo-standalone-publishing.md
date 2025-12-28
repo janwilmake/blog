@@ -36,7 +36,7 @@ notifications" },
 app.json:
 
 App.json should be configured properly. Read more here
-[https://docs.expo.io/versions/latest/workflow/configuration/#__next]
+https://docs.expo.io/versions/latest/workflow/configuration/#__next
 Make sure to set the right permissions under the android key! Otherwise expo
 will define defaults which are a lot of permissions. Your APK's package name
 must be in the following format "com.example.myapp". It may contain letters
@@ -68,8 +68,8 @@ Also, once you want more functionality in your app like payments, you will have
 to detach, so then you can't let expo do the certificates anymore. You'll have
 to do it yourself!
 
-More Info here [https://developer.android.com/studio/publish/app-signing.html] 
-and here [https://calvium.com/how-to-make-a-p12-file/]
+More Info here https://developer.android.com/studio/publish/app-signing.html 
+and here https://calvium.com/how-to-make-a-p12-file/
 
 3) Having the right credentials set up
 Make sure to go through these steps before you upload your build to the Google
@@ -130,7 +130,7 @@ install the ios-sim tool and then use ios-sim launch .
 
 7) Upload your standalone builds:
 Android Developer Console
-Go Here [https://play.google.com/apps/publish/]
+Go Here https://play.google.com/apps/publish/
 
 TestFlight to test app for iOS
  1. Add new app in iTunes connect

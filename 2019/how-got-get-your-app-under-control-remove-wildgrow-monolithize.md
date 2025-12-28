@@ -43,11 +43,11 @@ paradigms:
    maintenance. It's worth the price
  * JS Only: Use React, React Native and Node JS. The developer now just has to
    learn one language! This also encourages feature-ownership
-   [https://karsens.com/code-ownership/]
+   https://karsens.com/code-ownership/
  * Keep DB Simple: As database, use SQLite until you require more power (which
    is very late, much later than most developers think)
  * Vertical Scaling: Vertical scaling to the max
-   [https://karsens.com/scaling-vertically/]. Much simpler DevOps, can be done
+   https://karsens.com/scaling-vertically/. Much simpler DevOps, can be done
    until quite big apps generate huge amounts of revenue.
  * Move to a single codebase: Easier setup. Don't split your issues between
    repo's.
@@ -57,40 +57,40 @@ paradigms:
  * Microservices are often considered, but for most startups, it's overkill
  * Start using docker and kubernetes once you really need it. Your setup changes
    too quickly in the beginning, and it will just increase maintenance cost.
- * Use Expo as much as possible [https://karsens.com/perfections-vs-speed/]
- * Think well about your code quality [https://karsens.com/high-code-quality/]
+ * Use Expo as much as possible https://karsens.com/perfections-vs-speed/
+ * Think well about your code quality https://karsens.com/high-code-quality/
 
 Migrate to Expo
 I see a lot of startups working on big apps in either native Android, native iOS
 (or both), or in bare React Native. Expo has matured in the past few years, and
 for most apps, it will work, making some small concessions. There is a big edge
 using expo as a startup: I call it the Expo Edge
-[https://karsens.com/the-expo-edge/]. At a few companies I've worked, I think
+https://karsens.com/the-expo-edge/. At a few companies I've worked, I think
 that a full rewrite of your app may not be a bad idea at all
-[https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22]
+https://medium.com/@herbcaudill/lessons-from-6-software-rewrite-stories-635e4c8f7c22
 . For bigger apps, it can be daunting and scary and it's often discouraged, but
 especiallly for early stage startups that need to pivot a few times, it can be
 good to rewrite if you have learned more about your tech-stack, and the features
 you really need. If it's possible, I recommend migrating to Expo
-[https://karsens.com/migrating-to-expo/]. Expo takes away much of the hassle of
+https://karsens.com/migrating-to-expo/. Expo takes away much of the hassle of
 app development (Deployment, OTA, Unstable code) and makes it possible for you
 to focus on what matters: The features of your app.
 
 About Monolithizing
 Micro Services are something you grow into, not begin with
-[https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with]
+https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with
 . In this article, I found a very interesting quote: "As developers we’ve all
 heard the phrase “DRY: don’t repeat yourself” and in general that’s a reasonable
 guide to go by, but often times it’s very well worth repeating yourself. It’s
 worth repeating yourself because if you try to abstract something without really
 understanding what you’re abstracting then you create something called a leaky
 abstraction
-[https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/]."
+https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/."
 Also, he states Shopify and Basecamp are monoliths and they earn $20M+/month.
 
 Some people area against monoliths, but they have a good reason; How
 MicroServices saved my small SaaS business
-[https://www.ynonperek.com/2018/01/15/microservices/] states micro services are
+https://www.ynonperek.com/2018/01/15/microservices/ states micro services are
 useful because it takes other programmers (freelancers) months to work
 comfortably with his codebase. If you have many individual teams or freelancers
 at work at your project, it can be better to let them build microservices since

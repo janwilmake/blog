@@ -65,7 +65,7 @@ nearly a decade. Time will pass anyway, better do something to reach your dream.
 BIO:
 
 
-Tomas Laurinavicius is a lifestyle entrepreneur [http://tomaslau.com/] and
+Tomas Laurinavicius is a lifestyle entrepreneur http://tomaslau.com/ and
 blogger from Lithuania. He writes about habits, lifestyle design, and
 entrepreneurship. Right now, he's traveling the world with a mission to empower
 1 million people to change their lifestyle for good.

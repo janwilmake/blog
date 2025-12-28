@@ -11,7 +11,7 @@ laggy. Something had to change.
 
 So I erased all content and settings, and wrote a script to install everything
 automatically after the reset. It can be found here
-[https://github.com/Code-From-Anywhere/cfa-workspace].
+https://github.com/Code-From-Anywhere/cfa-workspace.
 
 Now it just takes me a couple minutes of doing things (and a couple hours of
 waiting) to reset my mac and install a clean slate again, which is amazing! From
@@ -21,11 +21,11 @@ Macbook Air gets slow quite quickly (mess accumulates quickly).
 Besides this script, I installed two very interesting programs with the
 following setup:
 
- * quitter [https://marco.org/apps]: A small tool that automatically quits
+ * quitter https://marco.org/apps: A small tool that automatically quits
    applications (or hides them) after x minutes of inactivity. I've set it up to
    quit most apps (except vscode) after 5 minutes of inactivity. This makes sure
    there is no wasted memory anmore on apps I don't use.
- * power manager [https://www.dssw.co.uk/powermanager/]: A small tool that lets
+ * power manager https://www.dssw.co.uk/powermanager/: A small tool that lets
    you set up an automation that isn't available within the regular macos
    preferences. I set it up to shut down my mac after 1 hour of inactivity. With
    this in place, frequent restarts are enforced. Because of this you'll never

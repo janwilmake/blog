@@ -8,7 +8,7 @@ tags: [programming, devops]
 
 Intro
 When you're building an MVP, it's good to be prepared for a little bit of
-traffic. My app Communify [https://communify.cc] uses about 0.5 requests per
+traffic. My app Communify https://communify.cc uses about 0.5 requests per
 second per user that's using the app.
 
 At some point, the app may go viral and attract an enormous amount of new users.
@@ -25,33 +25,33 @@ you probably don't need horizontal scaling in the beginning.
 
 Vertical scaling is a lot easier, especially with cloud hosting where you can
 resize your node within a couple of minutes, or even do it with an API. Good
-providers for cloud hosting are linode [https://linode.com] and Digital Ocean
-[https://digitalocean.com].
+providers for cloud hosting are linode https://linode.com and Digital Ocean
+https://digitalocean.com.
 
 Setup
 I was inspired by this article
-[https://medium.com/graphile/how-i-made-postgraphile-faster-than-prisma-graphql-server-in-8-hours-e66b4c511160]
+https://medium.com/graphile/how-i-made-postgraphile-faster-than-prisma-graphql-server-in-8-hours-e66b4c511160
 ; 1000 rps on a 500MB RAM 1cpu free tier server of Heroku was achieved. This is
 with PostGraphile, which has high performance
-[https://www.graphile.org/postgraphile/performance/]. I don't know if the Heroku
+https://www.graphile.org/postgraphile/performance/. I don't know if the Heroku
 CPU's are just that fast, or the PostGraphile performance is so much faster, or
 their queries where much lighter, but I can't use Heroku because it doesn't
 scale for free, it just has a single cpu free tier.
 
 Recently, Digital Ocean introduced CPU-optimized droplets, which have much
 faster CPUs. This is what we need! This comparison
-[https://blog.digitalocean.com/a-practical-droplet-performance-comparison/] 
+https://blog.digitalocean.com/a-practical-droplet-performance-comparison/ 
 shows that 2 optimized CPU's are faster than 4 non-optimized ones on Digital
 Ocean. A big difference. What's also great, is that CPU-optimized droplets
 pricing increases linearly with its amount of CPU's, as opposed to the normal
 counterparts, which double in price a few times. See pricing here
-[https://www.digitalocean.com/pricing/]
+https://www.digitalocean.com/pricing/
 
 Testing
-It's rather easy to test load with tools like artillery [https://artillery.io] 
-or loadtest [https://www.npmjs.com/package/loadtest]. Artillery is hard to
+It's rather easy to test load with tools like artillery https://artillery.io 
+or loadtest https://www.npmjs.com/package/loadtest. Artillery is hard to
 load-test if you want to send many requests (>600), but using this
-[https://zetalab.de/blog/running-artillery-multicore/] you can test on multi
+https://zetalab.de/blog/running-artillery-multicore/ you can test on multi
 cores. Loadtest is more efficient, and easily gets up to 3000 rps, so I
 recommend that, if possible.
 
@@ -61,7 +61,7 @@ loadtest -c 1 --rps 2000 {url}
 
 I use raw GraphQL with Sequelize and MySQL. I can't imagine this to be much
 slower than the setup in the experiment
-[https://medium.com/graphile/how-i-made-postgraphile-faster-than-prisma-graphql-server-in-8-hours-e66b4c511160]
+https://medium.com/graphile/how-i-made-postgraphile-faster-than-prisma-graphql-server-in-8-hours-e66b4c511160
 , but it somehow is on my current setup. I ran it twice on a 2GB 1vCPU linode
 machine on a GraphQL query that returns ±50 rows of json from a MySQL database.
 
@@ -101,12 +101,12 @@ servers) but it would cost 2x as much and would be mostly unnecessary. We don't
 require that kind of quality. Since not a lot of downtime is expected, backups
 would be good enough. A daily DB backup would be fine. This should be dumped to
 an external location. Maybe S3 can do this? YES
-[https://dzone.com/articles/using-aws-s3-for-database-backup-storage]
+https://dzone.com/articles/using-aws-s3-for-database-backup-storage
 
 Profiling and minimizing CPU load
 Profiling could be done to measure where the biggest CPU load comes from. Then,
 it may be possible
-[https://medium.com/@tarkus/how-to-call-c-c-code-from-node-js-86a773033892] to
+https://medium.com/@tarkus/how-to-call-c-c-code-from-node-js-86a773033892 to
 transfer this load to C++ code and calculate it using this language because it
 seems this can be much faster. For example, a GraphQL Parser in C++? Could make
 a big difference. There may also be more optimizations that can be done. For
@@ -167,7 +167,7 @@ must and horizontal scaling will be necessary.
 Can we go even bigger, vertically?
 If we really need an even bigger vertical scale, we could think about Amazon EC2
 which offers a 72 vCPU optimized unit (c5.18xlarge)
-[https://aws.amazon.com/ec2/pricing/on-demand/]. This would mean 2.25x more RPS
+https://aws.amazon.com/ec2/pricing/on-demand/. This would mean 2.25x more RPS
 for 344% as much money, so it's just 53% more expensive, which is not that bad!
 In the coming years, Compute optimized units of up to 128 vCPU's are expected,
 so this is not the end! If we can get 12.5k rps on 32 vCPU's, that would mean

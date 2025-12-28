@@ -7,7 +7,7 @@ tags: [productivity, habits, focus, solo-entrepreneur, kitesurfing]
 # Routine
 
 It's Sunday, november 19th and I'm sitting at the table in the living room of my 
-Eat Code Kite Repeat [http://eatcodekiterepeat.com] house, feeling a little bit
+Eat Code Kite Repeat http://eatcodekiterepeat.com house, feeling a little bit
 sick: I catched a cold, with no central heating system it can become cold at
 night, even in the south of Spain... Yesterday I picked up my routine again,
 because I've been a little sloppy with the morning part lately. Time for a
@@ -118,12 +118,12 @@ Using some tools and this system, I try to avoid them:
 
 
  1. Getting distracted by over-analysing and over-planning. It is commonly
-    called Analysis Paralysis [https://en.wikipedia.org/wiki/Analysis_paralysis]
-    . Use RescueTime [https://rescuetime.com/] and Freedom [http://freedom.to] 
+    called Analysis Paralysis https://en.wikipedia.org/wiki/Analysis_paralysis
+    . Use RescueTime https://rescuetime.com/ and Freedom http://freedom.to 
     to ban out distractions. And yes, even Medium or reading books can be a
     distraction.
  2. Getting distracted by social media & e-mail: Again, I use Freedom
-    [http://freedom.to] to block it all out during deep work.
+    http://freedom.to to block it all out during deep work.
  3. Getting distracted by my phone: I bought a Nokia 3310 2017 edition to get
     rid of this completely. I still have the urge to get back on my old phone
     when I see it lying around, so I usually hide it so I don't see it and stop

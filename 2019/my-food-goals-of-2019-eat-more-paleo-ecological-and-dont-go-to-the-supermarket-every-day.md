@@ -33,7 +33,7 @@ DINNER
  * Salmon & Chicken (3kg/month) = 24+7 = €31,-
  * Rice = €2
 
-Total €54. Good recepies at Paleo.nl [https://paleo.nl]
+Total €54. Good recepies at Paleo.nl https://paleo.nl
 
 Spices / oil / other
  * Coconutoil = €5
@@ -49,8 +49,8 @@ than normal and it can all be bought once a month!
 
 The advantage of bigger orders is bigger packages with less plastic per kilo.
 
-Have this all delivered as much as possible via Picnic [https://picnic.app]/
-Appie [https://www.ah.nl/kies-moment/bezorgen] or buy at zero waste grocery
+Have this all delivered as much as possible via Picnic https://picnic.app/
+Appie https://www.ah.nl/kies-moment/bezorgen or buy at zero waste grocery
 store or market.
 
 Monthly shopping list
@@ -76,7 +76,7 @@ Monthly shopping list
  * Garlic, Gember
 
 I will edit it here if it proves to be too much or too little. For the coming
-weeks, I will place a weekly order on AH.nl [https://ah.nl] and let it be
+weeks, I will place a weekly order on AH.nl https://ah.nl and let it be
 delivered on saturdays in a 2-hour window. Not bad!
 
 Future ideas
@@ -84,7 +84,7 @@ In the end, I really think there should be an app that predicts your groceries
 pattern, helps you eat healthier, helps you buy cheaper, and delivers your food,
 exactly how much you need. All you have to do is propose changes if you have too
 much of something or too little, or if you want to change your eating pattern.
-With MYPO [https://mypo.nl] (one of the startups I work for now) your food can
+With MYPO https://mypo.nl (one of the startups I work for now) your food can
 be delivered when you aren't home, and the mailman can take your empty pots and
 boxes with them and replace them with full ones. In the future, I want to go as
 far as making my own mustard, ketchup, mayo, tomato sauce, peanut butter, maybe
@@ -103,6 +103,6 @@ on it if people only buy food that's for sale. Nevertheless, it's a great idea.
 Another thing that I want in the very long term would be my own indoor farm that
 produces enough greens to eat. How much room would be needed for this I don't
 know, but there are already a few systems
-[https://eu.clickandgrow.com/products/wall-farm-indoor-vertical-garden] like
-[https://www.citycrop.io/] this on the market. Of course, I need a bigger house
+https://eu.clickandgrow.com/products/wall-farm-indoor-vertical-garden like
+https://www.citycrop.io/ this on the market. Of course, I need a bigger house
 for this, and it shouldn't cost too much time either.

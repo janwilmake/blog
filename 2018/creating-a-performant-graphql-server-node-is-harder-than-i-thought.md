@@ -17,7 +17,7 @@ out there to get feedback already. Don't hestitate to ask me anything.
 
 Hello there! This is the second part of my GraphQL Backend tutorial. Creating a
 GraphQL Backend is easier said than done. That’s why loads of people use 
-GraphCool [https://www.graph.cool/] nowadays. But if your product isn’t
+GraphCool https://www.graph.cool/ nowadays. But if your product isn’t
 profitable from the beginning and you’re trying to bootstrap your MVP (or maybe
 it’s just a side project) then GraphCool may not prove to be viable! That’s why
 I’m looking for the perfect way to build your own GraphQL Server from the ground

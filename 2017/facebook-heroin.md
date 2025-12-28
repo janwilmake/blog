@@ -6,19 +6,19 @@ tags: [facebook, social-media, smartphone, distractions, technology-critique]
 
 # Is Facebook as addictive as Heroin?
 
-I [https://karsens.com/smartphone-attention-pollution/] have
-[https://karsens.com/notification-zombies/] written
-[https://karsens.com/time-management/] about
-[https://karsens.com/invisible-elephant-shit/] this
-[https://karsens.com/the-internet-connects-the-unconnected-but-disconnects-the-connected/] 
- topic [https://karsens.com/drop-whatsapp-save-40-minutes/] before
-[https://karsens.com/counterproductive-behaviors-of-solo-entrepreneurs/], but 
+I https://karsens.com/smartphone-attention-pollution/ have
+https://karsens.com/notification-zombies/ written
+https://karsens.com/time-management/ about
+https://karsens.com/invisible-elephant-shit/ this
+https://karsens.com/the-internet-connects-the-unconnected-but-disconnects-the-connected/ 
+ topic https://karsens.com/drop-whatsapp-save-40-minutes/ before
+https://karsens.com/counterproductive-behaviors-of-solo-entrepreneurs/, but 
 these
-[https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia] 
+https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia 
  articles
-[https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss] 
-(well targeted by Twitter [https://twitter.com] and Facebook
-[http://facebook.com]) have sparked my attention again.
+https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss 
+(well targeted by Twitter https://twitter.com and Facebook
+http://facebook.com) have sparked my attention again.
 
 They are both really worrying. What I have written before I could still laugh
 about but now that the creator of the like-button compares Facebook to heroin...
@@ -50,7 +50,7 @@ moment. We get distracted by our phones a hundred times a day and this makes us
 less able to focus on one thing. How many times per day do you look at your
 phone while you were concentrating on something else? For me, it was a lot, so
 recently I completely blocked my phone between 7AM and 8PM using a tool called
-freedom [https://freedom.to?rfsn=643864.2d1dfd], but it's not enough. Just like
+freedom https://freedom.to?rfsn=643864.2d1dfd, but it's not enough. Just like
 the creator of the like button, I'm saying goodbye to apps. I've just bought a
 Nokia 3310.
 
@@ -109,31 +109,31 @@ least?
 Sources:
 
 How to solve attention pollution and cure your love/hate relationship with your
-smartphone [https://karsens.com/smartphone-attention-pollution/]
+smartphone https://karsens.com/smartphone-attention-pollution/
 
-Notification-zombies [https://karsens.com/notification-zombies/]
+Notification-zombies https://karsens.com/notification-zombies/
 
-Time management [https://karsens.com/time-management/]
+Time management https://karsens.com/time-management/
 
-Elephant shit [https://karsens.com/invisible-elephant-shit/]
+Elephant shit https://karsens.com/invisible-elephant-shit/
 
 Internet connects the unconnected, but disconnects the connected
-[https://karsens.com/the-internet-connects-the-unconnected-but-disconnects-the-connected/]
+https://karsens.com/the-internet-connects-the-unconnected-but-disconnects-the-connected/
 
 Today I uninstalled WhatsApp to save 40 minutes a day
-[https://karsens.com/drop-whatsapp-save-40-minutes/]
+https://karsens.com/drop-whatsapp-save-40-minutes/
 
 Counterproductive behaviors of solo-entrepreneurs
-[https://karsens.com/counterproductive-behaviors-of-solo-entrepreneurs/],
+https://karsens.com/counterproductive-behaviors-of-solo-entrepreneurs/,
 
 The Guardian: Our minds can be hijacked': the tech insiders who fear a
 smartphone dystopia
-[https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia]
+https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
 
 TechCrunch: The next revolution will be reclaiming your digital identity
-[https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss]
+https://techcrunch.com/2017/10/17/the-next-revolution-will-be-reclaiming-your-digital-identity/?ncid=rss
 
 impage 1 source*
-[https://vulcanpost.com/12106/smartphone-addiction-becoming-real-problem-singapore/]
+https://vulcanpost.com/12106/smartphone-addiction-becoming-real-problem-singapore/
 
-image 2 source* [https://doctortrex.wordpress.com/]
+image 2 source* https://doctortrex.wordpress.com/

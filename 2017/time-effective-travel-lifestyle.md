@@ -9,7 +9,7 @@ tags: [digital-nomad, travel, productivity, time-management, coworking, fitness]
 Hi, I'm Jan and I'm working and studying on the move because I can and
 because I love to go places. I have been on the move since September 2016, and
 will continue to do so for the coming years. My (very young, very new) company
-is called Travel Life Movement [https://travellifemovement.com/], and it aims to
+is called Travel Life Movement https://travellifemovement.com/, and it aims to
 make the travel lifestyle better (read more about it on the website). So what is
 the best way to have a sustainable travel lifestyle? Of course this is a very
 broad question, but basically, I am trying to answer the following question
@@ -178,7 +178,7 @@ these things even easier. Also, I am already hoping to get together a group of
 loosely traveling together nomadic entrepreneurs with similar interests to
 achieve more time-effective organization and collectively save time so that we
 can all be more productive. And that isn't the only advantage. Have a look at 
-Travel Life Movement [https://travellifemovement.com/].
+Travel Life Movement https://travellifemovement.com/.
 
 If there are any other things you found useful to save time and be more
 productive while traveling, let me know. I am always open to improvement and am

@@ -23,10 +23,10 @@ I needed to be able to program with React Native and continue building my app
 without using any internet. This is what I did to be able to do that:
 
  * I downloaded all documentation and GitHub repo's that I'm using as
-   dependencies. I used devdocs.io [http://devdocs.io] for documentation for
+   dependencies. I used devdocs.io http://devdocs.io for documentation for
    most huge libraries.
  * For smaller libraries like Apollo or GraphQL that weren't available there, I
-   used SiteSucker [http://ricks-apps.com/osx/sitesucker/index.html] for Mac to
+   used SiteSucker http://ricks-apps.com/osx/sitesucker/index.html for Mac to
    download the Documentation websites for offline use.
  * My React Native App uses a Node + Express + GraphQL + Sequelize SQLite
    backend which I run locally and completely offline.
@@ -62,5 +62,5 @@ Further possibilities
    keep my laptop charged.
  * It could also be possible to go with a small group of people to Nepal and do
    the Annapurna Circuit like this. I want to do this in april 2018
-   [https://travellifemovement.com/], preferably with a small group of React
+   https://travellifemovement.com/, preferably with a small group of React
    Native programmers!

@@ -26,7 +26,7 @@ What can I?
 I seem to be goal driven & adventurous. Again, I won't go into detail.
 
 What will I do?
-In January I created this post [https://karsens.com/2018-year-of-creation/] as a
+In January I created this post https://karsens.com/2018-year-of-creation/ as a
 goal for 2018. I can happily say that I'm well on my way!
 
 Now I'm all in on building the app for communities to strive. The first goal is

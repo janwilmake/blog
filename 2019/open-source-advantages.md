@@ -6,7 +6,7 @@ tags: [open-source, programming, business]
 
 # The advantages of open sourcing
 
-At LECKR [https://leckr.io], I'm developing open source components for the apps
+At LECKR https://leckr.io, I'm developing open source components for the apps
 I'm building. Instead of making everything specific to the apps I'm working on,
 we look ahead and see that some of the things can be used universally across
 multiple apps (Let's call this process "opening up"). It's a bit more work*, and
@@ -35,7 +35,7 @@ hard to find experienced developers in your technology. Well, this is the way,
 my friend.
 
 3. Loss of mass and community PR's
-In Dunbar [https://dunbar.site], about 75% of all LOC of the app is opened up 
+In Dunbar https://dunbar.site, about 75% of all LOC of the app is opened up 
 now. That means the app itself becomes 4x as light, 4x less work, to maintain.
 People from the community that use my libraries will do their part in fixing
 problems of the opened up code.

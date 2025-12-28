@@ -102,7 +102,7 @@ Habit of sharing what I learn
 In october until december 2017 I took time-lapses or screenshots as social
 proof. If I am confident enough, I can create a course and sell it on some
 platform. But for now, I uploaded everything to YouTube
-[https://www.youtube.com/channel/UCDw844XEAwsJLkftu9pq2vA] to prove that I did a
+https://www.youtube.com/channel/UCDw844XEAwsJLkftu9pq2vA to prove that I did a
 lot of work (and maybe to help some people too). In the end it gave me a few
 dozen subscribers, so some people must've learned something.
 
@@ -128,7 +128,7 @@ Outro:
  * Create a list of people doing the challenge with me in the same languages.
 
 This is what I did and posted on my Youtube Channel
-[https://www.youtube.com/channel/UCDw844XEAwsJLkftu9pq2vA?view_as=subscriber].
+https://www.youtube.com/channel/UCDw844XEAwsJLkftu9pq2vA?view_as=subscriber.
 It ended up to be great for social proof and social accountability, so I
 certainly recommend it. You can see 46 videos about this on my youtube channel!
 I don't recommend watching it all, but there actually is some useful stuff in

@@ -7,7 +7,7 @@ tags: [philosophy, minimalism, personal-development]
 # Fighting housing crises and loneliness with Cheap Community Living
 
 In 2016, I came up with Community Hostels
-[https://www.dropbox.com/s/0tyjpjsfejo7krx/CommunityHostels.pdf?dl=0]: A plan to
+https://www.dropbox.com/s/0tyjpjsfejo7krx/CommunityHostels.pdf?dl=0: A plan to
 make hostels cheaper and better than ever, using symbiosis, cost-reduction,
 labor-reduction and behavior-control.
 
@@ -49,11 +49,11 @@ Community Hostel. If your rating becomes very very low, you can even be kicked
 out of the hostel. This will automatically ensure everyone plays along nicely.
 
 No privacy
-The biggest pod-share concept [http://podshare.co/] creates shared rooms with
+The biggest pod-share concept http://podshare.co/ creates shared rooms with
 beds without curtains or walls. This is horrible for privacy. If you just have
 curtains, you still have a problem with sound. Having sex, others will hear you.
 But there's a solution to that! Technology like Muzo
-[https://thenextweb.com/plugged/2016/09/22/noise-blocking-device/] can
+https://thenextweb.com/plugged/2016/09/22/noise-blocking-device/ can
 noise-cancel anything. From loud drunk home-getters to sex. This can solve the
 problem bigtime, if the technology gets mature enough.
 
@@ -82,7 +82,7 @@ necessary for automation and behavior-control. This will mostly consist of an
 app that lets the coliver enter a co-living space, pay for a bed, rate their
 roommates, give people roles (staff), decide on the price based on rating, and
 cluster coliving groups together based on interest. The app I'm currently
-building (Communify [https://communify.cc]) is for co-working. This app will be
+building (Communify https://communify.cc) is for co-working. This app will be
 an extension of that.
 
 I'm really interested in meeting other motivated and talented indiviuals that

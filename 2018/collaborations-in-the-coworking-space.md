@@ -48,7 +48,7 @@ space, but you just don't know it, because you don't know who programs in
 Python, and you don't know who's looking for more work!
 
 I believe that a local collaboration is always better than a distant
-collaboration. So I am building Communify [https://communify.cc]: A platform to
+collaboration. So I am building Communify https://communify.cc: A platform to
 enhance coworking communities to the next level, and boost your career through
 some epic networking help!
 

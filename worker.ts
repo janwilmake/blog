@@ -199,15 +199,20 @@ async function handleHome(request: Request, env: Env): Promise<Response> {
     })
     .join("");
 
+  const allTagsList = [
+    ...typedManifest.tags,
+    ...typedManifest.allTags,
+  ];
+
   const tagsHtml =
-    typedManifest.tags.length > 0
+    allTagsList.length > 0
       ? `
     <div style="margin-bottom: 2rem;">
-      <strong>Tags:</strong> 
-      <a href="/">All</a> | 
-      ${typedManifest.tags
-        .map((t) => `<a href="?tag=${t}">${t}</a>`)
-        .join(" | ")}
+      <strong>Tags:</strong>
+      <a href="/">All</a>
+      ${allTagsList
+        .map((t) => `<a href="/tag/${encodeURIComponent(t)}" class="tag">${t}</a>`)
+        .join("")}
     </div>
   `
       : "";
@@ -228,11 +233,11 @@ async function handleHome(request: Request, env: Env): Promise<Response> {
     "Blog",
     `
     ${adminLinks}
-    ${tagsHtml}
-    ${entriesHtml}
-    <div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #ccc;">
+    <div style="margin-bottom: 2rem;">
       <a href="/feed">RSS Feed</a> | <a href="/llms.txt">LLMs.txt</a>
     </div>
+    ${tagsHtml}
+    ${entriesHtml}
   `,
   );
 
@@ -286,7 +291,20 @@ async function handleEntry(
   }
 
   const { frontmatter, content } = parseFrontmatter(markdown);
-  const html = await marked(content);
+
+  // Configure marked to open external links in new tab
+  const renderer = new marked.Renderer();
+  const originalLinkRenderer = renderer.link.bind(renderer);
+  renderer.link = (href, title, text) => {
+    const isExternal = href.startsWith('http://') || href.startsWith('https://');
+    const html = originalLinkRenderer(href, title, text);
+    if (isExternal) {
+      return html.replace('<a', '<a target="_blank" rel="noopener noreferrer"');
+    }
+    return html;
+  };
+
+  const html = await marked(content, { renderer });
   const title = frontmatter.title || entry.slug;
   const date = entry.date ? new Date(entry.date).toLocaleDateString() : "";
 
@@ -309,10 +327,10 @@ async function handleEntry(
     title,
     `
     <article>
-      <h1>${draftBadge}${title}</h1>
-      ${date ? `<div class="entry-date">${date}</div>` : ""}
-      ${tagsHtml}
+      ${draftBadge ? `<div style="margin-bottom: 1rem;">${draftBadge}</div>` : ""}
       ${html}
+      ${date ? `<div class="entry-date" style="margin-top: -1rem; margin-bottom: 1rem;">${date}</div>` : ""}
+      ${tagsHtml}
     </article>
   `,
   );

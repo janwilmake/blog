@@ -30,7 +30,7 @@ relatives and friends, you won’t become smarter than the rest.
 
 Recently I had a conversation with Will Bennis, a cultural psychologist, and
 cognitive anthropologist, running a very nice co-working space called Locus
-[http://en.locusworkspace.cz/] in Prague.
+http://en.locusworkspace.cz/ in Prague.
 
 > "In recent centuries we've become more individualistic. There's a lot of
 research suggesting that in Eastern cultures, people have a stronger community
@@ -50,19 +50,19 @@ Well, not physically, but mentally.
 The internet is more powerful than most people think
 The internet isn't limited to disconnecting the connected and connecting the
 disconnected. As I wrote in these two posts, it also scatters attention and
-focus [https://karsens.com/smartphone-attention-pollution/], makes us 
-notification-zombies [https://karsens.com/notification-zombies/] and does many
+focus https://karsens.com/smartphone-attention-pollution/, makes us 
+notification-zombies https://karsens.com/notification-zombies/ and does many
 more things. The mediums we use for communication decide how we think and how we
 behave. Read more about it in this fascinating book: The Shallows: What the
 Internet Is Doing to Our Brains
-[https://www.amazon.com/gp/product/0393339750/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393339750&linkCode=as2&tag=travellifemov-20&linkId=09604923080a9248b0e603dd6e52f6cd]
+https://www.amazon.com/gp/product/0393339750/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393339750&linkCode=as2&tag=travellifemov-20&linkId=09604923080a9248b0e603dd6e52f6cd
 
 Mark Zuckerberg recently
-[https://www.theverge.com/2017/6/22/15855202/facebook-ceo-mark-zuckerberg-new-mission-statement-groups] 
+https://www.theverge.com/2017/6/22/15855202/facebook-ceo-mark-zuckerberg-new-mission-statement-groups 
 made up a new mission statement for his company: "To give people the power to
 build community and bring the world closer together." I think this is a great
 mission and this also is what I wish to do with my company Travel Life Movement
-[https://travellifemovement.com/]. It is nice to create ways for technology to
+https://travellifemovement.com/. It is nice to create ways for technology to
 bring us back together. It would be nice if the same internet that drove
 connected people apart can also be used to bring them back together.
 

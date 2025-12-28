@@ -23,12 +23,12 @@ systems.
 
 Ray Kurzweil predicts that human-level intelligence can be reached with a
 computer which we will have in about 2030. Read his book The singularity is near
-[https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889]
+https://www.amazon.com/Singularity-Near-Humans-Transcend-Biology/dp/0143037889
 . I think that he didn't adress one point and that is the fact that we have more
 than one computer! If we figure out the right way to do distributed deep
 learning, then we can use all computers in the world, and then, we may reach
 this point a lot sooner (or we may already have enough power). In this article
-[https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf],
+https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf,
 you can find some interesting possibilities for large-scale distributed deep
 networks. It seems to be a possibility!
 
@@ -109,7 +109,7 @@ AI becomes big.
 
 Of course, it will disguise itself. That's why technology has to be developed
 that's able to see what happens within deep neural networks from the ground up. 
-Jason Yosinski [http://yosinski.com/deepvis] created a very interesting piece of
+Jason Yosinski http://yosinski.com/deepvis created a very interesting piece of
 software, that cracks open the black box of deep learning. We need more of this!
 
 Only this way can we see what potentially malicious neural networks do and

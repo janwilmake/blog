@@ -66,7 +66,7 @@ Less important (but still important):
  9.  writing for Karsens.com
  10. writing for TravelLifeMovement.com
 
-The software Freedom [https://freedom.refersion.com/c/2d1dfd] lets us block
+The software Freedom https://freedom.refersion.com/c/2d1dfd lets us block
 certain websites for certain times of the day and certain days of the week.
 Let's make the Pareto Principle work. Let's make sure I spend 80% of my
 screen-time every day on the important stuff and 20% of my screen-time on the

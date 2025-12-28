@@ -93,5 +93,5 @@ the member list has a great filter system to filter through the answers to those
 questions. What if people have a profile on which they can write a short story
 about themselves for others to get to know them (and their professional goals).
 
-Wouldn’t that be great? It’s here: Communify [http://communify.cc]
+Wouldn’t that be great? It’s here: Communify http://communify.cc
 Get it for your coworking space now!

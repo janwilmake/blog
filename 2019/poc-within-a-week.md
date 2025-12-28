@@ -8,7 +8,7 @@ tags: [startup, shipping, productivity]
 
 My expertise is creating a proof of concept of any app idea in within a week.
 I've done this multiple times, see an example here
-[https://karsens.com/i-just-made-an-app-in-26-hours/].
+https://karsens.com/i-just-made-an-app-in-26-hours/.
 
 What will you get?
 

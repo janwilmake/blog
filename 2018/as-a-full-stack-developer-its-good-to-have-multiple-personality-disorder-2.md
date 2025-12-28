@@ -86,6 +86,6 @@ may very well make you a better coder!
 mustaches and hats. John Done, get to it!
 
 UPdATE: 2 weeks later I accidentally stumbled upon this book
-[https://www.amazon.com/gp/product/0316178314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=1201b-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316178314&linkId=9b0856d9beb56999b72bc6a71920c333] 
+https://www.amazon.com/gp/product/0316178314/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=1201b-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0316178314&linkId=9b0856d9beb56999b72bc6a71920c333 
 where debono states that deliberate role playing can make you a better thinker.
 I couldn't agree more!

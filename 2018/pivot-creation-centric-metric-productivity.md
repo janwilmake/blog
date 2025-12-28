@@ -79,7 +79,7 @@ From now on:
 
 When searching for a way to motivate myself to do this, thinking heavily about
 repetition and practice, I found this
-[https://medium.freecodecamp.org/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b?gi=aae63184a90] 
+https://medium.freecodecamp.org/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b?gi=aae63184a90 
 article. It inspired me to do a similar challenge — I call it the #GroundhogDay
 #100DaysOfCode Challenge
 

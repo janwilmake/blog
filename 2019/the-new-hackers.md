@@ -8,7 +8,7 @@ tags: [programming, philosophy, entrepreneurship]
 
 Hacking is getting easier.
 
-Developments [https://www.youtube.com/watch?time_continue=86&v=ohmajJTcpNk] in
+Developments https://www.youtube.com/watch?time_continue=86&v=ohmajJTcpNk in
 AI provided tools for face and voice replication like never before.
 Many tools we use nowadays don't have a strong verification to certify it's
 really you that's acting. Emails and phone numbers, for one, are easy to be

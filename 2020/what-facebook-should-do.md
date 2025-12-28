@@ -17,7 +17,7 @@ What if Facebook put effort into decreasing your time spent on their platform,
 in return for money? Make it as efficient as possible? 
 
 Worldwide, Facebook earns $7.26 per quarter per user
-[https://whotargets.me/es/much-facebook-makes-per-user-per-minute-spent-facebook/]
+https://whotargets.me/es/much-facebook-makes-per-user-per-minute-spent-facebook/
 . In the US, that was $26.26 in Q4 2017. What if you could pay €10 per month so
 you wouldn't be the product anymore? Would you do it? (In Europe the price could
 be just €3 per month, in Asia ±1 euro and in the rest of the world, even less)
