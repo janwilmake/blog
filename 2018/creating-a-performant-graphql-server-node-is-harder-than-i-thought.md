@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-03-06
 tags: [graphql, nodejs, programming, devops, sequelize, performance]
+description: An exploration of performance optimization strategies for GraphQL servers built with Node.js, covering benchmarking, database pooling, Dataloader, and production deployment techniques.
 ---
 
 # Creating a performant GraphQL Server - node is harder than I thought!

@@ -2,6 +2,7 @@
 date: 2019-03-19
 modified_at: 2021-07-15
 tags: [social-media, philosophy, future-of-work]
+description: Envisioning a humane social network with activity-first design, verified identities, small communities, layered sharing, freemium model, and government-enforced open standards.
 ---
 
 # What would a social network that's actually good for humanity look like?

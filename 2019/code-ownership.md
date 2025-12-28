@@ -2,6 +2,7 @@
 date: 2019-01-05
 modified_at: 2019-01-05
 tags: [programming, dx, productivity, business, solo-entrepreneur]
+description: Exploring why code ownership is essential for agile development and how feature ownership can diminish inefficiencies and bottlenecks in development teams.
 ---
 
 # Why code ownership is a must for agile development

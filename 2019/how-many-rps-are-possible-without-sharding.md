@@ -2,6 +2,7 @@
 date: 2019-01-30
 modified_at: 2019-01-30
 tags: [programming, devops]
+description: Analyzing the feasibility and bottlenecks of horizontal scaling without sharding using multiple nodes with a single MySQL database and load balancing.
 ---
 
 # About scaling horizontally without sharding: How many RPS are possible without sharding? Is this between-step worth it?

@@ -2,6 +2,7 @@
 draft: true
 date: 2025-12-13
 tags: [ai, llm, dx, programming, tools]
+description: Explores the design challenges of creating developer-friendly layers around AI inference, combining features like response caching, billing, MCP tool use, and code mode in a unified architecture.
 ---
 
 # Bringing all pieces together to be at the Frontier of AI inference design

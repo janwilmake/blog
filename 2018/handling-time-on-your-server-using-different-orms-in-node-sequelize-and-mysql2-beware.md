@@ -2,6 +2,7 @@
 date: 2018-02-04
 modified_at: 2018-02-04
 tags: [nodejs, sequelize, programming, devops, coding]
+description: A technical deep-dive into timezone handling issues when using Sequelize vs mysql2 in Node.js, exploring how different ORMs process timestamps differently and cause validation problems.
 ---
 
 # Handling time on your server, using different ORM's in node: Sequelize and mysql2. Beware!

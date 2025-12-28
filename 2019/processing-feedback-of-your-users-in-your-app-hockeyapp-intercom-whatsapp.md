@@ -2,6 +2,7 @@
 date: 2019-02-24
 modified_at: 2019-02-24
 tags: [react-native, product-development, tools]
+description: Comparing different methods for collecting user feedback in mobile apps including Intercom, WhatsApp, HockeyApp, and custom native solutions.
 ---
 
 # Processing feedback of your users in your app: HockeyApp, Intercom, WhatsApp?

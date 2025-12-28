@@ -1,6 +1,7 @@
 ---
 date: 2024-04
 tags: [programming, open-source, nodejs, devops, tools]
+description: Details the transition from a 150k LOC monorepo to a decoupled, open-source architecture where each package is its own repository, simplifying distribution and collaboration.
 ---
 
 # Moving away from my 150k LOC Monorepo

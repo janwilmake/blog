@@ -2,6 +2,7 @@
 date: 2019-04-23
 modified_at: 2019-04-23
 tags: [solo-entrepreneur, startup, minimalism, personal-development, business]
+description: Adopting a lean lifestyle as a solo entrepreneur with rules for freelancing, managing finances, and maximizing time for personal startup projects while maintaining financial security.
 ---
 
 # Lean Life

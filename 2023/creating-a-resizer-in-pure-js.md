@@ -1,6 +1,7 @@
 ---
 date: 2023-08-11
 tags: [programming, javascript, web-development, coding]
+description: A tutorial on creating a draggable horizontal resizer in React for dynamic layouts, inspired by VSCode's resizable panels, implemented as a reusable React hook.
 ---
 
 # Resize your layout with a draggable div in React

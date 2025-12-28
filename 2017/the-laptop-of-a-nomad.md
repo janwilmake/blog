@@ -2,6 +2,7 @@
 date: 2017-09-02
 modified_at: 2018-05-20
 tags: [digital-nomad, minimalism, travel, productivity, tools]
+description: The relationship between possessions and freedom as a digital nomad - owning only what's necessary for work and happiness while traveling with 11 kilos.
 ---
 
 # Possessions for happiness?

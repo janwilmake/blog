@@ -2,6 +2,7 @@
 date: 2017-12-27
 modified_at: 2019-01-03
 tags: [dopamine, productivity, kitesurfing, habits, personal-development, mindfulness]
+description: Seeking dopamine from productive activities like work and exercise rather than quick hacks like social media, gaming, and sugar to align with long-term goals.
 ---
 
 # Justified Dopamine

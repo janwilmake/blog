@@ -2,6 +2,7 @@
 date: 2018-03-26
 modified_at: 2018-06-05
 tags: [philosophy, future-of-work, ai, technology-critique]
+description: A philosophical exploration of humanity's environmental impact and potential solutions, discussing climate-control, evolution-control, and population management as strategies for creating a sustainable future.
 ---
 
 # How to create a sustainable world?

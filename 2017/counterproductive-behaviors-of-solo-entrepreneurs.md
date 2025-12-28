@@ -2,6 +2,7 @@
 date: 2017-08-04
 modified_at: 2019-05-21
 tags: [solo-entrepreneur, productivity, focus, entrepreneurship, personal-development]
+description: How solo entrepreneurs can maximize productivity by suppressing urges for doubt and communication, creating focused environments and turning decisions into habits.
 ---
 
 # Counterproductive behaviors of solo-entrepreneurs

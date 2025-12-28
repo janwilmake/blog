@@ -2,6 +2,7 @@
 date: 2017-08-20
 modified_at: 2019-05-22
 tags: [productivity, react-native, programming, focus, digital-nomad, travel]
+description: An experiment in setting up a complete offline development environment for React Native to enable productive programming during multi-day mountain treks in Bulgaria, demonstrating that remote work doesn't require internet.
 ---
 
 # About working offline

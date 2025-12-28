@@ -2,6 +2,7 @@
 date: 2017-12-12
 modified_at: 2019-01-03
 tags: [dopamine, productivity, distractions, social-media, focus]
+description: An exploration of how short-term dopamine triggers like social media and food act as distractions that harm long-term productivity, arguing for eliminating these distractions rather than relying on willpower to resist them.
 ---
 
 # What if dopamine triggers fuck up your long-term productivity?

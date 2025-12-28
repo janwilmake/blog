@@ -2,6 +2,7 @@
 date: 2019-05-24
 modified_at: 2019-05-24
 tags: [social-media, philosophy, future-of-work]
+description: How urbanization and modern communication have caused a Human Network Explosion that our brains aren't designed to handle, potentially leading to increased mental and physical health problems.
 ---
 
 # The Human Network Explosion

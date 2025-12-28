@@ -2,6 +2,7 @@
 date: 2019-10-20
 modified_at: 2019-10-20
 tags: [programming, nodejs, devops]
+description: A step-by-step guide to deploying an Express and MySQL app on a remote server using Linode or DigitalOcean, including Nginx, Node, MySQL setup, and CloudFlare integration.
 ---
 
 # Install An Express+MySQL App on a remote server

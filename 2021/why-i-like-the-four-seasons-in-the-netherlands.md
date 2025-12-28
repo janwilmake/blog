@@ -2,6 +2,7 @@
 date: 2021-05-20
 modified_at: 2021-05-20
 tags: [personal-development, travel, minimalism]
+description: A personal appreciation of each of the four seasons in the Netherlands, from cozy winter gatherings to spring flowers, summer freedom, and autumn storms perfect for water sports.
 ---
 
 # Why I like the four seasons in the Netherlands

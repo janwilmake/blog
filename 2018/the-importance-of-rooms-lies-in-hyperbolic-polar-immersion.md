@@ -2,6 +2,7 @@
 date: 2018-03-21
 modified_at: 2018-05-20
 tags: [productivity, focus, habits, coworking, mindfulness, personal-development]
+description: Exploring how different physical and digital environments can create focused immersion states for various goals, especially when living in limited spaces or traveling.
 ---
 
 # The importance of rooms lies in hyperpolar immersion

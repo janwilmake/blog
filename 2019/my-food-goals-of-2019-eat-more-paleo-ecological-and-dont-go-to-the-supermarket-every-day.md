@@ -2,6 +2,7 @@
 date: 2019-02-24
 modified_at: 2019-04-11
 tags: [minimalism, personal-development]
+description: A detailed monthly grocery plan focused on eating paleo, reducing supermarket trips, minimizing plastic packaging, and spending only 192 euros per month on sustainable food.
 ---
 
 # My food goals of 2019: Eat more paleo, ecological and don't go to the supermarket every day

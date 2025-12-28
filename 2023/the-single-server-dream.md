@@ -1,6 +1,7 @@
 ---
 date: 2023-09-06
 tags: [devops, programming, web-development, nodejs]
+description: Reflects on the challenges and lessons learned from attempting to run frontend, backend, and multi-domain hosting from a single server, ultimately choosing a more pragmatic hybrid approach.
 ---
 
 # Running everything from a single server isn't that easy

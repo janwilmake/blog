@@ -2,6 +2,7 @@
 date: 2023-12
 draft: false
 tags: [devops, programming, nodejs, web-development]
+description: Chronicles an attempt to create a scalable browser automation API using Bun and Fly.io, exploring the FLAME pattern and analyzing cost structures for AI-powered web scraping.
 ---
 
 # Fly + Bun for browser automation. An unfinished attempt

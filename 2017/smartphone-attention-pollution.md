@@ -2,6 +2,7 @@
 date: 2017-04-24
 modified_at: 2019-05-22
 tags: [smartphone, distractions, productivity, social-media, mindfulness]
+description: An analysis of attention pollution caused by smartphones and how internet enables distractions across all time and space, arguing that we should focus only on information that drives action here and now.
 ---
 
 # How to solve attention pollution and cure your love/hate relationship with your smartphone

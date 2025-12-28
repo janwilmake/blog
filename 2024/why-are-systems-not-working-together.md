@@ -1,6 +1,7 @@
 ---
 date: 2024-01
 tags: [programming, ai, devops, philosophy, startup]
+description: Analyzes the barriers preventing seamless system integration and proposes solutions like API search engines and GPT normalization to overcome vendor lock-in and integration complexity.
 ---
 
 # Why are systems always so hard to integrate with other systems?

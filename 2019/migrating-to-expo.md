@@ -2,6 +2,7 @@
 date: 2019-02-24
 modified_at: 2019-03-13
 tags: [expo, react-native, devops, programming, coding]
+description: A step-by-step guide to migrating an existing React Native project to Expo or ExpoKit for more stability, OTA updates, and streamlined development workflow.
 ---
 
 # Migrating to Expo to become more lean and stable

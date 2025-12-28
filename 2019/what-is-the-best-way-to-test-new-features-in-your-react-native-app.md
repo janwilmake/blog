@@ -2,6 +2,7 @@
 date: 2019-03-19
 modified_at: 2019-04-26
 tags: [react-native, programming, product-development]
+description: Comparing seven methods for testing new features in React Native apps, from local testing to Expo channels, beta roles, and Firebase A/B testing.
 ---
 
 # What is the best way to test new features in your React Native App?

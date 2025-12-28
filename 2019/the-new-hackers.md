@@ -2,6 +2,7 @@
 date: 2019-01-11
 modified_at: 2019-01-11
 tags: [programming, philosophy, entrepreneurship]
+description: How advancing AI tools for face and voice replication will enable sophisticated impersonation attacks, making verified platforms essential for online security.
 ---
 
 # The new hackers will impersonate the ones you love

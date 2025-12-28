@@ -1,6 +1,7 @@
 ---
 date: 2023-09
 tags: [web-development, nodejs, programming, react-native]
+description: A clever workaround for generating static pages for multiple domains in Next.js by repurposing the locale feature, including a high-performance multi-domain markdown setup.
 ---
 
 # Multi Domain Locale Hack NextJS

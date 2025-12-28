@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-03-07
 tags: [programming, tools, productivity, dx]
+description: A comprehensive cheatsheet of keyboard shortcuts and terminal commands for VSCode, MacOS, React Native Simulator, Chrome DevTools, and common Git workflows.
 ---
 
 # Shortcuts Cheatsheet

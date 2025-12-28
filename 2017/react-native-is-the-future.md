@@ -2,6 +2,7 @@
 date: 2017-07-03
 modified_at: 2019-01-07
 tags: [react-native, javascript, programming, web-development, nodejs, coding]
+description: A comprehensive guide to React Native covering setup, tooling, libraries, and why it's the future of cross-platform development for web, Android, and iOS.
 ---
 
 # My view on React Native and why I think it's the future

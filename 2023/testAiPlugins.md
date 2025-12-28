@@ -1,6 +1,7 @@
 ---
 date: 2023-01
 tags: [ai, gpt, programming, coding]
+description: Demonstrates how to create end-to-end tests for ChatGPT AI plugins using the MRKL technology, with practical examples testing a ScrapingBee plugin.
 ---
 
 # E2E Testing ChatGPT AI plugins with using MRKL

@@ -2,6 +2,7 @@
 date: 2019-01-29
 modified_at: 2019-01-29
 tags: [devops, programming, react-native, product-development]
+description: How to prevent API downtime by implementing a flexible client that monitors server CPU load and automatically reduces query frequency during high load periods.
 ---
 
 # Never let your API go down with a flexible client

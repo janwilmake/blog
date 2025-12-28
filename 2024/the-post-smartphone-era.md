@@ -1,6 +1,7 @@
 ---
 date: 2024-01
 tags: [ai, agents, voice-interface, future-of-work, open-source]
+description: Explores the shift from smartphone apps to natural language voice interfaces powered by AI agents, advocating for open source approaches to eliminate traditional business boundaries.
 ---
 
 # The post-smartphone era is coming.

@@ -2,6 +2,7 @@
 draft: false
 date: 2023-01
 tags: [mindfulness, philosophy, happiness, personal-development]
+description: Explores the idea of creating an algorithm to form perfect communities by clustering people together based on purpose-driven alignment, reducing chronic stress and screen dependency.
 ---
 
 # Communify

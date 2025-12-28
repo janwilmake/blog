@@ -2,6 +2,7 @@
 date: 2017-05-06
 modified_at: 2019-05-20
 tags: [internet, social-media, philosophy, technology-critique, facebook]
+description: A philosophical exploration of how the internet paradoxically brings distant people together while driving physically close people apart, contributing to rising individualism and weaker community ties globally.
 ---
 
 # Internet connects the unconnected, but disconnects the connected

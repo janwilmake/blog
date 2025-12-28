@@ -1,6 +1,7 @@
 ---
 date: 2023-08-11
 tags: [programming, web-development, coding]
+description: A technical solution for fixing Tailwind CSS dark mode class precedence issues in TypeScript monorepos by using the bang (!) modifier to force proper styling.
 ---
 
 # Tailwind Darkmode Issues

@@ -2,6 +2,7 @@
 date: 2018-03-31
 modified_at: 2019-03-09
 tags: [expo, react-native, shipping, devops, apps]
+description: A detailed step-by-step guide for publishing Expo apps to the Google Play Store and Apple App Store, covering configuration, builds, credentials, screenshots, and updates.
 ---
 
 # Publishing your expo app to both app stores

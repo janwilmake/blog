@@ -2,6 +2,7 @@
 date: 2017-07-03
 modified_at: 2017-07-03
 tags: [digital-nomad, entrepreneurship, travel, personal-development]
+description: An interview with Lithuanian lifestyle entrepreneur Tomas Laurinavicius about his journey from self-taught designer to nomadic blogger, his mission to empower one million people, and tips for aspiring location-independent entrepreneurs.
 ---
 
 # Nomadic Entrepreneurs Interview #1 - Tomas Laurinavicius

@@ -2,6 +2,7 @@
 date: 2021-01-03
 modified_at: 2021-01-03
 tags: [philosophy, future-of-work]
+description: A vision of a future where humanity uses CRISPR and AI technologies like AlphaFold to control biological evolution, creating non-selfish plants and animals that serve humanity, from houses grown by trees to food-gathering animals.
 ---
 
 # The Evolution Revolution

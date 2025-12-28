@@ -2,6 +2,7 @@
 date: 2019-10-29
 modified_at: 2019-11-15
 tags: [startup, product-development, marketing]
+description: Weighing the pros and cons of making your mobile app invite-only, from collecting emails and creating scarcity to potential user churn and missing App Store traffic.
 ---
 
 # The (dis)advantages of making your mobile app invite only

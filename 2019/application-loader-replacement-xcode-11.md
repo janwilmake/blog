@@ -2,6 +2,7 @@
 date: 2019-10-17
 modified_at: 2019-10-17
 tags: [programming, tools, react-native]
+description: How to upload your iOS app after Apple removed Application Loader in Xcode 11 by using the Transporter app instead.
 ---
 
 # Application Loader gone in XCode 11? This is how you upload your app now

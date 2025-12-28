@@ -2,6 +2,7 @@
 date: 2019-04-01
 modified_at: 2020-05-30
 tags: [startup, shipping, productivity]
+description: Offering to build proof-of-concept mobile apps within a week using React Native, Node JS, and SQL with thorough testing and App Store deployment.
 ---
 
 # MVP within a week

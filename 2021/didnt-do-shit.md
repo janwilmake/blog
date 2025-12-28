@@ -2,6 +2,7 @@
 date: 2021-01-14
 modified_at: 2021-01-14
 tags: [productivity, personal-development, philosophy]
+description: A deep reflection on productivity struggles and an innovative solution to align short-term dopamine rewards with long-term goals by automating restrictions and rewards through APIs connected to WakaTime coding metrics.
 ---
 
 # Didn't do shit

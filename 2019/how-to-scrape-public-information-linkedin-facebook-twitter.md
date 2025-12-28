@@ -2,6 +2,7 @@
 date: 2019-10-25
 modified_at: 2019-10-25
 tags: [programming, web-development, coding]
+description: A technical guide to web scraping using Puppeteer and JavaScript to extract public information from social media platforms while navigating anti-scraping protections.
 ---
 
 # How to scrape public information from LinkedIn, Facebook and Twitter using Javascript

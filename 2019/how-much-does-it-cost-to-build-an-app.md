@@ -2,6 +2,7 @@
 date: 2019-03-20
 modified_at: 2019-10-25
 tags: [react-native, startup, business, mvp, product-development]
+description: Principles for keeping app development costs low by focusing on your USP, using React Native, maintaining a simple development environment, and avoiding premature scaling.
 ---
 
 # How much does it cost to build an app?

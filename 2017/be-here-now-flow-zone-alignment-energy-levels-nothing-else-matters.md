@@ -2,6 +2,7 @@
 date: 2017-09-28
 modified_at: 2018-05-20
 tags: [productivity, mindfulness, focus, mvp, kitesurfing]
+description: Finding alignment with your environment to achieve flow state, balancing mental energy from coding with physical energy from kitesurfing to build an MVP.
 ---
 
 # My energy levels in Eat Code Kite Repeat: Being in alignment with your environment

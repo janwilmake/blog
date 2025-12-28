@@ -2,6 +2,7 @@
 date: 2020-10-30
 modified_at: 2020-10-30
 tags: [startup, entrepreneurship, digital-nomad, travel]
+description: The launch story of BackpackingTribe, a platform connecting backpackers to travel together in groups from hostel to hostel, including validation strategies, marketing efforts through Facebook and Google ads, travel blogger outreach, and the business model based on hostel booking commissions.
 ---
 
 # My new startup - BackpackingTribe - is taking off!

@@ -2,6 +2,7 @@
 date: 2017-09-12
 modified_at: 2017-09-12
 tags: [digital-nomad, travel, kitesurfing, personal-development, focus]
+description: Embracing an uncertain travel lifestyle and going with the flow instead of rigid planning, finding balance between work focus and nomadic freedom.
 ---
 
 # I don't know or I don't flow

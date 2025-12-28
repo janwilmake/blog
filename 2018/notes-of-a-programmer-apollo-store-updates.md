@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-03-06
 tags: [apollo, graphql, programming, nodejs, coding]
+description: Technical notes on the four methods of updating Apollo's client-side cache, comparing automatic updates, refetchQueries, manual store manipulation, and optimistic responses.
 ---
 
 # [Notes of a programmer]: Apollo store updates

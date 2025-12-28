@@ -2,6 +2,7 @@
 date: 2017-04-24
 modified_at: 2019-05-21
 tags: [entrepreneurship, solo-entrepreneur, productivity, startup, personal-development]
+description: Lessons from working intensively on a startup about the importance of maintaining a broader perspective as a solo entrepreneur, balancing four key areas: learning, creating, networking, and sharing.
 ---
 
 # The Hawk-view every starting solo entrepreneur needs

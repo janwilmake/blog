@@ -2,6 +2,7 @@
 date: 2019-04-30
 modified_at: 2020-05-30
 tags: [philosophy, happiness, mindfulness]
+description: A philosophical exploration of technological evolution and the need to create equilibrium between humanity and technology to avoid being consumed by our superior creations.
 ---
 
 # The theory of everything and the ultimate equilibrium

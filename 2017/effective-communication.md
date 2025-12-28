@@ -2,6 +2,7 @@
 date: 2017-05-06
 modified_at: 2019-04-25
 tags: [philosophy, personal-development, mindfulness]
+description: A metaphorical exploration of how people process information differently, comparing them to sheep, rocks, and fish in the river of spoken language to illustrate effective versus ineffective communication patterns.
 ---
 
 # Effective Communication

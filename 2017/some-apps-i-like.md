@@ -2,6 +2,7 @@
 date: 2017-06-30
 modified_at: 2017-06-30
 tags: [apps, tools, digital-nomad, productivity]
+description: Essential apps and tools for nomadic entrepreneurs, from banking and transportation to communication, productivity, and learning platforms.
 ---
 
 # The best apps to study and work on the move

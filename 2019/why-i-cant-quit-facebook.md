@@ -2,6 +2,7 @@
 date: 2019-02-05
 modified_at: 2019-02-05
 tags: [facebook, social-media, technology-critique, philosophy, internet]
+description: Exploring the challenges of quitting Facebook including timeline memories, contact management, event invitations, FOMO, and the addictive nature of algorithmic content bubbles.
 ---
 
 # Why I can't quit Facebook

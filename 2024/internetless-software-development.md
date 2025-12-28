@@ -1,6 +1,7 @@
 ---
 date: 2024-01
 tags: [productivity, focus, deep-work, minimalism, programming, ai]
+description: Investigates creating a completely internet-free development environment with large LLMs, exploring privacy, security, and focus benefits while documenting installation challenges and workarounds.
 ---
 
 <!-- http://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html

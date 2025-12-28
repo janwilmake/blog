@@ -2,6 +2,7 @@
 date: 2017-11-16
 modified_at: 2018-05-20
 tags: [consciousness, personal-development, philosophy]
+description: A brief reflection on levels of consciousness and the journey toward higher awareness and making a difference in the world.
 ---
 
 # Be conscious!

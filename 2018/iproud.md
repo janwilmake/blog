@@ -2,6 +2,7 @@
 date: 2018-03-07
 modified_at: 2018-03-09
 tags: [react-native, productivity, apps, entrepreneurship, mvp, shipping]
+description: Introducing iProud, a productivity to-do app for entrepreneurs built in 2 weeks after 6 months of learning, designed to help users make lists, complete tasks, and connect with others.
 ---
 
 # Meet iProud: The productivity app for entrepreneurs!

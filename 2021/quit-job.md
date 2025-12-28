@@ -2,6 +2,7 @@
 date: 2021-02-10
 modified_at: 2021-02-10
 tags: [entrepreneurship, personal-development]
+description: The story of quitting a job to work full-time on startups and implementing aggressive cost-cutting measures to reduce monthly expenses by 300 euros, extending runway to 3 years with 20k in savings.
 ---
 
 # Quitting my job, living cheap, working full time on my startup(s). Saving hundreds of euro's every month.

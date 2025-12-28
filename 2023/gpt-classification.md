@@ -1,6 +1,7 @@
 ---
 date: 2023-01
 tags: [ai, gpt, programming, coding]
+description: Presents a simple yet powerful method for using ChatGPT to perform fast parallel classification tasks, such as determining gender from names with 250ms response times.
 ---
 
 # Classification tasks with ChatGPT

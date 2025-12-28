@@ -2,6 +2,7 @@
 date: 2021-07-13
 modified_at: 2021-07-13
 tags: [product-development, programming, startup]
+description: Key product development lessons learned from building FriendTime v2, including the importance of simple validation before adding features, avoiding premature monetization, and the underestimated time cost of final touches.
 ---
 
 # Lessons learned building the second version of FriendTime

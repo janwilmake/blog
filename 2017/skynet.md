@@ -2,6 +2,7 @@
 date: 2017-05-17
 modified_at: 2018-05-20
 tags: [ai, machine-learning, technology-critique, philosophy]
+description: A prediction about the potential emergence of a distributed deep learning virus that could achieve human-level intelligence by utilizing multiple computers, exploring the implications and preventive measures needed to avoid an AI threat scenario.
 ---
 
 # Is Skynet already there? My prediction of the collapse of internet as we know it

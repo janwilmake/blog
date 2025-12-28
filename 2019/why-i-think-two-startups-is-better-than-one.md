@@ -2,6 +2,7 @@
 date: 2019-03-19
 modified_at: 2019-03-19
 tags: [entrepreneurship, startup, solo-entrepreneur]
+description: Why working at two startups simultaneously reduces risk, enables cross-learning, creates competition for better compensation, and increases chances of success.
 ---
 
 # Why I think working at two startups is better than one

@@ -2,6 +2,7 @@
 date: 2018-04-02
 modified_at: 2018-05-20
 tags: [internet, philosophy, technology-critique, social-media]
+description: A critical reflection on the risks of global internet uniformity and platform manipulation, arguing that decentralized regional diversity provides safer experimentation for humanity.
 ---
 
 # The dark side of globalization

@@ -2,6 +2,7 @@
 date: 2018-05-22
 modified_at: 2018-05-22
 tags: [productivity, coding, focus, deep-work, personal-development, habits]
+description: A shift in measuring productivity from passive learning and time spent to active creation and hands-on coding, introducing the Groundhog Day 100 Days of Code challenge.
 ---
 
 # Pivoting to a creation-centric metric of productivity

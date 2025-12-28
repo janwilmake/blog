@@ -2,6 +2,7 @@
 date: 2022-02-25
 modified_at: 2022-02-25
 tags: [productivity, tools, workflow]
+description: A strategy for maintaining Mac performance by creating an automated setup script for quick resets, combined with using Quitter to auto-close inactive apps and Power Manager to enforce regular shutdowns for optimal memory and CPU usage.
 ---
 
 # Having a clean Mac setup with a super low memory and cpu footprint

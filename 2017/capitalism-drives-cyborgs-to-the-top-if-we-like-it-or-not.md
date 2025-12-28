@@ -2,6 +2,7 @@
 date: 2017-08-13
 modified_at: 2019-05-22
 tags: [philosophy, technology-critique, future-of-work, ai]
+description: A speculative warning about the potential future where capitalism drives the creation of cyborgs who may become superior to humans in business, exploring both optimistic and pessimistic scenarios for human-machine integration.
 ---
 
 # Capitalism drives cyborgs to the top, if we like it or not

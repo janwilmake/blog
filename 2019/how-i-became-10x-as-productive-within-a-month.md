@@ -2,6 +2,7 @@
 date: 2019-05-02
 modified_at: 2019-05-02
 tags: [productivity, focus, personal-development, time-management]
+description: Implementing extreme productivity rules including browser tab limits, locked Freedom.to mode, phone delegation, and codebase-first development to achieve 70 hours of coding per week.
 ---
 
 # How I'm going to try to become 10x as productive within a month

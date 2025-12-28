@@ -2,6 +2,7 @@
 date: 2020-09-28
 modified_at: 2020-09-28
 tags: [programming, productivity, workflow]
+description: A reflection on the cyclical pattern of working regular jobs to save money, then quitting to work on side projects until broke, and exploring three potential paths to break free from this cycle.
 ---
 
 # The Dev Lifecycle

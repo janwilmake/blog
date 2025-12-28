@@ -2,6 +2,7 @@
 date: 2017-07-17
 modified_at: 2018-05-20
 tags: [personal-development, productivity, entrepreneurship]
+description: A conceptual framework for personal growth through rapid iteration, creating a feedback loop that cycles through dreaming, planning, learning, creating, and sharing to accelerate learning and development.
 ---
 
 # Cycling through your life part III: The μCycle

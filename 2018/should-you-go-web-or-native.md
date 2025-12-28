@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-03-06
 tags: [react-native, web-development, programming, startup, product-development]
+description: A decision framework for choosing between web and native app development, evaluating capabilities, platform preferences, user acquisition, retention strategies, and cost considerations including PWAs versus React Native.
 ---
 
 # Should you go web or native?

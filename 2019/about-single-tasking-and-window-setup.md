@@ -2,6 +2,7 @@
 date: 2019-04-08
 modified_at: 2019-04-17
 tags: [productivity, focus, deep-work, tools]
+description: Why single tasking with one screen in full-screen mode may be more productive than multi-screen setups for programmers seeking better focus and fewer distractions.
 ---
 
 # About Single Tasking and Screen/Window Setup on your Mac and Phones

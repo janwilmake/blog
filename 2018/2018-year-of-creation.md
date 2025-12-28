@@ -2,6 +2,7 @@
 date: 2018-01-19
 modified_at: 2018-01-19
 tags: [entrepreneurship, personal-development, productivity, habits, programming, digital-nomad, kitesurfing]
+description: A personal manifesto outlining ambitious 2018 goals, using fear-setting and extreme accountability measures to build two apps while pursuing a vision of working productively in paradise.
 ---
 
 # How I’m going to make 2018 my most impactful year yet — A clear vision, fear-setting, and a crystal clear plan.

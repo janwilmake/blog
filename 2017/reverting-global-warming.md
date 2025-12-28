@@ -2,6 +2,7 @@
 date: 2017-06-11
 modified_at: 2018-03-06
 tags: [startup, business, philosophy, mvp]
+description: A startup MVP idea to combat global warming by creating an app that turns carbon footprint reduction into a status symbol, gamifying sustainable lifestyle choices through social recognition and financial incentives.
 ---
 
 # My solution to revert global warming is creating a status-symbol of your CO2 footprint: A simple MVP idea

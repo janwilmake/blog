@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-06-05
 tags: [graphql, nodejs, devops, programming, sequelize, apollo]
+description: A comprehensive guide to setting up your own GraphQL backend with Node.js, Express, Sequelize, and MySQL, including deployment to a remote server with Nginx and SSL configuration.
 ---
 
 # Setting up a GraphQL Backend without GraphCool

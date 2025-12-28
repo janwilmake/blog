@@ -2,6 +2,7 @@
 date: 2017-06-14
 modified_at: 2017-06-14
 tags: [entrepreneurship, personal-development, business]
+description: Four key reasons why writing and blogging benefits entrepreneurs: promoting openness, helping achieve goals through accountability, serving as efficient networking, and organizing thoughts effectively.
 ---
 
 # 4 Reasons Writing Makes You A More Succesful Entrepreneur

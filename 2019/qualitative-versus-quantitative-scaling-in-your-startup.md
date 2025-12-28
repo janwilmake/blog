@@ -2,6 +2,7 @@
 date: 2019-03-25
 modified_at: 2019-04-17
 tags: [startup, business, entrepreneurship]
+description: Comparing qualitative scaling (adding features) versus quantitative scaling (expanding internationally) for startups and why going global might be the better choice.
 ---
 
 # Qualitative versus Quantitative Scaling in your startup

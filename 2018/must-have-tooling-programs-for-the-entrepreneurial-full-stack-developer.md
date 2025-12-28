@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-03-06
 tags: [tools, productivity, programming, dx, apps]
+description: A quick overview of essential development tools and productivity apps for building React Native applications, including VSCode, ESLint, Prettier, RescueTime, and WakaTime.
 ---
 
 # Must have Tooling & Programs

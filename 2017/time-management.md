@@ -2,6 +2,7 @@
 date: 2017-06-19
 modified_at: 2017-06-22
 tags: [productivity, time-management, focus, entrepreneurship, tools]
+description: A framework for managing screen time and prioritizing tasks as an entrepreneur by blocking distracting websites during specific periods, applying the Pareto Principle to focus 80% of time on the most important work.
 ---
 
 # Time management

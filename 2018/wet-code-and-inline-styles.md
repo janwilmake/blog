@@ -2,6 +2,7 @@
 date: 2018-04-02
 modified_at: 2018-05-20
 tags: [programming, coding, react-native, dx, productivity]
+description: A controversial take on coding practices advocating for inline styles and WET code over DRY principles to prioritize development speed and reduce abstraction overhead.
 ---
 
 # Wet code and inline styles

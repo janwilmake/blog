@@ -2,6 +2,7 @@
 date: 2020-09-15
 modified_at: 2020-09-20
 tags: [philosophy, personal-development, mindfulness]
+description: Exploring the concept of building a platform called MindMirror to help people save their experiences, opinions, and memories in one place to better understand themselves and connect the dots in their lives.
 ---
 
 # Know Thyself. But how?

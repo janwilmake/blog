@@ -2,6 +2,7 @@
 date: 2017-10-09
 modified_at: 2018-05-20
 tags: [solo-entrepreneur, entrepreneurship, open-source, personal-development]
+description: Four reasons why solo software entrepreneurs should share their startup journey openly from day one, including getting valuable feedback, mutual learning, social accountability, and maintaining happiness during long development cycles.
 ---
 
 # Why openness from day one is so damn important for solo entrepreneurs in software

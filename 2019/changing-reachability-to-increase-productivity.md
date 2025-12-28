@@ -2,6 +2,7 @@
 date: 2019-01-19
 modified_at: 2019-01-29
 tags: [productivity, focus, distractions, time-management]
+description: Increasing coding productivity from 4-5 hours to 6+ hours per day by blocking communication channels on the laptop and keeping the phone physically distant.
 ---
 
 # Changing reachability to increase productivity

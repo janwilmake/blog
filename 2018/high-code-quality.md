@@ -2,6 +2,7 @@
 date: 2018-03-13
 modified_at: 2018-03-13
 tags: [programming, coding, dx, open-source, productivity]
+description: Seven key principles for maintaining high code quality, balancing concerns like DRY principles, naming conventions, external dependencies, and reducing time-to-context.
 ---
 
 # My 7 key ways to keep my Code Quality Ultra High

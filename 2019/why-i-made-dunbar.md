@@ -2,6 +2,7 @@
 date: 2019-10-27
 modified_at: 2020-05-30
 tags: [social-media, apps, entrepreneurship, startup, react-native, personal-development]
+description: The journey from creating an addictive mafia game to building FriendTime, an app designed to bring people together in real life and maintain meaningful relationships.
 ---
 
 # Why I made FriendTime

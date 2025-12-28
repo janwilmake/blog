@@ -2,6 +2,7 @@
 date: 2017-11-20
 modified_at: 2018-05-20
 tags: [philosophy, happiness, consciousness, dopamine, mindfulness, personal-development]
+description: Moving beyond the pursuit of happiness by understanding and mastering our impulses, creating stable habits to focus on bigger issues like the planet.
 ---
 
 # The basis: what comes after happiness?

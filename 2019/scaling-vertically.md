@@ -2,6 +2,7 @@
 date: 2019-01-29
 modified_at: 2019-01-30
 tags: [programming, devops]
+description: Achieving 5k+ RPS on a single machine through vertical scaling with CPU-optimized cloud servers, avoiding the complexity of horizontal scaling for early-stage startups.
 ---
 
 # Scaling my Node JS GraphQL Server Vertically to 5k RPS on a single machine

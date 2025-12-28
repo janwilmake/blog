@@ -2,6 +2,7 @@
 date: 2020-06-05
 modified_at: 2020-06-05
 tags: [personal-development, philosophy]
+description: A candid exploration of common dating fears and anxieties, from worrying about being boring to fear of rejection, with practical reframing advice to approach dating as a game of mutual discovery.
 ---
 
 # Why I'm afraid to start dating

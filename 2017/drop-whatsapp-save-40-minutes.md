@@ -2,6 +2,7 @@
 date: 2017-07-11
 modified_at: 2019-05-20
 tags: [productivity, time-management, distractions, whatsapp, focus, deep-work]
+description: Uninstalling WhatsApp to save 40 minutes daily and focus on deep, goal-oriented work by separating core activities from less important distractions.
 ---
 
 # Today I uninstalled WhatsApp to save 40 minutes a day

@@ -2,6 +2,7 @@
 date: 2020-11-08
 modified_at: 2020-11-08
 tags: [productivity, distractions, minimalism, screenless]
+description: An experiment to reduce smartphone usage from 5 hours per day by eliminating the need for a phone at home, setting up all phone functions on a Mac instead to break the habit of dreamscrolling and increase productivity.
 ---
 
 # Experiment #237: Save 35 hours a week by eliminating the need for the smartphone

@@ -2,6 +2,7 @@
 date: 2018-03-07
 modified_at: 2018-03-07
 tags: [coworking, digital-nomad, bali, asia, entrepreneurship, networking]
+description: Observations on how professional collaborations in coworking spaces still rely heavily on coincidence, and why location-based networking platforms are needed for digital nomads.
 ---
 
 # Collaborations in the coworking space often rely on coincidence

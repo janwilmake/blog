@@ -2,6 +2,7 @@
 date: 2017-11-19
 modified_at: 2018-05-20
 tags: [productivity, habits, focus, solo-entrepreneur, kitesurfing]
+description: A detailed breakdown of a productive daily routine for solo entrepreneurs combining morning workouts, focused coding sessions, kitesurfing, and evening reflection while avoiding common pitfalls like analysis paralysis and social media distractions.
 ---
 
 # Routine

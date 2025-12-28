@@ -2,6 +2,7 @@
 date: 2019-02-12
 modified_at: 2019-04-25
 tags: [entrepreneurship, coworking, travel]
+description: Exploring how predictive programming using neural networks could revolutionize software development and potentially reduce the demand for traditional programmers.
 ---
 
 # Deep Dream Devs

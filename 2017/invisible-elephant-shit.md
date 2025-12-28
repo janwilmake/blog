@@ -2,6 +2,7 @@
 date: 2017-05-06
 modified_at: 2018-05-20
 tags: [social-media, technology-critique, internet, philosophy]
+description: A critical examination of how commercial media prioritizes emotion-driven content over truth, using the metaphor of elephant shit to illustrate how news coverage often amplifies fear while ignoring more significant issues.
 ---
 
 # Elephant-shit

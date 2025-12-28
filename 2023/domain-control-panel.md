@@ -1,6 +1,7 @@
 ---
 date: 2023-09-08
 tags: [programming, devops, tools, web-development]
+description: Documents the creation of an automated domain management system using NameCheap and CloudFlare APIs to streamline the process of turning ideas into working websites.
 ---
 
 # Creating a domain control panel

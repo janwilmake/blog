@@ -2,6 +2,7 @@
 date: 2019-01-11
 modified_at: 2019-01-11
 tags: [programming, startup, business]
+description: A startup idea for Chat Backend as a Service that provides universal chat functionality with open source front-end components and automated scaling for React Native and Node JS apps.
 ---
 
 # Chat-BaaS: Chat Backend as a Service

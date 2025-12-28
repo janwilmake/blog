@@ -2,6 +2,7 @@
 date: 2018-03-06
 modified_at: 2018-03-06
 tags: [apollo, graphql, react-native, programming, workflow]
+description: A step-by-step workflow for creating GraphQL queries in a full-stack React Apollo application, from schema definition to client-side implementation.
 ---
 
 # Workflow query creation (React Apollo)

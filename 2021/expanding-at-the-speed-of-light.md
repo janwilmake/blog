@@ -2,6 +2,7 @@
 date: 2021-01-03
 modified_at: 2021-01-03
 tags: [entrepreneurship, startup, personal-development]
+description: A philosophical exploration of humanity's ultimate purpose to expand in all directions at the speed of light, starting with the evolution revolution on Earth before spreading to other planets and eventually focusing on preservation.
 ---
 
 # Expanding at the speed of light, and preserving it into eternity

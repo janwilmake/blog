@@ -2,6 +2,7 @@
 date: 2019-05-15
 modified_at: 2019-05-22
 tags: [open-source, programming, business]
+description: The strategic advantages of open sourcing code including feature separation, attracting developers, community contributions, potential revenue through licensing, and viral growth opportunities.
 ---
 
 # The advantages of open sourcing
