@@ -88,13 +88,55 @@ function isAdmin(request: Request, env: Env): boolean {
   return token === env.ADMIN_PASSWORD;
 }
 
-function htmlTemplate(title: string, content: string): string {
+function acceptsMarkdown(acceptHeader: string): boolean {
+  const mediaTypes = acceptHeader.split(',').map(s => s.trim());
+
+  let markdownQ = 0;
+  let htmlQ = 0;
+  let hasWildcard = false;
+
+  for (const mediaType of mediaTypes) {
+    const [type, ...params] = mediaType.split(';').map(s => s.trim());
+
+    let quality = 1.0;
+    for (const param of params) {
+      if (param.startsWith('q=')) {
+        quality = parseFloat(param.substring(2));
+        if (isNaN(quality)) quality = 1.0;
+      }
+    }
+
+    if (type === 'text/markdown') {
+      markdownQ = quality;
+    } else if (type === 'text/html') {
+      htmlQ = quality;
+    } else if (type === '*/*') {
+      hasWildcard = true;
+    }
+  }
+
+  // Return markdown if markdown has higher priority than html, or if wildcard is present
+  return markdownQ > htmlQ || hasWildcard;
+}
+
+function htmlTemplate(title: string, content: string, description?: string): string {
+  const metaTags = description
+    ? `
+  <meta name="description" content="${description}">
+  <meta property="og:description" content="${description}">
+  <meta name="twitter:description" content="${description}">`
+    : '';
+
   return `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${title}</title>
+  <meta property="og:title" content="${title}">
+  <meta name="twitter:title" content="${title}">
+  <meta property="og:type" content="article">
+  <meta name="twitter:card" content="summary">${metaTags}
   <style>
     body {
       max-width: 800px;
@@ -290,6 +332,15 @@ async function handleEntry(
     markdown = await response.text();
   }
 
+  // Check Accept header for content negotiation
+  const acceptHeader = request.headers.get("Accept") || "*/*";
+  if (acceptsMarkdown(acceptHeader)) {
+    // Return raw markdown
+    return new Response(markdown, {
+      headers: { "Content-Type": "text/markdown; charset=utf-8" },
+    });
+  }
+
   const { frontmatter, content } = parseFrontmatter(markdown);
 
   // Configure marked to open external links in new tab
@@ -306,6 +357,7 @@ async function handleEntry(
 
   const html = await marked(content, { renderer });
   const title = frontmatter.title || entry.slug;
+  const description = frontmatter.description || entry.description;
   const date = entry.date ? new Date(entry.date).toLocaleDateString() : "";
 
   const draftBadge = entry.draft
@@ -333,6 +385,7 @@ async function handleEntry(
       ${tagsHtml}
     </article>
   `,
+    description,
   );
 
   return new Response(pageHtml, {
