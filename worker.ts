@@ -115,8 +115,13 @@ function acceptsMarkdown(acceptHeader: string): boolean {
     }
   }
 
-  // Return markdown if markdown has higher priority than html, or if wildcard is present
-  return markdownQ > htmlQ || hasWildcard;
+  // Only return markdown if explicitly requested with higher priority than HTML
+  // If neither is specified, default to HTML (browser behavior)
+  if (markdownQ > 0 && markdownQ > htmlQ) {
+    return true;
+  }
+
+  return false;
 }
 
 function htmlTemplate(title: string, content: string, description?: string, hostname?: string): string {
