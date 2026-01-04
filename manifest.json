@@ -8,7 +8,8 @@
     "2022",
     "2023",
     "2024",
-    "2025"
+    "2025",
+    "2026"
   ],
   "allTags": [
     "agents",
@@ -276,6 +277,9 @@
       "2025/LLMTEXT-for-llmstxt",
       "2025/ai-inference-dx-design",
       "2025/making-a-continuous-audio-playlist-for-thgttg"
+    ],
+    "2026": [
+      "2026/parallel-role-2026"
     ],
     "minimalism": [
       "2017/about-cleaning-up",
@@ -1169,7 +1173,7 @@
       "date": 1495584000000,
       "contentType": "markdown",
       "title": "Jan, clean up your room!",
-      "description": "",
+      "description": "A practical guide to decluttering and minimalism learned from traveling in Asia, outlining seven steps to simplify your living space and life by choosing a style, creating transparency, and focusing on experiences over possessions.",
       "tags": [
         "minimalism",
         "personal-development",
@@ -1184,7 +1188,7 @@
       "date": 1497398400000,
       "contentType": "markdown",
       "title": "I feel like a Tesla without wheels",
-      "description": "",
+      "description": "The journey from WordPress frustrations to learning JavaScript, React Native, and Node.js to bring software ideas to life.",
       "tags": [
         "javascript",
         "programming",
@@ -1200,7 +1204,7 @@
       "date": 1510790400000,
       "contentType": "markdown",
       "title": "Be conscious!",
-      "description": "",
+      "description": "A brief reflection on levels of consciousness and the journey toward higher awareness and making a difference in the world.",
       "tags": [
         "consciousness",
         "personal-development",
@@ -1213,7 +1217,7 @@
       "date": 1506556800000,
       "contentType": "markdown",
       "title": "My energy levels in Eat Code Kite Repeat: Being in alignment with your environment",
-      "description": "",
+      "description": "Finding alignment with your environment to achieve flow state, balancing mental energy from coding with physical energy from kitesurfing to build an MVP.",
       "tags": [
         "productivity",
         "mindfulness",
@@ -1228,7 +1232,7 @@
       "date": 1502582400000,
       "contentType": "markdown",
       "title": "Capitalism drives cyborgs to the top, if we like it or not",
-      "description": "",
+      "description": "A speculative warning about the potential future where capitalism drives the creation of cyborgs who may become superior to humans in business, exploring both optimistic and pessimistic scenarios for human-machine integration.",
       "tags": [
         "philosophy",
         "technology-critique",
@@ -1242,7 +1246,7 @@
       "date": 1501804800000,
       "contentType": "markdown",
       "title": "Counterproductive behaviors of solo-entrepreneurs",
-      "description": "",
+      "description": "How solo entrepreneurs can maximize productivity by suppressing urges for doubt and communication, creating focused environments and turning decisions into habits.",
       "tags": [
         "solo-entrepreneur",
         "productivity",
@@ -1257,7 +1261,7 @@
       "date": 1500249600000,
       "contentType": "markdown",
       "title": "Cycling through your life part IV - The cycle of the future: towards grown consciousness",
-      "description": "",
+      "description": "A philosophical metaphor comparing the evolution of bicycle design to the growth of human consciousness, illustrating how internal reflection and external action have changed over time from 1800 to 2200.",
       "tags": [
         "philosophy",
         "consciousness",
@@ -1270,7 +1274,7 @@
       "date": 1500249600000,
       "contentType": "markdown",
       "title": "Cycling through your life part II - DevOps vs. Marketing in software companies",
-      "description": "",
+      "description": "Why DevOps and product quality matter more than marketing - truly good products don't need advertisements, they market themselves.",
       "tags": [
         "devops",
         "marketing",
@@ -1285,7 +1289,7 @@
       "date": 1497484800000,
       "contentType": "markdown",
       "title": "Blazing Fast & Beautiful isn't it? Discover Digital Ocean and Ghost",
-      "description": "",
+      "description": "A guide explaining the transition from WordPress to Ghost CMS and DigitalOcean hosting for faster website performance, highlighting the advantages of Node.js and modern JavaScript frameworks over traditional PHP-based systems.",
       "tags": [
         "ghost",
         "wordpress",
@@ -1300,7 +1304,7 @@
       "date": 1492992000000,
       "contentType": "markdown",
       "title": "Cycling through your life: Communicate, Adapt & Get shit done",
-      "description": "",
+      "description": "Balancing communication, learning, and getting things done by tracking and limiting distractions from social media and browsers to improve productivity.",
       "tags": [
         "distractions",
         "productivity",
@@ -1317,7 +1321,7 @@
       "date": 1499731200000,
       "contentType": "markdown",
       "title": "Today I uninstalled WhatsApp to save 40 minutes a day",
-      "description": "",
+      "description": "Uninstalling WhatsApp to save 40 minutes daily and focus on deep, goal-oriented work by separating core activities from less important distractions.",
       "tags": [
         "productivity",
         "time-management",
@@ -1333,7 +1337,7 @@
       "date": 1505779200000,
       "contentType": "markdown",
       "title": "EAT CODE KITE REPEAT at the NOMAD INCUBATOR in KITESURF HEAVEN: TARIFA ESPAÑA",
-      "description": "",
+      "description": "Setting up the Nomad Incubator in Tarifa, Spain - a community for software developers and entrepreneurs who share a passion for kitesurfing and coding.",
       "tags": [
         "digital-nomad",
         "kitesurfing",
@@ -1348,7 +1352,7 @@
       "date": 1494028800000,
       "contentType": "markdown",
       "title": "Effective Communication",
-      "description": "",
+      "description": "A metaphorical exploration of how people process information differently, comparing them to sheep, rocks, and fish in the river of spoken language to illustrate effective versus ineffective communication patterns.",
       "tags": [
         "philosophy",
         "personal-development",
@@ -1361,7 +1365,7 @@
       "date": 1496707200000,
       "contentType": "markdown",
       "title": "True Entrepreneurship",
-      "description": "",
+      "description": "A short poetic reflection on true entrepreneurship inspired by Columbus, emphasizing the importance of taking risks and daring to do what others call stupidity to discover new truths.",
       "tags": [
         "entrepreneurship",
         "philosophy",
@@ -1374,7 +1378,7 @@
       "date": 1508284800000,
       "contentType": "markdown",
       "title": "Is Facebook as addictive as Heroin?",
-      "description": "",
+      "description": "A critical analysis comparing Facebook's addictive nature to heroin, examining how social media algorithms designed for user retention may be turning people into zombies with shortened attention spans and reduced real-world value.",
       "tags": [
         "facebook",
         "social-media",
@@ -1389,7 +1393,7 @@
       "date": 1498780800000,
       "contentType": "markdown",
       "title": "5 Reasons why Groningen is underrated as a place for Digital Nomads",
-      "description": "",
+      "description": "Five compelling reasons why Groningen, Netherlands is an underrated destination for digital nomads, from affordable living and great coworking spaces to vibrant nightlife and a high concentration of talented students.",
       "tags": [
         "digital-nomad",
         "coworking",
@@ -1404,7 +1408,7 @@
       "date": 1493337600000,
       "contentType": "markdown",
       "title": "The habit of Change",
-      "description": "",
+      "description": "A philosophical reflection on why developing a habit of change is essential in our rapidly evolving world, using the metaphor of a rock in a river to illustrate how adaptability creates resilience and growth.",
       "tags": [
         "habits",
         "personal-development",
@@ -1419,7 +1423,7 @@
       "date": 1492992000000,
       "contentType": "markdown",
       "title": "The Hawk-view every starting solo entrepreneur needs",
-      "description": "",
+      "description": "Lessons from working intensively on a startup about the importance of maintaining a broader perspective as a solo entrepreneur, balancing four key areas: learning, creating, networking, and sharing.",
       "tags": [
         "entrepreneurship",
         "solo-entrepreneur",
@@ -1434,7 +1438,7 @@
       "date": 1497139200000,
       "contentType": "markdown",
       "title": "How to diminish distractions while being nomadic",
-      "description": "",
+      "description": "Practical strategies to diminish distractions as a digital nomad, including blocking tools, creating habits, and maintaining focus despite constant change.",
       "tags": [
         "productivity",
         "focus",
@@ -1449,7 +1453,7 @@
       "date": 1505174400000,
       "contentType": "markdown",
       "title": "I don't know or I don't flow",
-      "description": "",
+      "description": "Embracing an uncertain travel lifestyle and going with the flow instead of rigid planning, finding balance between work focus and nomadic freedom.",
       "tags": [
         "digital-nomad",
         "travel",
@@ -1464,7 +1468,7 @@
       "date": 1500508800000,
       "contentType": "markdown",
       "title": "Google makes us creative, but also more self-determined",
-      "description": "",
+      "description": "How Google encourages creativity through positive feedback but creates echo chambers that make us more self-determined yet less open-minded.",
       "tags": [
         "internet",
         "philosophy",
@@ -1478,7 +1482,7 @@
       "date": 1494028800000,
       "contentType": "markdown",
       "title": "Elephant-shit",
-      "description": "",
+      "description": "A critical examination of how commercial media prioritizes emotion-driven content over truth, using the metaphor of elephant shit to illustrate how news coverage often amplifies fear while ignoring more significant issues.",
       "tags": [
         "social-media",
         "technology-critique",
@@ -1492,7 +1496,7 @@
       "date": 1514332800000,
       "contentType": "markdown",
       "title": "Justified Dopamine",
-      "description": "",
+      "description": "Seeking dopamine from productive activities like work and exercise rather than quick hacks like social media, gaming, and sugar to align with long-term goals.",
       "tags": [
         "dopamine",
         "productivity",
@@ -1508,7 +1512,7 @@
       "date": 1492992000000,
       "contentType": "markdown",
       "title": "Langtang Nepal",
-      "description": "",
+      "description": "A detailed trekking adventure diary through the Langtang region of Nepal, including a mountain bike journey, challenging off-trail hiking, sleeping outdoors in steep terrain, and crossing the Ganja La pass at high altitude.",
       "tags": [
         "travel",
         "nepal",
@@ -1523,7 +1527,7 @@
       "date": 1493337600000,
       "contentType": "markdown",
       "title": "16 Ways To Learn A New Language While Having Fun",
-      "description": "",
+      "description": "Sixteen practical methods to learn a new language through complete immersion using music, movies, apps, and social connections, making language acquisition fun and efficient without traditional classroom methods.",
       "tags": [
         "apps",
         "tools",
@@ -1537,7 +1541,7 @@
       "date": 1499040000000,
       "contentType": "markdown",
       "title": "Nomadic Entrepreneurs Interview #1 - Tomas Laurinavicius",
-      "description": "",
+      "description": "An interview with Lithuanian lifestyle entrepreneur Tomas Laurinavicius about his journey from self-taught designer to nomadic blogger, his mission to empower one million people, and tips for aspiring location-independent entrepreneurs.",
       "tags": [
         "digital-nomad",
         "entrepreneurship",
@@ -1551,7 +1555,7 @@
       "date": 1497139200000,
       "contentType": "markdown",
       "title": "4 ways nomadic entrepreneurs can reduce their Carbon Footprint",
-      "description": "",
+      "description": "An analysis of how nomadic entrepreneurs can reduce their carbon footprint through shared facilities, public transport, and mindful consumption, despite the high emissions from flights.",
       "tags": [
         "digital-nomad",
         "entrepreneurship",
@@ -1565,7 +1569,7 @@
       "date": 1497657600000,
       "contentType": "markdown",
       "title": "Notification-zombies",
-      "description": "",
+      "description": "A critique of how notifications turn people into zombies who lose control over their attention, with statistics on smartphone usage and a recommendation to turn off all notifications to reclaim mental freedom.",
       "tags": [
         "smartphone",
         "notifications",
@@ -1582,7 +1586,7 @@
       "date": 1501891200000,
       "contentType": "markdown",
       "title": "What is the perfect way to study and work on the move?",
-      "description": "",
+      "description": "A framework for working and studying while traveling, exploring the three phases of settling into a new location and how to maximize productivity through cultivating a habit of change.",
       "tags": [
         "digital-nomad",
         "travel",
@@ -1596,7 +1600,7 @@
       "date": 1498953600000,
       "contentType": "markdown",
       "title": "Purpose: Find your ikigai",
-      "description": "",
+      "description": "A brief exploration of finding purpose through the Japanese concept of ikigai, the intersection of what you love, what you're good at, what the world needs, and what you can be paid for.",
       "tags": [
         "philosophy",
         "personal-development",
@@ -1609,7 +1613,7 @@
       "date": 1499040000000,
       "contentType": "markdown",
       "title": "My view on React Native and why I think it's the future",
-      "description": "",
+      "description": "A comprehensive guide to React Native covering setup, tooling, libraries, and why it's the future of cross-platform development for web, Android, and iOS.",
       "tags": [
         "react-native",
         "javascript",
@@ -1625,7 +1629,7 @@
       "date": 1510185600000,
       "contentType": "markdown",
       "title": "Real artists Ship - A look back at 2017.",
-      "description": "",
+      "description": "A reflective look back at 2017 as a year of learning React Native and JavaScript, documenting the journey from ideas and failed projects to finally achieving productive flow and being ready to ship real products.",
       "tags": [
         "entrepreneurship",
         "programming",
@@ -1641,7 +1645,7 @@
       "date": 1497139200000,
       "contentType": "markdown",
       "title": "My solution to revert global warming is creating a status-symbol of your CO2 footprint: A simple MVP idea",
-      "description": "",
+      "description": "A startup MVP idea to combat global warming by creating an app that turns carbon footprint reduction into a status symbol, gamifying sustainable lifestyle choices through social recognition and financial incentives.",
       "tags": [
         "startup",
         "business",
@@ -1655,7 +1659,7 @@
       "date": 1511049600000,
       "contentType": "markdown",
       "title": "Routine",
-      "description": "",
+      "description": "A detailed breakdown of a productive daily routine for solo entrepreneurs combining morning workouts, focused coding sessions, kitesurfing, and evening reflection while avoiding common pitfalls like analysis paralysis and social media distractions.",
       "tags": [
         "productivity",
         "habits",
@@ -1670,7 +1674,7 @@
       "date": 1494979200000,
       "contentType": "markdown",
       "title": "Is Skynet already there? My prediction of the collapse of internet as we know it",
-      "description": "",
+      "description": "A prediction about the potential emergence of a distributed deep learning virus that could achieve human-level intelligence by utilizing multiple computers, exploring the implications and preventive measures needed to avoid an AI threat scenario.",
       "tags": [
         "ai",
         "machine-learning",
@@ -1684,7 +1688,7 @@
       "date": 1492992000000,
       "contentType": "markdown",
       "title": "How to solve attention pollution and cure your love/hate relationship with your smartphone",
-      "description": "",
+      "description": "An analysis of attention pollution caused by smartphones and how internet enables distractions across all time and space, arguing that we should focus only on information that drives action here and now.",
       "tags": [
         "smartphone",
         "distractions",
@@ -1699,7 +1703,7 @@
       "date": 1498780800000,
       "contentType": "markdown",
       "title": "The best apps to study and work on the move",
-      "description": "",
+      "description": "Essential apps and tools for nomadic entrepreneurs, from banking and transportation to communication, productivity, and learning platforms.",
       "tags": [
         "apps",
         "tools",
@@ -1713,7 +1717,7 @@
       "date": 1511136000000,
       "contentType": "markdown",
       "title": "The basis: what comes after happiness?",
-      "description": "",
+      "description": "Moving beyond the pursuit of happiness by understanding and mastering our impulses, creating stable habits to focus on bigger issues like the planet.",
       "tags": [
         "philosophy",
         "happiness",
@@ -1729,7 +1733,7 @@
       "date": 1498780800000,
       "contentType": "markdown",
       "title": "The Best Co-Working and Flexworking spaces in Groningen 2017",
-      "description": "",
+      "description": "A comprehensive guide to the best coworking and flexworking spaces in Groningen, from Launch Café to The Big Building and social work cafés.",
       "tags": [
         "coworking",
         "entrepreneurship",
@@ -1742,7 +1746,7 @@
       "date": 1494028800000,
       "contentType": "markdown",
       "title": "Internet connects the unconnected, but disconnects the connected",
-      "description": "",
+      "description": "A philosophical exploration of how the internet paradoxically brings distant people together while driving physically close people apart, contributing to rising individualism and weaker community ties globally.",
       "tags": [
         "internet",
         "social-media",
@@ -1757,7 +1761,7 @@
       "date": 1504310400000,
       "contentType": "markdown",
       "title": "Possessions for happiness?",
-      "description": "",
+      "description": "The relationship between possessions and freedom as a digital nomad - owning only what's necessary for work and happiness while traveling with 11 kilos.",
       "tags": [
         "digital-nomad",
         "minimalism",
@@ -1772,7 +1776,7 @@
       "date": 1500249600000,
       "contentType": "markdown",
       "title": "Cycling through your life part III: The μCycle",
-      "description": "",
+      "description": "A conceptual framework for personal growth through rapid iteration, creating a feedback loop that cycles through dreaming, planning, learning, creating, and sharing to accelerate learning and development.",
       "tags": [
         "personal-development",
         "productivity",
@@ -1785,7 +1789,7 @@
       "date": 1499558400000,
       "contentType": "markdown",
       "title": "The Best Sustainable Travel Lifestyle: about time-effective organization",
-      "description": "",
+      "description": "How to organize a sustainable travel lifestyle while working 8 hours a day, including strategies for choosing accommodation, coworking spaces, and minimizing commute time.",
       "tags": [
         "digital-nomad",
         "travel",
@@ -1801,7 +1805,7 @@
       "date": 1497830400000,
       "contentType": "markdown",
       "title": "Time management",
-      "description": "",
+      "description": "A framework for managing screen time and prioritizing tasks as an entrepreneur by blocking distracting websites during specific periods, applying the Pareto Principle to focus 80% of time on the most important work.",
       "tags": [
         "productivity",
         "time-management",
@@ -1816,7 +1820,7 @@
       "date": 1505692800000,
       "contentType": "markdown",
       "title": "Vietnam through my eyes",
-      "description": "",
+      "description": "Two months of adventure in Vietnam, from remote northern villages in Hà Giang to kitesurfing in Mui Ne, learning to go with the flow and live authentically.",
       "tags": [
         "travel",
         "digital-nomad",
@@ -1831,7 +1835,7 @@
       "date": 1499126400000,
       "contentType": "markdown",
       "title": "What coding teached me about business (and vice versa)",
-      "description": "",
+      "description": "Six key principles learned from coding that apply to business: structure, logic, efficiency, automation, independence, and transparency.",
       "tags": [
         "programming",
         "business",
@@ -1846,7 +1850,7 @@
       "date": 1513036800000,
       "contentType": "markdown",
       "title": "What if dopamine triggers fuck up your long-term productivity?",
-      "description": "",
+      "description": "An exploration of how short-term dopamine triggers like social media and food act as distractions that harm long-term productivity, arguing for eliminating these distractions rather than relying on willpower to resist them.",
       "tags": [
         "dopamine",
         "productivity",
@@ -1861,7 +1865,7 @@
       "date": 1497398400000,
       "contentType": "markdown",
       "title": "4 Reasons Writing Makes You A More Succesful Entrepreneur",
-      "description": "",
+      "description": "Four key reasons why writing and blogging benefits entrepreneurs: promoting openness, helping achieve goals through accountability, serving as efficient networking, and organizing thoughts effectively.",
       "tags": [
         "entrepreneurship",
         "personal-development",
@@ -1874,7 +1878,7 @@
       "date": 1507507200000,
       "contentType": "markdown",
       "title": "Why openness from day one is so damn important for solo entrepreneurs in software",
-      "description": "",
+      "description": "Four reasons why solo software entrepreneurs should share their startup journey openly from day one, including getting valuable feedback, mutual learning, social accountability, and maintaining happiness during long development cycles.",
       "tags": [
         "solo-entrepreneur",
         "entrepreneurship",
@@ -1888,7 +1892,7 @@
       "date": 1497484800000,
       "contentType": "markdown",
       "title": "WordPress versus Ghost - Read this if you're serious about writing",
-      "description": "",
+      "description": "A comprehensive comparison between WordPress and Ghost CMS from a blogger's perspective, arguing that Ghost's modern Node.js architecture makes it superior for serious writers and journalists despite requiring more technical knowledge.",
       "tags": [
         "wordpress",
         "ghost",
@@ -1903,7 +1907,7 @@
       "date": 1503187200000,
       "contentType": "markdown",
       "title": "About working offline",
-      "description": "",
+      "description": "An experiment in setting up a complete offline development environment for React Native to enable productive programming during multi-day mountain treks in Bulgaria, demonstrating that remote work doesn't require internet.",
       "tags": [
         "productivity",
         "react-native",
@@ -1919,7 +1923,7 @@
       "date": 1516320000000,
       "contentType": "markdown",
       "title": "How I’m going to make 2018 my most impactful year yet — A clear vision, fear-setting, and a crystal clear plan.",
-      "description": "",
+      "description": "A personal manifesto outlining ambitious 2018 goals, using fear-setting and extreme accountability measures to build two apps while pursuing a vision of working productively in paradise.",
       "tags": [
         "entrepreneurship",
         "personal-development",
@@ -1936,7 +1940,7 @@
       "date": 1519689600000,
       "contentType": "markdown",
       "title": "The Multiple Personality Coder",
-      "description": "",
+      "description": "A humorous exploration of different mental modes developers shift between while coding, from debugging to perfecting UI, illustrated through fictional programmer personalities.",
       "tags": [
         "programming",
         "coding",
@@ -1951,7 +1955,7 @@
       "date": 1520380800000,
       "contentType": "markdown",
       "title": "Collaborations in the coworking space often rely on coincidence",
-      "description": "",
+      "description": "Observations on how professional collaborations in coworking spaces still rely heavily on coincidence, and why location-based networking platforms are needed for digital nomads.",
       "tags": [
         "coworking",
         "digital-nomad",
@@ -1967,7 +1971,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "Creating a performant GraphQL Server - node is harder than I thought!",
-      "description": "",
+      "description": "An exploration of performance optimization strategies for GraphQL servers built with Node.js, covering benchmarking, database pooling, Dataloader, and production deployment techniques.",
       "tags": [
         "graphql",
         "nodejs",
@@ -1983,7 +1987,7 @@
       "date": 1522454400000,
       "contentType": "markdown",
       "title": "Publishing your expo app to both app stores",
-      "description": "",
+      "description": "A detailed step-by-step guide for publishing Expo apps to the Google Play Store and Apple App Store, covering configuration, builds, credentials, screenshots, and updates.",
       "tags": [
         "expo",
         "react-native",
@@ -1998,7 +2002,7 @@
       "date": 1517702400000,
       "contentType": "markdown",
       "title": "Handling time on your server, using different ORM's in node: Sequelize and mysql2. Beware!",
-      "description": "",
+      "description": "A technical deep-dive into timezone handling issues when using Sequelize vs mysql2 in Node.js, exploring how different ORMs process timestamps differently and cause validation problems.",
       "tags": [
         "nodejs",
         "sequelize",
@@ -2013,7 +2017,7 @@
       "date": 1520899200000,
       "contentType": "markdown",
       "title": "My 7 key ways to keep my Code Quality Ultra High",
-      "description": "",
+      "description": "Seven key principles for maintaining high code quality, balancing concerns like DRY principles, naming conventions, external dependencies, and reducing time-to-context.",
       "tags": [
         "programming",
         "coding",
@@ -2028,7 +2032,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "How to connect your app to a server?",
-      "description": "",
+      "description": "Technical considerations for connecting React Native apps to servers, covering SSL requirements, CloudFlare configuration, error handling, and connection testing strategies.",
       "tags": [
         "react-native",
         "graphql",
@@ -2044,7 +2048,7 @@
       "date": 1522022400000,
       "contentType": "markdown",
       "title": "How to create a sustainable world?",
-      "description": "",
+      "description": "A philosophical exploration of humanity's environmental impact and potential solutions, discussing climate-control, evolution-control, and population management as strategies for creating a sustainable future.",
       "tags": [
         "philosophy",
         "future-of-work",
@@ -2058,7 +2062,7 @@
       "date": 1520380800000,
       "contentType": "markdown",
       "title": "Meet iProud: The productivity app for entrepreneurs!",
-      "description": "",
+      "description": "Introducing iProud, a productivity to-do app for entrepreneurs built in 2 weeks after 6 months of learning, designed to help users make lists, complete tasks, and connect with others.",
       "tags": [
         "react-native",
         "productivity",
@@ -2074,7 +2078,7 @@
       "date": 1521244800000,
       "contentType": "markdown",
       "title": "It's Nyepi in Bali. Time to reflect",
-      "description": "",
+      "description": "A personal reflection on maintaining a disciplined EAT, CODE, KITE, REPEAT routine in Bali, setting ambitious goals for building community software and creating sustainable technology solutions.",
       "tags": [
         "bali",
         "asia",
@@ -2091,7 +2095,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "Must have Tooling & Programs",
-      "description": "",
+      "description": "A quick overview of essential development tools and productivity apps for building React Native applications, including VSCode, ESLint, Prettier, RescueTime, and WakaTime.",
       "tags": [
         "tools",
         "productivity",
@@ -2106,7 +2110,7 @@
       "date": 1542153600000,
       "contentType": "markdown",
       "title": "In search for the perfect Communication App for Co-Working spaces: Slack, Facebook groups, and beyond",
-      "description": "",
+      "description": "An analysis of communication tools in coworking spaces, comparing Slack, Facebook Groups, and LinkedIn, and introducing Communify as a purpose-built platform for fostering local collaboration and community.",
       "tags": [
         "coworking",
         "digital-nomad",
@@ -2122,7 +2126,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "[Notes of a programmer]: Apollo store updates",
-      "description": "",
+      "description": "Technical notes on the four methods of updating Apollo's client-side cache, comparing automatic updates, refetchQueries, manual store manipulation, and optimistic responses.",
       "tags": [
         "apollo",
         "graphql",
@@ -2137,7 +2141,7 @@
       "date": 1526947200000,
       "contentType": "markdown",
       "title": "Pivoting to a creation-centric metric of productivity",
-      "description": "",
+      "description": "A shift in measuring productivity from passive learning and time spent to active creation and hands-on coding, introducing the Groundhog Day 100 Days of Code challenge.",
       "tags": [
         "productivity",
         "coding",
@@ -2153,7 +2157,7 @@
       "date": 1520899200000,
       "contentType": "markdown",
       "title": "React Native App Structure: Fat-, pure-, wrapper- or screen-components?",
-      "description": "",
+      "description": "An exploration of component organization strategies in React Native, introducing a folder structure based on component types including fat, pure, screen, wrapper, and universal components.",
       "tags": [
         "react-native",
         "programming",
@@ -2168,7 +2172,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "Setting up a GraphQL Backend without GraphCool",
-      "description": "",
+      "description": "A comprehensive guide to setting up your own GraphQL backend with Node.js, Express, Sequelize, and MySQL, including deployment to a remote server with Nginx and SSL configuration.",
       "tags": [
         "graphql",
         "nodejs",
@@ -2184,7 +2188,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "Shortcuts Cheatsheet",
-      "description": "",
+      "description": "A comprehensive cheatsheet of keyboard shortcuts and terminal commands for VSCode, MacOS, React Native Simulator, Chrome DevTools, and common Git workflows.",
       "tags": [
         "programming",
         "tools",
@@ -2198,7 +2202,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "Should you go web or native?",
-      "description": "",
+      "description": "A decision framework for choosing between web and native app development, evaluating capabilities, platform preferences, user acquisition, retention strategies, and cost considerations including PWAs versus React Native.",
       "tags": [
         "react-native",
         "web-development",
@@ -2213,7 +2217,7 @@
       "date": 1520553600000,
       "contentType": "markdown",
       "title": "The rise of the Solo Dev Startup — 7 Reasons why writing useful apps on your own becomes moore easy",
-      "description": "",
+      "description": "An analysis of seven technological and cultural trends making solo app development increasingly viable, from React Native and Apollo GraphQL to open-source libraries and Moore's law.",
       "tags": [
         "solo-entrepreneur",
         "react-native",
@@ -2231,7 +2235,7 @@
       "date": 1522627200000,
       "contentType": "markdown",
       "title": "The dark side of globalization",
-      "description": "",
+      "description": "A critical reflection on the risks of global internet uniformity and platform manipulation, arguing that decentralized regional diversity provides safer experimentation for humanity.",
       "tags": [
         "internet",
         "philosophy",
@@ -2245,7 +2249,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "The Expo Edge - why you should choose Expo over bare React Native",
-      "description": "",
+      "description": "A comprehensive comparison of Expo versus bare React Native and ExpoKit, outlining advantages like build automation and OTA updates, and disadvantages including app size constraints.",
       "tags": [
         "expo",
         "react-native",
@@ -2260,7 +2264,7 @@
       "date": 1521590400000,
       "contentType": "markdown",
       "title": "The importance of rooms lies in hyperpolar immersion",
-      "description": "",
+      "description": "Exploring how different physical and digital environments can create focused immersion states for various goals, especially when living in limited spaces or traveling.",
       "tags": [
         "productivity",
         "focus",
@@ -2276,7 +2280,7 @@
       "date": 1520380800000,
       "contentType": "markdown",
       "title": "The most complex app I ever made, made it to both app stores!",
-      "description": "",
+      "description": "A brief celebration of successfully launching MasterCrimeZ to both iOS App Store and Google Play Store after 4 months of development.",
       "tags": [
         "react-native",
         "programming",
@@ -2290,7 +2294,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "The MVP Challenge - From 0 to MVP in 100 days: Using Expo",
-      "description": "",
+      "description": "A comprehensive guide to building an MVP in 100 days using React Native and Expo, covering coding style decisions, architecture choices, work ethic, and a detailed workflow from setup to launch.",
       "tags": [
         "mvp",
         "react-native",
@@ -2309,7 +2313,7 @@
       "date": 1522627200000,
       "contentType": "markdown",
       "title": "Wet code and inline styles",
-      "description": "",
+      "description": "A controversial take on coding practices advocating for inline styles and WET code over DRY principles to prioritize development speed and reduce abstraction overhead.",
       "tags": [
         "programming",
         "coding",
@@ -2324,7 +2328,7 @@
       "date": 1518048000000,
       "contentType": "markdown",
       "title": "Why I went to Bali and why I don’t know where I’m going next",
-      "description": "",
+      "description": "A reflection on the concept of intermittent hyper immersion shifts and how regularly changing environments accelerates personal growth and learning through challenging assumptions.",
       "tags": [
         "bali",
         "asia",
@@ -2340,7 +2344,7 @@
       "date": 1520294400000,
       "contentType": "markdown",
       "title": "Workflow query creation (React Apollo)",
-      "description": "",
+      "description": "A step-by-step workflow for creating GraphQL queries in a full-stack React Apollo application, from schema definition to client-side implementation.",
       "tags": [
         "apollo",
         "graphql",
@@ -2355,7 +2359,7 @@
       "date": 1554681600000,
       "contentType": "markdown",
       "title": "About Single Tasking and Screen/Window Setup on your Mac and Phones",
-      "description": "",
+      "description": "Why single tasking with one screen in full-screen mode may be more productive than multi-screen setups for programmers seeking better focus and fewer distractions.",
       "tags": [
         "productivity",
         "focus",
@@ -2369,7 +2373,7 @@
       "date": 1546387200000,
       "contentType": "markdown",
       "title": "The AI Boom is Near...",
-      "description": "",
+      "description": "A reflection on how AI and machine learning will soon understand us better than we know ourselves, leading to personal AI advisors that could transform decision-making and human behavior.",
       "tags": [
         "ai",
         "machine-learning",
@@ -2384,7 +2388,7 @@
       "date": 1571270400000,
       "contentType": "markdown",
       "title": "Application Loader gone in XCode 11? This is how you upload your app now",
-      "description": "",
+      "description": "How to upload your iOS app after Apple removed Application Loader in Xcode 11 by using the Transporter app instead.",
       "tags": [
         "programming",
         "tools",
@@ -2397,7 +2401,7 @@
       "date": 1547078400000,
       "contentType": "markdown",
       "title": "Big reason to use React navigation over Wix navigation",
-      "description": "",
+      "description": "Why React Navigation's component-based approach is fundamentally better than Wix Navigation's registerComponent method for managing wrapper components and screen mounting.",
       "tags": [
         "react-native",
         "programming",
@@ -2410,7 +2414,7 @@
       "date": 1547856000000,
       "contentType": "markdown",
       "title": "Changing reachability to increase productivity",
-      "description": "",
+      "description": "Increasing coding productivity from 4-5 hours to 6+ hours per day by blocking communication channels on the laptop and keeping the phone physically distant.",
       "tags": [
         "productivity",
         "focus",
@@ -2424,7 +2428,7 @@
       "date": 1547164800000,
       "contentType": "markdown",
       "title": "Chat-BaaS: Chat Backend as a Service",
-      "description": "",
+      "description": "A startup idea for Chat Backend as a Service that provides universal chat functionality with open source front-end components and automated scaling for React Native and Node JS apps.",
       "tags": [
         "programming",
         "startup",
@@ -2437,7 +2441,7 @@
       "date": 1546646400000,
       "contentType": "markdown",
       "title": "Why code ownership is a must for agile development",
-      "description": "",
+      "description": "Exploring why code ownership is essential for agile development and how feature ownership can diminish inefficiencies and bottlenecks in development teams.",
       "tags": [
         "programming",
         "dx",
@@ -2452,7 +2456,7 @@
       "date": 1553731200000,
       "contentType": "markdown",
       "title": "How to convince your next freelance project that you can work parttime",
-      "description": "",
+      "description": "How to convince companies that working part-time on multiple projects can actually improve focus, productivity, and value through cross-project learning and dedicated work days.",
       "tags": [
         "entrepreneurship",
         "business",
@@ -2465,7 +2469,7 @@
       "date": 1556150400000,
       "contentType": "markdown",
       "title": "Daylight is good for me",
-      "description": "",
+      "description": "An experimental approach to maximizing daylight exposure and restructuring the day into four 6-hour quarters to improve productivity, energy levels, and overall well-being.",
       "tags": [
         "personal-development",
         "habits",
@@ -2480,7 +2484,7 @@
       "date": 1549929600000,
       "contentType": "markdown",
       "title": "Deep Dream Devs",
-      "description": "",
+      "description": "Exploring how predictive programming using neural networks could revolutionize software development and potentially reduce the demand for traditional programmers.",
       "tags": [
         "entrepreneurship",
         "coworking",
@@ -2493,7 +2497,7 @@
       "date": 1547769600000,
       "contentType": "markdown",
       "title": "Fighting housing crises and loneliness with Cheap Community Living",
-      "description": "",
+      "description": "A vision for affordable pod-based co-living that solves housing crises and loneliness through rating systems, noise-canceling technology, and community-focused design.",
       "tags": [
         "philosophy",
         "minimalism",
@@ -2506,7 +2510,7 @@
       "date": 1550966400000,
       "contentType": "markdown",
       "title": "Forcing your app users to update the app",
-      "description": "",
+      "description": "A guide on implementing version control in your mobile app to force users to update when needed, using backend endpoints and update screens with over-the-air or store updates.",
       "tags": [
         "react-native",
         "expo",
@@ -2521,7 +2525,7 @@
       "date": 1557878400000,
       "contentType": "markdown",
       "title": "How to use CloudFlare with Ghost with automatic SSL",
-      "description": "",
+      "description": "Setting up Ghost CMS with CloudFlare's automatic SSL using flexible encryption mode and proper nginx configuration to avoid redirect loops.",
       "tags": [
         "programming",
         "devops",
@@ -2535,7 +2539,7 @@
       "date": 1556150400000,
       "contentType": "markdown",
       "title": "The Hammock Experiment",
-      "description": "",
+      "description": "Experimenting with sleeping in a hammock for a week and discovering six unexpected benefits including better air flow, easier cleaning, and improved sleep quality.",
       "tags": [
         "minimalism",
         "productivity",
@@ -2548,7 +2552,7 @@
       "date": 1558396800000,
       "contentType": "markdown",
       "title": "#to{anything}",
-      "description": "",
+      "description": "A simple productivity technique using hashtags like #toRemember, #toSearch, and #toSay to batch similar tasks together and become more self-reflective and less impulsive during work.",
       "tags": [
         "productivity",
         "habits",
@@ -2563,7 +2567,7 @@
       "date": 1550966400000,
       "contentType": "markdown",
       "title": "How got get your app under control? Remove wildgrow, KISS, monolithize",
-      "description": "",
+      "description": "How to regain control of a clumsy startup codebase by simplifying development ecosystems, using JavaScript only, vertical scaling, and considering monoliths over microservices.",
       "tags": [
         "programming",
         "react-native",
@@ -2576,7 +2580,7 @@
       "date": 1556755200000,
       "contentType": "markdown",
       "title": "How I'm going to try to become 10x as productive within a month",
-      "description": "",
+      "description": "Implementing extreme productivity rules including browser tab limits, locked Freedom.to mode, phone delegation, and codebase-first development to achieve 70 hours of coding per week.",
       "tags": [
         "productivity",
         "focus",
@@ -2590,7 +2594,7 @@
       "date": 1548806400000,
       "contentType": "markdown",
       "title": "About scaling horizontally without sharding: How many RPS are possible without sharding? Is this between-step worth it?",
-      "description": "",
+      "description": "Analyzing the feasibility and bottlenecks of horizontal scaling without sharding using multiple nodes with a single MySQL database and load balancing.",
       "tags": [
         "programming",
         "devops"
@@ -2602,7 +2606,7 @@
       "date": 1553040000000,
       "contentType": "markdown",
       "title": "How much does it cost to build an app?",
-      "description": "",
+      "description": "Principles for keeping app development costs low by focusing on your USP, using React Native, maintaining a simple development environment, and avoiding premature scaling.",
       "tags": [
         "react-native",
         "startup",
@@ -2617,7 +2621,7 @@
       "date": 1556668800000,
       "contentType": "markdown",
       "title": "The solution to the PO Fallacy - How to code more, and plan less",
-      "description": "",
+      "description": "Overcoming the PO Fallacy by moving todos into the codebase instead of GitHub to reduce context-switching and increase time spent coding versus planning.",
       "tags": [
         "programming",
         "productivity",
@@ -2630,7 +2634,7 @@
       "date": 1571961600000,
       "contentType": "markdown",
       "title": "How to scrape public information from LinkedIn, Facebook and Twitter using Javascript",
-      "description": "",
+      "description": "A technical guide to web scraping using Puppeteer and JavaScript to extract public information from social media platforms while navigating anti-scraping protections.",
       "tags": [
         "programming",
         "web-development",
@@ -2643,7 +2647,7 @@
       "date": 1550966400000,
       "contentType": "markdown",
       "title": "Human Directions: A startup idea",
-      "description": "",
+      "description": "A startup idea for a maps app that provides navigation based on places you've already discovered, using human-friendly directions to help you learn the city instead of becoming dependent on GPS.",
       "tags": [
         "startup",
         "product-development",
@@ -2657,7 +2661,7 @@
       "date": 1558656000000,
       "contentType": "markdown",
       "title": "The Human Network Explosion",
-      "description": "",
+      "description": "How urbanization and modern communication have caused a Human Network Explosion that our brains aren't designed to handle, potentially leading to increased mental and physical health problems.",
       "tags": [
         "social-media",
         "philosophy",
@@ -2670,7 +2674,7 @@
       "date": 1552176000000,
       "contentType": "markdown",
       "title": "I just made an app in 26 hours",
-      "description": "",
+      "description": "How I built Dunbar, a relationship management app, in just 26 hours by leveraging high motivation, Expo, minimal boilerplate, and open source libraries.",
       "tags": [
         "react-native",
         "expo",
@@ -2688,7 +2692,7 @@
       "date": 1548288000000,
       "contentType": "markdown",
       "title": "Are VR Autonomous Segways the future, or was it just a dream?",
-      "description": "",
+      "description": "A dream-inspired vision of future urban transportation featuring autonomous VR-enabled segways that could revolutionize commuting by reducing surface area and allowing multitasking.",
       "tags": [
         "philosophy",
         "future-of-work",
@@ -2702,7 +2706,7 @@
       "date": 1571529600000,
       "contentType": "markdown",
       "title": "Install An Express+MySQL App on a remote server",
-      "description": "",
+      "description": "A step-by-step guide to deploying an Express and MySQL app on a remote server using Linode or DigitalOcean, including Nginx, Node, MySQL setup, and CloudFlare integration.",
       "tags": [
         "programming",
         "nodejs",
@@ -2715,7 +2719,7 @@
       "date": 1555977600000,
       "contentType": "markdown",
       "title": "Lean Life",
-      "description": "",
+      "description": "Adopting a lean lifestyle as a solo entrepreneur with rules for freelancing, managing finances, and maximizing time for personal startup projects while maintaining financial security.",
       "tags": [
         "solo-entrepreneur",
         "startup",
@@ -2730,7 +2734,7 @@
       "date": 1550966400000,
       "contentType": "markdown",
       "title": "Migrating to Expo to become more lean and stable",
-      "description": "",
+      "description": "A step-by-step guide to migrating an existing React Native project to Expo or ExpoKit for more stability, OTA updates, and streamlined development workflow.",
       "tags": [
         "expo",
         "react-native",
@@ -2745,7 +2749,7 @@
       "date": 1549497600000,
       "contentType": "markdown",
       "title": "My 7 Levels of Freedom to minimise stress, doubt and regret and maximise possibility, happiness and growth",
-      "description": "",
+      "description": "Seven levels of freedom to minimize stress and maximize happiness, including location freedom, time freedom, independence from physical objects, and freedom from external expectations.",
       "tags": [
         "philosophy",
         "personal-development",
@@ -2758,7 +2762,7 @@
       "date": 1553385600000,
       "contentType": "markdown",
       "title": "My Coding Principles",
-      "description": "",
+      "description": "A collection of personal coding principles including avoiding premature optimization, keeping things simple, composition over inheritance, and maintaining low learnability.",
       "tags": [
         "programming",
         "coding",
@@ -2771,7 +2775,7 @@
       "date": 1550966400000,
       "contentType": "markdown",
       "title": "My food goals of 2019: Eat more paleo, ecological and don't go to the supermarket every day",
-      "description": "",
+      "description": "A detailed monthly grocery plan focused on eating paleo, reducing supermarket trips, minimizing plastic packaging, and spending only 192 euros per month on sustainable food.",
       "tags": [
         "minimalism",
         "personal-development"
@@ -2783,7 +2787,7 @@
       "date": 1548720000000,
       "contentType": "markdown",
       "title": "Never let your API go down with a flexible client",
-      "description": "",
+      "description": "How to prevent API downtime by implementing a flexible client that monitors server CPU load and automatically reduces query frequency during high load periods.",
       "tags": [
         "devops",
         "programming",
@@ -2797,7 +2801,7 @@
       "date": 1557878400000,
       "contentType": "markdown",
       "title": "The advantages of open sourcing",
-      "description": "",
+      "description": "The strategic advantages of open sourcing code including feature separation, attracting developers, community contributions, potential revenue through licensing, and viral growth opportunities.",
       "tags": [
         "open-source",
         "programming",
@@ -2810,7 +2814,7 @@
       "date": 1547164800000,
       "contentType": "markdown",
       "title": "Perfections VS Speed in Data-driven React Native Apps",
-      "description": "",
+      "description": "Why staying with Expo and avoiding native dependencies saves development time and reduces bugs, helping startups ship faster with limited resources.",
       "tags": [
         "productivity",
         "shipping",
@@ -2823,7 +2827,7 @@
       "date": 1554076800000,
       "contentType": "markdown",
       "title": "MVP within a week",
-      "description": "",
+      "description": "Offering to build proof-of-concept mobile apps within a week using React Native, Node JS, and SQL with thorough testing and App Store deployment.",
       "tags": [
         "startup",
         "shipping",
@@ -2836,7 +2840,7 @@
       "date": 1550966400000,
       "contentType": "markdown",
       "title": "Processing feedback of your users in your app: HockeyApp, Intercom, WhatsApp?",
-      "description": "",
+      "description": "Comparing different methods for collecting user feedback in mobile apps including Intercom, WhatsApp, HockeyApp, and custom native solutions.",
       "tags": [
         "react-native",
         "product-development",
@@ -2849,7 +2853,7 @@
       "date": 1553472000000,
       "contentType": "markdown",
       "title": "Qualitative versus Quantitative Scaling in your startup",
-      "description": "",
+      "description": "Comparing qualitative scaling (adding features) versus quantitative scaling (expanding internationally) for startups and why going global might be the better choice.",
       "tags": [
         "startup",
         "business",
@@ -2862,7 +2866,7 @@
       "date": 1552003200000,
       "contentType": "markdown",
       "title": "Redux Light and Universal endpoints",
-      "description": "",
+      "description": "Introducing Redux Light, a minimal boilerplate approach to Redux that prioritizes composition over inheritance and faster time to context while maintaining clarity.",
       "tags": [
         "react-native",
         "programming",
@@ -2876,7 +2880,7 @@
       "date": 1548720000000,
       "contentType": "markdown",
       "title": "Scaling my Node JS GraphQL Server Vertically to 5k RPS on a single machine",
-      "description": "",
+      "description": "Achieving 5k+ RPS on a single machine through vertical scaling with CPU-optimized cloud servers, avoiding the complexity of horizontal scaling for early-stage startups.",
       "tags": [
         "programming",
         "devops"
@@ -2888,7 +2892,7 @@
       "date": 1547164800000,
       "contentType": "markdown",
       "title": "Scaling Horizontally to one million RPS",
-      "description": "",
+      "description": "A comprehensive geo-scaling plan for horizontally scaling to millions of RPS using automated server splitting, merging, and load balancing based on community sharding.",
       "tags": [
         "programming",
         "startup",
@@ -2901,7 +2905,7 @@
       "date": 1556582400000,
       "contentType": "markdown",
       "title": "Screentime update, April 2019",
-      "description": "",
+      "description": "Reducing daily screen time from 9 hours to 6 hours through digital minimalism, using Freedom.to for blocking distractions, and switching to physical books and dumbphones.",
       "tags": [
         "productivity",
         "distractions",
@@ -2914,7 +2918,7 @@
       "date": 1547596800000,
       "contentType": "markdown",
       "title": "Seven mistakes I think my software company made building their React Native App",
-      "description": "",
+      "description": "Seven critical mistakes to avoid when building React Native apps including premature complexity, messy codebases, lack of product-market fit validation, and poor user retention strategies.",
       "tags": [
         "react-native",
         "expo",
@@ -2931,7 +2935,7 @@
       "date": 1572307200000,
       "contentType": "markdown",
       "title": "The (dis)advantages of making your mobile app invite only",
-      "description": "",
+      "description": "Weighing the pros and cons of making your mobile app invite-only, from collecting emails and creating scarcity to potential user churn and missing App Store traffic.",
       "tags": [
         "startup",
         "product-development",
@@ -2944,7 +2948,7 @@
       "date": 1547164800000,
       "contentType": "markdown",
       "title": "The new hackers will impersonate the ones you love",
-      "description": "",
+      "description": "How advancing AI tools for face and voice replication will enable sophisticated impersonation attacks, making verified platforms essential for online security.",
       "tags": [
         "programming",
         "philosophy",
@@ -2957,7 +2961,7 @@
       "date": 1572134400000,
       "contentType": "markdown",
       "title": "The problem we're solving with FriendTime",
-      "description": "",
+      "description": "How FriendTime addresses contact chaos, privacy concerns, sparse relationships, disconnectedness, and social media addiction through a freemium model focused on real connections.",
       "tags": [
         "startup",
         "product-development"
@@ -2969,7 +2973,7 @@
       "date": 1559865600000,
       "contentType": "markdown",
       "title": "The SaaS Stages Funnel",
-      "description": "",
+      "description": "Understanding the stages from idea to market in a SaaS startup and why senior developers should be aware of these stages to become more driven and successful.",
       "tags": [
         "startup",
         "business",
@@ -2982,7 +2986,7 @@
       "date": 1556582400000,
       "contentType": "markdown",
       "title": "The theory of everything and the ultimate equilibrium",
-      "description": "",
+      "description": "A philosophical exploration of technological evolution and the need to create equilibrium between humanity and technology to avoid being consumed by our superior creations.",
       "tags": [
         "philosophy",
         "happiness",
@@ -2995,7 +2999,7 @@
       "date": 1547164800000,
       "contentType": "markdown",
       "title": "Today I open-sourced nearly 10% of my codebase",
-      "description": "",
+      "description": "Open sourcing React Native libraries including Super Image, Super Actionsheet, and Data Forms to share reusable components with the developer community.",
       "tags": [
         "open-source",
         "programming",
@@ -3008,7 +3012,7 @@
       "date": 1550016000000,
       "contentType": "markdown",
       "title": "Upgrading from Wix Navigation v1 to Wix Navigation v2, or React Navigation v3?",
-      "description": "",
+      "description": "A comprehensive comparison of Wix Navigation v1, v2, and React Navigation v3, analyzing their problems, solutions, and migration effort for React Native apps.",
       "tags": [
         "react-native",
         "programming",
@@ -3021,7 +3025,7 @@
       "date": 1552953600000,
       "contentType": "markdown",
       "title": "What is the best way to test new features in your React Native App?",
-      "description": "",
+      "description": "Comparing seven methods for testing new features in React Native apps, from local testing to Expo channels, beta roles, and Firebase A/B testing.",
       "tags": [
         "react-native",
         "programming",
@@ -3034,7 +3038,7 @@
       "date": 1552953600000,
       "contentType": "markdown",
       "title": "What would a social network that's actually good for humanity look like?",
-      "description": "",
+      "description": "Envisioning a humane social network with activity-first design, verified identities, small communities, layered sharing, freemium model, and government-enforced open standards.",
       "tags": [
         "social-media",
         "philosophy",
@@ -3047,7 +3051,7 @@
       "date": 1549324800000,
       "contentType": "markdown",
       "title": "Why I can't quit Facebook",
-      "description": "",
+      "description": "Exploring the challenges of quitting Facebook including timeline memories, contact management, event invitations, FOMO, and the addictive nature of algorithmic content bubbles.",
       "tags": [
         "facebook",
         "social-media",
@@ -3062,7 +3066,7 @@
       "date": 1572134400000,
       "contentType": "markdown",
       "title": "Why I made FriendTime",
-      "description": "",
+      "description": "The journey from creating an addictive mafia game to building FriendTime, an app designed to bring people together in real life and maintain meaningful relationships.",
       "tags": [
         "social-media",
         "apps",
@@ -3078,7 +3082,7 @@
       "date": 1552953600000,
       "contentType": "markdown",
       "title": "Why I think working at two startups is better than one",
-      "description": "",
+      "description": "Why working at two startups simultaneously reduces risk, enables cross-learning, creates competition for better compensation, and increases chances of success.",
       "tags": [
         "entrepreneurship",
         "startup",
@@ -3091,7 +3095,7 @@
       "date": 1601251200000,
       "contentType": "markdown",
       "title": "The Dev Lifecycle",
-      "description": "",
+      "description": "A reflection on the cyclical pattern of working regular jobs to save money, then quitting to work on side projects until broke, and exploring three potential paths to break free from this cycle.",
       "tags": [
         "programming",
         "productivity",
@@ -3104,7 +3108,7 @@
       "date": 1604793600000,
       "contentType": "markdown",
       "title": "Experiment #237: Save 35 hours a week by eliminating the need for the smartphone",
-      "description": "",
+      "description": "An experiment to reduce smartphone usage from 5 hours per day by eliminating the need for a phone at home, setting up all phone functions on a Mac instead to break the habit of dreamscrolling and increase productivity.",
       "tags": [
         "productivity",
         "distractions",
@@ -3118,7 +3122,7 @@
       "date": 1600128000000,
       "contentType": "markdown",
       "title": "Know Thyself. But how?",
-      "description": "",
+      "description": "Exploring the concept of building a platform called MindMirror to help people save their experiences, opinions, and memories in one place to better understand themselves and connect the dots in their lives.",
       "tags": [
         "philosophy",
         "personal-development",
@@ -3131,7 +3135,7 @@
       "date": 1605657600000,
       "contentType": "markdown",
       "title": "Living in harmony with animals",
-      "description": "",
+      "description": "Inspired by magpies that recycle bottle caps for food, this article envisions a future where animals serve practical purposes like cleaning trash, delivering packages, and performing tasks instead of robots.",
       "tags": [
         "philosophy",
         "minimalism"
@@ -3143,7 +3147,7 @@
       "date": 1604016000000,
       "contentType": "markdown",
       "title": "My new startup - BackpackingTribe - is taking off!",
-      "description": "",
+      "description": "The launch story of BackpackingTribe, a platform connecting backpackers to travel together in groups from hostel to hostel, including validation strategies, marketing efforts through Facebook and Google ads, travel blogger outreach, and the business model based on hostel booking commissions.",
       "tags": [
         "startup",
         "entrepreneurship",
@@ -3157,7 +3161,7 @@
       "date": 1600387200000,
       "contentType": "markdown",
       "title": "What I think Facebook should do",
-      "description": "",
+      "description": "A proposal for Facebook to offer a premium ad-free subscription that helps users achieve their personal goals by curating content based on their values, rather than maximizing screen time.",
       "tags": [
         "social-media",
         "philosophy",
@@ -3170,7 +3174,7 @@
       "date": 1591315200000,
       "contentType": "markdown",
       "title": "Why I'm afraid to start dating",
-      "description": "",
+      "description": "A candid exploration of common dating fears and anxieties, from worrying about being boring to fear of rejection, with practical reframing advice to approach dating as a game of mutual discovery.",
       "tags": [
         "personal-development",
         "philosophy"
@@ -3182,7 +3186,7 @@
       "date": 1610582400000,
       "contentType": "markdown",
       "title": "Didn't do shit",
-      "description": "",
+      "description": "A deep reflection on productivity struggles and an innovative solution to align short-term dopamine rewards with long-term goals by automating restrictions and rewards through APIs connected to WakaTime coding metrics.",
       "tags": [
         "productivity",
         "personal-development",
@@ -3195,7 +3199,7 @@
       "date": 1609632000000,
       "contentType": "markdown",
       "title": "Expanding at the speed of light, and preserving it into eternity",
-      "description": "",
+      "description": "A philosophical exploration of humanity's ultimate purpose to expand in all directions at the speed of light, starting with the evolution revolution on Earth before spreading to other planets and eventually focusing on preservation.",
       "tags": [
         "entrepreneurship",
         "startup",
@@ -3208,7 +3212,7 @@
       "date": 1634256000000,
       "contentType": "markdown",
       "title": "How developers could get paid using blockchain and smart contracts",
-      "description": "",
+      "description": "A vision for revolutionizing developer compensation using blockchain and smart contracts, where developers get paid per pull request instead of hourly rates, with payments based on code quality, time spent, and peer reviews in an open-source environment.",
       "tags": [
         "startup",
         "entrepreneurship",
@@ -3221,7 +3225,7 @@
       "date": 1612915200000,
       "contentType": "markdown",
       "title": "Quitting my job, living cheap, working full time on my startup(s). Saving hundreds of euro's every month.",
-      "description": "",
+      "description": "The story of quitting a job to work full-time on startups and implementing aggressive cost-cutting measures to reduce monthly expenses by 300 euros, extending runway to 3 years with 20k in savings.",
       "tags": [
         "entrepreneurship",
         "personal-development"
@@ -3233,7 +3237,7 @@
       "date": 1609632000000,
       "contentType": "markdown",
       "title": "The Evolution Revolution",
-      "description": "",
+      "description": "A vision of a future where humanity uses CRISPR and AI technologies like AlphaFold to control biological evolution, creating non-selfish plants and animals that serve humanity, from houses grown by trees to food-gathering animals.",
       "tags": [
         "philosophy",
         "future-of-work"
@@ -3245,7 +3249,7 @@
       "date": 1626134400000,
       "contentType": "markdown",
       "title": "Lessons learned building the second version of FriendTime",
-      "description": "",
+      "description": "Key product development lessons learned from building FriendTime v2, including the importance of simple validation before adding features, avoiding premature monetization, and the underestimated time cost of final touches.",
       "tags": [
         "product-development",
         "programming",
@@ -3258,7 +3262,7 @@
       "date": 1620604800000,
       "contentType": "markdown",
       "title": "What is Corona, really, and why should we change our mindset?",
-      "description": "",
+      "description": "A philosophical perspective on the COVID-19 pandemic as a social construct that has accelerated the separation between people, both online through internet bubbles and in real life through safety measures.",
       "tags": [
         "philosophy",
         "personal-development",
@@ -3271,7 +3275,7 @@
       "date": 1621468800000,
       "contentType": "markdown",
       "title": "Why I like the four seasons in the Netherlands",
-      "description": "",
+      "description": "A personal appreciation of each of the four seasons in the Netherlands, from cozy winter gatherings to spring flowers, summer freedom, and autumn storms perfect for water sports.",
       "tags": [
         "personal-development",
         "travel",
@@ -3284,7 +3288,7 @@
       "date": 1645747200000,
       "contentType": "markdown",
       "title": "Having a clean Mac setup with a super low memory and cpu footprint",
-      "description": "",
+      "description": "A strategy for maintaining Mac performance by creating an automated setup script for quick resets, combined with using Quitter to auto-close inactive apps and Power Manager to enforce regular shutdowns for optimal memory and CPU usage.",
       "tags": [
         "productivity",
         "tools",
@@ -3297,7 +3301,7 @@
       "date": 1701388800000,
       "contentType": "markdown",
       "title": "Fly + Bun for browser automation. An unfinished attempt",
-      "description": "",
+      "description": "Chronicles an attempt to create a scalable browser automation API using Bun and Fly.io, exploring the FLAME pattern and analyzing cost structures for AI-powered web scraping.",
       "tags": [
         "devops",
         "programming",
@@ -3311,7 +3315,7 @@
       "date": 1672531200000,
       "contentType": "markdown",
       "title": "Communify",
-      "description": "",
+      "description": "Explores the idea of creating an algorithm to form perfect communities by clustering people together based on purpose-driven alignment, reducing chronic stress and screen dependency.",
       "tags": [
         "mindfulness",
         "philosophy",
@@ -3325,7 +3329,7 @@
       "date": 1672531200000,
       "contentType": "markdown",
       "title": "Controllable Immersion",
-      "description": "",
+      "description": "Envisions using AR technology to give individuals control over their digital immersion by filtering out unwanted content and ads from their reality, building a Human OS for healthier digital interactions.",
       "tags": [
         "philosophy",
         "mindfulness",
@@ -3339,7 +3343,7 @@
       "date": 1691712000000,
       "contentType": "markdown",
       "title": "Resize your layout with a draggable div in React",
-      "description": "",
+      "description": "A tutorial on creating a draggable horizontal resizer in React for dynamic layouts, inspired by VSCode's resizable panels, implemented as a reusable React hook.",
       "tags": [
         "programming",
         "javascript",
@@ -3353,7 +3357,7 @@
       "date": 1694131200000,
       "contentType": "markdown",
       "title": "Creating a domain control panel",
-      "description": "",
+      "description": "Documents the creation of an automated domain management system using NameCheap and CloudFlare APIs to streamline the process of turning ideas into working websites.",
       "tags": [
         "programming",
         "devops",
@@ -3367,7 +3371,7 @@
       "date": 1672531200000,
       "contentType": "markdown",
       "title": "Classification tasks with ChatGPT",
-      "description": "",
+      "description": "Presents a simple yet powerful method for using ChatGPT to perform fast parallel classification tasks, such as determining gender from names with 250ms response times.",
       "tags": [
         "ai",
         "gpt",
@@ -3381,7 +3385,7 @@
       "date": 1672531200000,
       "contentType": "markdown",
       "title": "**Integrating AI into Business Sectors**",
-      "description": "",
+      "description": "Shares practical insights on integrating AI into businesses, covering GPT applications, privacy considerations, and advice for startups and enthusiasts embracing the AI revolution.",
       "tags": [
         "ai",
         "gpt",
@@ -3396,7 +3400,7 @@
       "date": 1690848000000,
       "contentType": "markdown",
       "title": "Increasing innovateability",
-      "description": "",
+      "description": "Proposes a new system called \"purpose driven openness\" that uses LLMs to calculate alignment between entities, enabling innovation while preventing misuse of shared technologies.",
       "tags": [
         "philosophy",
         "entrepreneurship",
@@ -3410,7 +3414,7 @@
       "date": 1693526400000,
       "contentType": "markdown",
       "title": "Multi Domain Locale Hack NextJS",
-      "description": "",
+      "description": "A clever workaround for generating static pages for multiple domains in Next.js by repurposing the locale feature, including a high-performance multi-domain markdown setup.",
       "tags": [
         "web-development",
         "nodejs",
@@ -3424,7 +3428,7 @@
       "date": 1672531200000,
       "contentType": "markdown",
       "title": "Global Search/Replace with Regexes in VSCode",
-      "description": "",
+      "description": "A practical guide to using regular expressions for global search and replace operations in VSCode, including techniques for matching across newlines and common pitfalls.",
       "tags": [
         "programming",
         "tools",
@@ -3446,7 +3450,7 @@
       "date": 1699920000000,
       "contentType": "markdown",
       "title": "\"Human-to-Human Content Generation: Embracing the Social Computing Age\"",
-      "description": "",
+      "description": "Explores the concept of transforming everyday conversations into various forms of digital content through AI-powered \"Chatcasts,\" ushering in the age of social computing.",
       "tags": [
         "ai",
         "social-media",
@@ -3460,7 +3464,7 @@
       "date": 1691712000000,
       "contentType": "markdown",
       "title": "Tailwind Darkmode Issues",
-      "description": "",
+      "description": "A technical solution for fixing Tailwind CSS dark mode class precedence issues in TypeScript monorepos by using the bang (!) modifier to force proper styling.",
       "tags": [
         "programming",
         "web-development",
@@ -3473,7 +3477,7 @@
       "date": 1672531200000,
       "contentType": "markdown",
       "title": "E2E Testing ChatGPT AI plugins with using MRKL",
-      "description": "",
+      "description": "Demonstrates how to create end-to-end tests for ChatGPT AI plugins using the MRKL technology, with practical examples testing a ScrapingBee plugin.",
       "tags": [
         "ai",
         "gpt",
@@ -3487,7 +3491,7 @@
       "date": 1693958400000,
       "contentType": "markdown",
       "title": "Running everything from a single server isn't that easy",
-      "description": "",
+      "description": "Reflects on the challenges and lessons learned from attempting to run frontend, backend, and multi-domain hosting from a single server, ultimately choosing a more pragmatic hybrid approach.",
       "tags": [
         "devops",
         "programming",
@@ -3510,7 +3514,7 @@
       "date": 1711929600000,
       "contentType": "markdown",
       "title": "Moving away from my 150k LOC Monorepo",
-      "description": "",
+      "description": "Details the transition from a 150k LOC monorepo to a decoupled, open-source architecture where each package is its own repository, simplifying distribution and collaboration.",
       "tags": [
         "programming",
         "open-source",
@@ -3525,7 +3529,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "hardware-screenless",
-      "description": "",
+      "description": "Argues against the need for new hardware for AI assistants, proposing that existing simple phones paired with good headphones can deliver bidirectional voice interfaces effectively.",
       "tags": [
         "ai",
         "voice-interface",
@@ -3540,7 +3544,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "Installing MacOS without an internet connection",
-      "description": "",
+      "description": "Investigates creating a completely internet-free development environment with large LLMs, exploring privacy, security, and focus benefits while documenting installation challenges and workarounds.",
       "tags": [
         "productivity",
         "focus",
@@ -3556,7 +3560,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "Outcomputed",
-      "description": "",
+      "description": "Predicts the decline of human utility as AI surpasses knowledge workers in capability, proposing becoming \"compute allocators\" to stay relevant in an AI-dominated future.",
       "tags": [
         "ai",
         "future-of-work",
@@ -3570,7 +3574,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "scalable-ideas",
-      "description": "",
+      "description": "Demonstrates how LLMs enable scalable knowledge work by breaking down complex tasks into API-driven subtasks, using building websites for GitHub repos as a practical example.",
       "tags": [
         "ai",
         "agents",
@@ -3585,7 +3589,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "The post-smartphone era is coming.",
-      "description": "",
+      "description": "Explores the shift from smartphone apps to natural language voice interfaces powered by AI agents, advocating for open source approaches to eliminate traditional business boundaries.",
       "tags": [
         "ai",
         "agents",
@@ -3600,7 +3604,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "Why are systems always so hard to integrate with other systems?",
-      "description": "",
+      "description": "Analyzes the barriers preventing seamless system integration and proposes solutions like API search engines and GPT normalization to overcome vendor lock-in and integration complexity.",
       "tags": [
         "programming",
         "ai",
@@ -3615,7 +3619,7 @@
       "date": 1704067200000,
       "contentType": "markdown",
       "title": "Why I won't join your startup",
-      "description": "",
+      "description": "Advocates for independent one-person companies forming reciprocal networks instead of traditional co-founder startups, reducing interpersonal risk while maintaining autonomy and flexibility.",
       "tags": [
         "entrepreneurship",
         "solo-entrepreneur",
@@ -3630,7 +3634,7 @@
       "date": 1761782400000,
       "contentType": "markdown",
       "title": "Introducing LLMTEXT, an open source toolkit for the llms.txt standard",
-      "description": "",
+      "description": "Introduces LLMTEXT, an open-source toolkit for creating, validating, and using llms.txt files to make websites accessible to AI agents through standardized documentation and MCP servers.",
       "tags": [
         "ai",
         "llm",
@@ -3646,7 +3650,7 @@
       "date": 1765584000000,
       "contentType": "markdown",
       "title": "Bringing all pieces together to be at the Frontier of AI inference design",
-      "description": "",
+      "description": "Explores the design challenges of creating developer-friendly layers around AI inference, combining features like response caching, billing, MCP tool use, and code mode in a unified architecture.",
       "tags": [
         "ai",
         "llm",
@@ -3662,6 +3666,15 @@
       "contentType": "url",
       "externalUrl": "https://thgttg.org/README.md",
       "title": "Cloudflare Worker Audio Playlist System",
+      "description": "",
+      "tags": []
+    },
+    {
+      "draft": true,
+      "slug": "2026/parallel-role-2026",
+      "date": 1767484800000,
+      "contentType": "markdown",
+      "title": "Year in Review",
       "description": "",
       "tags": []
     }
