@@ -1,13 +1,15 @@
 ---
 date: 2026-01-04
 draft: true
+description: Reflecting on my first year as DevRel at Parallel—2.5M X impressions, cookbooks, MCP integrations, and LLMTEXT—and outlining my 2026 strategy for building SaaS on the agentic internet.
+tags: [devrel, parallel, year-in-review, mcp, open-source, indie-hackers, saas, agentic-web]
 ---
 
 # Year in Review
 
 ## 2025
 
-In 2025, I've gained 2.5M X impressions across many smaller experiments and projects. Also in 2025, I've added +2600 new stars on GitHub across hundreds of new repos. In august 2025 I've started working with Parallel to set up a DevRel capacity. What I did:
+In 2025, I've gained 2.5M X impressions across many smaller experiments and projects. Also in 2025, I've added +2600 new stars on GitHub across hundreds of new repos. And this is just the first year I'm truly embracing open source. Lots more to learn! In august 2025 I've started working with Parallel to set up a DevRel capacity. What I did:
 
 - Crafted 5+ [cookbook recipes](https://github.com/parallel-web/parallel-cookbook)
 - Published an [n8n integration](https://docs.parallel.ai/integrations/n8n)
@@ -19,9 +21,11 @@ The biggest challenge was finding what to work on that made sense for my audienc
 
 ## Parallel DevRel 2026
 
-The role I'm filling in 2026 is the following - _Job: [Our first DevRel hire](https://jobs.ashbyhq.com/parallel/fa7448db-7464-47da-ad5f-11a78a87bb3b) - inspire those building with AI to get creative with the web. Be their biggest advocate within our team. You: Have built trust with a community. Love prototyping. Live on the bleeding edge of AI. You are a deep listener and obsess over customers._
+The role I aim to fill in 2026 is the following - _Job: [Our first DevRel hire](https://jobs.ashbyhq.com/parallel/fa7448db-7464-47da-ad5f-11a78a87bb3b) - inspire those building with AI to get creative with the web. Be their biggest advocate within our team. You: Have built trust with a community. Love prototyping. Live on the bleeding edge of AI. You are a deep listener and obsess over customers._
 
 I aim to take the following niche within DevRel. The no-code side of things still needs to be filled.
+
+My niche:
 
 - ~~nocode~~ <> **code**: Cloudflare & parallel
 - ~~enterprisy~~ <> **Indie hackers / playful mindset**
@@ -44,7 +48,7 @@ It's important to note I'm going to try to build a profitable business that is a
 
 Here are some ideas:
 
-- **agent-friendly web**: Creating a literal “parallel web”: the markdown browser; chat with any website.
+- **agent-friendly web**: Creating a literal "parallel web": the markdown browser; chat with any website.
 - **socialdatapod**/markdownfeed/clonechat: own your own social data and make it accessible cross-platform
 - **uithub and forgithub**: [GitHub sucks](https://x.com/search?q=github%20sucks&src=typed_query); let's make an ecosystem together of tools replacing GitHub.
 - **[task + cronjob](https://x.com/threepointone/status/2005265261235249496)** = agents

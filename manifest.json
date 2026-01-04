@@ -12,6 +12,7 @@
     "2026"
   ],
   "allTags": [
+    "agentic-web",
     "agents",
     "ai",
     "apollo",
@@ -26,6 +27,7 @@
     "coworking",
     "deep-work",
     "devops",
+    "devrel",
     "digital-nomad",
     "distractions",
     "dopamine",
@@ -43,6 +45,7 @@
     "growth-hacking",
     "habits",
     "happiness",
+    "indie-hackers",
     "instagram",
     "internet",
     "javascript",
@@ -50,6 +53,7 @@
     "llm",
     "machine-learning",
     "marketing",
+    "mcp",
     "mindfulness",
     "minimalism",
     "mvp",
@@ -58,6 +62,7 @@
     "nodejs",
     "notifications",
     "open-source",
+    "parallel",
     "performance",
     "personal-development",
     "philosophy",
@@ -65,6 +70,7 @@
     "productivity",
     "programming",
     "react-native",
+    "saas",
     "screenless",
     "sequelize",
     "shipping",
@@ -81,7 +87,8 @@
     "web-development",
     "whatsapp",
     "wordpress",
-    "workflow"
+    "workflow",
+    "year-in-review"
   ],
   "tagToEntries": {
     "2017": [
@@ -1054,7 +1061,8 @@
       "2023/innovateability",
       "2024/connected-repos",
       "2024/the-post-smartphone-era",
-      "2025/LLMTEXT-for-llmstxt"
+      "2025/LLMTEXT-for-llmstxt",
+      "2026/parallel-role-2026"
     ],
     "dx": [
       "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
@@ -1164,6 +1172,27 @@
     "llm": [
       "2025/LLMTEXT-for-llmstxt",
       "2025/ai-inference-dx-design"
+    ],
+    "devrel": [
+      "2026/parallel-role-2026"
+    ],
+    "parallel": [
+      "2026/parallel-role-2026"
+    ],
+    "year-in-review": [
+      "2026/parallel-role-2026"
+    ],
+    "mcp": [
+      "2026/parallel-role-2026"
+    ],
+    "indie-hackers": [
+      "2026/parallel-role-2026"
+    ],
+    "saas": [
+      "2026/parallel-role-2026"
+    ],
+    "agentic-web": [
+      "2026/parallel-role-2026"
     ]
   },
   "entries": [
@@ -3675,8 +3704,17 @@
       "date": 1767484800000,
       "contentType": "markdown",
       "title": "Year in Review",
-      "description": "",
-      "tags": []
+      "description": "Reflecting on my first year as DevRel at Parallel—2.5M X impressions, cookbooks, MCP integrations, and LLMTEXT—and outlining my 2026 strategy for building SaaS on the agentic internet.",
+      "tags": [
+        "devrel",
+        "parallel",
+        "year-in-review",
+        "mcp",
+        "open-source",
+        "indie-hackers",
+        "saas",
+        "agentic-web"
+      ]
     }
   ]
 }
