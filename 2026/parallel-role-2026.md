@@ -1,11 +1,10 @@
 ---
 date: 2026-01-04
-draft: true
 description: Reflecting on my first year as DevRel at Parallel—2.5M X impressions, cookbooks, MCP integrations, and LLMTEXT—and outlining my 2026 strategy for building SaaS on the agentic internet.
-tags: [devrel, parallel, year-in-review, mcp, open-source, indie-hackers, saas, agentic-web]
+tags: [devrel, parallel, mcp, open-source, indie-hackers, saas, agentic-web]
 ---
 
-# Year in Review
+# 2025 in review, and plans for the coming year of DevRel
 
 ## 2025
 
@@ -35,10 +34,10 @@ My niche:
 
 ## Free Tools and DevTools
 
-[Some of the cookbooks](https://github.com/parallel-web/parallel-cookbook) are also hosted and genuinly useful as free tools. [LLMTEXT](https://llmtext.com) also falls into the category of free tools. The strategy here is to build tools that bring genuine value to the developer community to then interest users of these free tools in the other products of parallel. The strategy overlaps greatly with that of [product-led growth](https://www.productled.org/foundations/what-is-product-led-growth)
+[Some of the cookbooks](https://github.com/parallel-web/parallel-cookbook) are also hosted and genuinely useful as free tools. [LLMTEXT](https://llmtext.com) also falls into the category of free tools. The strategy here is to build tools that bring genuine value to the developer community to then interest users of these free tools in the other products of parallel. The strategy overlaps greatly with that of [product-led growth](https://www.productled.org/foundations/what-is-product-led-growth)
 
 - **[LLMTEXT](https://llmtext.com)**: tools promoting the llms.txt standard.
-- **wilmake stack** skills library. Making making apps (with parallel when needed) easier
+- **wilmake stack** skills library. Making making apps (with parallel when needed) easier.
 
 ## Build SaaS for the Agentic Internet
 
@@ -49,8 +48,8 @@ It's important to note I'm going to try to build a profitable business that is a
 Here are some ideas:
 
 - **agent-friendly web**: Creating a literal "parallel web": the markdown browser; chat with any website.
-- **socialdatapod**/markdownfeed/clonechat: own your own social data and make it accessible cross-platform
+- **[socialdatapod](https://github.com/janwilmake/socialdatapod)** / markdownfeed / clonechat: own your own social data and make it accessible cross-platform
 - **uithub and forgithub**: [GitHub sucks](https://x.com/search?q=github%20sucks&src=typed_query); let's make an ecosystem together of tools replacing GitHub.
 - **[task + cronjob](https://x.com/threepointone/status/2005265261235249496)** = agents
-- **oss watcher** - parallel tasks on trending OSS repos (view 10 for free, $69/month to see all 100s)
+- **[oss jobs finder](https://ossjobs.wilmake.com)** - parallel tasks on trending OSS repos (view 10 for free, $69/month to see all 100s)
 - Context marketplace! TBD.

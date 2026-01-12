@@ -87,8 +87,7 @@
     "web-development",
     "whatsapp",
     "wordpress",
-    "workflow",
-    "year-in-review"
+    "workflow"
   ],
   "tagToEntries": {
     "2017": [
@@ -1177,9 +1176,6 @@
       "2026/parallel-role-2026"
     ],
     "parallel": [
-      "2026/parallel-role-2026"
-    ],
-    "year-in-review": [
       "2026/parallel-role-2026"
     ],
     "mcp": [
@@ -3699,16 +3695,15 @@
       "tags": []
     },
     {
-      "draft": true,
+      "draft": false,
       "slug": "2026/parallel-role-2026",
       "date": 1767484800000,
       "contentType": "markdown",
-      "title": "Year in Review",
+      "title": "2025 in review, and plans for the coming year of DevRel",
       "description": "Reflecting on my first year as DevRel at Parallel—2.5M X impressions, cookbooks, MCP integrations, and LLMTEXT—and outlining my 2026 strategy for building SaaS on the agentic internet.",
       "tags": [
         "devrel",
         "parallel",
-        "year-in-review",
         "mcp",
         "open-source",
         "indie-hackers",
