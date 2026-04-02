@@ -1,9 +1,8 @@
 ---
 date: 2023-01
-tags: [ai, gpt, programming, coding]
+tags: [ai, programming]
 description: Presents a simple yet powerful method for using ChatGPT to perform fast parallel classification tasks, such as determining gender from names with 250ms response times.
 ---
-
 # Classification tasks with ChatGPT
 
 Yesterday, I built an AI program that can classify anything in parallel. The best part? It's super fast due to parallelism. For example, it can identify the gender of a list of names within 250ms, even for 10,000 names!

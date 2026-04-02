@@ -1,10 +1,9 @@
 ---
 date: 2017-06-11
 modified_at: 2018-03-06
-tags: [productivity, focus, distractions, habits, digital-nomad]
+tags: [lifestyle, productivity]
 description: Practical strategies to diminish distractions as a digital nomad, including blocking tools, creating habits, and maintaining focus despite constant change.
 ---
-
 # How to diminish distractions while being nomadic
 
 This is how I try to diminish distractions to spend my time as effective as I

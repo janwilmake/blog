@@ -1,10 +1,9 @@
 ---
 date: 2018-03-07
 modified_at: 2018-03-07
-tags: [react-native, programming, shipping, app product-development]
+tags: [entrepreneurship, programming]
 description: A brief celebration of successfully launching MasterCrimeZ to both iOS App Store and Google Play Store after 4 months of development.
 ---
-
 # The most complex app I ever made, made it to both app stores!
 
 Last week I 'finished' MasterCrimeZ https://mastercrimez.nl. Wel... It's not

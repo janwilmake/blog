@@ -1,10 +1,9 @@
 ---
 date: 2019-01-24
 modified_at: 2019-01-29
-tags: [philosophy, future-of-work, voice-interface, technology-critique]
+tags: [philosophy, programming]
 description: A dream-inspired vision of future urban transportation featuring autonomous VR-enabled segways that could revolutionize commuting by reducing surface area and allowing multitasking.
 ---
-
 # Are VR Autonomous Segways the future, or was it just a dream?
 
 Tonight I had a dream that I was woken up abruptly from so I was able to

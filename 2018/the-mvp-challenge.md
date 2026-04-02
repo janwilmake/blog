@@ -1,10 +1,9 @@
 ---
 date: 2018-03-06
 modified_at: 2018-03-31
-tags: [mvp, react-native, expo, apollo, graphql, nodejs, programming, startup, shipping]
+tags: [entrepreneurship, programming]
 description: A comprehensive guide to building an MVP in 100 days using React Native and Expo, covering coding style decisions, architecture choices, work ethic, and a detailed workflow from setup to launch.
 ---
-
 # The MVP Challenge - From 0 to MVP in 100 days: Using Expo
 
 I want to make a software product, so back in May 2017, I decided I was gonna

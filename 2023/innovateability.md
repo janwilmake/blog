@@ -1,9 +1,8 @@
 ---
 date: 2023-08
-tags: [philosophy, entrepreneurship, business, open-source]
+tags: [entrepreneurship, philosophy, programming]
 description: Proposes a new system called "purpose driven openness" that uses LLMs to calculate alignment between entities, enabling innovation while preventing misuse of shared technologies.
 ---
-
 # Increasing innovateability
 
 - competitive capitalism incentivizes us to pull up the ladder and prevent competition

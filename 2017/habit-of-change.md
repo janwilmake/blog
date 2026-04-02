@@ -1,10 +1,9 @@
 ---
 date: 2017-04-28
 modified_at: 2017-07-17
-tags: [habits, personal-development, philosophy, mindfulness, entrepreneurship]
+tags: [entrepreneurship, philosophy, productivity]
 description: A philosophical reflection on why developing a habit of change is essential in our rapidly evolving world, using the metaphor of a rock in a river to illustrate how adaptability creates resilience and growth.
 ---
-
 # The habit of Change
 
 My grandfather was fine with doing the same all his life... He was a farmer and

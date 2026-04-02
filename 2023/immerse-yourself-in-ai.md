@@ -1,9 +1,8 @@
 ---
 date: 2023-01
-tags: [ai, gpt, business, startup, productivity]
+tags: [ai, entrepreneurship, productivity]
 description: Shares practical insights on integrating AI into businesses, covering GPT applications, privacy considerations, and advice for startups and enthusiasts embracing the AI revolution.
 ---
-
 **Title: Embracing the AI Revolution: Insights from an AI Enthusiast**
 
 Hello everyone, Jan here. In today's blog, I want to share some insights from a recent GPT meeting I attended, focusing on the intersection of AI and business. Let's dive into the myriad ways AI is reshaping our world and how you can be a part of this exciting journey.

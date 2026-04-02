@@ -1,9 +1,8 @@
 ---
 date: 2025-10-30
-tags: [ai, llm, agents, open-source, web-development, tools]
+tags: [ai, programming]
 description: Introduces LLMTEXT, an open-source toolkit for creating, validating, and using llms.txt files to make websites accessible to AI agents through standardized documentation and MCP servers.
 ---
-
 Introducing a new set of tools for llms.txt that help you create and check llms.txt, or transform llms.txt files into MCP servers
 Parallel Web Systems | Build the world wide web for AIs
 

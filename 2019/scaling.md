@@ -1,10 +1,9 @@
 ---
 date: 2019-01-11
 modified_at: 2019-01-29
-tags: [programming, startup, devops]
+tags: [entrepreneurship, programming]
 description: A comprehensive geo-scaling plan for horizontally scaling to millions of RPS using automated server splitting, merging, and load balancing based on community sharding.
 ---
-
 # Scaling Horizontally to one million RPS
 
 This Forbes Article

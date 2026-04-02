@@ -1,9 +1,8 @@
 ---
 date: 2023-01
-tags: [ai, gpt, programming, coding]
+tags: [ai, programming]
 description: Demonstrates how to create end-to-end tests for ChatGPT AI plugins using the MRKL technology, with practical examples testing a ScrapingBee plugin.
 ---
-
 # E2E Testing ChatGPT AI plugins with using MRKL
 
 ChatGPT's [AI plugins](https://openai.com/blog/chatgpt-plugins) allow ChatGPT to access realtime data and functionality. It creates a bridge between the LLM transformer world and rule-based classical computers. The technology behind is is called [MRKL](https://arxiv.org/abs/2205.00445) and it's pretty genious. Simply said, you give the LLM a specification of functions it can call and ask it which one needs to be called based on the users input. OpenAI also opened up this technology as the [function calling api](https://openai.com/blog/function-calling-and-other-api-updates).

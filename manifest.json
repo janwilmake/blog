@@ -12,82 +12,13 @@
     "2026"
   ],
   "allTags": [
-    "agentic-web",
-    "agents",
     "ai",
-    "apollo",
-    "app product-development",
-    "apps",
-    "asia",
-    "automation",
-    "bali",
-    "business",
-    "coding",
-    "consciousness",
-    "coworking",
-    "deep-work",
-    "devops",
-    "devrel",
-    "digital-nomad",
-    "distractions",
-    "dopamine",
-    "dx",
     "entrepreneurship",
-    "europe",
-    "expo",
-    "facebook",
-    "fitness",
-    "focus",
-    "future-of-work",
-    "ghost",
-    "gpt",
-    "graphql",
-    "growth-hacking",
-    "habits",
-    "happiness",
-    "indie-hackers",
-    "instagram",
-    "internet",
-    "javascript",
-    "kitesurfing",
-    "llm",
-    "machine-learning",
-    "marketing",
-    "mcp",
-    "mindfulness",
-    "minimalism",
-    "mvp",
-    "nepal",
-    "networking",
-    "nodejs",
-    "notifications",
-    "open-source",
-    "parallel",
-    "performance",
-    "personal-development",
+    "lifestyle",
     "philosophy",
-    "product-development",
     "productivity",
     "programming",
-    "react-native",
-    "saas",
-    "screenless",
-    "sequelize",
-    "shipping",
-    "smartphone",
-    "social-media",
-    "solo-entrepreneur",
-    "startup",
-    "technology-critique",
-    "time-management",
-    "tools",
-    "travel",
-    "vietnam",
-    "voice-interface",
-    "web-development",
-    "whatsapp",
-    "wordpress",
-    "workflow"
+    "social-media"
   ],
   "tagToEntries": {
     "2017": [
@@ -287,105 +218,105 @@
     "2026": [
       "2026/parallel-role-2026"
     ],
-    "minimalism": [
+    "lifestyle": [
       "2017/about-cleaning-up",
-      "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
-      "2017/the-laptop-of-a-nomad",
-      "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
-      "2019/hammock-experiment",
-      "2019/lean-life",
-      "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
-      "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
-      "2020/live-in-harmony-with-animals",
-      "2021/why-i-like-the-four-seasons-in-the-netherlands",
-      "2024/hardware-screenless",
-      "2024/internetless-software-development"
-    ],
-    "personal-development": [
-      "2017/about-cleaning-up",
-      "2017/be-conscious",
-      "2017/counterproductive-behaviors-of-solo-entrepreneurs",
-      "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
-      "2017/effective-communication",
-      "2017/entrepreneurship",
-      "2017/habit-of-change",
-      "2017/hawk-view-entrepreneur-needs",
-      "2017/i-dont-know",
-      "2017/internet-makes-us-creative",
-      "2017/justified-dopamine",
-      "2017/learn-language-having-fun",
-      "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
-      "2017/perfect-travel",
-      "2017/purpose",
-      "2017/real-artists-ship",
-      "2017/the-basis-what-comes-after-happiness",
-      "2017/the-mcycle",
-      "2017/why-i-write",
-      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-      "2018/2018-year-of-creation",
-      "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
-      "2018/its-nyepi-in-bali-time-to-reflect",
-      "2018/pivot-creation-centric-metric-productivity",
-      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
-      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
-      "2019/daylight-experiment",
-      "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
-      "2019/hammock-experiment",
-      "2019/how-i-became-10x-as-productive-within-a-month",
-      "2019/lean-life",
-      "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
-      "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
-      "2019/why-i-made-dunbar",
-      "2020/know-thyself-but-how",
-      "2020/why-im-afraid-to-start-dating",
-      "2021/didnt-do-shit",
-      "2021/expanding-at-the-speed-of-light",
-      "2021/quit-job",
-      "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
-      "2021/why-i-like-the-four-seasons-in-the-netherlands",
-      "2023/communify",
-      "2023/controllable-immersion",
-      "2023/social-computing"
-    ],
-    "travel": [
-      "2017/about-cleaning-up",
-      "2017/groningen-digital-nomads",
-      "2017/i-dont-know",
-      "2017/langtang-nepal",
-      "2017/learn-language-having-fun",
-      "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
-      "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
-      "2017/perfect-travel",
-      "2017/the-laptop-of-a-nomad",
-      "2017/time-effective-travel-lifestyle",
-      "2017/vietnam-ha-giang-cat-ba-mui-ne",
-      "2017/working-offline",
-      "2018/its-nyepi-in-bali-time-to-reflect",
-      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
-      "2019/deep-dream-devs",
-      "2020/my-new-startup-backpacking-tribe-is-taking-off",
-      "2021/why-i-like-the-four-seasons-in-the-netherlands"
-    ],
-    "digital-nomad": [
-      "2017/about-cleaning-up",
+      "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
       "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
       "2017/groningen-digital-nomads",
       "2017/how-to-diminish-distractions",
       "2017/i-dont-know",
+      "2017/justified-dopamine",
       "2017/langtang-nepal",
+      "2017/learn-language-having-fun",
       "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
       "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
       "2017/perfect-travel",
+      "2017/routine",
       "2017/some-apps-i-like",
+      "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
       "2017/the-laptop-of-a-nomad",
       "2017/time-effective-travel-lifestyle",
       "2017/vietnam-ha-giang-cat-ba-mui-ne",
       "2017/working-offline",
       "2018/2018-year-of-creation",
       "2018/collaborations-in-the-coworking-space",
+      "2018/its-nyepi-in-bali-time-to-reflect",
       "2018/networking-coworking",
+      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
       "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
-      "2020/my-new-startup-backpacking-tribe-is-taking-off"
+      "2019/deep-dream-devs",
+      "2020/my-new-startup-backpacking-tribe-is-taking-off",
+      "2021/why-i-like-the-four-seasons-in-the-netherlands"
+    ],
+    "philosophy": [
+      "2017/about-cleaning-up",
+      "2017/be-conscious",
+      "2017/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
+      "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+      "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+      "2017/effective-communication",
+      "2017/entrepreneurship",
+      "2017/facebook-heroin",
+      "2017/habit-of-change",
+      "2017/hawk-view-entrepreneur-needs",
+      "2017/i-dont-know",
+      "2017/internet-makes-us-creative",
+      "2017/invisible-elephant-shit",
+      "2017/justified-dopamine",
+      "2017/learn-language-having-fun",
+      "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
+      "2017/perfect-travel",
+      "2017/purpose",
+      "2017/real-artists-ship",
+      "2017/reverting-global-warming",
+      "2017/skynet",
+      "2017/the-basis-what-comes-after-happiness",
+      "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
+      "2017/the-mcycle",
+      "2017/what-coding-teaches-me-about-business",
+      "2017/why-i-write",
+      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+      "2018/2018-year-of-creation",
+      "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
+      "2018/how-to-create-a-sustainable-world",
+      "2018/its-nyepi-in-bali-time-to-reflect",
+      "2018/pivot-creation-centric-metric-productivity",
+      "2018/the-dark-side-of-globalization",
+      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
+      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+      "2019/ai-boom",
+      "2019/daylight-experiment",
+      "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
+      "2019/hammock-experiment",
+      "2019/how-i-became-10x-as-productive-within-a-month",
+      "2019/human-network-explosion",
+      "2019/i-saw-the-future-in-detail",
+      "2019/lean-life",
+      "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
+      "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
+      "2019/the-new-hackers",
+      "2019/the-ultimate-equilibrium",
+      "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+      "2019/why-i-cant-quit-facebook",
+      "2019/why-i-made-dunbar",
+      "2020/know-thyself-but-how",
+      "2020/live-in-harmony-with-animals",
+      "2020/what-facebook-should-do",
+      "2020/why-im-afraid-to-start-dating",
+      "2021/didnt-do-shit",
+      "2021/expanding-at-the-speed-of-light",
+      "2021/quit-job",
+      "2021/the-evolution-revolution",
+      "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
+      "2021/why-i-like-the-four-seasons-in-the-netherlands",
+      "2023/communify",
+      "2023/controllable-immersion",
+      "2023/innovateability",
+      "2023/social-computing",
+      "2024/outcomputed",
+      "2024/the-post-smartphone-era",
+      "2024/why-are-systems-not-working-together",
+      "2024/why-i-wont-join-your-startup"
     ],
     "productivity": [
       "2017/about-cleaning-up",
@@ -394,13 +325,20 @@
       "2017/distractions",
       "2017/drop-whatsapp-save-40-minutes",
       "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
+      "2017/effective-communication",
+      "2017/facebook-heroin",
+      "2017/habit-of-change",
       "2017/hawk-view-entrepreneur-needs",
       "2017/how-to-diminish-distractions",
+      "2017/i-dont-know",
       "2017/justified-dopamine",
+      "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
       "2017/notification-zombies",
+      "2017/perfect-travel",
       "2017/routine",
       "2017/smartphone-attention-pollution",
       "2017/some-apps-i-like",
+      "2017/the-basis-what-comes-after-happiness",
       "2017/the-laptop-of-a-nomad",
       "2017/the-mcycle",
       "2017/time-effective-travel-lifestyle",
@@ -417,50 +355,66 @@
       "2018/shortcuts-cheatsheet",
       "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
       "2018/wet-code-and-inline-styles",
+      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+      "2018/workflow-query-creation-react-apollo",
       "2019/about-single-tasking-and-window-setup",
       "2019/changing-reachability-to-increase-productivity",
       "2019/code-ownership",
       "2019/daylight-experiment",
+      "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
       "2019/hammock-experiment",
       "2019/hashtag-to-anything",
       "2019/how-i-became-10x-as-productive-within-a-month",
       "2019/how-to-code-more-and-plan-less",
       "2019/i-just-made-an-app-in-26-hours",
+      "2019/lean-life",
       "2019/my-coding-principles",
+      "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
       "2019/perfections-vs-speed",
       "2019/poc-within-a-week",
       "2019/screentime-update-april-2019",
+      "2019/the-ultimate-equilibrium",
       "2020/dev-lifecycle",
       "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+      "2020/know-thyself-but-how",
+      "2020/live-in-harmony-with-animals",
       "2021/didnt-do-shit",
+      "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
+      "2021/why-i-like-the-four-seasons-in-the-netherlands",
       "2022/having-a-clean-mac-setup",
+      "2023/communify",
       "2023/controllable-immersion",
       "2023/immerse-yourself-in-ai",
+      "2024/hardware-screenless",
       "2024/internetless-software-development",
       "2024/outcomputed"
     ],
-    "javascript": [
-      "2017/and-then-i-turned-to-javascript",
-      "2017/digital-ocean-and-ghost-fast-cms",
-      "2017/react-native-is-the-future",
-      "2017/real-artists-ship",
-      "2023/creating-a-resizer-in-pure-js"
-    ],
     "programming": [
       "2017/and-then-i-turned-to-javascript",
+      "2017/devops-marketing",
+      "2017/digital-ocean-and-ghost-fast-cms",
+      "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
+      "2017/learn-language-having-fun",
       "2017/react-native-is-the-future",
       "2017/real-artists-ship",
+      "2017/some-apps-i-like",
+      "2017/the-laptop-of-a-nomad",
+      "2017/time-management",
       "2017/what-coding-teaches-me-about-business",
+      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
       "2017/wordpress-versus-ghost",
       "2017/working-offline",
       "2018/2018-year-of-creation",
       "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
       "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
+      "2018/expo-standalone-publishing",
       "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
       "2018/high-code-quality",
       "2018/how-to-connect-your-app-to-a-server",
+      "2018/iproud",
       "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
       "2018/notes-of-a-programmer-apollo-store-updates",
+      "2018/pivot-creation-centric-metric-productivity",
       "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
       "2018/setting-up-a-graphql-backend-without-graphcool",
       "2018/shortcuts-cheatsheet",
@@ -471,6 +425,7 @@
       "2018/the-mvp-challenge",
       "2018/wet-code-and-inline-styles",
       "2018/workflow-query-creation-react-apollo",
+      "2019/about-single-tasking-and-window-setup",
       "2019/application-loader-replacement-xcode-11",
       "2019/big-reason-to-use-react-navigation-over-wix-navigation",
       "2019/chat-baas",
@@ -479,14 +434,18 @@
       "2019/ghost-cloudflare-ssl",
       "2019/how-got-get-your-app-under-control-remove-wildgrow-monolithize",
       "2019/how-many-rps-are-possible-without-sharding",
+      "2019/how-much-does-it-cost-to-build-an-app",
       "2019/how-to-code-more-and-plan-less",
       "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
+      "2019/human-directions-a-startup-idea",
       "2019/i-just-made-an-app-in-26-hours",
+      "2019/i-saw-the-future-in-detail",
       "2019/install-an-express-app-on-a-remote-server",
       "2019/migrating-to-expo",
       "2019/my-coding-principles",
       "2019/never-go-down",
       "2019/open-source-advantages",
+      "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
       "2019/redux-light",
       "2019/scaling-vertically",
       "2019/scaling",
@@ -495,215 +454,98 @@
       "2019/today-i-open-sourced-nearly-20-of-my-codebase",
       "2019/upgrading-from-wix-navigation-v1-to-wix-navigation-v2-or-react-navigation-v3",
       "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+      "2019/why-i-made-dunbar",
       "2020/dev-lifecycle",
+      "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
       "2021/things-i-learned-making-the-second-version-of-friendtime",
+      "2022/having-a-clean-mac-setup",
       "2023/bun-flame-fly",
       "2023/creating-a-resizer-in-pure-js",
       "2023/domain-control-panel",
       "2023/gpt-classification",
+      "2023/innovateability",
       "2023/multi-domain-locale-hack-nextjs",
       "2023/regex-cheatcodes",
       "2023/tailwind-darkmode-issue",
       "2023/testAiPlugins",
       "2023/the-single-server-dream",
       "2024/connected-repos",
+      "2024/hardware-screenless",
       "2024/internetless-software-development",
       "2024/scalable-ideas",
+      "2024/the-post-smartphone-era",
       "2024/why-are-systems-not-working-together",
-      "2025/ai-inference-dx-design"
+      "2025/LLMTEXT-for-llmstxt",
+      "2025/ai-inference-dx-design",
+      "2026/parallel-role-2026"
     ],
-    "react-native": [
-      "2017/and-then-i-turned-to-javascript",
-      "2017/react-native-is-the-future",
+    "entrepreneurship": [
+      "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+      "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+      "2017/devops-marketing",
+      "2017/entrepreneurship",
+      "2017/groningen-digital-nomads",
+      "2017/habit-of-change",
+      "2017/hawk-view-entrepreneur-needs",
+      "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
+      "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
       "2017/real-artists-ship",
-      "2017/working-offline",
+      "2017/reverting-global-warming",
+      "2017/routine",
+      "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+      "2017/the-mcycle",
+      "2017/time-management",
+      "2017/what-coding-teaches-me-about-business",
+      "2017/why-i-write",
+      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+      "2018/2018-year-of-creation",
+      "2018/collaborations-in-the-coworking-space",
       "2018/expo-standalone-publishing",
-      "2018/how-to-connect-your-app-to-a-server",
       "2018/iproud",
-      "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
+      "2018/networking-coworking",
       "2018/should-you-go-web-or-native",
       "2018/solo-dev-startup",
-      "2018/the-expo-edge",
       "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
       "2018/the-mvp-challenge",
-      "2018/wet-code-and-inline-styles",
-      "2018/workflow-query-creation-react-apollo",
-      "2019/application-loader-replacement-xcode-11",
-      "2019/big-reason-to-use-react-navigation-over-wix-navigation",
+      "2019/chat-baas",
+      "2019/code-ownership",
+      "2019/convince-freelance-projects-part-time",
+      "2019/deep-dream-devs",
       "2019/forcing-your-app-users-to-update-the-app",
       "2019/how-got-get-your-app-under-control-remove-wildgrow-monolithize",
       "2019/how-much-does-it-cost-to-build-an-app",
+      "2019/how-to-code-more-and-plan-less",
+      "2019/human-directions-a-startup-idea",
       "2019/i-just-made-an-app-in-26-hours",
-      "2019/migrating-to-expo",
+      "2019/lean-life",
       "2019/never-go-down",
+      "2019/open-source-advantages",
+      "2019/perfections-vs-speed",
+      "2019/poc-within-a-week",
       "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
-      "2019/redux-light",
+      "2019/qualitative-versus-quantitative-scaling-in-your-startup",
+      "2019/scaling",
       "2019/seven-mistakes-react-native-app",
-      "2019/upgrading-from-wix-navigation-v1-to-wix-navigation-v2-or-react-navigation-v3",
+      "2019/the-dis-advantages-of-making-your-app-invite-only",
+      "2019/the-new-hackers",
+      "2019/the-problem-were-solving-with-friendtime",
+      "2019/the-saas-stages-funnel",
+      "2019/today-i-open-sourced-nearly-20-of-my-codebase",
       "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
       "2019/why-i-made-dunbar",
-      "2023/multi-domain-locale-hack-nextjs"
-    ],
-    "nodejs": [
-      "2017/and-then-i-turned-to-javascript",
-      "2017/digital-ocean-and-ghost-fast-cms",
-      "2017/react-native-is-the-future",
-      "2017/wordpress-versus-ghost",
-      "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
-      "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
-      "2018/how-to-connect-your-app-to-a-server",
-      "2018/notes-of-a-programmer-apollo-store-updates",
-      "2018/setting-up-a-graphql-backend-without-graphcool",
-      "2018/the-mvp-challenge",
-      "2019/install-an-express-app-on-a-remote-server",
-      "2023/bun-flame-fly",
-      "2023/multi-domain-locale-hack-nextjs",
-      "2023/the-single-server-dream",
-      "2024/connected-repos"
-    ],
-    "wordpress": [
-      "2017/and-then-i-turned-to-javascript",
-      "2017/digital-ocean-and-ghost-fast-cms",
-      "2017/wordpress-versus-ghost"
-    ],
-    "web-development": [
-      "2017/and-then-i-turned-to-javascript",
-      "2017/react-native-is-the-future",
-      "2017/wordpress-versus-ghost",
-      "2018/should-you-go-web-or-native",
-      "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
-      "2023/bun-flame-fly",
-      "2023/creating-a-resizer-in-pure-js",
-      "2023/domain-control-panel",
-      "2023/multi-domain-locale-hack-nextjs",
-      "2023/tailwind-darkmode-issue",
-      "2023/the-single-server-dream",
-      "2025/LLMTEXT-for-llmstxt"
-    ],
-    "consciousness": [
-      "2017/be-conscious",
-      "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
-      "2017/the-basis-what-comes-after-happiness"
-    ],
-    "philosophy": [
-      "2017/be-conscious",
-      "2017/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
-      "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
-      "2017/effective-communication",
-      "2017/entrepreneurship",
-      "2017/habit-of-change",
-      "2017/internet-makes-us-creative",
-      "2017/invisible-elephant-shit",
-      "2017/purpose",
-      "2017/reverting-global-warming",
-      "2017/skynet",
-      "2017/the-basis-what-comes-after-happiness",
-      "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
-      "2017/what-coding-teaches-me-about-business",
-      "2018/how-to-create-a-sustainable-world",
-      "2018/the-dark-side-of-globalization",
-      "2019/ai-boom",
-      "2019/daylight-experiment",
-      "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
-      "2019/human-network-explosion",
-      "2019/i-saw-the-future-in-detail",
-      "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
-      "2019/the-new-hackers",
-      "2019/the-ultimate-equilibrium",
-      "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
-      "2019/why-i-cant-quit-facebook",
-      "2020/know-thyself-but-how",
-      "2020/live-in-harmony-with-animals",
-      "2020/what-facebook-should-do",
-      "2020/why-im-afraid-to-start-dating",
-      "2021/didnt-do-shit",
-      "2021/the-evolution-revolution",
-      "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
-      "2023/communify",
-      "2023/controllable-immersion",
+      "2019/why-i-think-two-startups-is-better-than-one",
+      "2020/my-new-startup-backpacking-tribe-is-taking-off",
+      "2021/expanding-at-the-speed-of-light",
+      "2021/low-barrier-blockchain-job-platform",
+      "2021/quit-job",
+      "2021/things-i-learned-making-the-second-version-of-friendtime",
+      "2023/immerse-yourself-in-ai",
       "2023/innovateability",
-      "2024/outcomputed",
+      "2024/hardware-screenless",
+      "2024/scalable-ideas",
       "2024/why-are-systems-not-working-together",
-      "2024/why-i-wont-join-your-startup"
-    ],
-    "mindfulness": [
-      "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
-      "2017/effective-communication",
-      "2017/habit-of-change",
-      "2017/justified-dopamine",
-      "2017/smartphone-attention-pollution",
-      "2017/the-basis-what-comes-after-happiness",
-      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
-      "2019/the-ultimate-equilibrium",
-      "2020/know-thyself-but-how",
-      "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
-      "2023/communify",
-      "2023/controllable-immersion"
-    ],
-    "focus": [
-      "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
-      "2017/counterproductive-behaviors-of-solo-entrepreneurs",
-      "2017/distractions",
-      "2017/drop-whatsapp-save-40-minutes",
-      "2017/how-to-diminish-distractions",
-      "2017/i-dont-know",
-      "2017/routine",
-      "2017/time-management",
-      "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
-      "2017/working-offline",
-      "2018/pivot-creation-centric-metric-productivity",
-      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
-      "2019/about-single-tasking-and-window-setup",
-      "2019/changing-reachability-to-increase-productivity",
-      "2019/hashtag-to-anything",
-      "2019/how-i-became-10x-as-productive-within-a-month",
-      "2019/screentime-update-april-2019",
-      "2024/internetless-software-development"
-    ],
-    "mvp": [
-      "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
-      "2017/reverting-global-warming",
-      "2018/iproud",
-      "2018/the-mvp-challenge",
-      "2019/how-much-does-it-cost-to-build-an-app",
-      "2019/i-just-made-an-app-in-26-hours",
-      "2019/seven-mistakes-react-native-app"
-    ],
-    "kitesurfing": [
-      "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
-      "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
-      "2017/i-dont-know",
-      "2017/justified-dopamine",
-      "2017/routine",
-      "2017/vietnam-ha-giang-cat-ba-mui-ne",
-      "2018/2018-year-of-creation",
-      "2018/its-nyepi-in-bali-time-to-reflect"
-    ],
-    "technology-critique": [
-      "2017/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
-      "2017/facebook-heroin",
-      "2017/internet-makes-us-creative",
-      "2017/invisible-elephant-shit",
-      "2017/skynet",
-      "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
-      "2018/how-to-create-a-sustainable-world",
-      "2018/the-dark-side-of-globalization",
-      "2019/ai-boom",
-      "2019/i-saw-the-future-in-detail",
-      "2019/why-i-cant-quit-facebook",
-      "2020/what-facebook-should-do"
-    ],
-    "future-of-work": [
-      "2017/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
-      "2018/how-to-create-a-sustainable-world",
-      "2019/ai-boom",
-      "2019/human-network-explosion",
-      "2019/i-saw-the-future-in-detail",
-      "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
-      "2021/the-evolution-revolution",
-      "2023/social-computing",
-      "2024/outcomputed",
-      "2024/the-post-smartphone-era"
+      "2024/why-i-wont-join-your-startup",
+      "2026/parallel-role-2026"
     ],
     "ai": [
       "2017/capitalism-drives-cyborgs-to-the-top-if-we-like-it-or-not",
@@ -721,217 +563,22 @@
       "2024/the-post-smartphone-era",
       "2024/why-are-systems-not-working-together",
       "2025/LLMTEXT-for-llmstxt",
-      "2025/ai-inference-dx-design"
-    ],
-    "solo-entrepreneur": [
-      "2017/counterproductive-behaviors-of-solo-entrepreneurs",
-      "2017/hawk-view-entrepreneur-needs",
-      "2017/routine",
-      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-      "2018/solo-dev-startup",
-      "2019/code-ownership",
-      "2019/convince-freelance-projects-part-time",
-      "2019/lean-life",
-      "2019/why-i-think-two-startups-is-better-than-one",
-      "2024/why-i-wont-join-your-startup"
-    ],
-    "entrepreneurship": [
-      "2017/counterproductive-behaviors-of-solo-entrepreneurs",
-      "2017/entrepreneurship",
-      "2017/groningen-digital-nomads",
-      "2017/habit-of-change",
-      "2017/hawk-view-entrepreneur-needs",
-      "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
-      "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
-      "2017/real-artists-ship",
-      "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
-      "2017/the-mcycle",
-      "2017/time-management",
-      "2017/what-coding-teaches-me-about-business",
-      "2017/why-i-write",
-      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-      "2018/2018-year-of-creation",
-      "2018/collaborations-in-the-coworking-space",
-      "2018/iproud",
-      "2018/networking-coworking",
-      "2019/convince-freelance-projects-part-time",
-      "2019/deep-dream-devs",
-      "2019/human-directions-a-startup-idea",
-      "2019/perfections-vs-speed",
-      "2019/qualitative-versus-quantitative-scaling-in-your-startup",
-      "2019/the-new-hackers",
-      "2019/today-i-open-sourced-nearly-20-of-my-codebase",
-      "2019/why-i-made-dunbar",
-      "2019/why-i-think-two-startups-is-better-than-one",
-      "2020/my-new-startup-backpacking-tribe-is-taking-off",
-      "2021/expanding-at-the-speed-of-light",
-      "2021/low-barrier-blockchain-job-platform",
-      "2021/quit-job",
-      "2023/innovateability",
-      "2024/why-i-wont-join-your-startup"
-    ],
-    "devops": [
-      "2017/devops-marketing",
-      "2017/digital-ocean-and-ghost-fast-cms",
-      "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
-      "2018/expo-standalone-publishing",
-      "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
-      "2018/how-to-connect-your-app-to-a-server",
-      "2018/setting-up-a-graphql-backend-without-graphcool",
-      "2018/the-expo-edge",
-      "2019/forcing-your-app-users-to-update-the-app",
-      "2019/ghost-cloudflare-ssl",
-      "2019/how-many-rps-are-possible-without-sharding",
-      "2019/install-an-express-app-on-a-remote-server",
-      "2019/migrating-to-expo",
-      "2019/never-go-down",
-      "2019/scaling-vertically",
-      "2019/scaling",
-      "2023/bun-flame-fly",
-      "2023/domain-control-panel",
-      "2023/the-single-server-dream",
-      "2024/connected-repos",
-      "2024/why-are-systems-not-working-together"
-    ],
-    "marketing": [
-      "2017/devops-marketing",
-      "2019/the-dis-advantages-of-making-your-app-invite-only",
-      "2019/the-saas-stages-funnel"
-    ],
-    "business": [
-      "2017/devops-marketing",
-      "2017/reverting-global-warming",
-      "2017/what-coding-teaches-me-about-business",
-      "2017/why-i-write",
-      "2018/networking-coworking",
-      "2019/chat-baas",
-      "2019/code-ownership",
-      "2019/convince-freelance-projects-part-time",
-      "2019/how-much-does-it-cost-to-build-an-app",
-      "2019/lean-life",
-      "2019/open-source-advantages",
-      "2019/qualitative-versus-quantitative-scaling-in-your-startup",
-      "2019/the-saas-stages-funnel",
-      "2021/low-barrier-blockchain-job-platform",
-      "2023/immerse-yourself-in-ai",
-      "2023/innovateability",
-      "2024/why-i-wont-join-your-startup"
-    ],
-    "startup": [
-      "2017/devops-marketing",
-      "2017/hawk-view-entrepreneur-needs",
-      "2017/reverting-global-warming",
-      "2018/should-you-go-web-or-native",
-      "2018/solo-dev-startup",
-      "2018/the-mvp-challenge",
-      "2019/chat-baas",
-      "2019/how-much-does-it-cost-to-build-an-app",
-      "2019/human-directions-a-startup-idea",
-      "2019/lean-life",
-      "2019/poc-within-a-week",
-      "2019/qualitative-versus-quantitative-scaling-in-your-startup",
-      "2019/scaling",
-      "2019/seven-mistakes-react-native-app",
-      "2019/the-dis-advantages-of-making-your-app-invite-only",
-      "2019/the-problem-were-solving-with-friendtime",
-      "2019/the-saas-stages-funnel",
-      "2019/why-i-made-dunbar",
-      "2019/why-i-think-two-startups-is-better-than-one",
-      "2020/my-new-startup-backpacking-tribe-is-taking-off",
-      "2021/expanding-at-the-speed-of-light",
-      "2021/low-barrier-blockchain-job-platform",
-      "2021/things-i-learned-making-the-second-version-of-friendtime",
-      "2023/immerse-yourself-in-ai",
-      "2024/scalable-ideas",
-      "2024/why-are-systems-not-working-together",
-      "2024/why-i-wont-join-your-startup"
-    ],
-    "growth-hacking": [
-      "2017/devops-marketing"
-    ],
-    "ghost": [
-      "2017/digital-ocean-and-ghost-fast-cms",
-      "2017/wordpress-versus-ghost",
-      "2019/ghost-cloudflare-ssl"
-    ],
-    "distractions": [
-      "2017/distractions",
-      "2017/drop-whatsapp-save-40-minutes",
-      "2017/facebook-heroin",
-      "2017/how-to-diminish-distractions",
-      "2017/notification-zombies",
-      "2017/smartphone-attention-pollution",
-      "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
-      "2019/changing-reachability-to-increase-productivity",
-      "2019/screentime-update-april-2019",
-      "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
-    ],
-    "time-management": [
-      "2017/distractions",
-      "2017/drop-whatsapp-save-40-minutes",
-      "2017/time-effective-travel-lifestyle",
-      "2017/time-management",
-      "2019/changing-reachability-to-increase-productivity",
-      "2019/daylight-experiment",
-      "2019/hashtag-to-anything",
-      "2019/how-i-became-10x-as-productive-within-a-month"
-    ],
-    "whatsapp": [
-      "2017/distractions",
-      "2017/drop-whatsapp-save-40-minutes"
-    ],
-    "facebook": [
-      "2017/distractions",
-      "2017/facebook-heroin",
-      "2017/notification-zombies",
-      "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
-      "2019/why-i-cant-quit-facebook"
-    ],
-    "instagram": [
-      "2017/distractions",
-      "2017/notification-zombies"
-    ],
-    "deep-work": [
-      "2017/drop-whatsapp-save-40-minutes",
-      "2018/pivot-creation-centric-metric-productivity",
-      "2019/about-single-tasking-and-window-setup",
-      "2024/internetless-software-development"
-    ],
-    "coding": [
-      "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
-      "2017/react-native-is-the-future",
-      "2017/what-coding-teaches-me-about-business",
-      "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
-      "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
-      "2018/high-code-quality",
-      "2018/notes-of-a-programmer-apollo-store-updates",
-      "2018/pivot-creation-centric-metric-productivity",
-      "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
-      "2018/wet-code-and-inline-styles",
-      "2019/big-reason-to-use-react-navigation-over-wix-navigation",
-      "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
-      "2019/migrating-to-expo",
-      "2019/my-coding-principles",
-      "2019/redux-light",
-      "2019/upgrading-from-wix-navigation-v1-to-wix-navigation-v2-or-react-navigation-v3",
-      "2023/creating-a-resizer-in-pure-js",
-      "2023/gpt-classification",
-      "2023/regex-cheatcodes",
-      "2023/tailwind-darkmode-issue",
-      "2023/testAiPlugins"
-    ],
-    "europe": [
-      "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
-      "2017/groningen-digital-nomads",
-      "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017"
+      "2025/ai-inference-dx-design",
+      "2026/parallel-role-2026"
     ],
     "social-media": [
+      "2017/distractions",
+      "2017/drop-whatsapp-save-40-minutes",
       "2017/facebook-heroin",
+      "2017/internet-makes-us-creative",
       "2017/invisible-elephant-shit",
+      "2017/justified-dopamine",
       "2017/notification-zombies",
       "2017/smartphone-attention-pollution",
+      "2017/the-basis-what-comes-after-happiness",
       "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
       "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
+      "2018/collaborations-in-the-coworking-space",
       "2018/networking-coworking",
       "2018/the-dark-side-of-globalization",
       "2019/human-network-explosion",
@@ -940,255 +587,6 @@
       "2019/why-i-made-dunbar",
       "2020/what-facebook-should-do",
       "2023/social-computing"
-    ],
-    "smartphone": [
-      "2017/facebook-heroin",
-      "2017/notification-zombies",
-      "2017/smartphone-attention-pollution"
-    ],
-    "coworking": [
-      "2017/groningen-digital-nomads",
-      "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
-      "2017/time-effective-travel-lifestyle",
-      "2018/collaborations-in-the-coworking-space",
-      "2018/networking-coworking",
-      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
-      "2019/deep-dream-devs"
-    ],
-    "habits": [
-      "2017/habit-of-change",
-      "2017/how-to-diminish-distractions",
-      "2017/justified-dopamine",
-      "2017/perfect-travel",
-      "2017/routine",
-      "2018/2018-year-of-creation",
-      "2018/its-nyepi-in-bali-time-to-reflect",
-      "2018/pivot-creation-centric-metric-productivity",
-      "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
-      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
-      "2019/daylight-experiment",
-      "2019/hashtag-to-anything"
-    ],
-    "internet": [
-      "2017/internet-makes-us-creative",
-      "2017/invisible-elephant-shit",
-      "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
-      "2018/the-dark-side-of-globalization",
-      "2019/why-i-cant-quit-facebook"
-    ],
-    "dopamine": [
-      "2017/justified-dopamine",
-      "2017/the-basis-what-comes-after-happiness",
-      "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity"
-    ],
-    "nepal": [
-      "2017/langtang-nepal"
-    ],
-    "asia": [
-      "2017/langtang-nepal",
-      "2017/vietnam-ha-giang-cat-ba-mui-ne",
-      "2018/collaborations-in-the-coworking-space",
-      "2018/its-nyepi-in-bali-time-to-reflect",
-      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next"
-    ],
-    "fitness": [
-      "2017/langtang-nepal",
-      "2017/time-effective-travel-lifestyle"
-    ],
-    "apps": [
-      "2017/learn-language-having-fun",
-      "2017/some-apps-i-like",
-      "2018/expo-standalone-publishing",
-      "2018/iproud",
-      "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
-      "2019/human-directions-a-startup-idea",
-      "2019/why-i-made-dunbar"
-    ],
-    "tools": [
-      "2017/learn-language-having-fun",
-      "2017/some-apps-i-like",
-      "2017/the-laptop-of-a-nomad",
-      "2017/time-management",
-      "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
-      "2018/shortcuts-cheatsheet",
-      "2019/about-single-tasking-and-window-setup",
-      "2019/application-loader-replacement-xcode-11",
-      "2019/ghost-cloudflare-ssl",
-      "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
-      "2022/having-a-clean-mac-setup",
-      "2023/domain-control-panel",
-      "2023/regex-cheatcodes",
-      "2024/connected-repos",
-      "2025/LLMTEXT-for-llmstxt",
-      "2025/ai-inference-dx-design"
-    ],
-    "notifications": [
-      "2017/notification-zombies"
-    ],
-    "happiness": [
-      "2017/purpose",
-      "2017/the-basis-what-comes-after-happiness",
-      "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
-      "2019/the-ultimate-equilibrium",
-      "2023/communify"
-    ],
-    "shipping": [
-      "2017/real-artists-ship",
-      "2018/expo-standalone-publishing",
-      "2018/iproud",
-      "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
-      "2018/the-mvp-challenge",
-      "2019/how-to-code-more-and-plan-less",
-      "2019/i-just-made-an-app-in-26-hours",
-      "2019/perfections-vs-speed",
-      "2019/poc-within-a-week"
-    ],
-    "machine-learning": [
-      "2017/skynet",
-      "2019/ai-boom"
-    ],
-    "vietnam": [
-      "2017/vietnam-ha-giang-cat-ba-mui-ne"
-    ],
-    "open-source": [
-      "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-      "2018/high-code-quality",
-      "2018/solo-dev-startup",
-      "2019/i-just-made-an-app-in-26-hours",
-      "2019/open-source-advantages",
-      "2019/today-i-open-sourced-nearly-20-of-my-codebase",
-      "2023/innovateability",
-      "2024/connected-repos",
-      "2024/the-post-smartphone-era",
-      "2025/LLMTEXT-for-llmstxt",
-      "2026/parallel-role-2026"
-    ],
-    "dx": [
-      "2018/as-a-full-stack-developer-its-good-to-have-multiple-personality-disorder-2",
-      "2018/high-code-quality",
-      "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
-      "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
-      "2018/shortcuts-cheatsheet",
-      "2018/the-expo-edge",
-      "2018/wet-code-and-inline-styles",
-      "2019/code-ownership",
-      "2019/i-just-made-an-app-in-26-hours",
-      "2019/redux-light",
-      "2019/seven-mistakes-react-native-app",
-      "2025/ai-inference-dx-design"
-    ],
-    "bali": [
-      "2018/collaborations-in-the-coworking-space",
-      "2018/its-nyepi-in-bali-time-to-reflect",
-      "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next"
-    ],
-    "networking": [
-      "2018/collaborations-in-the-coworking-space",
-      "2018/networking-coworking"
-    ],
-    "graphql": [
-      "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
-      "2018/how-to-connect-your-app-to-a-server",
-      "2018/notes-of-a-programmer-apollo-store-updates",
-      "2018/setting-up-a-graphql-backend-without-graphcool",
-      "2018/solo-dev-startup",
-      "2018/the-mvp-challenge",
-      "2018/workflow-query-creation-react-apollo"
-    ],
-    "sequelize": [
-      "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
-      "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
-      "2018/setting-up-a-graphql-backend-without-graphcool"
-    ],
-    "performance": [
-      "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought"
-    ],
-    "expo": [
-      "2018/expo-standalone-publishing",
-      "2018/solo-dev-startup",
-      "2018/the-expo-edge",
-      "2018/the-mvp-challenge",
-      "2019/forcing-your-app-users-to-update-the-app",
-      "2019/i-just-made-an-app-in-26-hours",
-      "2019/migrating-to-expo",
-      "2019/seven-mistakes-react-native-app"
-    ],
-    "apollo": [
-      "2018/how-to-connect-your-app-to-a-server",
-      "2018/notes-of-a-programmer-apollo-store-updates",
-      "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
-      "2018/setting-up-a-graphql-backend-without-graphcool",
-      "2018/solo-dev-startup",
-      "2018/the-mvp-challenge",
-      "2018/workflow-query-creation-react-apollo"
-    ],
-    "product-development": [
-      "2018/should-you-go-web-or-native",
-      "2019/forcing-your-app-users-to-update-the-app",
-      "2019/how-got-get-your-app-under-control-remove-wildgrow-monolithize",
-      "2019/how-much-does-it-cost-to-build-an-app",
-      "2019/human-directions-a-startup-idea",
-      "2019/never-go-down",
-      "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
-      "2019/seven-mistakes-react-native-app",
-      "2019/the-dis-advantages-of-making-your-app-invite-only",
-      "2019/the-problem-were-solving-with-friendtime",
-      "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
-      "2021/things-i-learned-making-the-second-version-of-friendtime",
-      "2024/hardware-screenless"
-    ],
-    "app product-development": [
-      "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores"
-    ],
-    "workflow": [
-      "2018/workflow-query-creation-react-apollo",
-      "2019/hashtag-to-anything",
-      "2020/dev-lifecycle",
-      "2022/having-a-clean-mac-setup"
-    ],
-    "voice-interface": [
-      "2019/i-saw-the-future-in-detail",
-      "2024/hardware-screenless",
-      "2024/the-post-smartphone-era"
-    ],
-    "screenless": [
-      "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
-      "2024/hardware-screenless"
-    ],
-    "gpt": [
-      "2023/gpt-classification",
-      "2023/immerse-yourself-in-ai",
-      "2023/testAiPlugins"
-    ],
-    "agents": [
-      "2024/scalable-ideas",
-      "2024/the-post-smartphone-era",
-      "2025/LLMTEXT-for-llmstxt"
-    ],
-    "automation": [
-      "2024/scalable-ideas"
-    ],
-    "llm": [
-      "2025/LLMTEXT-for-llmstxt",
-      "2025/ai-inference-dx-design"
-    ],
-    "devrel": [
-      "2026/parallel-role-2026"
-    ],
-    "parallel": [
-      "2026/parallel-role-2026"
-    ],
-    "mcp": [
-      "2026/parallel-role-2026"
-    ],
-    "indie-hackers": [
-      "2026/parallel-role-2026"
-    ],
-    "saas": [
-      "2026/parallel-role-2026"
-    ],
-    "agentic-web": [
-      "2026/parallel-role-2026"
     ]
   },
   "entries": [
@@ -1200,11 +598,16 @@
       "title": "Jan, clean up your room!",
       "description": "A practical guide to decluttering and minimalism learned from traveling in Asia, outlining seven steps to simplify your living space and life by choosing a style, creating transparency, and focusing on experiences over possessions.",
       "tags": [
-        "minimalism",
-        "personal-development",
-        "travel",
-        "digital-nomad",
+        "lifestyle",
+        "philosophy",
         "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/the-laptop-of-a-nomad",
+        "2022/having-a-clean-mac-setup",
+        "2019/lean-life",
+        "2017/time-effective-travel-lifestyle",
+        "2020/live-in-harmony-with-animals"
       ]
     },
     {
@@ -1215,12 +618,14 @@
       "title": "I feel like a Tesla without wheels",
       "description": "The journey from WordPress frustrations to learning JavaScript, React Native, and Node.js to bring software ideas to life.",
       "tags": [
-        "javascript",
-        "programming",
-        "react-native",
-        "nodejs",
-        "wordpress",
-        "web-development"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2024/internetless-software-development",
+        "2017/wordpress-versus-ghost",
+        "2019/seven-mistakes-react-native-app"
       ]
     },
     {
@@ -1231,9 +636,14 @@
       "title": "Be conscious!",
       "description": "A brief reflection on levels of consciousness and the journey toward higher awareness and making a difference in the world.",
       "tags": [
-        "consciousness",
-        "personal-development",
         "philosophy"
+      ],
+      "relatedSlugs": [
+        "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+        "2018/how-to-create-a-sustainable-world",
+        "2019/the-dis-advantages-of-making-your-app-invite-only",
+        "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
+        "2017/purpose"
       ]
     },
     {
@@ -1244,11 +654,16 @@
       "title": "My energy levels in Eat Code Kite Repeat: Being in alignment with your environment",
       "description": "Finding alignment with your environment to achieve flow state, balancing mental energy from coding with physical energy from kitesurfing to build an MVP.",
       "tags": [
-        "productivity",
-        "mindfulness",
-        "focus",
-        "mvp",
-        "kitesurfing"
+        "entrepreneurship",
+        "lifestyle",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
+        "2019/daylight-experiment",
+        "2018/its-nyepi-in-bali-time-to-reflect",
+        "2017/how-to-diminish-distractions",
+        "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth"
       ]
     },
     {
@@ -1259,10 +674,15 @@
       "title": "Capitalism drives cyborgs to the top, if we like it or not",
       "description": "A speculative warning about the potential future where capitalism drives the creation of cyborgs who may become superior to humans in business, exploring both optimistic and pessimistic scenarios for human-machine integration.",
       "tags": [
-        "philosophy",
-        "technology-critique",
-        "future-of-work",
-        "ai"
+        "ai",
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2018/pivot-creation-centric-metric-productivity",
+        "2017/smartphone-attention-pollution",
+        "2017/what-coding-teaches-me-about-business",
+        "2019/scaling-vertically",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores"
       ]
     },
     {
@@ -1273,11 +693,16 @@
       "title": "Counterproductive behaviors of solo-entrepreneurs",
       "description": "How solo entrepreneurs can maximize productivity by suppressing urges for doubt and communication, creating focused environments and turning decisions into habits.",
       "tags": [
-        "solo-entrepreneur",
-        "productivity",
-        "focus",
         "entrepreneurship",
-        "personal-development"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2017/hawk-view-entrepreneur-needs",
+        "2018/iproud",
+        "2017/routine",
+        "2018/solo-dev-startup"
       ]
     },
     {
@@ -1288,9 +713,14 @@
       "title": "Cycling through your life part IV - The cycle of the future: towards grown consciousness",
       "description": "A philosophical metaphor comparing the evolution of bicycle design to the growth of human consciousness, illustrating how internal reflection and external action have changed over time from 1800 to 2200.",
       "tags": [
-        "philosophy",
-        "consciousness",
-        "personal-development"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2017/the-mcycle",
+        "2017/devops-marketing",
+        "2017/distractions",
+        "2021/the-evolution-revolution",
+        "2017/be-conscious"
       ]
     },
     {
@@ -1301,11 +731,15 @@
       "title": "Cycling through your life part II - DevOps vs. Marketing in software companies",
       "description": "Why DevOps and product quality matter more than marketing - truly good products don't need advertisements, they market themselves.",
       "tags": [
-        "devops",
-        "marketing",
-        "business",
-        "startup",
-        "growth-hacking"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/the-mcycle",
+        "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+        "2017/distractions",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2019/lean-life"
       ]
     },
     {
@@ -1316,11 +750,14 @@
       "title": "Blazing Fast & Beautiful isn't it? Discover Digital Ocean and Ghost",
       "description": "A guide explaining the transition from WordPress to Ghost CMS and DigitalOcean hosting for faster website performance, highlighting the advantages of Node.js and modern JavaScript frameworks over traditional PHP-based systems.",
       "tags": [
-        "ghost",
-        "wordpress",
-        "nodejs",
-        "javascript",
-        "devops"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/wordpress-versus-ghost",
+        "2019/ghost-cloudflare-ssl",
+        "2023/the-single-server-dream",
+        "2017/groningen-digital-nomads",
+        "2024/why-are-systems-not-working-together"
       ]
     },
     {
@@ -1331,13 +768,15 @@
       "title": "Cycling through your life: Communicate, Adapt & Get shit done",
       "description": "Balancing communication, learning, and getting things done by tracking and limiting distractions from social media and browsers to improve productivity.",
       "tags": [
-        "distractions",
         "productivity",
-        "focus",
-        "time-management",
-        "whatsapp",
-        "facebook",
-        "instagram"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/the-mcycle",
+        "2017/invisible-elephant-shit",
+        "2017/devops-marketing",
+        "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+        "2021/didnt-do-shit"
       ]
     },
     {
@@ -1349,11 +788,14 @@
       "description": "Uninstalling WhatsApp to save 40 minutes daily and focus on deep, goal-oriented work by separating core activities from less important distractions.",
       "tags": [
         "productivity",
-        "time-management",
-        "distractions",
-        "whatsapp",
-        "focus",
-        "deep-work"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
+        "2019/today-i-open-sourced-nearly-20-of-my-codebase",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2017/justified-dopamine"
       ]
     },
     {
@@ -1364,11 +806,16 @@
       "title": "EAT CODE KITE REPEAT at the NOMAD INCUBATOR in KITESURF HEAVEN: TARIFA ESPAÑA",
       "description": "Setting up the Nomad Incubator in Tarifa, Spain - a community for software developers and entrepreneurs who share a passion for kitesurfing and coding.",
       "tags": [
-        "digital-nomad",
-        "kitesurfing",
+        "lifestyle",
         "productivity",
-        "coding",
-        "europe"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+        "2018/its-nyepi-in-bali-time-to-reflect",
+        "2017/the-laptop-of-a-nomad",
+        "2018/wet-code-and-inline-styles",
+        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day"
       ]
     },
     {
@@ -1380,8 +827,14 @@
       "description": "A metaphorical exploration of how people process information differently, comparing them to sheep, rocks, and fish in the river of spoken language to illustrate effective versus ineffective communication patterns.",
       "tags": [
         "philosophy",
-        "personal-development",
-        "mindfulness"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/time-effective-travel-lifestyle",
+        "2018/networking-coworking",
+        "2017/learn-language-having-fun",
+        "2019/changing-reachability-to-increase-productivity",
+        "2017/some-apps-i-like"
       ]
     },
     {
@@ -1393,8 +846,14 @@
       "description": "A short poetic reflection on true entrepreneurship inspired by Columbus, emphasizing the importance of taking risks and daring to do what others call stupidity to discover new truths.",
       "tags": [
         "entrepreneurship",
-        "philosophy",
-        "personal-development"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2020/my-new-startup-backpacking-tribe-is-taking-off",
+        "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
+        "2017/digital-ocean-and-ghost-fast-cms",
+        "2018/the-dark-side-of-globalization",
+        "2021/didnt-do-shit"
       ]
     },
     {
@@ -1405,11 +864,16 @@
       "title": "Is Facebook as addictive as Heroin?",
       "description": "A critical analysis comparing Facebook's addictive nature to heroin, examining how social media algorithms designed for user retention may be turning people into zombies with shortened attention spans and reduced real-world value.",
       "tags": [
-        "facebook",
-        "social-media",
-        "smartphone",
-        "distractions",
-        "technology-critique"
+        "philosophy",
+        "productivity",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-cant-quit-facebook",
+        "2020/what-facebook-should-do",
+        "2019/why-i-made-dunbar",
+        "2018/networking-coworking",
+        "2017/notification-zombies"
       ]
     },
     {
@@ -1420,11 +884,15 @@
       "title": "5 Reasons why Groningen is underrated as a place for Digital Nomads",
       "description": "Five compelling reasons why Groningen, Netherlands is an underrated destination for digital nomads, from affordable living and great coworking spaces to vibrant nightlife and a high concentration of talented students.",
       "tags": [
-        "digital-nomad",
-        "coworking",
-        "travel",
-        "europe",
-        "entrepreneurship"
+        "entrepreneurship",
+        "lifestyle"
+      ],
+      "relatedSlugs": [
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2017/why-i-write",
+        "2018/collaborations-in-the-coworking-space",
+        "2018/solo-dev-startup",
+        "2021/why-i-like-the-four-seasons-in-the-netherlands"
       ]
     },
     {
@@ -1435,11 +903,16 @@
       "title": "The habit of Change",
       "description": "A philosophical reflection on why developing a habit of change is essential in our rapidly evolving world, using the metaphor of a rock in a river to illustrate how adaptability creates resilience and growth.",
       "tags": [
-        "habits",
-        "personal-development",
+        "entrepreneurship",
         "philosophy",
-        "mindfulness",
-        "entrepreneurship"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
+        "2017/perfect-travel",
+        "2018/how-to-create-a-sustainable-world",
+        "2017/how-to-diminish-distractions",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
       ]
     },
     {
@@ -1451,10 +924,15 @@
       "description": "Lessons from working intensively on a startup about the importance of maintaining a broader perspective as a solo entrepreneur, balancing four key areas: learning, creating, networking, and sharing.",
       "tags": [
         "entrepreneurship",
-        "solo-entrepreneur",
-        "productivity",
-        "startup",
-        "personal-development"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2017/react-native-is-the-future",
+        "2017/why-i-write",
+        "2019/lean-life"
       ]
     },
     {
@@ -1465,11 +943,15 @@
       "title": "How to diminish distractions while being nomadic",
       "description": "Practical strategies to diminish distractions as a digital nomad, including blocking tools, creating habits, and maintaining focus despite constant change.",
       "tags": [
-        "productivity",
-        "focus",
-        "distractions",
-        "habits",
-        "digital-nomad"
+        "lifestyle",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
+        "2017/routine",
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+        "2017/some-apps-i-like"
       ]
     },
     {
@@ -1480,11 +962,16 @@
       "title": "I don't know or I don't flow",
       "description": "Embracing an uncertain travel lifestyle and going with the flow instead of rigid planning, finding balance between work focus and nomadic freedom.",
       "tags": [
-        "digital-nomad",
-        "travel",
-        "kitesurfing",
-        "personal-development",
-        "focus"
+        "lifestyle",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
+        "2017/time-effective-travel-lifestyle",
+        "2017/vietnam-ha-giang-cat-ba-mui-ne",
+        "2017/how-to-diminish-distractions"
       ]
     },
     {
@@ -1495,10 +982,15 @@
       "title": "Google makes us creative, but also more self-determined",
       "description": "How Google encourages creativity through positive feedback but creates echo chambers that make us more self-determined yet less open-minded.",
       "tags": [
-        "internet",
         "philosophy",
-        "technology-critique",
-        "personal-development"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/why-i-write",
+        "2019/hashtag-to-anything",
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2017/justified-dopamine",
+        "2020/my-new-startup-backpacking-tribe-is-taking-off"
       ]
     },
     {
@@ -1509,10 +1001,15 @@
       "title": "Elephant-shit",
       "description": "A critical examination of how commercial media prioritizes emotion-driven content over truth, using the metaphor of elephant shit to illustrate how news coverage often amplifies fear while ignoring more significant issues.",
       "tags": [
-        "social-media",
-        "technology-critique",
-        "internet",
-        "philosophy"
+        "philosophy",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2021/didnt-do-shit",
+        "2017/distractions",
+        "2023/social-computing",
+        "2017/justified-dopamine",
+        "2017/facebook-heroin"
       ]
     },
     {
@@ -1523,12 +1020,17 @@
       "title": "Justified Dopamine",
       "description": "Seeking dopamine from productive activities like work and exercise rather than quick hacks like social media, gaming, and sugar to align with long-term goals.",
       "tags": [
-        "dopamine",
+        "lifestyle",
+        "philosophy",
         "productivity",
-        "kitesurfing",
-        "habits",
-        "personal-development",
-        "mindfulness"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
+        "2021/didnt-do-shit",
+        "2020/what-facebook-should-do",
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2017/facebook-heroin"
       ]
     },
     {
@@ -1539,11 +1041,14 @@
       "title": "Langtang Nepal",
       "description": "A detailed trekking adventure diary through the Langtang region of Nepal, including a mountain bike journey, challenging off-trail hiking, sleeping outdoors in steep terrain, and crossing the Ganja La pass at high altitude.",
       "tags": [
-        "travel",
-        "nepal",
-        "asia",
-        "digital-nomad",
-        "fitness"
+        "lifestyle"
+      ],
+      "relatedSlugs": [
+        "2020/my-new-startup-backpacking-tribe-is-taking-off",
+        "2017/vietnam-ha-giang-cat-ba-mui-ne",
+        "2017/time-effective-travel-lifestyle",
+        "2017/working-offline",
+        "2018/high-code-quality"
       ]
     },
     {
@@ -1554,10 +1059,16 @@
       "title": "16 Ways To Learn A New Language While Having Fun",
       "description": "Sixteen practical methods to learn a new language through complete immersion using music, movies, apps, and social connections, making language acquisition fun and efficient without traditional classroom methods.",
       "tags": [
-        "apps",
-        "tools",
-        "personal-development",
-        "travel"
+        "lifestyle",
+        "philosophy",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2022/having-a-clean-mac-setup",
+        "2018/high-code-quality",
+        "2024/the-post-smartphone-era",
+        "2017/effective-communication"
       ]
     },
     {
@@ -1568,10 +1079,16 @@
       "title": "Nomadic Entrepreneurs Interview #1 - Tomas Laurinavicius",
       "description": "An interview with Lithuanian lifestyle entrepreneur Tomas Laurinavicius about his journey from self-taught designer to nomadic blogger, his mission to empower one million people, and tips for aspiring location-independent entrepreneurs.",
       "tags": [
-        "digital-nomad",
         "entrepreneurship",
-        "travel",
-        "personal-development"
+        "lifestyle",
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2017/how-to-diminish-distractions",
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2018/iproud",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
       ]
     },
     {
@@ -1582,10 +1099,16 @@
       "title": "4 ways nomadic entrepreneurs can reduce their Carbon Footprint",
       "description": "An analysis of how nomadic entrepreneurs can reduce their carbon footprint through shared facilities, public transport, and mindful consumption, despite the high emissions from flights.",
       "tags": [
-        "digital-nomad",
         "entrepreneurship",
-        "travel",
-        "minimalism"
+        "lifestyle",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/nomadic-entrepreneurs-interview-1-tomas-laurinavicius",
+        "2017/reverting-global-warming",
+        "2017/how-to-diminish-distractions",
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2018/iproud"
       ]
     },
     {
@@ -1596,13 +1119,15 @@
       "title": "Notification-zombies",
       "description": "A critique of how notifications turn people into zombies who lose control over their attention, with statistics on smartphone usage and a recommendation to turn off all notifications to reclaim mental freedom.",
       "tags": [
-        "smartphone",
-        "notifications",
-        "distractions",
         "productivity",
-        "social-media",
-        "facebook",
-        "instagram"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/facebook-heroin",
+        "2017/smartphone-attention-pollution",
+        "2020/what-facebook-should-do",
+        "2017/justified-dopamine",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
       ]
     },
     {
@@ -1613,10 +1138,16 @@
       "title": "What is the perfect way to study and work on the move?",
       "description": "A framework for working and studying while traveling, exploring the three phases of settling into a new location and how to maximize productivity through cultivating a habit of change.",
       "tags": [
-        "digital-nomad",
-        "travel",
-        "personal-development",
-        "habits"
+        "lifestyle",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/some-apps-i-like",
+        "2017/habit-of-change",
+        "2018/networking-coworking",
+        "2023/communify",
+        "2019/convince-freelance-projects-part-time"
       ]
     },
     {
@@ -1627,9 +1158,14 @@
       "title": "Purpose: Find your ikigai",
       "description": "A brief exploration of finding purpose through the Japanese concept of ikigai, the intersection of what you love, what you're good at, what the world needs, and what you can be paid for.",
       "tags": [
-        "philosophy",
-        "personal-development",
-        "happiness"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2023/communify",
+        "2023/innovateability",
+        "2018/how-to-create-a-sustainable-world",
+        "2017/be-conscious",
+        "2021/expanding-at-the-speed-of-light"
       ]
     },
     {
@@ -1640,12 +1176,14 @@
       "title": "My view on React Native and why I think it's the future",
       "description": "A comprehensive guide to React Native covering setup, tooling, libraries, and why it's the future of cross-platform development for web, Android, and iOS.",
       "tags": [
-        "react-native",
-        "javascript",
-        "programming",
-        "web-development",
-        "nodejs",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2018/should-you-go-web-or-native",
+        "2019/seven-mistakes-react-native-app",
+        "2018/the-expo-edge",
+        "2019/perfections-vs-speed"
       ]
     },
     {
@@ -1657,11 +1195,15 @@
       "description": "A reflective look back at 2017 as a year of learning React Native and JavaScript, documenting the journey from ideas and failed projects to finally achieving productive flow and being ready to ship real products.",
       "tags": [
         "entrepreneurship",
-        "programming",
-        "react-native",
-        "javascript",
-        "shipping",
-        "personal-development"
+        "philosophy",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2019/perfections-vs-speed",
+        "2019/why-i-made-dunbar",
+        "2017/and-then-i-turned-to-javascript"
       ]
     },
     {
@@ -1672,10 +1214,15 @@
       "title": "My solution to revert global warming is creating a status-symbol of your CO2 footprint: A simple MVP idea",
       "description": "A startup MVP idea to combat global warming by creating an app that turns carbon footprint reduction into a status symbol, gamifying sustainable lifestyle choices through social recognition and financial incentives.",
       "tags": [
-        "startup",
-        "business",
-        "philosophy",
-        "mvp"
+        "entrepreneurship",
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2018/the-mvp-challenge",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2019/human-directions-a-startup-idea",
+        "2019/poc-within-a-week",
+        "2023/regex-cheatcodes"
       ]
     },
     {
@@ -1686,11 +1233,16 @@
       "title": "Routine",
       "description": "A detailed breakdown of a productive daily routine for solo entrepreneurs combining morning workouts, focused coding sessions, kitesurfing, and evening reflection while avoiding common pitfalls like analysis paralysis and social media distractions.",
       "tags": [
-        "productivity",
-        "habits",
-        "focus",
-        "solo-entrepreneur",
-        "kitesurfing"
+        "entrepreneurship",
+        "lifestyle",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2018/its-nyepi-in-bali-time-to-reflect",
+        "2017/how-to-diminish-distractions",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2019/my-coding-principles"
       ]
     },
     {
@@ -1702,9 +1254,14 @@
       "description": "A prediction about the potential emergence of a distributed deep learning virus that could achieve human-level intelligence by utilizing multiple computers, exploring the implications and preventive measures needed to avoid an AI threat scenario.",
       "tags": [
         "ai",
-        "machine-learning",
-        "technology-critique",
         "philosophy"
+      ],
+      "relatedSlugs": [
+        "2024/internetless-software-development",
+        "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
+        "2019/human-directions-a-startup-idea",
+        "2023/scrapingbee-gpt/index",
+        "2019/deep-dream-devs"
       ]
     },
     {
@@ -1715,11 +1272,15 @@
       "title": "How to solve attention pollution and cure your love/hate relationship with your smartphone",
       "description": "An analysis of attention pollution caused by smartphones and how internet enables distractions across all time and space, arguing that we should focus only on information that drives action here and now.",
       "tags": [
-        "smartphone",
-        "distractions",
         "productivity",
-        "social-media",
-        "mindfulness"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2024/the-post-smartphone-era",
+        "2017/notification-zombies",
+        "2019/the-new-hackers",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2017/facebook-heroin"
       ]
     },
     {
@@ -1730,10 +1291,16 @@
       "title": "The best apps to study and work on the move",
       "description": "Essential apps and tools for nomadic entrepreneurs, from banking and transportation to communication, productivity, and learning platforms.",
       "tags": [
-        "apps",
-        "tools",
-        "digital-nomad",
-        "productivity"
+        "lifestyle",
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/perfect-travel",
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2017/time-effective-travel-lifestyle",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint"
       ]
     },
     {
@@ -1745,11 +1312,15 @@
       "description": "Moving beyond the pursuit of happiness by understanding and mastering our impulses, creating stable habits to focus on bigger issues like the planet.",
       "tags": [
         "philosophy",
-        "happiness",
-        "consciousness",
-        "dopamine",
-        "mindfulness",
-        "personal-development"
+        "productivity",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/the-laptop-of-a-nomad",
+        "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
+        "2017/justified-dopamine",
+        "2018/networking-coworking",
+        "2017/invisible-elephant-shit"
       ]
     },
     {
@@ -1760,9 +1331,15 @@
       "title": "The Best Co-Working and Flexworking spaces in Groningen 2017",
       "description": "A comprehensive guide to the best coworking and flexworking spaces in Groningen, from Launch Café to The Big Building and social work cafés.",
       "tags": [
-        "coworking",
         "entrepreneurship",
-        "europe"
+        "lifestyle"
+      ],
+      "relatedSlugs": [
+        "2017/groningen-digital-nomads",
+        "2017/time-effective-travel-lifestyle",
+        "2017/some-apps-i-like",
+        "2018/networking-coworking",
+        "2017/real-artists-ship"
       ]
     },
     {
@@ -1773,11 +1350,15 @@
       "title": "Internet connects the unconnected, but disconnects the connected",
       "description": "A philosophical exploration of how the internet paradoxically brings distant people together while driving physically close people apart, contributing to rising individualism and weaker community ties globally.",
       "tags": [
-        "internet",
-        "social-media",
         "philosophy",
-        "technology-critique",
-        "facebook"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2024/internetless-software-development",
+        "2023/scrapingbee-gpt/index",
+        "2017/skynet",
+        "2019/why-i-made-dunbar",
+        "2018/the-dark-side-of-globalization"
       ]
     },
     {
@@ -1788,11 +1369,16 @@
       "title": "Possessions for happiness?",
       "description": "The relationship between possessions and freedom as a digital nomad - owning only what's necessary for work and happiness while traveling with 11 kilos.",
       "tags": [
-        "digital-nomad",
-        "minimalism",
-        "travel",
+        "lifestyle",
         "productivity",
-        "tools"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/the-basis-what-comes-after-happiness",
+        "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth",
+        "2017/about-cleaning-up",
+        "2017/perfect-travel",
+        "2017/how-to-diminish-distractions"
       ]
     },
     {
@@ -1803,9 +1389,16 @@
       "title": "Cycling through your life part III: The μCycle",
       "description": "A conceptual framework for personal growth through rapid iteration, creating a feedback loop that cycles through dreaming, planning, learning, creating, and sharing to accelerate learning and development.",
       "tags": [
-        "personal-development",
-        "productivity",
-        "entrepreneurship"
+        "entrepreneurship",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+        "2017/devops-marketing",
+        "2017/distractions",
+        "2019/lean-life",
+        "2017/vietnam-ha-giang-cat-ba-mui-ne"
       ]
     },
     {
@@ -1816,12 +1409,15 @@
       "title": "The Best Sustainable Travel Lifestyle: about time-effective organization",
       "description": "How to organize a sustainable travel lifestyle while working 8 hours a day, including strategies for choosing accommodation, coworking spaces, and minimizing commute time.",
       "tags": [
-        "digital-nomad",
-        "travel",
-        "productivity",
-        "time-management",
-        "coworking",
-        "fitness"
+        "lifestyle",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2018/how-to-create-a-sustainable-world",
+        "2017/effective-communication",
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2017/some-apps-i-like",
+        "2020/my-new-startup-backpacking-tribe-is-taking-off"
       ]
     },
     {
@@ -1832,11 +1428,16 @@
       "title": "Time management",
       "description": "A framework for managing screen time and prioritizing tasks as an entrepreneur by blocking distracting websites during specific periods, applying the Pareto Principle to focus 80% of time on the most important work.",
       "tags": [
-        "productivity",
-        "time-management",
-        "focus",
         "entrepreneurship",
-        "tools"
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/i-just-made-an-app-in-26-hours",
+        "2023/domain-control-panel",
+        "2019/about-single-tasking-and-window-setup",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2019/hashtag-to-anything"
       ]
     },
     {
@@ -1847,11 +1448,14 @@
       "title": "Vietnam through my eyes",
       "description": "Two months of adventure in Vietnam, from remote northern villages in Hà Giang to kitesurfing in Mui Ne, learning to go with the flow and live authentically.",
       "tags": [
-        "travel",
-        "digital-nomad",
-        "vietnam",
-        "asia",
-        "kitesurfing"
+        "lifestyle"
+      ],
+      "relatedSlugs": [
+        "2017/i-dont-know",
+        "2017/the-mcycle",
+        "2019/install-an-express-app-on-a-remote-server",
+        "2017/langtang-nepal",
+        "2017/time-effective-travel-lifestyle"
       ]
     },
     {
@@ -1862,11 +1466,16 @@
       "title": "What coding teached me about business (and vice versa)",
       "description": "Six key principles learned from coding that apply to business: structure, logic, efficiency, automation, independence, and transparency.",
       "tags": [
-        "programming",
-        "business",
         "entrepreneurship",
         "philosophy",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/my-coding-principles",
+        "2023/immerse-yourself-in-ai",
+        "2018/high-code-quality",
+        "2021/things-i-learned-making-the-second-version-of-friendtime",
+        "2024/the-post-smartphone-era"
       ]
     },
     {
@@ -1877,11 +1486,15 @@
       "title": "What if dopamine triggers fuck up your long-term productivity?",
       "description": "An exploration of how short-term dopamine triggers like social media and food act as distractions that harm long-term productivity, arguing for eliminating these distractions rather than relying on willpower to resist them.",
       "tags": [
-        "dopamine",
         "productivity",
-        "distractions",
-        "social-media",
-        "focus"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/justified-dopamine",
+        "2021/didnt-do-shit",
+        "2017/how-to-diminish-distractions",
+        "2017/distractions",
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like"
       ]
     },
     {
@@ -1893,8 +1506,14 @@
       "description": "Four key reasons why writing and blogging benefits entrepreneurs: promoting openness, helping achieve goals through accountability, serving as efficient networking, and organizing thoughts effectively.",
       "tags": [
         "entrepreneurship",
-        "personal-development",
-        "business"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2018/solo-dev-startup",
+        "2017/groningen-digital-nomads",
+        "2017/wordpress-versus-ghost",
+        "2017/hawk-view-entrepreneur-needs",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
       ]
     },
     {
@@ -1905,10 +1524,16 @@
       "title": "Why openness from day one is so damn important for solo entrepreneurs in software",
       "description": "Four reasons why solo software entrepreneurs should share their startup journey openly from day one, including getting valuable feedback, mutual learning, social accountability, and maintaining happiness during long development cycles.",
       "tags": [
-        "solo-entrepreneur",
         "entrepreneurship",
-        "open-source",
-        "personal-development"
+        "philosophy",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2018/solo-dev-startup",
+        "2017/hawk-view-entrepreneur-needs",
+        "2017/why-i-write",
+        "2018/iproud"
       ]
     },
     {
@@ -1919,11 +1544,14 @@
       "title": "WordPress versus Ghost - Read this if you're serious about writing",
       "description": "A comprehensive comparison between WordPress and Ghost CMS from a blogger's perspective, arguing that Ghost's modern Node.js architecture makes it superior for serious writers and journalists despite requiring more technical knowledge.",
       "tags": [
-        "wordpress",
-        "ghost",
-        "web-development",
-        "nodejs",
         "programming"
+      ],
+      "relatedSlugs": [
+        "2017/digital-ocean-and-ghost-fast-cms",
+        "2019/ghost-cloudflare-ssl",
+        "2017/why-i-write",
+        "2019/qualitative-versus-quantitative-scaling-in-your-startup",
+        "2018/solo-dev-startup"
       ]
     },
     {
@@ -1934,12 +1562,16 @@
       "title": "About working offline",
       "description": "An experiment in setting up a complete offline development environment for React Native to enable productive programming during multi-day mountain treks in Bulgaria, demonstrating that remote work doesn't require internet.",
       "tags": [
+        "lifestyle",
         "productivity",
-        "react-native",
-        "programming",
-        "focus",
-        "digital-nomad",
-        "travel"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2017/perfect-travel",
+        "2017/time-effective-travel-lifestyle",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
       ]
     },
     {
@@ -1951,12 +1583,17 @@
       "description": "A personal manifesto outlining ambitious 2018 goals, using fear-setting and extreme accountability measures to build two apps while pursuing a vision of working productively in paradise.",
       "tags": [
         "entrepreneurship",
-        "personal-development",
+        "lifestyle",
+        "philosophy",
         "productivity",
-        "habits",
-        "programming",
-        "digital-nomad",
-        "kitesurfing"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2026/parallel-role-2026",
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2019/how-to-code-more-and-plan-less",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2019/how-i-became-10x-as-productive-within-a-month"
       ]
     },
     {
@@ -1967,11 +1604,16 @@
       "title": "The Multiple Personality Coder",
       "description": "A humorous exploration of different mental modes developers shift between while coding, from debugging to perfecting UI, illustrated through fictional programmer personalities.",
       "tags": [
-        "programming",
-        "coding",
+        "philosophy",
         "productivity",
-        "dx",
-        "personal-development"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/notes-of-a-programmer-apollo-store-updates",
+        "2019/my-coding-principles",
+        "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2018/pivot-creation-centric-metric-productivity"
       ]
     },
     {
@@ -1982,12 +1624,16 @@
       "title": "Collaborations in the coworking space often rely on coincidence",
       "description": "Observations on how professional collaborations in coworking spaces still rely heavily on coincidence, and why location-based networking platforms are needed for digital nomads.",
       "tags": [
-        "coworking",
-        "digital-nomad",
-        "bali",
-        "asia",
         "entrepreneurship",
-        "networking"
+        "lifestyle",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/groningen-digital-nomads",
+        "2018/networking-coworking",
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2017/invisible-elephant-shit",
+        "2017/time-effective-travel-lifestyle"
       ]
     },
     {
@@ -1998,12 +1644,14 @@
       "title": "Creating a performant GraphQL Server - node is harder than I thought!",
       "description": "An exploration of performance optimization strategies for GraphQL servers built with Node.js, covering benchmarking, database pooling, Dataloader, and production deployment techniques.",
       "tags": [
-        "graphql",
-        "nodejs",
-        "programming",
-        "devops",
-        "sequelize",
-        "performance"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/scaling-vertically",
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
+        "2019/install-an-express-app-on-a-remote-server"
       ]
     },
     {
@@ -2014,11 +1662,15 @@
       "title": "Publishing your expo app to both app stores",
       "description": "A detailed step-by-step guide for publishing Expo apps to the Google Play Store and Apple App Store, covering configuration, builds, credentials, screenshots, and updates.",
       "tags": [
-        "expo",
-        "react-native",
-        "shipping",
-        "devops",
-        "apps"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2018/the-expo-edge",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/migrating-to-expo"
       ]
     },
     {
@@ -2029,11 +1681,14 @@
       "title": "Handling time on your server, using different ORM's in node: Sequelize and mysql2. Beware!",
       "description": "A technical deep-dive into timezone handling issues when using Sequelize vs mysql2 in Node.js, exploring how different ORMs process timestamps differently and cause validation problems.",
       "tags": [
-        "nodejs",
-        "sequelize",
-        "programming",
-        "devops",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/how-to-connect-your-app-to-a-server",
+        "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
+        "2019/scaling-vertically",
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2019/install-an-express-app-on-a-remote-server"
       ]
     },
     {
@@ -2044,11 +1699,15 @@
       "title": "My 7 key ways to keep my Code Quality Ultra High",
       "description": "Seven key principles for maintaining high code quality, balancing concerns like DRY principles, naming conventions, external dependencies, and reducing time-to-context.",
       "tags": [
-        "programming",
-        "coding",
-        "dx",
-        "open-source",
-        "productivity"
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/my-coding-principles",
+        "2018/wet-code-and-inline-styles",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2019/how-to-code-more-and-plan-less",
+        "2019/code-ownership"
       ]
     },
     {
@@ -2059,12 +1718,14 @@
       "title": "How to connect your app to a server?",
       "description": "Technical considerations for connecting React Native apps to servers, covering SSL requirements, CloudFlare configuration, error handling, and connection testing strategies.",
       "tags": [
-        "react-native",
-        "graphql",
-        "apollo",
-        "nodejs",
-        "devops",
         "programming"
+      ],
+      "relatedSlugs": [
+        "2019/install-an-express-app-on-a-remote-server",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2019/ghost-cloudflare-ssl",
+        "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
+        "2018/expo-standalone-publishing"
       ]
     },
     {
@@ -2075,10 +1736,15 @@
       "title": "How to create a sustainable world?",
       "description": "A philosophical exploration of humanity's environmental impact and potential solutions, discussing climate-control, evolution-control, and population management as strategies for creating a sustainable future.",
       "tags": [
-        "philosophy",
-        "future-of-work",
         "ai",
-        "technology-critique"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2017/time-effective-travel-lifestyle",
+        "2021/the-evolution-revolution",
+        "2023/domain-control-panel",
+        "2019/the-ultimate-equilibrium",
+        "2018/its-nyepi-in-bali-time-to-reflect"
       ]
     },
     {
@@ -2089,12 +1755,16 @@
       "title": "Meet iProud: The productivity app for entrepreneurs!",
       "description": "Introducing iProud, a productivity to-do app for entrepreneurs built in 2 weeks after 6 months of learning, designed to help users make lists, complete tasks, and connect with others.",
       "tags": [
-        "react-native",
-        "productivity",
-        "apps",
         "entrepreneurship",
-        "mvp",
-        "shipping"
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
       ]
     },
     {
@@ -2105,13 +1775,16 @@
       "title": "It's Nyepi in Bali. Time to reflect",
       "description": "A personal reflection on maintaining a disciplined EAT, CODE, KITE, REPEAT routine in Bali, setting ambitious goals for building community software and creating sustainable technology solutions.",
       "tags": [
-        "bali",
-        "asia",
-        "travel",
-        "personal-development",
-        "habits",
-        "productivity",
-        "kitesurfing"
+        "lifestyle",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2017/eat-code-kite-repeat-nomad-incubator-kitesurf-heaven-tarifa",
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+        "2017/routine",
+        "2018/how-to-create-a-sustainable-world"
       ]
     },
     {
@@ -2122,11 +1795,15 @@
       "title": "Must have Tooling & Programs",
       "description": "A quick overview of essential development tools and productivity apps for building React Native applications, including VSCode, ESLint, Prettier, RescueTime, and WakaTime.",
       "tags": [
-        "tools",
         "productivity",
-        "programming",
-        "dx",
-        "apps"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/code-ownership",
+        "2017/react-native-is-the-future",
+        "2017/some-apps-i-like",
+        "2019/perfections-vs-speed",
+        "2019/seven-mistakes-react-native-app"
       ]
     },
     {
@@ -2137,12 +1814,16 @@
       "title": "In search for the perfect Communication App for Co-Working spaces: Slack, Facebook groups, and beyond",
       "description": "An analysis of communication tools in coworking spaces, comparing Slack, Facebook Groups, and LinkedIn, and introducing Communify as a purpose-built platform for fostering local collaboration and community.",
       "tags": [
-        "coworking",
-        "digital-nomad",
         "entrepreneurship",
-        "networking",
-        "business",
+        "lifestyle",
         "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-cant-quit-facebook",
+        "2020/what-facebook-should-do",
+        "2017/the-best-co-working-and-flexworking-spaces-in-groningen-2017",
+        "2017/facebook-heroin",
+        "2017/effective-communication"
       ]
     },
     {
@@ -2153,11 +1834,14 @@
       "title": "[Notes of a programmer]: Apollo store updates",
       "description": "Technical notes on the four methods of updating Apollo's client-side cache, comparing automatic updates, refetchQueries, manual store manipulation, and optimistic responses.",
       "tags": [
-        "apollo",
-        "graphql",
-        "programming",
-        "nodejs",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/workflow-query-creation-react-apollo",
+        "2018/expo-standalone-publishing",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/ghost-cloudflare-ssl"
       ]
     },
     {
@@ -2168,12 +1852,16 @@
       "title": "Pivoting to a creation-centric metric of productivity",
       "description": "A shift in measuring productivity from passive learning and time spent to active creation and hands-on coding, introducing the Groundhog Day 100 Days of Code challenge.",
       "tags": [
+        "philosophy",
         "productivity",
-        "coding",
-        "focus",
-        "deep-work",
-        "personal-development",
-        "habits"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/workflow-query-creation-react-apollo",
+        "2018/the-mvp-challenge",
+        "2023/domain-control-panel",
+        "2019/how-to-code-more-and-plan-less",
+        "2019/my-coding-principles"
       ]
     },
     {
@@ -2184,11 +1872,14 @@
       "title": "React Native App Structure: Fat-, pure-, wrapper- or screen-components?",
       "description": "An exploration of component organization strategies in React Native, introducing a folder structure based on component types including fat, pure, screen, wrapper, and universal components.",
       "tags": [
-        "react-native",
-        "programming",
-        "coding",
-        "dx",
-        "apollo"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/big-reason-to-use-react-navigation-over-wix-navigation",
+        "2019/about-single-tasking-and-window-setup",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2018/should-you-go-web-or-native",
+        "2017/react-native-is-the-future"
       ]
     },
     {
@@ -2199,12 +1890,14 @@
       "title": "Setting up a GraphQL Backend without GraphCool",
       "description": "A comprehensive guide to setting up your own GraphQL backend with Node.js, Express, Sequelize, and MySQL, including deployment to a remote server with Nginx and SSL configuration.",
       "tags": [
-        "graphql",
-        "nodejs",
-        "devops",
-        "programming",
-        "sequelize",
-        "apollo"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
+        "2019/install-an-express-app-on-a-remote-server",
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2019/scaling-vertically",
+        "2019/chat-baas"
       ]
     },
     {
@@ -2215,10 +1908,15 @@
       "title": "Shortcuts Cheatsheet",
       "description": "A comprehensive cheatsheet of keyboard shortcuts and terminal commands for VSCode, MacOS, React Native Simulator, Chrome DevTools, and common Git workflows.",
       "tags": [
-        "programming",
-        "tools",
         "productivity",
-        "dx"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/regex-cheatcodes",
+        "2024/internetless-software-development",
+        "2017/react-native-is-the-future",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer"
       ]
     },
     {
@@ -2229,11 +1927,15 @@
       "title": "Should you go web or native?",
       "description": "A decision framework for choosing between web and native app development, evaluating capabilities, platform preferences, user acquisition, retention strategies, and cost considerations including PWAs versus React Native.",
       "tags": [
-        "react-native",
-        "web-development",
-        "programming",
-        "startup",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/react-native-is-the-future",
+        "2018/the-expo-edge",
+        "2019/seven-mistakes-react-native-app",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2019/how-much-does-it-cost-to-build-an-app"
       ]
     },
     {
@@ -2244,14 +1946,15 @@
       "title": "The rise of the Solo Dev Startup — 7 Reasons why writing useful apps on your own becomes moore easy",
       "description": "An analysis of seven technological and cultural trends making solo app development increasingly viable, from React Native and Apollo GraphQL to open-source libraries and Moore's law.",
       "tags": [
-        "solo-entrepreneur",
-        "react-native",
-        "apollo",
-        "graphql",
-        "expo",
-        "startup",
-        "programming",
-        "open-source"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/why-i-write",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2020/dev-lifecycle",
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2017/hawk-view-entrepreneur-needs"
       ]
     },
     {
@@ -2262,10 +1965,15 @@
       "title": "The dark side of globalization",
       "description": "A critical reflection on the risks of global internet uniformity and platform manipulation, arguing that decentralized regional diversity provides safer experimentation for humanity.",
       "tags": [
-        "internet",
         "philosophy",
-        "technology-critique",
         "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
+        "2017/facebook-heroin",
+        "2020/dev-lifecycle",
+        "2017/justified-dopamine"
       ]
     },
     {
@@ -2276,11 +1984,14 @@
       "title": "The Expo Edge - why you should choose Expo over bare React Native",
       "description": "A comprehensive comparison of Expo versus bare React Native and ExpoKit, outlining advantages like build automation and OTA updates, and disadvantages including app size constraints.",
       "tags": [
-        "expo",
-        "react-native",
-        "programming",
-        "devops",
-        "dx"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/migrating-to-expo",
+        "2018/expo-standalone-publishing",
+        "2018/should-you-go-web-or-native",
+        "2018/the-mvp-challenge",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app"
       ]
     },
     {
@@ -2291,12 +2002,16 @@
       "title": "The importance of rooms lies in hyperpolar immersion",
       "description": "Exploring how different physical and digital environments can create focused immersion states for various goals, especially when living in limited spaces or traveling.",
       "tags": [
-        "productivity",
-        "focus",
-        "habits",
-        "coworking",
-        "mindfulness",
-        "personal-development"
+        "lifestyle",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2023/controllable-immersion",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2017/learn-language-having-fun",
+        "2017/entrepreneurship",
+        "2017/groningen-digital-nomads"
       ]
     },
     {
@@ -2307,10 +2022,15 @@
       "title": "The most complex app I ever made, made it to both app stores!",
       "description": "A brief celebration of successfully launching MasterCrimeZ to both iOS App Store and Google Play Store after 4 months of development.",
       "tags": [
-        "react-native",
-        "programming",
-        "shipping",
-        "app product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/expo-standalone-publishing",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/why-i-made-dunbar",
+        "2019/seven-mistakes-react-native-app",
+        "2019/forcing-your-app-users-to-update-the-app"
       ]
     },
     {
@@ -2321,15 +2041,15 @@
       "title": "The MVP Challenge - From 0 to MVP in 100 days: Using Expo",
       "description": "A comprehensive guide to building an MVP in 100 days using React Native and Expo, covering coding style decisions, architecture choices, work ethic, and a detailed workflow from setup to launch.",
       "tags": [
-        "mvp",
-        "react-native",
-        "expo",
-        "apollo",
-        "graphql",
-        "nodejs",
-        "programming",
-        "startup",
-        "shipping"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/poc-within-a-week",
+        "2018/the-expo-edge",
+        "2017/reverting-global-warming",
+        "2018/pivot-creation-centric-metric-productivity",
+        "2019/migrating-to-expo"
       ]
     },
     {
@@ -2340,11 +2060,15 @@
       "title": "Wet code and inline styles",
       "description": "A controversial take on coding practices advocating for inline styles and WET code over DRY principles to prioritize development speed and reduce abstraction overhead.",
       "tags": [
-        "programming",
-        "coding",
-        "react-native",
-        "dx",
-        "productivity"
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/high-code-quality",
+        "2019/code-ownership",
+        "2019/how-to-code-more-and-plan-less",
+        "2019/my-coding-principles",
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters"
       ]
     },
     {
@@ -2355,12 +2079,16 @@
       "title": "Why I went to Bali and why I don’t know where I’m going next",
       "description": "A reflection on the concept of intermittent hyper immersion shifts and how regularly changing environments accelerates personal growth and learning through challenging assumptions.",
       "tags": [
-        "bali",
-        "asia",
-        "digital-nomad",
-        "travel",
-        "personal-development",
-        "habits"
+        "lifestyle",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/i-dont-know",
+        "2018/its-nyepi-in-bali-time-to-reflect",
+        "2019/convince-freelance-projects-part-time",
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2017/react-native-is-the-future"
       ]
     },
     {
@@ -2371,11 +2099,15 @@
       "title": "Workflow query creation (React Apollo)",
       "description": "A step-by-step workflow for creating GraphQL queries in a full-stack React Apollo application, from schema definition to client-side implementation.",
       "tags": [
-        "apollo",
-        "graphql",
-        "react-native",
-        "programming",
-        "workflow"
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/notes-of-a-programmer-apollo-store-updates",
+        "2018/pivot-creation-centric-metric-productivity",
+        "2019/migrating-to-expo",
+        "2019/never-go-down",
+        "2023/creating-a-resizer-in-pure-js"
       ]
     },
     {
@@ -2387,9 +2119,14 @@
       "description": "Why single tasking with one screen in full-screen mode may be more productive than multi-screen setups for programmers seeking better focus and fewer distractions.",
       "tags": [
         "productivity",
-        "focus",
-        "deep-work",
-        "tools"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2022/having-a-clean-mac-setup",
+        "2023/the-single-server-dream",
+        "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
+        "2019/scaling-vertically",
+        "2017/time-management"
       ]
     },
     {
@@ -2401,10 +2138,14 @@
       "description": "A reflection on how AI and machine learning will soon understand us better than we know ourselves, leading to personal AI advisors that could transform decision-making and human behavior.",
       "tags": [
         "ai",
-        "machine-learning",
-        "philosophy",
-        "future-of-work",
-        "technology-critique"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2019/human-network-explosion",
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2019/scaling-vertically",
+        "2020/know-thyself-but-how",
+        "2023/social-computing"
       ]
     },
     {
@@ -2415,9 +2156,14 @@
       "title": "Application Loader gone in XCode 11? This is how you upload your app now",
       "description": "How to upload your iOS app after Apple removed Application Loader in Xcode 11 by using the Transporter app instead.",
       "tags": [
-        "programming",
-        "tools",
-        "react-native"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/expo-standalone-publishing",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/how-much-does-it-cost-to-build-an-app"
       ]
     },
     {
@@ -2428,9 +2174,14 @@
       "title": "Big reason to use React navigation over Wix navigation",
       "description": "Why React Navigation's component-based approach is fundamentally better than Wix Navigation's registerComponent method for managing wrapper components and screen mounting.",
       "tags": [
-        "react-native",
-        "programming",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/upgrading-from-wix-navigation-v1-to-wix-navigation-v2-or-react-navigation-v3",
+        "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
+        "2019/human-directions-a-startup-idea",
+        "2017/react-native-is-the-future",
+        "2023/creating-a-resizer-in-pure-js"
       ]
     },
     {
@@ -2441,10 +2192,14 @@
       "title": "Changing reachability to increase productivity",
       "description": "Increasing coding productivity from 4-5 hours to 6+ hours per day by blocking communication channels on the laptop and keeping the phone physically distant.",
       "tags": [
-        "productivity",
-        "focus",
-        "distractions",
-        "time-management"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/my-coding-principles",
+        "2019/screentime-update-april-2019",
+        "2023/innovateability"
       ]
     },
     {
@@ -2455,9 +2210,15 @@
       "title": "Chat-BaaS: Chat Backend as a Service",
       "description": "A startup idea for Chat Backend as a Service that provides universal chat functionality with open source front-end components and automated scaling for React Native and Node JS apps.",
       "tags": [
-        "programming",
-        "startup",
-        "business"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2019/human-directions-a-startup-idea",
+        "2018/react-native-app-structure-fat-pure-wrapper-screen-components",
+        "2019/scaling",
+        "2019/qualitative-versus-quantitative-scaling-in-your-startup"
       ]
     },
     {
@@ -2468,11 +2229,16 @@
       "title": "Why code ownership is a must for agile development",
       "description": "Exploring why code ownership is essential for agile development and how feature ownership can diminish inefficiencies and bottlenecks in development teams.",
       "tags": [
-        "programming",
-        "dx",
+        "entrepreneurship",
         "productivity",
-        "business",
-        "solo-entrepreneur"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
+        "2018/wet-code-and-inline-styles",
+        "2018/high-code-quality",
+        "2019/how-to-code-more-and-plan-less",
+        "2017/react-native-is-the-future"
       ]
     },
     {
@@ -2483,9 +2249,14 @@
       "title": "How to convince your next freelance project that you can work parttime",
       "description": "How to convince companies that working part-time on multiple projects can actually improve focus, productivity, and value through cross-project learning and dedicated work days.",
       "tags": [
-        "entrepreneurship",
-        "business",
-        "solo-entrepreneur"
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2017/perfect-travel",
+        "2017/some-apps-i-like",
+        "2017/devops-marketing",
+        "2017/the-mcycle"
       ]
     },
     {
@@ -2496,11 +2267,15 @@
       "title": "Daylight is good for me",
       "description": "An experimental approach to maximizing daylight exposure and restructuring the day into four 6-hour quarters to improve productivity, energy levels, and overall well-being.",
       "tags": [
-        "personal-development",
-        "habits",
-        "productivity",
-        "time-management",
-        "philosophy"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+        "2021/why-i-like-the-four-seasons-in-the-netherlands",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2017/how-to-diminish-distractions",
+        "2019/my-7-levels-of-freedom-to-minimise-stress-doubt-and-regret-and-maximise-possibility-happiness-and-growth"
       ]
     },
     {
@@ -2512,8 +2287,14 @@
       "description": "Exploring how predictive programming using neural networks could revolutionize software development and potentially reduce the demand for traditional programmers.",
       "tags": [
         "entrepreneurship",
-        "coworking",
-        "travel"
+        "lifestyle"
+      ],
+      "relatedSlugs": [
+        "2019/i-saw-the-future-in-detail",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2017/skynet",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2021/didnt-do-shit"
       ]
     },
     {
@@ -2525,8 +2306,14 @@
       "description": "A vision for affordable pod-based co-living that solves housing crises and loneliness through rating systems, noise-canceling technology, and community-focused design.",
       "tags": [
         "philosophy",
-        "minimalism",
-        "personal-development"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2021/quit-job",
+        "2020/live-in-harmony-with-animals",
+        "2024/why-are-systems-not-working-together",
+        "2018/its-nyepi-in-bali-time-to-reflect",
+        "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion"
       ]
     },
     {
@@ -2537,11 +2324,15 @@
       "title": "Forcing your app users to update the app",
       "description": "A guide on implementing version control in your mobile app to force users to update when needed, using backend endpoints and update screens with over-the-air or store updates.",
       "tags": [
-        "react-native",
-        "expo",
-        "programming",
-        "devops",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/screentime-update-april-2019",
+        "2018/expo-standalone-publishing",
+        "2019/processing-feedback-of-your-users-in-your-app-hockeyapp-intercom-whatsapp",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/the-dis-advantages-of-making-your-app-invite-only"
       ]
     },
     {
@@ -2552,10 +2343,14 @@
       "title": "How to use CloudFlare with Ghost with automatic SSL",
       "description": "Setting up Ghost CMS with CloudFlare's automatic SSL using flexible encryption mode and proper nginx configuration to avoid redirect loops.",
       "tags": [
-        "programming",
-        "devops",
-        "ghost",
-        "tools"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/wordpress-versus-ghost",
+        "2017/digital-ocean-and-ghost-fast-cms",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2025/making-a-continuous-audio-playlist-for-thgttg",
+        "2018/setting-up-a-graphql-backend-without-graphcool"
       ]
     },
     {
@@ -2566,9 +2361,15 @@
       "title": "The Hammock Experiment",
       "description": "Experimenting with sleeping in a hammock for a week and discovering six unexpected benefits including better air flow, easier cleaning, and improved sleep quality.",
       "tags": [
-        "minimalism",
-        "productivity",
-        "personal-development"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2019/poc-within-a-week",
+        "2017/i-dont-know",
+        "2017/working-offline",
+        "2018/high-code-quality"
       ]
     },
     {
@@ -2579,11 +2380,14 @@
       "title": "#to{anything}",
       "description": "A simple productivity technique using hashtags like #toRemember, #toSearch, and #toSay to batch similar tasks together and become more self-reflective and less impulsive during work.",
       "tags": [
-        "productivity",
-        "habits",
-        "focus",
-        "workflow",
-        "time-management"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/internet-makes-us-creative",
+        "2023/gpt-classification",
+        "2017/time-management",
+        "2019/how-to-code-more-and-plan-less",
+        "2019/how-i-became-10x-as-productive-within-a-month"
       ]
     },
     {
@@ -2594,9 +2398,15 @@
       "title": "How got get your app under control? Remove wildgrow, KISS, monolithize",
       "description": "How to regain control of a clumsy startup codebase by simplifying development ecosystems, using JavaScript only, vertical scaling, and considering monoliths over microservices.",
       "tags": [
-        "programming",
-        "react-native",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/domain-control-panel",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2018/how-to-create-a-sustainable-world",
+        "2019/how-much-does-it-cost-to-build-an-app",
+        "2018/expo-standalone-publishing"
       ]
     },
     {
@@ -2607,10 +2417,15 @@
       "title": "How I'm going to try to become 10x as productive within a month",
       "description": "Implementing extreme productivity rules including browser tab limits, locked Freedom.to mode, phone delegation, and codebase-first development to achieve 70 hours of coding per week.",
       "tags": [
-        "productivity",
-        "focus",
-        "personal-development",
-        "time-management"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/poc-within-a-week",
+        "2019/migrating-to-expo",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2021/quit-job"
       ]
     },
     {
@@ -2621,8 +2436,14 @@
       "title": "About scaling horizontally without sharding: How many RPS are possible without sharding? Is this between-step worth it?",
       "description": "Analyzing the feasibility and bottlenecks of horizontal scaling without sharding using multiple nodes with a single MySQL database and load balancing.",
       "tags": [
-        "programming",
-        "devops"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/scaling",
+        "2019/scaling-vertically",
+        "2017/and-then-i-turned-to-javascript",
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2024/internetless-software-development"
       ]
     },
     {
@@ -2633,11 +2454,15 @@
       "title": "How much does it cost to build an app?",
       "description": "Principles for keeping app development costs low by focusing on your USP, using React Native, maintaining a simple development environment, and avoiding premature scaling.",
       "tags": [
-        "react-native",
-        "startup",
-        "business",
-        "mvp",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/my-coding-principles",
+        "2018/should-you-go-web-or-native",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2018/expo-standalone-publishing",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores"
       ]
     },
     {
@@ -2648,9 +2473,16 @@
       "title": "The solution to the PO Fallacy - How to code more, and plan less",
       "description": "Overcoming the PO Fallacy by moving todos into the codebase instead of GitHub to reduce context-switching and increase time spent coding versus planning.",
       "tags": [
-        "programming",
+        "entrepreneurship",
         "productivity",
-        "shipping"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/wet-code-and-inline-styles",
+        "2018/high-code-quality",
+        "2019/code-ownership",
+        "2018/2018-year-of-creation",
+        "2017/reverting-global-warming"
       ]
     },
     {
@@ -2661,9 +2493,14 @@
       "title": "How to scrape public information from LinkedIn, Facebook and Twitter using Javascript",
       "description": "A technical guide to web scraping using Puppeteer and JavaScript to extract public information from social media platforms while navigating anti-scraping protections.",
       "tags": [
-        "programming",
-        "web-development",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-cant-quit-facebook",
+        "2020/what-facebook-should-do",
+        "2017/facebook-heroin",
+        "2018/networking-coworking",
+        "2017/effective-communication"
       ]
     },
     {
@@ -2674,10 +2511,15 @@
       "title": "Human Directions: A startup idea",
       "description": "A startup idea for a maps app that provides navigation based on places you've already discovered, using human-friendly directions to help you learn the city instead of becoming dependent on GPS.",
       "tags": [
-        "startup",
-        "product-development",
-        "apps",
-        "entrepreneurship"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/social-computing",
+        "2017/reverting-global-warming",
+        "2019/human-network-explosion",
+        "2024/why-i-wont-join-your-startup",
+        "2019/big-reason-to-use-react-navigation-over-wix-navigation"
       ]
     },
     {
@@ -2688,9 +2530,15 @@
       "title": "The Human Network Explosion",
       "description": "How urbanization and modern communication have caused a Human Network Explosion that our brains aren't designed to handle, potentially leading to increased mental and physical health problems.",
       "tags": [
-        "social-media",
         "philosophy",
-        "future-of-work"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2023/social-computing",
+        "2019/human-directions-a-startup-idea",
+        "2019/ai-boom",
+        "2019/why-i-made-dunbar"
       ]
     },
     {
@@ -2701,14 +2549,16 @@
       "title": "I just made an app in 26 hours",
       "description": "How I built Dunbar, a relationship management app, in just 26 hours by leveraging high motivation, Expo, minimal boilerplate, and open source libraries.",
       "tags": [
-        "react-native",
-        "expo",
-        "programming",
-        "shipping",
-        "mvp",
+        "entrepreneurship",
         "productivity",
-        "dx",
-        "open-source"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/why-i-made-dunbar",
+        "2018/expo-standalone-publishing",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2019/seven-mistakes-react-native-app"
       ]
     },
     {
@@ -2720,9 +2570,14 @@
       "description": "A dream-inspired vision of future urban transportation featuring autonomous VR-enabled segways that could revolutionize commuting by reducing surface area and allowing multitasking.",
       "tags": [
         "philosophy",
-        "future-of-work",
-        "voice-interface",
-        "technology-critique"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/deep-dream-devs",
+        "2017/react-native-is-the-future",
+        "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+        "2021/the-evolution-revolution",
+        "2024/outcomputed"
       ]
     },
     {
@@ -2733,9 +2588,14 @@
       "title": "Install An Express+MySQL App on a remote server",
       "description": "A step-by-step guide to deploying an Express and MySQL app on a remote server using Linode or DigitalOcean, including Nginx, Node, MySQL setup, and CloudFlare integration.",
       "tags": [
-        "programming",
-        "nodejs",
-        "devops"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2018/expo-standalone-publishing",
+        "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
+        "2023/the-single-server-dream"
       ]
     },
     {
@@ -2746,11 +2606,16 @@
       "title": "Lean Life",
       "description": "Adopting a lean lifestyle as a solo entrepreneur with rules for freelancing, managing finances, and maximizing time for personal startup projects while maintaining financial security.",
       "tags": [
-        "solo-entrepreneur",
-        "startup",
-        "minimalism",
-        "personal-development",
-        "business"
+        "entrepreneurship",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/migrating-to-expo",
+        "2017/hawk-view-entrepreneur-needs",
+        "2017/the-mcycle",
+        "2017/distractions",
+        "2017/devops-marketing"
       ]
     },
     {
@@ -2761,11 +2626,14 @@
       "title": "Migrating to Expo to become more lean and stable",
       "description": "A step-by-step guide to migrating an existing React Native project to Expo or ExpoKit for more stability, OTA updates, and streamlined development workflow.",
       "tags": [
-        "expo",
-        "react-native",
-        "devops",
-        "programming",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/the-expo-edge",
+        "2019/lean-life",
+        "2018/expo-standalone-publishing",
+        "2018/the-mvp-challenge",
+        "2018/workflow-query-creation-react-apollo"
       ]
     },
     {
@@ -2776,9 +2644,14 @@
       "title": "My 7 Levels of Freedom to minimise stress, doubt and regret and maximise possibility, happiness and growth",
       "description": "Seven levels of freedom to minimize stress and maximize happiness, including location freedom, time freedom, independence from physical objects, and freedom from external expectations.",
       "tags": [
-        "philosophy",
-        "personal-development",
-        "happiness"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2017/the-laptop-of-a-nomad",
+        "2017/the-basis-what-comes-after-happiness",
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+        "2023/communify",
+        "2017/be-conscious"
       ]
     },
     {
@@ -2789,9 +2662,15 @@
       "title": "My Coding Principles",
       "description": "A collection of personal coding principles including avoiding premature optimization, keeping things simple, composition over inheritance, and maintaining low learnability.",
       "tags": [
-        "programming",
-        "coding",
-        "productivity"
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/what-coding-teaches-me-about-business",
+        "2019/how-much-does-it-cost-to-build-an-app",
+        "2018/high-code-quality",
+        "2018/wet-code-and-inline-styles",
+        "2019/changing-reachability-to-increase-productivity"
       ]
     },
     {
@@ -2802,8 +2681,15 @@
       "title": "My food goals of 2019: Eat more paleo, ecological and don't go to the supermarket every day",
       "description": "A detailed monthly grocery plan focused on eating paleo, reducing supermarket trips, minimizing plastic packaging, and spending only 192 euros per month on sustainable food.",
       "tags": [
-        "minimalism",
-        "personal-development"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/i-dont-know",
+        "2019/screentime-update-april-2019",
+        "2021/quit-job",
+        "2017/hawk-view-entrepreneur-needs",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next"
       ]
     },
     {
@@ -2814,10 +2700,15 @@
       "title": "Never let your API go down with a flexible client",
       "description": "How to prevent API downtime by implementing a flexible client that monitors server CPU load and automatically reduces query frequency during high load periods.",
       "tags": [
-        "devops",
-        "programming",
-        "react-native",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2024/scalable-ideas",
+        "2018/workflow-query-creation-react-apollo",
+        "2019/ghost-cloudflare-ssl",
+        "2017/time-management",
+        "2018/notes-of-a-programmer-apollo-store-updates"
       ]
     },
     {
@@ -2828,9 +2719,15 @@
       "title": "The advantages of open sourcing",
       "description": "The strategic advantages of open sourcing code including feature separation, attracting developers, community contributions, potential revenue through licensing, and viral growth opportunities.",
       "tags": [
-        "open-source",
-        "programming",
-        "business"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/today-i-open-sourced-nearly-20-of-my-codebase",
+        "2019/the-dis-advantages-of-making-your-app-invite-only",
+        "2025/LLMTEXT-for-llmstxt",
+        "2021/low-barrier-blockchain-job-platform",
+        "2019/i-just-made-an-app-in-26-hours"
       ]
     },
     {
@@ -2841,9 +2738,15 @@
       "title": "Perfections VS Speed in Data-driven React Native Apps",
       "description": "Why staying with Expo and avoiding native dependencies saves development time and reduces bugs, helping startups ship faster with limited resources.",
       "tags": [
-        "productivity",
-        "shipping",
-        "entrepreneurship"
+        "entrepreneurship",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2021/expanding-at-the-speed-of-light",
+        "2017/react-native-is-the-future",
+        "2018/the-expo-edge",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2018/should-you-go-web-or-native"
       ]
     },
     {
@@ -2854,9 +2757,15 @@
       "title": "MVP within a week",
       "description": "Offering to build proof-of-concept mobile apps within a week using React Native, Node JS, and SQL with thorough testing and App Store deployment.",
       "tags": [
-        "startup",
-        "shipping",
+        "entrepreneurship",
         "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/how-i-became-10x-as-productive-within-a-month",
+        "2018/the-mvp-challenge",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2017/reverting-global-warming",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app"
       ]
     },
     {
@@ -2867,9 +2776,15 @@
       "title": "Processing feedback of your users in your app: HockeyApp, Intercom, WhatsApp?",
       "description": "Comparing different methods for collecting user feedback in mobile apps including Intercom, WhatsApp, HockeyApp, and custom native solutions.",
       "tags": [
-        "react-native",
-        "product-development",
-        "tools"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2017/drop-whatsapp-save-40-minutes",
+        "2019/the-dis-advantages-of-making-your-app-invite-only",
+        "2018/iproud",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app"
       ]
     },
     {
@@ -2880,9 +2795,14 @@
       "title": "Qualitative versus Quantitative Scaling in your startup",
       "description": "Comparing qualitative scaling (adding features) versus quantitative scaling (expanding internationally) for startups and why going global might be the better choice.",
       "tags": [
-        "startup",
-        "business",
         "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2019/scaling",
+        "2019/scaling-vertically",
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2017/wordpress-versus-ghost"
       ]
     },
     {
@@ -2893,10 +2813,14 @@
       "title": "Redux Light and Universal endpoints",
       "description": "Introducing Redux Light, a minimal boilerplate approach to Redux that prioritizes composition over inheritance and faster time to context while maintaining clarity.",
       "tags": [
-        "react-native",
-        "programming",
-        "coding",
-        "dx"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2021/expanding-at-the-speed-of-light",
+        "2019/my-coding-principles",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2018/react-native-app-structure-fat-pure-wrapper-screen-components"
       ]
     },
     {
@@ -2907,8 +2831,14 @@
       "title": "Scaling my Node JS GraphQL Server Vertically to 5k RPS on a single machine",
       "description": "Achieving 5k+ RPS on a single machine through vertical scaling with CPU-optimized cloud servers, avoiding the complexity of horizontal scaling for early-stage startups.",
       "tags": [
-        "programming",
-        "devops"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/scaling",
+        "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
+        "2023/the-single-server-dream",
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2019/qualitative-versus-quantitative-scaling-in-your-startup"
       ]
     },
     {
@@ -2919,9 +2849,15 @@
       "title": "Scaling Horizontally to one million RPS",
       "description": "A comprehensive geo-scaling plan for horizontally scaling to millions of RPS using automated server splitting, merging, and load balancing based on community sharding.",
       "tags": [
-        "programming",
-        "startup",
-        "devops"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2019/scaling-vertically",
+        "2019/qualitative-versus-quantitative-scaling-in-your-startup",
+        "2019/how-much-does-it-cost-to-build-an-app",
+        "2019/how-got-get-your-app-under-control-remove-wildgrow-monolithize"
       ]
     },
     {
@@ -2932,9 +2868,14 @@
       "title": "Screentime update, April 2019",
       "description": "Reducing daily screen time from 9 hours to 6 hours through digital minimalism, using Freedom.to for blocking distractions, and switching to physical books and dumbphones.",
       "tags": [
-        "productivity",
-        "distractions",
-        "focus"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
+        "2019/changing-reachability-to-increase-productivity",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
       ]
     },
     {
@@ -2945,13 +2886,15 @@
       "title": "Seven mistakes I think my software company made building their React Native App",
       "description": "Seven critical mistakes to avoid when building React Native apps including premature complexity, messy codebases, lack of product-market fit validation, and poor user retention strategies.",
       "tags": [
-        "react-native",
-        "expo",
-        "programming",
-        "dx",
-        "mvp",
-        "startup",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/react-native-is-the-future",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2020/what-facebook-should-do"
       ]
     },
     {
@@ -2962,9 +2905,14 @@
       "title": "The (dis)advantages of making your mobile app invite only",
       "description": "Weighing the pros and cons of making your mobile app invite-only, from collecting emails and creating scarcity to potential user churn and missing App Store traffic.",
       "tags": [
-        "startup",
-        "product-development",
-        "marketing"
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2019/open-source-advantages",
+        "2018/expo-standalone-publishing",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/i-just-made-an-app-in-26-hours"
       ]
     },
     {
@@ -2978,6 +2926,13 @@
         "programming",
         "philosophy",
         "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2017/smartphone-attention-pollution",
+        "2017/purpose",
+        "2023/voice/llm-voice-calls",
+        "2017/some-apps-i-like",
+        "2019/the-dis-advantages-of-making-your-app-invite-only"
       ]
     },
     {
@@ -2988,8 +2943,14 @@
       "title": "The problem we're solving with FriendTime",
       "description": "How FriendTime addresses contact chaos, privacy concerns, sparse relationships, disconnectedness, and social media addiction through a freemium model focused on real connections.",
       "tags": [
-        "startup",
-        "product-development"
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-made-dunbar",
+        "2021/things-i-learned-making-the-second-version-of-friendtime",
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2017/real-artists-ship",
+        "2019/why-i-cant-quit-facebook"
       ]
     },
     {
@@ -3000,9 +2961,14 @@
       "title": "The SaaS Stages Funnel",
       "description": "Understanding the stages from idea to market in a SaaS startup and why senior developers should be aware of these stages to become more driven and successful.",
       "tags": [
-        "startup",
-        "business",
-        "marketing"
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2019/human-directions-a-startup-idea",
+        "2026/parallel-role-2026",
+        "2018/should-you-go-web-or-native",
+        "2019/perfections-vs-speed",
+        "2024/why-i-wont-join-your-startup"
       ]
     },
     {
@@ -3014,8 +2980,14 @@
       "description": "A philosophical exploration of technological evolution and the need to create equilibrium between humanity and technology to avoid being consumed by our superior creations.",
       "tags": [
         "philosophy",
-        "happiness",
-        "mindfulness"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2023/the-single-server-dream",
+        "2018/how-to-create-a-sustainable-world",
+        "2021/the-evolution-revolution",
+        "2021/expanding-at-the-speed-of-light",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
       ]
     },
     {
@@ -3026,9 +2998,15 @@
       "title": "Today I open-sourced nearly 10% of my codebase",
       "description": "Open sourcing React Native libraries including Super Image, Super Actionsheet, and Data Forms to share reusable components with the developer community.",
       "tags": [
-        "open-source",
-        "programming",
-        "entrepreneurship"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/open-source-advantages",
+        "2017/drop-whatsapp-save-40-minutes",
+        "2025/LLMTEXT-for-llmstxt",
+        "2019/perfections-vs-speed",
+        "2022/having-a-clean-mac-setup"
       ]
     },
     {
@@ -3039,9 +3017,14 @@
       "title": "Upgrading from Wix Navigation v1 to Wix Navigation v2, or React Navigation v3?",
       "description": "A comprehensive comparison of Wix Navigation v1, v2, and React Navigation v3, analyzing their problems, solutions, and migration effort for React Native apps.",
       "tags": [
-        "react-native",
-        "programming",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/big-reason-to-use-react-navigation-over-wix-navigation",
+        "2019/human-directions-a-startup-idea",
+        "2017/react-native-is-the-future",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2019/seven-mistakes-react-native-app"
       ]
     },
     {
@@ -3052,9 +3035,15 @@
       "title": "What is the best way to test new features in your React Native App?",
       "description": "Comparing seven methods for testing new features in React Native apps, from local testing to Expo channels, beta roles, and Firebase A/B testing.",
       "tags": [
-        "react-native",
-        "programming",
-        "product-development"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/seven-mistakes-react-native-app",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2017/some-apps-i-like",
+        "2018/the-expo-edge",
+        "2017/react-native-is-the-future"
       ]
     },
     {
@@ -3065,9 +3054,15 @@
       "title": "What would a social network that's actually good for humanity look like?",
       "description": "Envisioning a humane social network with activity-first design, verified identities, small communities, layered sharing, freemium model, and government-enforced open standards.",
       "tags": [
-        "social-media",
         "philosophy",
-        "future-of-work"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/human-network-explosion",
+        "2017/real-artists-ship",
+        "2018/the-dark-side-of-globalization",
+        "2023/social-computing",
+        "2017/justified-dopamine"
       ]
     },
     {
@@ -3078,11 +3073,15 @@
       "title": "Why I can't quit Facebook",
       "description": "Exploring the challenges of quitting Facebook including timeline memories, contact management, event invitations, FOMO, and the addictive nature of algorithmic content bubbles.",
       "tags": [
-        "facebook",
-        "social-media",
-        "technology-critique",
         "philosophy",
-        "internet"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2017/facebook-heroin",
+        "2020/what-facebook-should-do",
+        "2018/networking-coworking",
+        "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
+        "2019/why-i-made-dunbar"
       ]
     },
     {
@@ -3093,12 +3092,17 @@
       "title": "Why I made FriendTime",
       "description": "The journey from creating an addictive mafia game to building FriendTime, an app designed to bring people together in real life and maintain meaningful relationships.",
       "tags": [
-        "social-media",
-        "apps",
         "entrepreneurship",
-        "startup",
-        "react-native",
-        "personal-development"
+        "philosophy",
+        "programming",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/the-problem-were-solving-with-friendtime",
+        "2021/things-i-learned-making-the-second-version-of-friendtime",
+        "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2017/facebook-heroin"
       ]
     },
     {
@@ -3109,9 +3113,14 @@
       "title": "Why I think working at two startups is better than one",
       "description": "Why working at two startups simultaneously reduces risk, enables cross-learning, creates competition for better compensation, and increases chances of success.",
       "tags": [
-        "entrepreneurship",
-        "startup",
-        "solo-entrepreneur"
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2017/react-native-is-the-future",
+        "2020/what-facebook-should-do",
+        "2024/why-i-wont-join-your-startup",
+        "2017/working-offline",
+        "2019/seven-mistakes-react-native-app"
       ]
     },
     {
@@ -3122,9 +3131,15 @@
       "title": "The Dev Lifecycle",
       "description": "A reflection on the cyclical pattern of working regular jobs to save money, then quitting to work on side projects until broke, and exploring three potential paths to break free from this cycle.",
       "tags": [
-        "programming",
         "productivity",
-        "workflow"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/solo-dev-startup",
+        "2017/perfect-travel",
+        "2021/quit-job",
+        "2018/the-dark-side-of-globalization",
+        "2017/drop-whatsapp-save-40-minutes"
       ]
     },
     {
@@ -3136,9 +3151,14 @@
       "description": "An experiment to reduce smartphone usage from 5 hours per day by eliminating the need for a phone at home, setting up all phone functions on a Mac instead to break the habit of dreamscrolling and increase productivity.",
       "tags": [
         "productivity",
-        "distractions",
-        "minimalism",
-        "screenless"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/hammock-experiment",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2019/changing-reachability-to-increase-productivity",
+        "2024/the-post-smartphone-era",
+        "2019/poc-within-a-week"
       ]
     },
     {
@@ -3150,8 +3170,14 @@
       "description": "Exploring the concept of building a platform called MindMirror to help people save their experiences, opinions, and memories in one place to better understand themselves and connect the dots in their lives.",
       "tags": [
         "philosophy",
-        "personal-development",
-        "mindfulness"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/seven-mistakes-react-native-app",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2023/controllable-immersion",
+        "2020/what-facebook-should-do"
       ]
     },
     {
@@ -3163,7 +3189,14 @@
       "description": "Inspired by magpies that recycle bottle caps for food, this article envisions a future where animals serve practical purposes like cleaning trash, delivering packages, and performing tasks instead of robots.",
       "tags": [
         "philosophy",
-        "minimalism"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2021/the-evolution-revolution",
+        "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
+        "2021/quit-job",
+        "2017/about-cleaning-up",
+        "2019/i-saw-the-future-in-detail"
       ]
     },
     {
@@ -3174,10 +3207,15 @@
       "title": "My new startup - BackpackingTribe - is taking off!",
       "description": "The launch story of BackpackingTribe, a platform connecting backpackers to travel together in groups from hostel to hostel, including validation strategies, marketing efforts through Facebook and Google ads, travel blogger outreach, and the business model based on hostel booking commissions.",
       "tags": [
-        "startup",
         "entrepreneurship",
-        "digital-nomad",
-        "travel"
+        "lifestyle"
+      ],
+      "relatedSlugs": [
+        "2017/time-effective-travel-lifestyle",
+        "2018/networking-coworking",
+        "2019/human-directions-a-startup-idea",
+        "2017/entrepreneurship",
+        "2024/why-i-wont-join-your-startup"
       ]
     },
     {
@@ -3188,9 +3226,15 @@
       "title": "What I think Facebook should do",
       "description": "A proposal for Facebook to offer a premium ad-free subscription that helps users achieve their personal goals by curating content based on their values, rather than maximizing screen time.",
       "tags": [
-        "social-media",
         "philosophy",
-        "technology-critique"
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-cant-quit-facebook",
+        "2017/facebook-heroin",
+        "2018/networking-coworking",
+        "2019/seven-mistakes-react-native-app",
+        "2017/react-native-is-the-future"
       ]
     },
     {
@@ -3201,8 +3245,14 @@
       "title": "Why I'm afraid to start dating",
       "description": "A candid exploration of common dating fears and anxieties, from worrying about being boring to fear of rejection, with practical reframing advice to approach dating as a game of mutual discovery.",
       "tags": [
-        "personal-development",
         "philosophy"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-made-dunbar",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2017/react-native-is-the-future",
+        "2019/why-i-think-two-startups-is-better-than-one"
       ]
     },
     {
@@ -3213,9 +3263,15 @@
       "title": "Didn't do shit",
       "description": "A deep reflection on productivity struggles and an innovative solution to align short-term dopamine rewards with long-term goals by automating restrictions and rewards through APIs connected to WakaTime coding metrics.",
       "tags": [
-        "productivity",
-        "personal-development",
-        "philosophy"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/what-if-dopamine-triggers-fuck-up-your-long-term-productivity",
+        "2017/invisible-elephant-shit",
+        "2017/justified-dopamine",
+        "2017/distractions",
+        "2019/how-to-code-more-and-plan-less"
       ]
     },
     {
@@ -3227,8 +3283,14 @@
       "description": "A philosophical exploration of humanity's ultimate purpose to expand in all directions at the speed of light, starting with the evolution revolution on Earth before spreading to other planets and eventually focusing on preservation.",
       "tags": [
         "entrepreneurship",
-        "startup",
-        "personal-development"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2019/redux-light",
+        "2019/perfections-vs-speed",
+        "2021/the-evolution-revolution",
+        "2019/the-ultimate-equilibrium",
+        "2019/human-directions-a-startup-idea"
       ]
     },
     {
@@ -3239,9 +3301,14 @@
       "title": "How developers could get paid using blockchain and smart contracts",
       "description": "A vision for revolutionizing developer compensation using blockchain and smart contracts, where developers get paid per pull request instead of hourly rates, with payments based on code quality, time spent, and peer reviews in an open-source environment.",
       "tags": [
-        "startup",
-        "entrepreneurship",
-        "business"
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2019/open-source-advantages",
+        "2017/purpose",
+        "2018/high-code-quality",
+        "2019/deep-dream-devs",
+        "2025/LLMTEXT-for-llmstxt"
       ]
     },
     {
@@ -3253,7 +3320,14 @@
       "description": "The story of quitting a job to work full-time on startups and implementing aggressive cost-cutting measures to reduce monthly expenses by 300 euros, extending runway to 3 years with 20k in savings.",
       "tags": [
         "entrepreneurship",
-        "personal-development"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
+        "2017/hawk-view-entrepreneur-needs",
+        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2019/how-i-became-10x-as-productive-within-a-month"
       ]
     },
     {
@@ -3264,8 +3338,14 @@
       "title": "The Evolution Revolution",
       "description": "A vision of a future where humanity uses CRISPR and AI technologies like AlphaFold to control biological evolution, creating non-selfish plants and animals that serve humanity, from houses grown by trees to food-gathering animals.",
       "tags": [
-        "philosophy",
-        "future-of-work"
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2020/live-in-harmony-with-animals",
+        "2018/how-to-create-a-sustainable-world",
+        "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
+        "2021/expanding-at-the-speed-of-light",
+        "2019/the-ultimate-equilibrium"
       ]
     },
     {
@@ -3276,9 +3356,15 @@
       "title": "Lessons learned building the second version of FriendTime",
       "description": "Key product development lessons learned from building FriendTime v2, including the importance of simple validation before adding features, avoiding premature monetization, and the underestimated time cost of final touches.",
       "tags": [
-        "product-development",
-        "programming",
-        "startup"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-made-dunbar",
+        "2019/the-problem-were-solving-with-friendtime",
+        "2019/seven-mistakes-react-native-app",
+        "2019/how-much-does-it-cost-to-build-an-app",
+        "2023/the-single-server-dream"
       ]
     },
     {
@@ -3290,8 +3376,14 @@
       "description": "A philosophical perspective on the COVID-19 pandemic as a social construct that has accelerated the separation between people, both online through internet bubbles and in real life through safety measures.",
       "tags": [
         "philosophy",
-        "personal-development",
-        "mindfulness"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/habit-of-change",
+        "2018/should-you-go-web-or-native",
+        "2020/what-facebook-should-do",
+        "2018/the-expo-edge",
+        "2019/why-i-made-dunbar"
       ]
     },
     {
@@ -3302,9 +3394,16 @@
       "title": "Why I like the four seasons in the Netherlands",
       "description": "A personal appreciation of each of the four seasons in the Netherlands, from cozy winter gatherings to spring flowers, summer freedom, and autumn storms perfect for water sports.",
       "tags": [
-        "personal-development",
-        "travel",
-        "minimalism"
+        "lifestyle",
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/groningen-digital-nomads",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2017/perfect-travel",
+        "2019/daylight-experiment"
       ]
     },
     {
@@ -3316,8 +3415,14 @@
       "description": "A strategy for maintaining Mac performance by creating an automated setup script for quick resets, combined with using Quitter to auto-close inactive apps and Power Manager to enforce regular shutdowns for optimal memory and CPU usage.",
       "tags": [
         "productivity",
-        "tools",
-        "workflow"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/about-single-tasking-and-window-setup",
+        "2017/about-cleaning-up",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
+        "2017/learn-language-having-fun",
+        "2017/reverting-global-warming"
       ]
     },
     {
@@ -3328,10 +3433,14 @@
       "title": "Fly + Bun for browser automation. An unfinished attempt",
       "description": "Chronicles an attempt to create a scalable browser automation API using Bun and Fly.io, exploring the FLAME pattern and analyzing cost structures for AI-powered web scraping.",
       "tags": [
-        "devops",
-        "programming",
-        "nodejs",
-        "web-development"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2024/scalable-ideas",
+        "2018/should-you-go-web-or-native",
+        "2019/how-i-became-10x-as-productive-within-a-month",
+        "2017/what-coding-teaches-me-about-business",
+        "2019/how-much-does-it-cost-to-build-an-app"
       ]
     },
     {
@@ -3342,10 +3451,15 @@
       "title": "Communify",
       "description": "Explores the idea of creating an algorithm to form perfect communities by clustering people together based on purpose-driven alignment, reducing chronic stress and screen dependency.",
       "tags": [
-        "mindfulness",
         "philosophy",
-        "happiness",
-        "personal-development"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2018/networking-coworking",
+        "2017/perfect-travel",
+        "2019/human-directions-a-startup-idea",
+        "2017/purpose",
+        "2023/innovateability"
       ]
     },
     {
@@ -3357,9 +3471,14 @@
       "description": "Envisions using AR technology to give individuals control over their digital immersion by filtering out unwanted content and ads from their reality, building a Human OS for healthier digital interactions.",
       "tags": [
         "philosophy",
-        "mindfulness",
-        "productivity",
-        "personal-development"
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2018/the-importance-of-rooms-lies-in-hyperbolic-polar-immersion",
+        "2023/social-computing",
+        "2020/know-thyself-but-how",
+        "2019/seven-mistakes-react-native-app",
+        "2017/nomadic-entrepreneurs-reduce-carbon-footprint"
       ]
     },
     {
@@ -3370,10 +3489,14 @@
       "title": "Resize your layout with a draggable div in React",
       "description": "A tutorial on creating a draggable horizontal resizer in React for dynamic layouts, inspired by VSCode's resizable panels, implemented as a reusable React hook.",
       "tags": [
-        "programming",
-        "javascript",
-        "web-development",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/react-native-is-the-future",
+        "2018/workflow-query-creation-react-apollo",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2019/seven-mistakes-react-native-app",
+        "2018/the-expo-edge"
       ]
     },
     {
@@ -3384,10 +3507,14 @@
       "title": "Creating a domain control panel",
       "description": "Documents the creation of an automated domain management system using NameCheap and CloudFlare APIs to streamline the process of turning ideas into working websites.",
       "tags": [
-        "programming",
-        "devops",
-        "tools",
-        "web-development"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/multi-domain-locale-hack-nextjs",
+        "2018/how-to-create-a-sustainable-world",
+        "2019/how-got-get-your-app-under-control-remove-wildgrow-monolithize",
+        "2025/making-a-continuous-audio-playlist-for-thgttg",
+        "2017/time-management"
       ]
     },
     {
@@ -3399,9 +3526,14 @@
       "description": "Presents a simple yet powerful method for using ChatGPT to perform fast parallel classification tasks, such as determining gender from names with 250ms response times.",
       "tags": [
         "ai",
-        "gpt",
-        "programming",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/scrapingbee-gpt/index",
+        "2023/testAiPlugins",
+        "2019/hashtag-to-anything",
+        "2017/time-management",
+        "2024/scalable-ideas"
       ]
     },
     {
@@ -3413,10 +3545,15 @@
       "description": "Shares practical insights on integrating AI into businesses, covering GPT applications, privacy considerations, and advice for startups and enthusiasts embracing the AI revolution.",
       "tags": [
         "ai",
-        "gpt",
-        "business",
-        "startup",
+        "entrepreneurship",
         "productivity"
+      ],
+      "relatedSlugs": [
+        "2017/what-coding-teaches-me-about-business",
+        "2021/the-evolution-revolution",
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2024/the-post-smartphone-era"
       ]
     },
     {
@@ -3427,10 +3564,16 @@
       "title": "Increasing innovateability",
       "description": "Proposes a new system called \"purpose driven openness\" that uses LLMs to calculate alignment between entities, enabling innovation while preventing misuse of shared technologies.",
       "tags": [
-        "philosophy",
         "entrepreneurship",
-        "business",
-        "open-source"
+        "philosophy",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/communify",
+        "2019/changing-reachability-to-increase-productivity",
+        "2017/purpose",
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
       ]
     },
     {
@@ -3441,10 +3584,14 @@
       "title": "Multi Domain Locale Hack NextJS",
       "description": "A clever workaround for generating static pages for multiple domains in Next.js by repurposing the locale feature, including a high-performance multi-domain markdown setup.",
       "tags": [
-        "web-development",
-        "nodejs",
-        "programming",
-        "react-native"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/domain-control-panel",
+        "2023/the-single-server-dream",
+        "2019/about-single-tasking-and-window-setup",
+        "2017/working-offline",
+        "2019/convince-freelance-projects-part-time"
       ]
     },
     {
@@ -3455,9 +3602,14 @@
       "title": "Global Search/Replace with Regexes in VSCode",
       "description": "A practical guide to using regular expressions for global search and replace operations in VSCode, including techniques for matching across newlines and common pitfalls.",
       "tags": [
-        "programming",
-        "tools",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/networking-coworking",
+        "2017/reverting-global-warming",
+        "2018/shortcuts-cheatsheet",
+        "2018/must-have-tooling-programs-for-the-entrepreneurial-full-stack-developer",
+        "2018/the-dark-side-of-globalization"
       ]
     },
     {
@@ -3467,7 +3619,14 @@
       "contentType": "markdown",
       "title": "Building a ChatGPT plugin to browse the internet",
       "description": "In this post I explain what ChatGPT plugins are, how I've made a ChatGPT plugin for ScrapingBee, and how you can use it.",
-      "tags": []
+      "tags": [],
+      "relatedSlugs": [
+        "2023/testAiPlugins",
+        "2023/gpt-classification",
+        "2024/internetless-software-development",
+        "2019/seven-mistakes-react-native-app",
+        "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected"
+      ]
     },
     {
       "draft": false,
@@ -3478,9 +3637,15 @@
       "description": "Explores the concept of transforming everyday conversations into various forms of digital content through AI-powered \"Chatcasts,\" ushering in the age of social computing.",
       "tags": [
         "ai",
-        "social-media",
-        "future-of-work",
-        "personal-development"
+        "philosophy",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/human-network-explosion",
+        "2019/human-directions-a-startup-idea",
+        "2023/controllable-immersion",
+        "2019/why-i-cant-quit-facebook",
+        "2020/what-facebook-should-do"
       ]
     },
     {
@@ -3491,9 +3656,14 @@
       "title": "Tailwind Darkmode Issues",
       "description": "A technical solution for fixing Tailwind CSS dark mode class precedence issues in TypeScript monorepos by using the bang (!) modifier to force proper styling.",
       "tags": [
-        "programming",
-        "web-development",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2018/the-dark-side-of-globalization",
+        "2017/the-basis-what-comes-after-happiness",
+        "2017/invisible-elephant-shit",
+        "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
+        "2019/how-to-code-more-and-plan-less"
       ]
     },
     {
@@ -3505,9 +3675,14 @@
       "description": "Demonstrates how to create end-to-end tests for ChatGPT AI plugins using the MRKL technology, with practical examples testing a ScrapingBee plugin.",
       "tags": [
         "ai",
-        "gpt",
-        "programming",
-        "coding"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/scrapingbee-gpt/index",
+        "2023/gpt-classification",
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2019/poc-within-a-week"
       ]
     },
     {
@@ -3518,10 +3693,14 @@
       "title": "Running everything from a single server isn't that easy",
       "description": "Reflects on the challenges and lessons learned from attempting to run frontend, backend, and multi-domain hosting from a single server, ultimately choosing a more pragmatic hybrid approach.",
       "tags": [
-        "devops",
-        "programming",
-        "web-development",
-        "nodejs"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/scaling-vertically",
+        "2019/about-single-tasking-and-window-setup",
+        "2019/the-ultimate-equilibrium",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2017/digital-ocean-and-ghost-fast-cms"
       ]
     },
     {
@@ -3531,7 +3710,14 @@
       "contentType": "markdown",
       "title": "Implementing LLM Voice Calls",
       "description": "",
-      "tags": []
+      "tags": [],
+      "relatedSlugs": [
+        "2024/hardware-screenless",
+        "2019/the-new-hackers",
+        "2024/the-post-smartphone-era",
+        "2019/forcing-your-app-users-to-update-the-app",
+        "2019/how-i-became-10x-as-productive-within-a-month"
+      ]
     },
     {
       "draft": false,
@@ -3541,11 +3727,14 @@
       "title": "Moving away from my 150k LOC Monorepo",
       "description": "Details the transition from a 150k LOC monorepo to a decoupled, open-source architecture where each package is its own repository, simplifying distribution and collaboration.",
       "tags": [
-        "programming",
-        "open-source",
-        "nodejs",
-        "devops",
-        "tools"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2025/LLMTEXT-for-llmstxt",
+        "2017/the-basis-what-comes-after-happiness",
+        "2019/how-to-code-more-and-plan-less",
+        "2018/solo-dev-startup",
+        "2019/open-source-advantages"
       ]
     },
     {
@@ -3557,10 +3746,16 @@
       "description": "Argues against the need for new hardware for AI assistants, proposing that existing simple phones paired with good headphones can deliver bidirectional voice interfaces effectively.",
       "tags": [
         "ai",
-        "voice-interface",
-        "screenless",
-        "minimalism",
-        "product-development"
+        "entrepreneurship",
+        "productivity",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/voice/llm-voice-calls",
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2019/about-single-tasking-and-window-setup",
+        "2024/the-post-smartphone-era",
+        "2024/outcomputed"
       ]
     },
     {
@@ -3571,12 +3766,16 @@
       "title": "Installing MacOS without an internet connection",
       "description": "Investigates creating a completely internet-free development environment with large LLMs, exploring privacy, security, and focus benefits while documenting installation challenges and workarounds.",
       "tags": [
+        "ai",
         "productivity",
-        "focus",
-        "deep-work",
-        "minimalism",
-        "programming",
-        "ai"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/how-many-rps-are-possible-without-sharding",
+        "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
+        "2017/and-then-i-turned-to-javascript",
+        "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2023/scrapingbee-gpt/index"
       ]
     },
     {
@@ -3588,9 +3787,15 @@
       "description": "Predicts the decline of human utility as AI surpasses knowledge workers in capability, proposing becoming \"compute allocators\" to stay relevant in an AI-dominated future.",
       "tags": [
         "ai",
-        "future-of-work",
-        "productivity",
-        "philosophy"
+        "philosophy",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/human-directions-a-startup-idea",
+        "2017/react-native-is-the-future",
+        "2023/social-computing",
+        "2019/human-network-explosion",
+        "2019/i-saw-the-future-in-detail"
       ]
     },
     {
@@ -3602,10 +3807,15 @@
       "description": "Demonstrates how LLMs enable scalable knowledge work by breaking down complex tasks into API-driven subtasks, using building websites for GitHub repos as a practical example.",
       "tags": [
         "ai",
-        "agents",
-        "programming",
-        "startup",
-        "automation"
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/never-go-down",
+        "2023/domain-control-panel",
+        "2023/bun-flame-fly",
+        "2017/time-management",
+        "2025/LLMTEXT-for-llmstxt"
       ]
     },
     {
@@ -3617,10 +3827,15 @@
       "description": "Explores the shift from smartphone apps to natural language voice interfaces powered by AI agents, advocating for open source approaches to eliminate traditional business boundaries.",
       "tags": [
         "ai",
-        "agents",
-        "voice-interface",
-        "future-of-work",
-        "open-source"
+        "philosophy",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2026/parallel-role-2026",
+        "2017/smartphone-attention-pollution",
+        "2017/learn-language-having-fun",
+        "2025/LLMTEXT-for-llmstxt"
       ]
     },
     {
@@ -3631,11 +3846,17 @@
       "title": "Why are systems always so hard to integrate with other systems?",
       "description": "Analyzes the barriers preventing seamless system integration and proposes solutions like API search engines and GPT normalization to overcome vendor lock-in and integration complexity.",
       "tags": [
-        "programming",
         "ai",
-        "devops",
+        "entrepreneurship",
         "philosophy",
-        "startup"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/digital-ocean-and-ghost-fast-cms",
+        "2023/innovateability",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
+        "2019/why-i-made-dunbar"
       ]
     },
     {
@@ -3647,10 +3868,14 @@
       "description": "Advocates for independent one-person companies forming reciprocal networks instead of traditional co-founder startups, reducing interpersonal risk while maintaining autonomy and flexibility.",
       "tags": [
         "entrepreneurship",
-        "solo-entrepreneur",
-        "startup",
-        "business",
         "philosophy"
+      ],
+      "relatedSlugs": [
+        "2019/why-i-think-two-startups-is-better-than-one",
+        "2019/human-directions-a-startup-idea",
+        "2019/qualitative-versus-quantitative-scaling-in-your-startup",
+        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next"
       ]
     },
     {
@@ -3662,11 +3887,14 @@
       "description": "Introduces LLMTEXT, an open-source toolkit for creating, validating, and using llms.txt files to make websites accessible to AI agents through standardized documentation and MCP servers.",
       "tags": [
         "ai",
-        "llm",
-        "agents",
-        "open-source",
-        "web-development",
-        "tools"
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2019/open-source-advantages",
+        "2019/today-i-open-sourced-nearly-20-of-my-codebase",
+        "2019/i-just-made-an-app-in-26-hours",
+        "2024/the-post-smartphone-era",
+        "2024/scalable-ideas"
       ]
     },
     {
@@ -3678,11 +3906,9 @@
       "description": "Explores the design challenges of creating developer-friendly layers around AI inference, combining features like response caching, billing, MCP tool use, and code mode in a unified architecture.",
       "tags": [
         "ai",
-        "llm",
-        "dx",
-        "programming",
-        "tools"
-      ]
+        "programming"
+      ],
+      "relatedSlugs": []
     },
     {
       "draft": false,
@@ -3692,7 +3918,14 @@
       "externalUrl": "https://thgttg.org/README.md",
       "title": "Cloudflare Worker Audio Playlist System",
       "description": "",
-      "tags": []
+      "tags": [],
+      "relatedSlugs": [
+        "2019/ghost-cloudflare-ssl",
+        "2023/domain-control-panel",
+        "2018/how-to-connect-your-app-to-a-server",
+        "2023/innovateability",
+        "2024/why-are-systems-not-working-together"
+      ]
     },
     {
       "draft": false,
@@ -3702,13 +3935,16 @@
       "title": "2025 in review, and plans for the coming year of DevRel",
       "description": "Reflecting on my first year as DevRel at Parallel—2.5M X impressions, cookbooks, MCP integrations, and LLMTEXT—and outlining my 2026 strategy for building SaaS on the agentic internet.",
       "tags": [
-        "devrel",
-        "parallel",
-        "mcp",
-        "open-source",
-        "indie-hackers",
-        "saas",
-        "agentic-web"
+        "ai",
+        "entrepreneurship",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2024/the-post-smartphone-era",
+        "2018/2018-year-of-creation",
+        "2019/the-saas-stages-funnel",
+        "2025/LLMTEXT-for-llmstxt",
+        "2017/real-artists-ship"
       ]
     }
   ]

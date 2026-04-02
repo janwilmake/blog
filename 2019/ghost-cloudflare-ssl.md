@@ -1,10 +1,9 @@
 ---
 date: 2019-05-15
 modified_at: 2019-05-15
-tags: [programming, devops, ghost, tools]
+tags: [programming]
 description: Setting up Ghost CMS with CloudFlare's automatic SSL using flexible encryption mode and proper nginx configuration to avoid redirect loops.
 ---
-
 # How to use CloudFlare with Ghost with automatic SSL
 
 Previously I had setup my node server with ghost using let’s encrypt. However,

@@ -1,10 +1,9 @@
 ---
 date: 2019-05-01
 modified_at: 2019-05-02
-tags: [programming, productivity, shipping]
+tags: [entrepreneurship, productivity, programming]
 description: Overcoming the PO Fallacy by moving todos into the codebase instead of GitHub to reduce context-switching and increase time spent coding versus planning.
 ---
-
 # The solution to the PO Fallacy - How to code more, and plan less
 
 As a solo devpreneur I find myself over-analyzing and planning + thinking too

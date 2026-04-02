@@ -1,9 +1,8 @@
 ---
 date: 2023-01
-tags: [philosophy, mindfulness, productivity, personal-development]
+tags: [philosophy, productivity]
 description: Envisions using AR technology to give individuals control over their digital immersion by filtering out unwanted content and ads from their reality, building a Human OS for healthier digital interactions.
 ---
-
 # Controllable Immersion
 
 I want to eat healthy

@@ -1,10 +1,9 @@
 ---
 date: 2021-10-15
 modified_at: 2021-10-15
-tags: [startup, entrepreneurship, business]
+tags: [entrepreneurship]
 description: A vision for revolutionizing developer compensation using blockchain and smart contracts, where developers get paid per pull request instead of hourly rates, with payments based on code quality, time spent, and peer reviews in an open-source environment.
 ---
-
 # How developers could get paid using blockchain and smart contracts
 
 It's hard to find a job because it's a big commitment and the interview process

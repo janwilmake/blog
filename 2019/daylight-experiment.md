@@ -1,10 +1,9 @@
 ---
 date: 2019-04-25
 modified_at: 2019-05-07
-tags: [personal-development, habits, productivity, time-management, philosophy]
+tags: [philosophy, productivity]
 description: An experimental approach to maximizing daylight exposure and restructuring the day into four 6-hour quarters to improve productivity, energy levels, and overall well-being.
 ---
-
 # Daylight is good for me
 
 Daylight is good for me.

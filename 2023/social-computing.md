@@ -1,9 +1,8 @@
 ---
 date: 2023-11-14
-tags: [ai, social-media, future-of-work, personal-development]
+tags: [ai, philosophy, social-media]
 description: Explores the concept of transforming everyday conversations into various forms of digital content through AI-powered "Chatcasts," ushering in the age of social computing.
 ---
-
 # "Human-to-Human Content Generation: Embracing the Social Computing Age"
 
 **Embracing the Future of Content Creation**

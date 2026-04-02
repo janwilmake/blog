@@ -1,10 +1,9 @@
 ---
 date: 2018-03-13
 modified_at: 2018-03-13
-tags: [react-native, programming, coding, dx, apollo]
+tags: [programming]
 description: An exploration of component organization strategies in React Native, introducing a folder structure based on component types including fat, pure, screen, wrapper, and universal components.
 ---
-
 # React Native App Structure: Fat-, pure-, wrapper- or screen-components?
 
 Today (13th of March, 2018) I felt like I needed some more structure in my

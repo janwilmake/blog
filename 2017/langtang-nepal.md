@@ -1,10 +1,9 @@
 ---
 date: 2017-04-24
 modified_at: 2017-04-29
-tags: [travel, nepal, asia, digital-nomad, fitness]
+tags: [lifestyle]
 description: A detailed trekking adventure diary through the Langtang region of Nepal, including a mountain bike journey, challenging off-trail hiking, sleeping outdoors in steep terrain, and crossing the Ganja La pass at high altitude.
 ---
-
 # Langtang Nepal
 
 After 2 weeks Kathmandu it started itching again.. The mountains. The nature,

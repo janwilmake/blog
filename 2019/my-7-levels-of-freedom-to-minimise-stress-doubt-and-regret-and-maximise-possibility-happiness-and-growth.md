@@ -1,10 +1,9 @@
 ---
 date: 2019-02-07
 modified_at: 2019-02-07
-tags: [philosophy, personal-development, happiness]
+tags: [philosophy]
 description: Seven levels of freedom to minimize stress and maximize happiness, including location freedom, time freedom, independence from physical objects, and freedom from external expectations.
 ---
-
 # My 7 Levels of Freedom to minimise stress, doubt and regret and maximise possibility, happiness and growth
 
 My 7 Levels of Freedom to minimise stress, doubt and regret and maximise

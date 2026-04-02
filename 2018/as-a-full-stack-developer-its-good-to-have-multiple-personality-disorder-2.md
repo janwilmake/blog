@@ -1,10 +1,9 @@
 ---
 date: 2018-02-27
 modified_at: 2018-05-20
-tags: [programming, coding, productivity, dx, personal-development]
+tags: [philosophy, productivity, programming]
 description: A humorous exploration of different mental modes developers shift between while coding, from debugging to perfecting UI, illustrated through fictional programmer personalities.
 ---
-
 # The Multiple Personality Coder
 
 I have to confess. In the past 7 years, in my insomnia and obsession with

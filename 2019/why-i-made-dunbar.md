@@ -1,10 +1,9 @@
 ---
 date: 2019-10-27
 modified_at: 2020-05-30
-tags: [social-media, apps, entrepreneurship, startup, react-native, personal-development]
+tags: [entrepreneurship, philosophy, programming, social-media]
 description: The journey from creating an addictive mafia game to building FriendTime, an app designed to bring people together in real life and maintain meaningful relationships.
 ---
-
 # Why I made FriendTime
 
 When I was eleven years old, I learned how to make websites. When I was twelve I

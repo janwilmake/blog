@@ -1,10 +1,9 @@
 ---
 date: 2019-02-24
 modified_at: 2019-03-13
-tags: [startup, product-development, apps, entrepreneurship]
+tags: [entrepreneurship, programming]
 description: A startup idea for a maps app that provides navigation based on places you've already discovered, using human-friendly directions to help you learn the city instead of becoming dependent on GPS.
 ---
-
 # Human Directions: A startup idea
 
 There should be a Maps app that helps you remember What you already Discovered

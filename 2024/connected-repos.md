@@ -1,9 +1,8 @@
 ---
 date: 2024-04
-tags: [programming, open-source, nodejs, devops, tools]
+tags: [programming]
 description: Details the transition from a 150k LOC monorepo to a decoupled, open-source architecture where each package is its own repository, simplifying distribution and collaboration.
 ---
-
 # Moving away from my 150k LOC Monorepo
 
 For the last 2.5 years, for my hobby work and startups I've mostly worked from one single giant monorepo written in Node.js, React, Next.js, and Typescript. I think I've written over 300k lines, of which about 150k are still left. A monorepo has proven to be useful to create an integrated repository without much overhead, but hard to distribute, hard for others to reuse, and hard to collaborate with. In the past I've even created my own bundler to be able to share a part of my codebase with others, but it ended up adding more overhead than it removed.

@@ -1,10 +1,9 @@
 ---
 date: 2019-04-25
 modified_at: 2019-04-25
-tags: [minimalism, productivity, personal-development]
+tags: [philosophy, productivity]
 description: Experimenting with sleeping in a hammock for a week and discovering six unexpected benefits including better air flow, easier cleaning, and improved sleep quality.
 ---
-
 # The Hammock Experiment
 
 My housemate was looking funny at me when I told him I slept in a hammock last

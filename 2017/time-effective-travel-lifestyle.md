@@ -1,10 +1,9 @@
 ---
 date: 2017-07-09
 modified_at: 2019-05-22
-tags: [digital-nomad, travel, productivity, time-management, coworking, fitness]
+tags: [lifestyle, productivity]
 description: How to organize a sustainable travel lifestyle while working 8 hours a day, including strategies for choosing accommodation, coworking spaces, and minimizing commute time.
 ---
-
 # The Best Sustainable Travel Lifestyle: about time-effective organization
 
 Hi, I'm Jan and I'm working and studying on the move because I can and

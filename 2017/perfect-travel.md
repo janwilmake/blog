@@ -1,10 +1,9 @@
 ---
 date: 2017-08-05
 modified_at: 2017-08-05
-tags: [digital-nomad, travel, personal-development, habits]
+tags: [lifestyle, philosophy, productivity]
 description: A framework for working and studying while traveling, exploring the three phases of settling into a new location and how to maximize productivity through cultivating a habit of change.
 ---
-
 # What is the perfect way to study and work on the move?
 
 The coming years I am planning to travel to about 5 to 7 places in the world

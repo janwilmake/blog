@@ -1,9 +1,8 @@
 ---
 date: 2024-01
-tags: [ai, agents, programming, startup, automation]
+tags: [ai, entrepreneurship, programming]
 description: Demonstrates how LLMs enable scalable knowledge work by breaking down complex tasks into API-driven subtasks, using building websites for GitHub repos as a practical example.
 ---
-
 We're entering an age where we can start copying knowledge work. What I mean by that, is that we can find a useful thing to do once and do it on a global scale, potentially millions of times, to create value.
 
 This was already possible before, but not in a very scalable way, and the things we could do was super limited.

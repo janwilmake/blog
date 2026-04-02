@@ -1,9 +1,8 @@
 ---
 date: 2024-01
-tags: [entrepreneurship, solo-entrepreneur, startup, business, philosophy]
+tags: [entrepreneurship, philosophy]
 description: Advocates for independent one-person companies forming reciprocal networks instead of traditional co-founder startups, reducing interpersonal risk while maintaining autonomy and flexibility.
 ---
-
 # Why I won't join your startup
 
 I've been working on my own startup pursuing building an empire for 7 years now.

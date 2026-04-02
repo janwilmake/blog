@@ -1,10 +1,9 @@
 ---
 date: 2019-01-18
 modified_at: 2019-01-29
-tags: [philosophy, minimalism, personal-development]
+tags: [philosophy, productivity]
 description: A vision for affordable pod-based co-living that solves housing crises and loneliness through rating systems, noise-canceling technology, and community-focused design.
 ---
-
 # Fighting housing crises and loneliness with Cheap Community Living
 
 In 2016, I came up with Community Hostels

@@ -1,10 +1,9 @@
 ---
 date: 2019-03-20
 modified_at: 2019-10-25
-tags: [react-native, startup, business, mvp, product-development]
+tags: [entrepreneurship, programming]
 description: Principles for keeping app development costs low by focusing on your USP, using React Native, maintaining a simple development environment, and avoiding premature scaling.
 ---
-
 # How much does it cost to build an app?
 
 It depends... Some apps can be created quickly. [I created this one](/2019/i-just-made-an-app-in-26-hours) in just 26 hours. However,

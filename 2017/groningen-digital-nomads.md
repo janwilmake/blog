@@ -1,10 +1,9 @@
 ---
 date: 2017-06-30
 modified_at: 2017-06-30
-tags: [digital-nomad, coworking, travel, europe, entrepreneurship]
+tags: [entrepreneurship, lifestyle]
 description: Five compelling reasons why Groningen, Netherlands is an underrated destination for digital nomads, from affordable living and great coworking spaces to vibrant nightlife and a high concentration of talented students.
 ---
-
 # 5 Reasons why Groningen is underrated as a place for Digital Nomads
 
 Nothing tops Groningen: City of Talent. Student city. Cycling city. The city

@@ -1,10 +1,9 @@
 ---
 date: 2019-05-21
 modified_at: 2019-05-21
-tags: [productivity, habits, focus, workflow, time-management]
+tags: [productivity]
 description: A simple productivity technique using hashtags like #toRemember, #toSearch, and #toSay to batch similar tasks together and become more self-reflective and less impulsive during work.
 ---
-
 # #to{anything}
 
 Lately, I've been working on my workflow a lot and gained a lot of consciousness

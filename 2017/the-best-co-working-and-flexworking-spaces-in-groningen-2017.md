@@ -1,10 +1,9 @@
 ---
 date: 2017-06-30
 modified_at: 2017-06-30
-tags: [coworking, entrepreneurship, europe]
+tags: [entrepreneurship, lifestyle]
 description: A comprehensive guide to the best coworking and flexworking spaces in Groningen, from Launch Café to The Big Building and social work cafés.
 ---
-
 # The Best Co-Working and Flexworking spaces in Groningen 2017
 
 Launch Café

@@ -1,10 +1,9 @@
 ---
 date: 2019-03-28
 modified_at: 2019-04-17
-tags: [entrepreneurship, business, solo-entrepreneur]
+tags: [entrepreneurship]
 description: How to convince companies that working part-time on multiple projects can actually improve focus, productivity, and value through cross-project learning and dedicated work days.
 ---
-
 # How to convince your next freelance project that you can work parttime
 
  * Companies are often worried you can't focus and oversee a project if you

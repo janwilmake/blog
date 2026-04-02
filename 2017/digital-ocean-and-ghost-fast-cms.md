@@ -1,10 +1,9 @@
 ---
 date: 2017-06-15
 modified_at: 2017-06-15
-tags: [ghost, wordpress, nodejs, javascript, devops]
+tags: [programming]
 description: A guide explaining the transition from WordPress to Ghost CMS and DigitalOcean hosting for faster website performance, highlighting the advantages of Node.js and modern JavaScript frameworks over traditional PHP-based systems.
 ---
-
 # Blazing Fast & Beautiful isn't it? Discover Digital Ocean and Ghost
 
 A lot of people ask me... How did you create such a nice website? How did you

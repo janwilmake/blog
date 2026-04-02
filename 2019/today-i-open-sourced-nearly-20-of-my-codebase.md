@@ -1,10 +1,9 @@
 ---
 date: 2019-01-11
 modified_at: 2019-01-11
-tags: [open-source, programming, entrepreneurship]
+tags: [entrepreneurship, programming]
 description: Open sourcing React Native libraries including Super Image, Super Actionsheet, and Data Forms to share reusable components with the developer community.
 ---
-
 # Today I open-sourced nearly 10% of my codebase
 
 I tried to be more open source the past few weeks. My main codebase is still

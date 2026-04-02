@@ -1,9 +1,8 @@
 ---
 date: 2023-08-11
-tags: [programming, javascript, web-development, coding]
+tags: [programming]
 description: A tutorial on creating a draggable horizontal resizer in React for dynamic layouts, inspired by VSCode's resizable panels, implemented as a reusable React hook.
 ---
-
 # Resize your layout with a draggable div in React
 
 I have always wanted to make my layout more dynamic. WhatsApp web doesn't even have this but things like VSCode do, and I think it's super cool. It reminds me of the old days because frames in webpages had default support for it. Nonetheless it's a super useful feature for creating more flexibility for your layout for different preferences and screensizes: I'm talking about introducing a resizer!

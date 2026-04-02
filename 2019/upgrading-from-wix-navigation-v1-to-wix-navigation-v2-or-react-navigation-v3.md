@@ -1,10 +1,9 @@
 ---
 date: 2019-02-13
 modified_at: 2019-03-10
-tags: [react-native, programming, coding]
+tags: [programming]
 description: A comprehensive comparison of Wix Navigation v1, v2, and React Navigation v3, analyzing their problems, solutions, and migration effort for React Native apps.
 ---
-
 # Upgrading from Wix Navigation v1 to Wix Navigation v2, or React Navigation v3?
 
 In the past year that we've worked on an app at our company we've used Wix React

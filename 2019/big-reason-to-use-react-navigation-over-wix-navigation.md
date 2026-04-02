@@ -1,10 +1,9 @@
 ---
 date: 2019-01-10
 modified_at: 2019-01-10
-tags: [react-native, programming, coding]
+tags: [programming]
 description: Why React Navigation's component-based approach is fundamentally better than Wix Navigation's registerComponent method for managing wrapper components and screen mounting.
 ---
-
 # Big reason to use React navigation over Wix navigation
 
 Today I discovered a really big reason why React navigation is fundamentally

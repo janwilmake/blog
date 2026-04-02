@@ -1,9 +1,8 @@
 ---
 date: 2023-08-11
-tags: [programming, web-development, coding]
+tags: [programming]
 description: A technical solution for fixing Tailwind CSS dark mode class precedence issues in TypeScript monorepos by using the bang (!) modifier to force proper styling.
 ---
-
 # Tailwind Darkmode Issues
 
 Up until now I always thought my tailwind issues were caused by Next.js but once I moved away from Next.js (to bare React) I still had the issues. The main way it showed itself was in the tailwind darkmode with `dark:`.

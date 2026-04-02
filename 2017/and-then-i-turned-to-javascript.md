@@ -1,10 +1,9 @@
 ---
 date: 2017-06-14
 modified_at: 2017-06-26
-tags: [javascript, programming, react-native, nodejs, wordpress, web-development]
+tags: [programming]
 description: The journey from WordPress frustrations to learning JavaScript, React Native, and Node.js to bring software ideas to life.
 ---
-
 # I feel like a Tesla without wheels
 
 I always have so many ideas in my mind, but I feel so powerless. Every day I let

@@ -1,10 +1,9 @@
 ---
 date: 2019-01-11
 modified_at: 2019-01-11
-tags: [productivity, shipping, entrepreneurship]
+tags: [entrepreneurship, productivity]
 description: Why staying with Expo and avoiding native dependencies saves development time and reduces bugs, helping startups ship faster with limited resources.
 ---
-
 # Perfections VS Speed in Data-driven React Native Apps
 
 In the past 2 years of working with react native, I've worked with 3 Expo apps

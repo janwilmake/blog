@@ -1,9 +1,8 @@
 ---
 date: 2026-01-04
 description: Reflecting on my first year as DevRel at Parallel—2.5M X impressions, cookbooks, MCP integrations, and LLMTEXT—and outlining my 2026 strategy for building SaaS on the agentic internet.
-tags: [devrel, parallel, mcp, open-source, indie-hackers, saas, agentic-web]
+tags: [ai, entrepreneurship, programming]
 ---
-
 # 2025 in review, and plans for the coming year of DevRel
 
 ## 2025

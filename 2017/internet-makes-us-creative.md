@@ -1,10 +1,9 @@
 ---
 date: 2017-07-20
 modified_at: 2017-07-20
-tags: [internet, philosophy, technology-critique, personal-development]
+tags: [philosophy, social-media]
 description: How Google encourages creativity through positive feedback but creates echo chambers that make us more self-determined yet less open-minded.
 ---
-
 # Google makes us creative, but also more self-determined
 
 Today I was listening to Drum & Bass when I thought: 'What if this would be

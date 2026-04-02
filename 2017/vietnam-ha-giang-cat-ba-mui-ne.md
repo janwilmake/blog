@@ -1,10 +1,9 @@
 ---
 date: 2017-09-18
 modified_at: 2018-05-20
-tags: [travel, digital-nomad, vietnam, asia, kitesurfing]
+tags: [lifestyle]
 description: Two months of adventure in Vietnam, from remote northern villages in Hà Giang to kitesurfing in Mui Ne, learning to go with the flow and live authentically.
 ---
-
 # Vietnam through my eyes
 
 Vietnam is the place where I really learned to do what I want. To go with the

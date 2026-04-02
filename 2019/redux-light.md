@@ -1,10 +1,9 @@
 ---
 date: 2019-03-08
 modified_at: 2020-05-30
-tags: [react-native, programming, coding, dx]
+tags: [programming]
 description: Introducing Redux Light, a minimal boilerplate approach to Redux that prioritizes composition over inheritance and faster time to context while maintaining clarity.
 ---
-
 # Redux Light and Universal endpoints
 
 Redux adds a lot of layers and boilerplate, which increases time-to-context.

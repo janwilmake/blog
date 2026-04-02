@@ -1,9 +1,8 @@
 ---
 date: 2023-09-06
-tags: [devops, programming, web-development, nodejs]
+tags: [programming]
 description: Reflects on the challenges and lessons learned from attempting to run frontend, backend, and multi-domain hosting from a single server, ultimately choosing a more pragmatic hybrid approach.
 ---
-
 # Running everything from a single server isn't that easy
 
 Last year I formed a plan of a 'homserver' which meant a single server would execute all functionality: frontend, backend, and connections to apis.

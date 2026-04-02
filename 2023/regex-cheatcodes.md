@@ -1,9 +1,8 @@
 ---
 date: 2023-01
-tags: [programming, tools, coding]
+tags: [programming]
 description: A practical guide to using regular expressions for global search and replace operations in VSCode, including techniques for matching across newlines and common pitfalls.
 ---
-
 # Global Search/Replace with Regexes in VSCode
 
 VSCode is super powerful but if you know how to properly use regexes within global search/replace commands, it can even become more powerful.

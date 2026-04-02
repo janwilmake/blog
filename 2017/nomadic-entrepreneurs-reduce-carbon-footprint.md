@@ -1,10 +1,9 @@
 ---
 date: 2017-06-11
 modified_at: 2017-06-24
-tags: [digital-nomad, entrepreneurship, travel, minimalism]
+tags: [entrepreneurship, lifestyle, productivity]
 description: An analysis of how nomadic entrepreneurs can reduce their carbon footprint through shared facilities, public transport, and mindful consumption, despite the high emissions from flights.
 ---
-
 # 4 ways nomadic entrepreneurs can reduce their Carbon Footprint
 
 There are two ways to decrease your carbon footprint

@@ -1,10 +1,9 @@
 ---
 date: 2019-10-27
 modified_at: 2019-11-19
-tags: [startup, product-development]
+tags: [entrepreneurship]
 description: How FriendTime addresses contact chaos, privacy concerns, sparse relationships, disconnectedness, and social media addiction through a freemium model focused on real connections.
 ---
-
 # The problem we're solving with FriendTime
 
 The problem

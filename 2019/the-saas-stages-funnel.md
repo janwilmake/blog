@@ -1,10 +1,9 @@
 ---
 date: 2019-06-07
 modified_at: 2020-05-30
-tags: [startup, business, marketing]
+tags: [entrepreneurship]
 description: Understanding the stages from idea to market in a SaaS startup and why senior developers should be aware of these stages to become more driven and successful.
 ---
-
 # The SaaS Stages Funnel
 
 (Open for new titles that generate more curiosity)

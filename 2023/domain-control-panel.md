@@ -1,9 +1,8 @@
 ---
 date: 2023-09-08
-tags: [programming, devops, tools, web-development]
+tags: [programming]
 description: Documents the creation of an automated domain management system using NameCheap and CloudFlare APIs to streamline the process of turning ideas into working websites.
 ---
-
 # Creating a domain control panel
 
 Throughout my developer career I've bought hundreds of domains and tried many different services. But after years of experienced I've kind of stuck with a few things that I love because they just work and are convieniently easy to setup. I've stuck with NameCheap for finding and buying domains, and manage the DNS at CloudFlare.

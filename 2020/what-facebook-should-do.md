@@ -1,10 +1,9 @@
 ---
 date: 2020-09-18
 modified_at: 2020-09-18
-tags: [social-media, philosophy, technology-critique]
+tags: [philosophy, social-media]
 description: A proposal for Facebook to offer a premium ad-free subscription that helps users achieve their personal goals by curating content based on their values, rather than maximizing screen time.
 ---
-
 # What I think Facebook should do
 
 There should be a premium variant of Facebook without ads, where you can choose

@@ -1,10 +1,9 @@
 ---
 date: 2017-04-24
 modified_at: 2019-05-22
-tags: [distractions, productivity, focus, time-management, whatsapp, facebook, instagram]
+tags: [productivity, social-media]
 description: Balancing communication, learning, and getting things done by tracking and limiting distractions from social media and browsers to improve productivity.
 ---
-
 # Cycling through your life: Communicate, Adapt & Get shit done
 
 > The evolution of the bicycle is the perfect analogy of the increasing importance

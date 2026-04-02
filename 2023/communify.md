@@ -1,10 +1,9 @@
 ---
 draft: false
 date: 2023-01
-tags: [mindfulness, philosophy, happiness, personal-development]
+tags: [philosophy, productivity]
 description: Explores the idea of creating an algorithm to form perfect communities by clustering people together based on purpose-driven alignment, reducing chronic stress and screen dependency.
 ---
-
 # Communify
 
 Everyone needs a brotherhood, mentors and mentees, and a partner. Humans have lived in such an environment for hundreds of thousands of years and the fabric of society has changed a lot in the last centuries, which led to the fact that not everyone has this anymore.

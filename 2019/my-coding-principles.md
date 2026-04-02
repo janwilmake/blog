@@ -1,10 +1,9 @@
 ---
 date: 2019-03-24
 modified_at: 2019-10-25
-tags: [programming, coding, productivity]
+tags: [productivity, programming]
 description: A collection of personal coding principles including avoiding premature optimization, keeping things simple, composition over inheritance, and maintaining low learnability.
 ---
-
 # My Coding Principles
 
 TFTSS = Too Fancy Too Soon Syndrome

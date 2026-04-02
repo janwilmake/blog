@@ -1,10 +1,9 @@
 ---
 date: 2019-01-16
 modified_at: 2019-03-10
-tags: [react-native, expo, programming, dx, mvp, startup, product-development]
+tags: [entrepreneurship, programming]
 description: Seven critical mistakes to avoid when building React Native apps including premature complexity, messy codebases, lack of product-market fit validation, and poor user retention strategies.
 ---
-
 # Seven mistakes I think my software company made building their React Native App
 
 For about 8 months now, I've worked for a software-company that's building a

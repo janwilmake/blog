@@ -1,10 +1,9 @@
 ---
 date: 2019-04-30
 modified_at: 2019-04-30
-tags: [productivity, distractions, focus]
+tags: [productivity]
 description: Reducing daily screen time from 9 hours to 6 hours through digital minimalism, using Freedom.to for blocking distractions, and switching to physical books and dumbphones.
 ---
-
 # Screentime update, April 2019
 
 In the beginning of this year, I've been online a lot. My average of january

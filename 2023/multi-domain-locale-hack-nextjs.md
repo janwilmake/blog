@@ -1,9 +1,8 @@
 ---
 date: 2023-09
-tags: [web-development, nodejs, programming, react-native]
+tags: [programming]
 description: A clever workaround for generating static pages for multiple domains in Next.js by repurposing the locale feature, including a high-performance multi-domain markdown setup.
 ---
-
 # Multi Domain Locale Hack NextJS
 
 A single project in next.js can usually not generate static pages for multiple domain names. If you search the internet, this is what you'll find: https://multi-domain-first.vercel.app

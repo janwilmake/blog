@@ -1,10 +1,9 @@
 ---
 date: 2019-03-10
 modified_at: 2019-05-20
-tags: [react-native, expo, programming, shipping, mvp, productivity, dx, open-source]
+tags: [entrepreneurship, productivity, programming]
 description: How I built Dunbar, a relationship management app, in just 26 hours by leveraging high motivation, Expo, minimal boilerplate, and open source libraries.
 ---
-
 # I just made an app in 26 hours
 
 I got this Aha-eureka moment when I started thinking about relationships, at

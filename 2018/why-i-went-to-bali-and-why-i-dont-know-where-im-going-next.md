@@ -1,10 +1,9 @@
 ---
 date: 2018-02-08
 modified_at: 2018-03-07
-tags: [bali, asia, digital-nomad, travel, personal-development, habits]
+tags: [lifestyle, philosophy, productivity]
 description: A reflection on the concept of intermittent hyper immersion shifts and how regularly changing environments accelerates personal growth and learning through challenging assumptions.
 ---
-
 # Why I went to Bali and why I don’t know where I’m going next
 
 I just arrived in Bali and I already got this question at least 5 times: How

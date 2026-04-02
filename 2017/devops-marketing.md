@@ -1,10 +1,9 @@
 ---
 date: 2017-07-17
 modified_at: 2018-05-20
-tags: [devops, marketing, business, startup, growth-hacking]
+tags: [entrepreneurship, programming]
 description: Why DevOps and product quality matter more than marketing - truly good products don't need advertisements, they market themselves.
 ---
-
 # Cycling through your life part II - DevOps vs. Marketing in software companies
 
 Don't you hate advertisements? Well, I do. I wish we lived in a world without

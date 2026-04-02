@@ -1,10 +1,9 @@
 ---
 date: 2017-07-04
 modified_at: 2017-07-04
-tags: [programming, business, entrepreneurship, philosophy, coding]
+tags: [entrepreneurship, philosophy, programming]
 description: Six key principles learned from coding that apply to business: structure, logic, efficiency, automation, independence, and transparency.
 ---
-
 # What coding teached me about business (and vice versa)
 
 1. Structure and generalization brings reusability and clarity

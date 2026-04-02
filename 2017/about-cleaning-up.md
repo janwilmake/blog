@@ -1,10 +1,9 @@
 ---
 date: 2017-05-24
 modified_at: 2017-07-09
-tags: [minimalism, personal-development, travel, digital-nomad, productivity]
+tags: [lifestyle, philosophy, productivity]
 description: A practical guide to decluttering and minimalism learned from traveling in Asia, outlining seven steps to simplify your living space and life by choosing a style, creating transparency, and focusing on experiences over possessions.
 ---
-
 # Jan, clean up your room!
 
 When I was young my mother always asked me to clean up my room. I'ts quite funny

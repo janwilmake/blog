@@ -1,10 +1,9 @@
 ---
 date: 2020-11-18
 modified_at: 2020-11-18
-tags: [philosophy, minimalism]
+tags: [philosophy, productivity]
 description: Inspired by magpies that recycle bottle caps for food, this article envisions a future where animals serve practical purposes like cleaning trash, delivering packages, and performing tasks instead of robots.
 ---
-
 # Living in harmony with animals
 
 Guy Built A Bird Feeder That Accepts Bottle Caps For Food, And These Wild

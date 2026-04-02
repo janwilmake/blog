@@ -1,10 +1,9 @@
 ---
 date: 2017-09-19
 modified_at: 2019-05-21
-tags: [digital-nomad, kitesurfing, productivity, coding, europe]
+tags: [lifestyle, productivity, programming]
 description: Setting up the Nomad Incubator in Tarifa, Spain - a community for software developers and entrepreneurs who share a passion for kitesurfing and coding.
 ---
-
 # EAT CODE KITE REPEAT at the NOMAD INCUBATOR in KITESURF HEAVEN: TARIFA ESPAÑA
 
 EAT CODE KITE REPEAT is the new community I'm setting up, which is aimed at

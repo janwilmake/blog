@@ -1,10 +1,9 @@
 ---
 date: 2018-11-14
 modified_at: 2018-11-15
-tags: [coworking, digital-nomad, entrepreneurship, networking, business, social-media]
+tags: [entrepreneurship, lifestyle, social-media]
 description: An analysis of communication tools in coworking spaces, comparing Slack, Facebook Groups, and LinkedIn, and introducing Communify as a purpose-built platform for fostering local collaboration and community.
 ---
-
 # In search for the perfect Communication App for Co-Working spaces: Slack, Facebook groups, and beyond
 
 After my 6 months’ journey through south-east Asia and Nepal, one thing stuck

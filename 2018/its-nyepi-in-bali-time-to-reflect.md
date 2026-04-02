@@ -1,10 +1,9 @@
 ---
 date: 2018-03-17
 modified_at: 2018-05-21
-tags: [bali, asia, travel, personal-development, habits, productivity, kitesurfing]
+tags: [lifestyle, philosophy, productivity]
 description: A personal reflection on maintaining a disciplined EAT, CODE, KITE, REPEAT routine in Bali, setting ambitious goals for building community software and creating sustainable technology solutions.
 ---
-
 # It's Nyepi in Bali. Time to reflect
 
 It's Saturday, the 17th of March 2018, and I woke up at 5:45 without alarm. It's

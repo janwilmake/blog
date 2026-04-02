@@ -1,10 +1,9 @@
 ---
 date: 2023-12
 draft: false
-tags: [devops, programming, nodejs, web-development]
+tags: [programming]
 description: Chronicles an attempt to create a scalable browser automation API using Bun and Fly.io, exploring the FLAME pattern and analyzing cost structures for AI-powered web scraping.
 ---
-
 # Fly + Bun for browser automation. An unfinished attempt
 
 Some time a go, a friend that works with Elixir told me about this new cloud provider [Fly](https://fly.io). Since I aim to build a scalable AI Platform that often relies on components (e.g. browser automation, dynamic code execution, video editing) that are hard to scale with serverless, it peaked my interest.

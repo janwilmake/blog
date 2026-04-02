@@ -1,10 +1,9 @@
 ---
 date: 2017-06-06
 modified_at: 2017-06-06
-tags: [entrepreneurship, philosophy, personal-development]
+tags: [entrepreneurship, philosophy]
 description: A short poetic reflection on true entrepreneurship inspired by Columbus, emphasizing the importance of taking risks and daring to do what others call stupidity to discover new truths.
 ---
-
 # True Entrepreneurship
 
 Columbus inspires me.

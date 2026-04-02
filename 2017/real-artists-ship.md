@@ -1,10 +1,9 @@
 ---
 date: 2017-11-09
 modified_at: 2018-05-20
-tags: [entrepreneurship, programming, react-native, javascript, shipping, personal-development]
+tags: [entrepreneurship, philosophy, programming]
 description: A reflective look back at 2017 as a year of learning React Native and JavaScript, documenting the journey from ideas and failed projects to finally achieving productive flow and being ready to ship real products.
 ---
-
 # Real artists Ship - A look back at 2017.
 
 I started as an entrepreneur in Januari this year. That's 10 months ago now.

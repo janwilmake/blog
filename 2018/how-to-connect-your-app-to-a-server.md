@@ -1,10 +1,9 @@
 ---
 date: 2018-03-06
 modified_at: 2018-03-06
-tags: [react-native, graphql, apollo, nodejs, devops, programming]
+tags: [programming]
 description: Technical considerations for connecting React Native apps to servers, covering SSL requirements, CloudFlare configuration, error handling, and connection testing strategies.
 ---
-
 # How to connect your app to a server?
 
 > This article is part of a series on building an MVP of a Data-driven

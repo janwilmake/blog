@@ -1,9 +1,8 @@
 ---
 date: 2024-01
-tags: [ai, future-of-work, productivity, philosophy]
+tags: [ai, philosophy, productivity]
 description: Predicts the decline of human utility as AI surpasses knowledge workers in capability, proposing becoming "compute allocators" to stay relevant in an AI-dominated future.
 ---
-
 # Outcomputed
 
 Electricity is becoming increasingly cheap, compute follows this trend as well, plus we're becoming better at making faster and more efficient compute in a exponential way.

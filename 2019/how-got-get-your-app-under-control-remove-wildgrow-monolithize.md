@@ -1,10 +1,9 @@
 ---
 date: 2019-02-24
 modified_at: 2019-03-08
-tags: [programming, react-native, product-development]
+tags: [entrepreneurship, programming]
 description: How to regain control of a clumsy startup codebase by simplifying development ecosystems, using JavaScript only, vertical scaling, and considering monoliths over microservices.
 ---
-
 # How got get your app under control? Remove wildgrow, KISS, monolithize
 
 A lot of startups run out of money and can't take off because they have a very

@@ -1,10 +1,9 @@
 ---
 date: 2019-01-02
 modified_at: 2019-01-03
-tags: [ai, machine-learning, philosophy, future-of-work, technology-critique]
+tags: [ai, philosophy]
 description: A reflection on how AI and machine learning will soon understand us better than we know ourselves, leading to personal AI advisors that could transform decision-making and human behavior.
 ---
-
 # The AI Boom is Near...
 
 Soon the AI Boom will change things in a drastic way. Google, Facebook, Apple,

@@ -1,10 +1,9 @@
 ---
 date: 2018-03-09
 modified_at: 2018-03-13
-tags: [solo-entrepreneur, react-native, apollo, graphql, expo, startup, programming, open-source]
+tags: [entrepreneurship, programming]
 description: An analysis of seven technological and cultural trends making solo app development increasingly viable, from React Native and Apollo GraphQL to open-source libraries and Moore's law.
 ---
-
 # The rise of the Solo Dev Startup — 7 Reasons why writing useful apps on your own becomes moore easy
 
 If a company wants to make an app, they usually hire a UI/UX designer, a backend

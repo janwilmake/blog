@@ -1,10 +1,9 @@
 ---
 date: 2018-03-06
 modified_at: 2019-03-25
-tags: [expo, react-native, programming, devops, dx]
+tags: [programming]
 description: A comprehensive comparison of Expo versus bare React Native and ExpoKit, outlining advantages like build automation and OTA updates, and disadvantages including app size constraints.
 ---
-
 # The Expo Edge - why you should choose Expo over bare React Native
 
 I recommend Expo, because it gives you an edge compared to other ways to create

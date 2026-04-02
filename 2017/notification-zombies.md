@@ -1,10 +1,9 @@
 ---
 date: 2017-06-17
 modified_at: 2017-06-17
-tags: [smartphone, notifications, distractions, productivity, social-media, facebook, instagram]
+tags: [productivity, social-media]
 description: A critique of how notifications turn people into zombies who lose control over their attention, with statistics on smartphone usage and a recommendation to turn off all notifications to reclaim mental freedom.
 ---
-
 # Notification-zombies
 
 This is a follow-up on [my previous article](/2017/smartphone-attention-pollution) about the love-hate

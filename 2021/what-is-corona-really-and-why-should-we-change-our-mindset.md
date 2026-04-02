@@ -1,10 +1,9 @@
 ---
 date: 2021-05-10
 modified_at: 2021-05-19
-tags: [philosophy, personal-development, mindfulness]
+tags: [philosophy, productivity]
 description: A philosophical perspective on the COVID-19 pandemic as a social construct that has accelerated the separation between people, both online through internet bubbles and in real life through safety measures.
 ---
-
 # What is Corona, really, and why should we change our mindset?
 
 Corona is just a made-up thing. So are viruses. If enough people believe you, it

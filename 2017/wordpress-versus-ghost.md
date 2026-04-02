@@ -1,10 +1,9 @@
 ---
 date: 2017-06-15
 modified_at: 2017-06-15
-tags: [wordpress, ghost, web-development, nodejs, programming]
+tags: [programming]
 description: A comprehensive comparison between WordPress and Ghost CMS from a blogger's perspective, arguing that Ghost's modern Node.js architecture makes it superior for serious writers and journalists despite requiring more technical knowledge.
 ---
-
 # WordPress versus Ghost - Read this if you're serious about writing
 
 I've been a struggling WordPress-turtle for a long time. WordPress is an amazing

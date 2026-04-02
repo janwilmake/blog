@@ -1,10 +1,9 @@
 ---
 date: 2017-10-18
 modified_at: 2019-05-20
-tags: [facebook, social-media, smartphone, distractions, technology-critique]
+tags: [philosophy, productivity, social-media]
 description: A critical analysis comparing Facebook's addictive nature to heroin, examining how social media algorithms designed for user retention may be turning people into zombies with shortened attention spans and reduced real-world value.
 ---
-
 # Is Facebook as addictive as Heroin?
 
 [I](/2017/smartphone-attention-pollution) [have](/2017/notification-zombies/) [written](/time-management/) [about](/2017/invisible-elephant-shit/) [this](/2017/the-internet-connects-the-unconnected-but-disconnects-the-connected/)
