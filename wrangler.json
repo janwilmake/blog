@@ -8,7 +8,8 @@
   "vars": {
     "NAME": "Jan Wilmake's Blog",
     "GITHUB": "https://github.com/janwilmake/blog",
-    "X": "https://x.com/janwilmake"
+    "X": "https://x.com/janwilmake",
+    "CONTEXT": "https://uithub.com/janwilmake/blog"
   },
   "routes": [{ "custom_domain": true, "pattern": "blog.janwilmake.com" }]
 }

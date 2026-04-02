@@ -276,7 +276,7 @@ function computeRelatedSlugs(entries, topN = 5) {
 
 // ─── HTML generation ─────────────────────────────────────────────────────────
 
-function htmlTemplate(title, content, config, description, hostname) {
+function htmlTemplate(title, content, config, description, hostname, mdUrl) {
   const blogName = config.NAME || 'Blog';
 
   const metaTags = description
@@ -286,13 +286,20 @@ function htmlTemplate(title, content, config, description, hostname) {
   <meta name="twitter:description" content="${description}">`
     : '';
 
+  const alternateLink = mdUrl
+    ? `\n  <link rel="alternate" type="text/markdown" href="${mdUrl}">`
+    : '';
+
   const chatBtn = hostname
     ? `<a href="https://installthismcp.com/blog-janwilmake-com?url=https://mcp.llmtext.com/${hostname}/mcp" class="chat-btn" target="_blank" rel="noopener noreferrer">Chat with Blog</a>`
     : '';
 
   const navLinks = [];
+  navLinks.push(`<a href="/feed.xml">RSS</a>`);
+  navLinks.push(`<a href="/llms.txt">LLMs.txt</a>`);
   if (config.GITHUB) navLinks.push(`<a href="${config.GITHUB}" target="_blank" rel="noopener noreferrer">GitHub</a>`);
   if (config.X) navLinks.push(`<a href="${config.X}" target="_blank" rel="noopener noreferrer">X</a>`);
+  if (config.CONTEXT) navLinks.push(`<a href="${config.CONTEXT}" target="_blank" rel="noopener noreferrer">context</a>`);
   if (chatBtn) navLinks.push(chatBtn);
   const navHtml = navLinks.join('');
 
@@ -305,7 +312,7 @@ function htmlTemplate(title, content, config, description, hostname) {
   <meta property="og:title" content="${title}">
   <meta name="twitter:title" content="${title}">
   <meta property="og:type" content="article">
-  <meta name="twitter:card" content="summary">${metaTags}
+  <meta name="twitter:card" content="summary">${metaTags}${alternateLink}
   <style>
     :root {
       --font-sans: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
@@ -534,16 +541,13 @@ function generateHomePage(entries, manifest, config, hostname) {
   return htmlTemplate(
     config.NAME || "Blog",
     `
-    <div class="utility-bar">
-      <a href="/feed.xml">RSS</a>
-      <a href="/llms.txt">LLMs.txt</a>
-    </div>
     ${tagsHtml}
     <div class="post-list">${entriesHtml}</div>
   `,
     config,
     undefined,
     hostname,
+    '/index.md',
   );
 }
 
@@ -584,6 +588,7 @@ function generateTagPage(tag, entries, manifest, config, hostname) {
     config,
     undefined,
     hostname,
+    `/tag/${encodeURIComponent(tag)}/index.md`,
   );
 }
 
@@ -677,7 +682,46 @@ async function generateEntryPage(entry, allEntries, config, hostname) {
     config,
     description,
     hostname,
+    `/${entry.slug}.md`,
   );
+}
+
+function generateIndexMd(entries, config, baseUrl) {
+  const sorted = entries
+    .filter((e) => !e.draft && e.date !== null)
+    .sort((a, b) => (b.date || 0) - (a.date || 0));
+
+  const list = sorted
+    .map((entry) => {
+      const date = entry.date ? new Date(entry.date).toLocaleDateString() : '';
+      const link = `${baseUrl}/${entry.slug}.md`;
+      return `- [${entry.title || entry.slug}](${link}): ${date}${entry.description ? ' - ' + entry.description : ''}`;
+    })
+    .join('\n');
+
+  return `# ${config.NAME || 'Blog'}\n\n## Posts\n\n${list}\n`;
+}
+
+function generateTagMd(tag, entries, manifest, config, baseUrl) {
+  const entrySlugs = manifest.tagToEntries[tag];
+  if (!entrySlugs || entrySlugs.length === 0) return null;
+
+  const tagEntries = entries
+    .filter((e) => entrySlugs.includes(e.slug))
+    .filter((e) => !e.draft && e.date !== null)
+    .sort((a, b) => (b.date || 0) - (a.date || 0));
+
+  if (tagEntries.length === 0) return null;
+
+  const list = tagEntries
+    .map((entry) => {
+      const date = entry.date ? new Date(entry.date).toLocaleDateString() : '';
+      const link = `${baseUrl}/${entry.slug}.md`;
+      return `- [${entry.title || entry.slug}](${link}): ${date}${entry.description ? ' - ' + entry.description : ''}`;
+    })
+    .join('\n');
+
+  return `# #${tag} — ${config.NAME || 'Blog'}\n\nPosts tagged with **${tag}**\n\n## Posts\n\n${list}\n`;
 }
 
 function generateFeed(entries, config, baseUrl) {
@@ -773,6 +817,7 @@ async function generateStaticSite(entries, manifest) {
     NAME: wranglerConfig.vars?.NAME || 'Blog',
     GITHUB: wranglerConfig.vars?.GITHUB,
     X: wranglerConfig.vars?.X,
+    CONTEXT: wranglerConfig.vars?.CONTEXT,
   };
   const hostname = wranglerConfig.routes?.[0]?.pattern || '';
   const baseUrl = hostname ? `https://${hostname}` : 'https://localhost';
@@ -822,6 +867,26 @@ async function generateStaticSite(entries, manifest) {
     }
   }
   console.log(`✓ ${entryCount} entry pages`);
+
+  // index.md
+  fs.writeFileSync(
+    path.join(publicDir, 'index.md'),
+    generateIndexMd(entries, config, baseUrl),
+  );
+  console.log('✓ index.md');
+
+  // Tag markdown pages
+  let tagMdCount = 0;
+  for (const tag of Object.keys(manifest.tagToEntries)) {
+    const md = generateTagMd(tag, entries, manifest, config, baseUrl);
+    if (md) {
+      const tagDir = path.join(publicDir, 'tag', encodeURIComponent(tag));
+      fs.mkdirSync(tagDir, { recursive: true });
+      fs.writeFileSync(path.join(tagDir, 'index.md'), md);
+      tagMdCount++;
+    }
+  }
+  console.log(`✓ ${tagMdCount} tag markdown pages`);
 
   // RSS feed
   fs.writeFileSync(
