@@ -183,6 +183,7 @@
       "2022/having-a-clean-mac-setup"
     ],
     "2023": [
+      "2023/agi-decentralised-oversight/index",
       "2023/bun-flame-fly",
       "2023/communify",
       "2023/controllable-immersion",
@@ -191,13 +192,19 @@
       "2023/gpt-classification",
       "2023/immerse-yourself-in-ai",
       "2023/innovateability",
+      "2023/investor-cold-email/index",
       "2023/multi-domain-locale-hack-nextjs",
+      "2023/ocr-pipeline/index",
       "2023/regex-cheatcodes",
       "2023/scrapingbee-gpt/index",
       "2023/social-computing",
       "2023/tailwind-darkmode-issue",
+      "2023/tech-recruiters/index",
       "2023/testAiPlugins",
       "2023/the-single-server-dream",
+      "2023/theory-of-intelligence/index",
+      "2023/tolkie/index",
+      "2023/typescript-jobs/index",
       "2023/voice/llm-voice-calls"
     ],
     "2024": [
@@ -309,10 +316,12 @@
       "2021/the-evolution-revolution",
       "2021/what-is-corona-really-and-why-should-we-change-our-mindset",
       "2021/why-i-like-the-four-seasons-in-the-netherlands",
+      "2023/agi-decentralised-oversight/index",
       "2023/communify",
       "2023/controllable-immersion",
       "2023/innovateability",
       "2023/social-computing",
+      "2023/theory-of-intelligence/index",
       "2024/outcomputed",
       "2024/the-post-smartphone-era",
       "2024/why-are-systems-not-working-together",
@@ -385,6 +394,7 @@
       "2023/communify",
       "2023/controllable-immersion",
       "2023/immerse-yourself-in-ai",
+      "2023/typescript-jobs/index",
       "2024/hardware-screenless",
       "2024/internetless-software-development",
       "2024/outcomputed"
@@ -465,10 +475,12 @@
       "2023/gpt-classification",
       "2023/innovateability",
       "2023/multi-domain-locale-hack-nextjs",
+      "2023/ocr-pipeline/index",
       "2023/regex-cheatcodes",
       "2023/tailwind-darkmode-issue",
       "2023/testAiPlugins",
       "2023/the-single-server-dream",
+      "2023/tolkie/index",
       "2024/connected-repos",
       "2024/hardware-screenless",
       "2024/internetless-software-development",
@@ -541,6 +553,7 @@
       "2021/things-i-learned-making-the-second-version-of-friendtime",
       "2023/immerse-yourself-in-ai",
       "2023/innovateability",
+      "2023/investor-cold-email/index",
       "2024/hardware-screenless",
       "2024/scalable-ideas",
       "2024/why-are-systems-not-working-together",
@@ -552,10 +565,17 @@
       "2017/skynet",
       "2018/how-to-create-a-sustainable-world",
       "2019/ai-boom",
+      "2023/agi-decentralised-oversight/index",
       "2023/gpt-classification",
       "2023/immerse-yourself-in-ai",
+      "2023/investor-cold-email/index",
+      "2023/ocr-pipeline/index",
       "2023/social-computing",
+      "2023/tech-recruiters/index",
       "2023/testAiPlugins",
+      "2023/theory-of-intelligence/index",
+      "2023/tolkie/index",
+      "2023/typescript-jobs/index",
       "2024/hardware-screenless",
       "2024/internetless-software-development",
       "2024/outcomputed",
@@ -586,7 +606,8 @@
       "2019/why-i-cant-quit-facebook",
       "2019/why-i-made-dunbar",
       "2020/what-facebook-should-do",
-      "2023/social-computing"
+      "2023/social-computing",
+      "2023/tech-recruiters/index"
     ]
   },
   "entries": [
@@ -680,8 +701,8 @@
       "relatedSlugs": [
         "2018/pivot-creation-centric-metric-productivity",
         "2017/smartphone-attention-pollution",
-        "2017/what-coding-teaches-me-about-business",
         "2019/scaling-vertically",
+        "2017/what-coding-teaches-me-about-business",
         "2018/the-most-complex-app-i-ever-made-made-it-to-both-app-stores"
       ]
     },
@@ -756,8 +777,8 @@
         "2017/wordpress-versus-ghost",
         "2019/ghost-cloudflare-ssl",
         "2023/the-single-server-dream",
-        "2017/groningen-digital-nomads",
-        "2024/why-are-systems-not-working-together"
+        "2023/tolkie/index",
+        "2017/groningen-digital-nomads"
       ]
     },
     {
@@ -815,7 +836,7 @@
         "2018/its-nyepi-in-bali-time-to-reflect",
         "2017/the-laptop-of-a-nomad",
         "2018/wet-code-and-inline-styles",
-        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day"
+        "2018/high-code-quality"
       ]
     },
     {
@@ -930,8 +951,8 @@
       "relatedSlugs": [
         "2017/counterproductive-behaviors-of-solo-entrepreneurs",
         "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-        "2017/react-native-is-the-future",
         "2017/why-i-write",
+        "2017/react-native-is-the-future",
         "2019/lean-life"
       ]
     },
@@ -1065,8 +1086,8 @@
       ],
       "relatedSlugs": [
         "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
-        "2022/having-a-clean-mac-setup",
         "2018/high-code-quality",
+        "2022/having-a-clean-mac-setup",
         "2024/the-post-smartphone-era",
         "2017/effective-communication"
       ]
@@ -1125,8 +1146,8 @@
       "relatedSlugs": [
         "2017/facebook-heroin",
         "2017/smartphone-attention-pollution",
-        "2020/what-facebook-should-do",
         "2017/justified-dopamine",
+        "2020/what-facebook-should-do",
         "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
       ]
     },
@@ -1258,10 +1279,10 @@
       ],
       "relatedSlugs": [
         "2024/internetless-software-development",
+        "2023/theory-of-intelligence/index",
         "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected",
         "2019/human-directions-a-startup-idea",
-        "2023/scrapingbee-gpt/index",
-        "2019/deep-dream-devs"
+        "2023/scrapingbee-gpt/index"
       ]
     },
     {
@@ -1357,8 +1378,8 @@
         "2024/internetless-software-development",
         "2023/scrapingbee-gpt/index",
         "2017/skynet",
-        "2019/why-i-made-dunbar",
-        "2018/the-dark-side-of-globalization"
+        "2018/the-dark-side-of-globalization",
+        "2019/why-i-made-dunbar"
       ]
     },
     {
@@ -1454,8 +1475,8 @@
         "2017/i-dont-know",
         "2017/the-mcycle",
         "2019/install-an-express-app-on-a-remote-server",
-        "2017/langtang-nepal",
-        "2017/time-effective-travel-lifestyle"
+        "2023/typescript-jobs/index",
+        "2017/langtang-nepal"
       ]
     },
     {
@@ -1475,7 +1496,7 @@
         "2023/immerse-yourself-in-ai",
         "2018/high-code-quality",
         "2021/things-i-learned-making-the-second-version-of-friendtime",
-        "2024/the-post-smartphone-era"
+        "2023/theory-of-intelligence/index"
       ]
     },
     {
@@ -1511,8 +1532,8 @@
       "relatedSlugs": [
         "2018/solo-dev-startup",
         "2017/groningen-digital-nomads",
-        "2017/wordpress-versus-ghost",
         "2017/hawk-view-entrepreneur-needs",
+        "2017/wordpress-versus-ghost",
         "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
       ]
     },
@@ -1589,8 +1610,8 @@
         "programming"
       ],
       "relatedSlugs": [
-        "2026/parallel-role-2026",
         "2018/setting-up-a-graphql-backend-without-graphcool",
+        "2026/parallel-role-2026",
         "2019/how-to-code-more-and-plan-less",
         "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
         "2019/how-i-became-10x-as-productive-within-a-month"
@@ -1612,8 +1633,8 @@
         "2018/notes-of-a-programmer-apollo-store-updates",
         "2019/my-coding-principles",
         "2018/handling-time-on-your-server-using-different-orms-in-node-sequelize-and-mysql2-beware",
-        "2019/how-many-rps-are-possible-without-sharding",
-        "2018/pivot-creation-centric-metric-productivity"
+        "2018/pivot-creation-centric-metric-productivity",
+        "2019/how-many-rps-are-possible-without-sharding"
       ]
     },
     {
@@ -1991,7 +2012,7 @@
         "2018/expo-standalone-publishing",
         "2018/should-you-go-web-or-native",
         "2018/the-mvp-challenge",
-        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app"
+        "2017/react-native-is-the-future"
       ]
     },
     {
@@ -2422,8 +2443,8 @@
       ],
       "relatedSlugs": [
         "2019/poc-within-a-week",
-        "2019/migrating-to-expo",
         "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2019/migrating-to-expo",
         "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
         "2021/quit-job"
       ]
@@ -2500,7 +2521,7 @@
         "2020/what-facebook-should-do",
         "2017/facebook-heroin",
         "2018/networking-coworking",
-        "2017/effective-communication"
+        "2023/tech-recruiters/index"
       ]
     },
     {
@@ -2516,8 +2537,8 @@
       ],
       "relatedSlugs": [
         "2023/social-computing",
-        "2017/reverting-global-warming",
         "2019/human-network-explosion",
+        "2017/reverting-global-warming",
         "2024/why-i-wont-join-your-startup",
         "2019/big-reason-to-use-react-navigation-over-wix-navigation"
       ]
@@ -2536,9 +2557,9 @@
       "relatedSlugs": [
         "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
         "2023/social-computing",
+        "2023/tech-recruiters/index",
         "2019/human-directions-a-startup-idea",
-        "2019/ai-boom",
-        "2019/why-i-made-dunbar"
+        "2019/ai-boom"
       ]
     },
     {
@@ -2594,8 +2615,8 @@
         "2018/setting-up-a-graphql-backend-without-graphcool",
         "2018/how-to-connect-your-app-to-a-server",
         "2018/expo-standalone-publishing",
-        "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought",
-        "2023/the-single-server-dream"
+        "2023/typescript-jobs/index",
+        "2018/creating-a-performant-graphql-server-node-is-harder-than-i-thought"
       ]
     },
     {
@@ -2688,8 +2709,8 @@
         "2017/i-dont-know",
         "2019/screentime-update-april-2019",
         "2021/quit-job",
-        "2017/hawk-view-entrepreneur-needs",
-        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next"
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
+        "2017/hawk-view-entrepreneur-needs"
       ]
     },
     {
@@ -2726,8 +2747,8 @@
         "2019/today-i-open-sourced-nearly-20-of-my-codebase",
         "2019/the-dis-advantages-of-making-your-app-invite-only",
         "2025/LLMTEXT-for-llmstxt",
-        "2021/low-barrier-blockchain-job-platform",
-        "2019/i-just-made-an-app-in-26-hours"
+        "2023/agi-decentralised-oversight/index",
+        "2021/low-barrier-blockchain-job-platform"
       ]
     },
     {
@@ -2742,8 +2763,8 @@
         "productivity"
       ],
       "relatedSlugs": [
-        "2021/expanding-at-the-speed-of-light",
         "2017/react-native-is-the-future",
+        "2021/expanding-at-the-speed-of-light",
         "2018/the-expo-edge",
         "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
         "2018/should-you-go-web-or-native"
@@ -2966,9 +2987,9 @@
       "relatedSlugs": [
         "2019/human-directions-a-startup-idea",
         "2026/parallel-role-2026",
+        "2024/why-i-wont-join-your-startup",
         "2018/should-you-go-web-or-native",
-        "2019/perfections-vs-speed",
-        "2024/why-i-wont-join-your-startup"
+        "2019/perfections-vs-speed"
       ]
     },
     {
@@ -2983,11 +3004,11 @@
         "productivity"
       ],
       "relatedSlugs": [
+        "2023/theory-of-intelligence/index",
         "2023/the-single-server-dream",
         "2018/how-to-create-a-sustainable-world",
         "2021/the-evolution-revolution",
-        "2021/expanding-at-the-speed-of-light",
-        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone"
+        "2021/expanding-at-the-speed-of-light"
       ]
     },
     {
@@ -3004,9 +3025,9 @@
       "relatedSlugs": [
         "2019/open-source-advantages",
         "2017/drop-whatsapp-save-40-minutes",
-        "2025/LLMTEXT-for-llmstxt",
         "2019/perfections-vs-speed",
-        "2022/having-a-clean-mac-setup"
+        "2025/LLMTEXT-for-llmstxt",
+        "2023/agi-decentralised-oversight/index"
       ]
     },
     {
@@ -3059,10 +3080,10 @@
       ],
       "relatedSlugs": [
         "2019/human-network-explosion",
+        "2023/tech-recruiters/index",
         "2017/real-artists-ship",
         "2018/the-dark-side-of-globalization",
-        "2023/social-computing",
-        "2017/justified-dopamine"
+        "2023/social-computing"
       ]
     },
     {
@@ -3173,11 +3194,11 @@
         "productivity"
       ],
       "relatedSlugs": [
-        "2019/seven-mistakes-react-native-app",
         "2018/how-to-connect-your-app-to-a-server",
+        "2019/seven-mistakes-react-native-app",
         "2017/nomadic-entrepreneurs-reduce-carbon-footprint",
         "2023/controllable-immersion",
-        "2020/what-facebook-should-do"
+        "2017/drop-whatsapp-save-40-minutes"
       ]
     },
     {
@@ -3233,8 +3254,8 @@
         "2019/why-i-cant-quit-facebook",
         "2017/facebook-heroin",
         "2018/networking-coworking",
-        "2019/seven-mistakes-react-native-app",
-        "2017/react-native-is-the-future"
+        "2017/react-native-is-the-future",
+        "2019/seven-mistakes-react-native-app"
       ]
     },
     {
@@ -3325,8 +3346,8 @@
       "relatedSlugs": [
         "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
         "2017/hawk-view-entrepreneur-needs",
-        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
         "2019/why-i-think-two-startups-is-better-than-one",
+        "2019/my-food-goals-of-2019-eat-more-paleo-ecological-and-dont-go-to-the-supermarket-every-day",
         "2019/how-i-became-10x-as-productive-within-a-month"
       ]
     },
@@ -3427,6 +3448,25 @@
     },
     {
       "draft": false,
+      "slug": "2023/agi-decentralised-oversight/index",
+      "date": 1698105600000,
+      "contentType": "markdown",
+      "title": "A Blueprint for AGI: Bridging the Gap Between Open and Closed Systems",
+      "description": "Proposes decentralized oversight as a third way between open and closed AGI, where users and their nearest communities keep AGI use transparent and can intervene against misuse.",
+      "tags": [
+        "ai",
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2024/why-are-systems-not-working-together",
+        "2019/open-source-advantages",
+        "2019/today-i-open-sourced-nearly-20-of-my-codebase",
+        "2023/theory-of-intelligence/index",
+        "2023/innovateability"
+      ]
+    },
+    {
+      "draft": false,
       "slug": "2023/bun-flame-fly",
       "date": 1701388800000,
       "contentType": "markdown",
@@ -3457,8 +3497,8 @@
       "relatedSlugs": [
         "2018/networking-coworking",
         "2017/perfect-travel",
-        "2019/human-directions-a-startup-idea",
         "2017/purpose",
+        "2019/human-directions-a-startup-idea",
         "2023/innovateability"
       ]
     },
@@ -3478,7 +3518,7 @@
         "2023/social-computing",
         "2020/know-thyself-but-how",
         "2019/seven-mistakes-react-native-app",
-        "2017/nomadic-entrepreneurs-reduce-carbon-footprint"
+        "2020/what-facebook-should-do"
       ]
     },
     {
@@ -3531,9 +3571,9 @@
       "relatedSlugs": [
         "2023/scrapingbee-gpt/index",
         "2023/testAiPlugins",
+        "2023/tech-recruiters/index",
         "2019/hashtag-to-anything",
-        "2017/time-management",
-        "2024/scalable-ideas"
+        "2017/time-management"
       ]
     },
     {
@@ -3553,7 +3593,7 @@
         "2021/the-evolution-revolution",
         "2019/why-i-think-two-startups-is-better-than-one",
         "2018/how-to-connect-your-app-to-a-server",
-        "2024/the-post-smartphone-era"
+        "2023/theory-of-intelligence/index"
       ]
     },
     {
@@ -3572,8 +3612,27 @@
         "2023/communify",
         "2019/changing-reachability-to-increase-productivity",
         "2017/purpose",
-        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters",
-        "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
+        "2023/agi-decentralised-oversight/index",
+        "2017/be-here-now-flow-zone-alignment-energy-levels-nothing-else-matters"
+      ]
+    },
+    {
+      "draft": false,
+      "slug": "2023/investor-cold-email/index",
+      "date": 1696636800000,
+      "contentType": "markdown",
+      "title": "Cold emailing suitable investors",
+      "description": "Shows how I filtered a dataset of 2000+ GenAI investors and used ActionSchema and GPT to write each suitable investor a personalised cold email.",
+      "tags": [
+        "ai",
+        "entrepreneurship"
+      ],
+      "relatedSlugs": [
+        "2023/tolkie/index",
+        "2023/tech-recruiters/index",
+        "2023/typescript-jobs/index",
+        "2023/immerse-yourself-in-ai",
+        "2017/entrepreneurship"
       ]
     },
     {
@@ -3591,7 +3650,26 @@
         "2023/the-single-server-dream",
         "2019/about-single-tasking-and-window-setup",
         "2017/working-offline",
-        "2019/convince-freelance-projects-part-time"
+        "2023/ocr-pipeline/index"
+      ]
+    },
+    {
+      "draft": false,
+      "slug": "2023/ocr-pipeline/index",
+      "date": 1703808000000,
+      "contentType": "markdown",
+      "title": "Turning old texts into audiobooks with talking heads",
+      "description": "A quick proof of concept that turns pages of old public-domain books into narrated videos with a talking-head version of the author.",
+      "tags": [
+        "ai",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2023/domain-control-panel",
+        "2023/multi-domain-locale-hack-nextjs",
+        "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
+        "2021/things-i-learned-making-the-second-version-of-friendtime"
       ]
     },
     {
@@ -3623,8 +3701,8 @@
       "relatedSlugs": [
         "2023/testAiPlugins",
         "2023/gpt-classification",
+        "2023/tech-recruiters/index",
         "2024/internetless-software-development",
-        "2019/seven-mistakes-react-native-app",
         "2017/the-internet-connects-the-unconnected-but-disconnects-the-connected"
       ]
     },
@@ -3668,6 +3746,25 @@
     },
     {
       "draft": false,
+      "slug": "2023/tech-recruiters/index",
+      "date": 1698019200000,
+      "contentType": "markdown",
+      "title": "Leveraging ChatGPT, DuxSoup and ActionSchema to send message all recruiters in my personal LinkedIn network",
+      "description": "How I combined ChatGPT, DuxSoup and ActionSchema to identify and message every tech recruiter in my personal LinkedIn network.",
+      "tags": [
+        "ai",
+        "social-media"
+      ],
+      "relatedSlugs": [
+        "2019/human-network-explosion",
+        "2023/scrapingbee-gpt/index",
+        "2019/what-would-a-social-network-thats-actually-good-for-humanity-look-like",
+        "2023/gpt-classification",
+        "2023/testAiPlugins"
+      ]
+    },
+    {
+      "draft": false,
       "slug": "2023/testAiPlugins",
       "date": 1672531200000,
       "contentType": "markdown",
@@ -3681,8 +3778,8 @@
         "2023/scrapingbee-gpt/index",
         "2023/gpt-classification",
         "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app",
-        "2018/how-to-connect-your-app-to-a-server",
-        "2019/poc-within-a-week"
+        "2023/tech-recruiters/index",
+        "2018/how-to-connect-your-app-to-a-server"
       ]
     },
     {
@@ -3701,6 +3798,63 @@
         "2019/the-ultimate-equilibrium",
         "2018/how-to-connect-your-app-to-a-server",
         "2017/digital-ocean-and-ghost-fast-cms"
+      ]
+    },
+    {
+      "draft": false,
+      "slug": "2023/theory-of-intelligence/index",
+      "date": 1695168000000,
+      "contentType": "markdown",
+      "title": "Theory of Intelligence",
+      "description": "Frames intelligence as an algorithm that creates meaning out of chaos, argues that a business is a form of intelligence, and sketches what that means for building AGI with LLMs.",
+      "tags": [
+        "ai",
+        "philosophy"
+      ],
+      "relatedSlugs": [
+        "2019/the-ultimate-equilibrium",
+        "2017/skynet",
+        "2023/agi-decentralised-oversight/index",
+        "2023/communify",
+        "2017/what-coding-teaches-me-about-business"
+      ]
+    },
+    {
+      "draft": false,
+      "slug": "2023/tolkie/index",
+      "date": 1701388800000,
+      "contentType": "markdown",
+      "title": "How Tolkie used ActionSchema to generate beautiful graphics for low-literate website understanding",
+      "description": "Case study of a pilot with Tolkie, using ActionSchema to compare prompts and models for generating simplified definitions and word images for low-literate readers.",
+      "tags": [
+        "ai",
+        "programming"
+      ],
+      "relatedSlugs": [
+        "2017/digital-ocean-and-ghost-fast-cms",
+        "2023/tech-recruiters/index",
+        "2022/having-a-clean-mac-setup",
+        "2023/investor-cold-email/index",
+        "2019/my-coding-principles"
+      ]
+    },
+    {
+      "draft": false,
+      "slug": "2023/typescript-jobs/index",
+      "date": 1696636800000,
+      "contentType": "markdown",
+      "title": "Writing 285 amazing cover letters while hunting for remote jobs",
+      "description": "Walks through using ActionSchema and GPT to find remote TypeScript jobs and write 285 tailored cover letters in bulk.",
+      "tags": [
+        "ai",
+        "productivity"
+      ],
+      "relatedSlugs": [
+        "2019/install-an-express-app-on-a-remote-server",
+        "2017/why-i-write",
+        "2017/wordpress-versus-ghost",
+        "2020/dev-lifecycle",
+        "2018/solo-dev-startup"
       ]
     },
     {
@@ -3815,7 +3969,7 @@
         "2023/domain-control-panel",
         "2023/bun-flame-fly",
         "2017/time-management",
-        "2025/LLMTEXT-for-llmstxt"
+        "2023/gpt-classification"
       ]
     },
     {
@@ -3852,11 +4006,11 @@
         "programming"
       ],
       "relatedSlugs": [
-        "2017/digital-ocean-and-ghost-fast-cms",
-        "2023/innovateability",
+        "2023/agi-decentralised-oversight/index",
         "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
-        "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living",
-        "2019/why-i-made-dunbar"
+        "2023/innovateability",
+        "2017/digital-ocean-and-ghost-fast-cms",
+        "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living"
       ]
     },
     {
@@ -3894,7 +4048,7 @@
         "2019/today-i-open-sourced-nearly-20-of-my-codebase",
         "2019/i-just-made-an-app-in-26-hours",
         "2024/the-post-smartphone-era",
-        "2024/scalable-ideas"
+        "2023/agi-decentralised-oversight/index"
       ]
     },
     {
