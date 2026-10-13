@@ -14,11 +14,13 @@
   "allTags": [
     "ai",
     "entrepreneurship",
+    "future",
     "lifestyle",
     "philosophy",
     "productivity",
     "programming",
-    "social-media"
+    "social-media",
+    "voice"
   ],
   "tagToEntries": {
     "2017": [
@@ -223,7 +225,8 @@
       "2025/making-a-continuous-audio-playlist-for-thgttg"
     ],
     "2026": [
-      "2026/parallel-role-2026"
+      "2026/parallel-role-2026",
+      "2026/talking-our-way-out-of-reading-and-writing"
     ],
     "lifestyle": [
       "2017/about-cleaning-up",
@@ -584,7 +587,8 @@
       "2024/why-are-systems-not-working-together",
       "2025/LLMTEXT-for-llmstxt",
       "2025/ai-inference-dx-design",
-      "2026/parallel-role-2026"
+      "2026/parallel-role-2026",
+      "2026/talking-our-way-out-of-reading-and-writing"
     ],
     "social-media": [
       "2017/distractions",
@@ -608,6 +612,12 @@
       "2020/what-facebook-should-do",
       "2023/social-computing",
       "2023/tech-recruiters/index"
+    ],
+    "voice": [
+      "2026/talking-our-way-out-of-reading-and-writing"
+    ],
+    "future": [
+      "2026/talking-our-way-out-of-reading-and-writing"
     ]
   },
   "entries": [
@@ -1378,8 +1388,8 @@
         "2024/internetless-software-development",
         "2023/scrapingbee-gpt/index",
         "2017/skynet",
-        "2018/the-dark-side-of-globalization",
-        "2019/why-i-made-dunbar"
+        "2019/why-i-made-dunbar",
+        "2018/the-dark-side-of-globalization"
       ]
     },
     {
@@ -1531,9 +1541,9 @@
       ],
       "relatedSlugs": [
         "2018/solo-dev-startup",
+        "2026/talking-our-way-out-of-reading-and-writing",
         "2017/groningen-digital-nomads",
         "2017/hawk-view-entrepreneur-needs",
-        "2017/wordpress-versus-ghost",
         "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs"
       ]
     },
@@ -1571,8 +1581,8 @@
         "2017/digital-ocean-and-ghost-fast-cms",
         "2019/ghost-cloudflare-ssl",
         "2017/why-i-write",
-        "2019/qualitative-versus-quantitative-scaling-in-your-startup",
-        "2018/solo-dev-startup"
+        "2026/talking-our-way-out-of-reading-and-writing",
+        "2019/qualitative-versus-quantitative-scaling-in-your-startup"
       ]
     },
     {
@@ -2012,7 +2022,7 @@
         "2018/expo-standalone-publishing",
         "2018/should-you-go-web-or-native",
         "2018/the-mvp-challenge",
-        "2017/react-native-is-the-future"
+        "2019/what-is-the-best-way-to-test-new-features-in-your-react-native-app"
       ]
     },
     {
@@ -2597,8 +2607,8 @@
         "2019/deep-dream-devs",
         "2017/react-native-is-the-future",
         "2017/cycling-through-your-life-part-iv-the-cycle-of-the-future-towards-grown-concsiousness",
-        "2021/the-evolution-revolution",
-        "2024/outcomputed"
+        "2026/talking-our-way-out-of-reading-and-writing",
+        "2021/the-evolution-revolution"
       ]
     },
     {
@@ -2951,8 +2961,8 @@
       "relatedSlugs": [
         "2017/smartphone-attention-pollution",
         "2017/purpose",
-        "2023/voice/llm-voice-calls",
         "2017/some-apps-i-like",
+        "2023/voice/llm-voice-calls",
         "2019/the-dis-advantages-of-making-your-app-invite-only"
       ]
     },
@@ -2987,9 +2997,9 @@
       "relatedSlugs": [
         "2019/human-directions-a-startup-idea",
         "2026/parallel-role-2026",
-        "2024/why-i-wont-join-your-startup",
         "2018/should-you-go-web-or-native",
-        "2019/perfections-vs-speed"
+        "2019/perfections-vs-speed",
+        "2024/why-i-wont-join-your-startup"
       ]
     },
     {
@@ -3665,11 +3675,11 @@
         "programming"
       ],
       "relatedSlugs": [
+        "2026/talking-our-way-out-of-reading-and-writing",
         "2023/domain-control-panel",
         "2023/multi-domain-locale-hack-nextjs",
         "2019/how-to-scrape-public-information-linkedin-facebook-twitter",
-        "2017/counterproductive-behaviors-of-solo-entrepreneurs",
-        "2021/things-i-learned-making-the-second-version-of-friendtime"
+        "2017/counterproductive-behaviors-of-solo-entrepreneurs"
       ]
     },
     {
@@ -3851,10 +3861,10 @@
       ],
       "relatedSlugs": [
         "2019/install-an-express-app-on-a-remote-server",
+        "2026/talking-our-way-out-of-reading-and-writing",
         "2017/why-i-write",
-        "2017/wordpress-versus-ghost",
         "2020/dev-lifecycle",
-        "2018/solo-dev-startup"
+        "2017/wordpress-versus-ghost"
       ]
     },
     {
@@ -3866,11 +3876,11 @@
       "description": "",
       "tags": [],
       "relatedSlugs": [
+        "2026/talking-our-way-out-of-reading-and-writing",
         "2024/hardware-screenless",
         "2019/the-new-hackers",
         "2024/the-post-smartphone-era",
-        "2019/forcing-your-app-users-to-update-the-app",
-        "2019/how-i-became-10x-as-productive-within-a-month"
+        "2019/forcing-your-app-users-to-update-the-app"
       ]
     },
     {
@@ -3906,10 +3916,10 @@
       ],
       "relatedSlugs": [
         "2023/voice/llm-voice-calls",
-        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
         "2019/about-single-tasking-and-window-setup",
-        "2024/the-post-smartphone-era",
-        "2024/outcomputed"
+        "2020/experiment-237-save-30-hours-a-week-by-eliminating-the-need-for-the-smartphone",
+        "2026/talking-our-way-out-of-reading-and-writing",
+        "2024/the-post-smartphone-era"
       ]
     },
     {
@@ -3946,8 +3956,8 @@
       ],
       "relatedSlugs": [
         "2019/human-directions-a-startup-idea",
-        "2017/react-native-is-the-future",
         "2023/social-computing",
+        "2017/react-native-is-the-future",
         "2019/human-network-explosion",
         "2019/i-saw-the-future-in-detail"
       ]
@@ -4007,8 +4017,8 @@
       ],
       "relatedSlugs": [
         "2023/agi-decentralised-oversight/index",
-        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
         "2023/innovateability",
+        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next",
         "2017/digital-ocean-and-ghost-fast-cms",
         "2019/fighting-housing-crises-and-loneliness-with-cheap-community-living"
       ]
@@ -4029,7 +4039,7 @@
         "2019/human-directions-a-startup-idea",
         "2019/qualitative-versus-quantitative-scaling-in-your-startup",
         "2017/why-openness-from-day-one-is-so-damn-important-for-solo-entrepreneurs",
-        "2018/why-i-went-to-bali-and-why-i-dont-know-where-im-going-next"
+        "2018/solo-dev-startup"
       ]
     },
     {
@@ -4099,6 +4109,26 @@
         "2019/the-saas-stages-funnel",
         "2025/LLMTEXT-for-llmstxt",
         "2017/real-artists-ship"
+      ]
+    },
+    {
+      "draft": false,
+      "slug": "2026/talking-our-way-out-of-reading-and-writing",
+      "date": 1791936000000,
+      "contentType": "markdown",
+      "title": "Talking our way out of reading and writing",
+      "description": "Now that computers can listen and speak, do we still need reading and writing? A thought on why text might be a local optimum we could climb out of, over generations.",
+      "tags": [
+        "ai",
+        "voice",
+        "future"
+      ],
+      "relatedSlugs": [
+        "2017/why-i-write",
+        "2023/ocr-pipeline/index",
+        "2017/wordpress-versus-ghost",
+        "2018/solo-dev-startup",
+        "2023/typescript-jobs/index"
       ]
     }
   ]
