@@ -11,6 +11,12 @@ It's interesting to zoom out. For about 50 years, we could only read and write t
 
 So we've had reading and writing for 5,000 years, and now we have computers that might remove the need for it. They might let us go back to that older way of communicating without losing the advantages reading and writing gave us.
 
+## Not a new idea
+
+While thinking this through, I found that Walter Ong described something like it in *Orality and Literacy* (1982). He argued that writing didn't just store our thoughts, it changed how we think. And he coined the term *secondary orality* for a return to spoken culture through technology. He was thinking of radio and television. I think AI that can actually listen is the real thing.
+
+And it goes back much further. In Plato's *Phaedrus*, Socrates argues *against* writing. He says it will weaken memory, and that written words are like paintings: they look alive, but if you ask them a question, they stay silent. We've spent 2,400 years proving him wrong, or at least proving that the trade was worth it.
+
 ## What reading and writing gave us
 
 Writing brought a lot to the human race that animals never had:
@@ -66,7 +72,9 @@ They do, still. Young people text instead of calling. But I'd argue that's becau
 
 That's 100% true. But we're not animals that only communicate through audio. We're visual animals too, and we have touch. Those should be part of the interface as well, and computers can use visuals to make very good interfaces. It just doesn't need to be text.
 
-So tables, diagrams, images and other visuals will definitely stay. But I don't think that's really reading. Addresses are hard to say out loud now, but better AIs will handle that easily. Code, I don't think will stay. Tables are the interesting one: you can look things up in them much more easily than you could by listening. I'd like to think more about that. Maths, I don't know yet. I haven't thought it through.
+So tables, diagrams, images and other visuals will definitely stay. But I don't think that's really reading. Addresses are hard to say out loud now, but better AIs will handle that easily. Tables are the interesting one: you can look things up in them much more easily than you could by listening. I'd like to think more about that.
+
+Code and maths are a different story. I think they'll be used very rarely by humans in the future, because computers will do them behind the scenes to give us the right experience. The interface with humans can just be talking, without us needing to know how to do maths or code.
 
 ### "Some people find it easier to write than to talk"
 
@@ -79,3 +87,5 @@ But if it's true, getting out of this local optimum is much harder than it looks
 ## A hundred years
 
 Still, I can imagine it. Maybe it takes decades, maybe a hundred years. But once computers have a truly human-like interface (speaking, listening, making the noises we make), we might go back to that same interface, and stop reading and writing altogether. We'd keep the visuals, but lose the text.
+
+Socrates' real complaint about writing was that it can't answer back. For the first time, the thing that holds our knowledge can.
